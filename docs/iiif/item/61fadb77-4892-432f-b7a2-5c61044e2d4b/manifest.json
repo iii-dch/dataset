@@ -1,0 +1,147 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/61fadb77-4892-432f-b7a2-5c61044e2d4b/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "新聞興信所報 2206号",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "新聞興信所報 2206号"
+        },
+        {
+            "label": "資料ID",
+            "value": "SKS9-19360325"
+        },
+        {
+            "label": "出版社",
+            "value": "新聞興信所"
+        },
+        {
+            "label": "号数",
+            "value": "2206"
+        },
+        {
+            "label": "サイズ",
+            "value": "531×395"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/53514"
+        },
+        {
+            "label": "Identifier",
+            "value": "61fadb77-4892-432f-b7a2-5c61044e2d4b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/61fadb77-4892-432f-b7a2-5c61044e2d4b",
+    "seeAlso": "https://iii-dch.github.io/dataset/ld/61fadb77-4892-432f-b7a2-5c61044e2d4b.json",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 7297,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/canvas/p1",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0076.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7297,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0076.tif",
+                                    "height": 7297,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "width": 4870
+                                },
+                                "width": 4870
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0076.tif/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0076.tif",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 4870
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 7297,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/61fadb77-4892-432f-b7a2-5c61044e2d4b/canvas/p2",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0077.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7297,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0077.tif",
+                                    "height": 7297,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "width": 4870
+                                },
+                                "width": 4870
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "2",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0077.tif/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0077.tif",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 4870
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS9_TIFF/SKS9_0076.tif/full/200,200/0/default.jpg",
+    "viewingDirection": "right-to-left"
+}

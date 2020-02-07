@@ -1,0 +1,198 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/3ba33b1c-4aea-410e-8265-140e6caf0237.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "SKS3-19330223",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "1582",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1933‐02‐23",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "386×270",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3ba33b1c-4aea-410e-8265-140e6caf0237",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "新聞興信所",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/3ba33b1c-4aea-410e-8265-140e6caf0237",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "新聞興信所報 1582号",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS3_TIFF/SKS3_0228.tif/full/200,200/0/default.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T04:01:55+00:00"
+    },
+    "o:id": 56708,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61212",
+            "o:id": 61212
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58870",
+            "o:id": 58870
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58871",
+            "o:id": 58871
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58872",
+            "o:id": 58872
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58893",
+            "o:id": 58893
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-31T03:47:08+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/53514",
+            "display_title": "新聞興信所報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 53514,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56708",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:viewingDirection": [
+        {
+            "@id": "http://iiif.io/api/presentation/2#rightToLeftDirection",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "viewingDirection",
+            "type": "uri"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/3ba33b1c-4aea-410e-8265-140e6caf0237/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

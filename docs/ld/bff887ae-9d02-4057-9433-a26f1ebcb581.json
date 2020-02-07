@@ -1,0 +1,226 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/bff887ae-9d02-4057-9433-a26f1ebcb581.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:price": [
+        {
+            "@value": "85",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1951-02-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "内容小見出（附録）／収録話名: 扉・今月の言葉　中原淳一; 六色口絵銀世界　松本かつぢ; グラビアの頁; アメリカへ行く尾崎茂雄さん／オペレッタのできるまで／銀嶺の少年スキーヤー／思い出のアルバム（貝谷八百子さん）／少女のワンピースとオーバーコート／少女のお部屋は陽当りのよいお縁側に; 宝塚の頁; 宝塚の人たちは芸塾バです。; 赤いダンスシューズの少女は千草薫さん; 詩　雪の日　壺田花子; 高井貞二（画）; □草　広瀬良子詩・作曲; 鈴木悦郎画; 連載小説; 萬葉姉妹（2）; 川端康成; 玉井徳太郎画; 虹を描く少女（2）; 川上喜久子; 高井貞二画; 名の無い物語（7）; サトウハチロー; 黒崎義介・画; 小さいねえやさん（2）; 街夕記子; 岡部冬彦画; 影絵物語; 椿姫; 高英男; 中原淳一画; 宝塚物語; 友情はま白き花のこと; 葦原邦子; 不破俊子画; 短篇小説; 花とハンカチーフ; 大田洋子; 三枝順画; ピンクの花の色あせて; 笹沢美明; 長沢節画; 童話; ある音符たちのさすらい; 中島光子; 松本かつぢ画; みだしなみせくしよん; 中原淳一; 読者; 坂上の家; 山本敦子; 中村ちひろ画; 小説; 百貨店のお客さま; 中川あい; 目白房子画; 今月の読書; 村岡花子; 「キヤンプ・ファイヤーガールズ読本」; 「愛唱讃美歌百選」; 「ロビンソン・クルウソウ」; 「英語の手紙を書きましょう」; 海外通信（新しい学校案内）; 横山百合子; 洋裁ノート（冬の下着）; 細谷愛子; 詩 雪のコーラス; 萩原七重; 手芸（かべかけ人形の作り方／セブンブックスの作り方）; 水野正夫; ひまわり女学生新用語辞典; 街夕記子; エンジョイ・エクレール・オシアシ・オカジ・オタンチン・オタンコナス・オーソリティ・オメダマ・オークル・オカジューキ・オキヤン・オドルカミサマ・オールボア他; ひまわり知識の泉; 横山百合子; 地位教室（家でのおてつだいについてのコラム）; ひまわりゆうもあせくしよん; とじこみマンガ; ひまわりマリちゃん; 杉浦幸雄; Comic Feace花束; 塩田英二郎; ひとこまマンガ; お年玉・矢崎武子; 手練 清浦ちずこ; スケート上達法 山下紀一郎; ナーンダ 森田成男; そばかすカズちゃん 平井房人; ヒヨコちゃん 京極林子; その他 三木鮎郎・門川美子代・榎その子; ひまわり読者文芸; 表紙 中原淳一; 写真 東正治; カット 鈴木悦郎・水野正夫・岡部冬彦・佐藤ひろ子",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "発行人: 中原啓一",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "編集人: 中原淳一",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "本誌（付録）／掲載誌（単行本）: 本誌; ひまわり二月号（毎月一日発行）第5巻第2号",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　他社: キスミーホホ紅（ほほべに）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: カラー; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "料紙色; 材質: 有（一部みどり）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 黒; 赤; その他（茶・灰・オレンジ）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "頁数: 128",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "備考: 別冊付録ひまわりお手紙セット",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "256×181×8",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "bff887ae-9d02-4057-9433-a26f1ebcb581",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "ひまわり社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/bff887ae-9d02-4057-9433-a26f1ebcb581",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "ひまわり",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/104.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:47+00:00"
+    },
+    "o:id": 61169,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-31T03:40:54+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "uterms:sort": [
+        {
+            "@value": "OI104",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

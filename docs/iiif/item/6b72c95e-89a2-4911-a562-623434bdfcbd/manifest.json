@@ -45,7 +45,7 @@
         }
     ],
     "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/6b72c95e-89a2-4911-a562-623434bdfcbd",
-    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/56435",
+    "seeAlso": "https://iii-dch.github.io/dataset/ld/6b72c95e-89a2-4911-a562-623434bdfcbd.json",
     "sequences": [
         {
             "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/6b72c95e-89a2-4911-a562-623434bdfcbd/sequence/normal",

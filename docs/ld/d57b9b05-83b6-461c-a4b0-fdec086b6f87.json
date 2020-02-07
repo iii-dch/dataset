@@ -1,0 +1,262 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/d57b9b05-83b6-461c-a4b0-fdec086b6f87.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:95 資料No.1060",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d57b9b05-83b6-461c-a4b0-fdec086b6f87",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/d57b9b05-83b6-461c-a4b0-fdec086b6f87",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmt3FIbbdweZoK64%EF%BC%8FEWsh%EF%BC%8B0f",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:95 資料No.1060",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "1059参照 ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1979年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:一恵斎芳幾 彫師:",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "87歳の老婆恋煩いで寝込む(読み下し文_括弧なし:三十振袖四十島田夫れにも／ましたる一奇話ハ三千年も若／かりし彼の浦島に因ある／神奈川県下小倉村に／素麺屋源兵衛が養／母おたきハ今年／八十七なれど／元来浮気／の性にして／今に／二上り三下り湯上り粧ふ白粉の／恋にへだてはなきとても弥助と言／る職人といつしか露と寝たといふ／アレ寝ぬといふ風説が主人の耳／に入しかバ世間の口を留んと／弥助へ暇を遣りしかバ夫より／おたきは恋煩ひ明暮弥助の噂のミ大声／揚て言ふ物から／狐憑の障碍／と家内一統／ここの御祈祷／かしこの窺ひ／されどしるしも／なき巳ならず身／体次第に衰へて／やや骸骨の如く／なりしと )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "錦昇堂",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0095-1060",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/29136/1333099087055.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:59+00:00"
+    },
+    "o:id": 29136,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33622",
+            "o:id": 33622
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:32:02+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29136",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/d57b9b05-83b6-461c-a4b0-fdec086b6f87/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

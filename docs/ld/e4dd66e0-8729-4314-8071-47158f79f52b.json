@@ -1,0 +1,214 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/e4dd66e0-8729-4314-8071-47158f79f52b.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:price": [
+        {
+            "@value": "50",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "今村つとむ",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "内容小見出（附録）／収録話名: 釣りあげた巻物; フック先生; 隠密; 五日間の命; 人参の効力; はらきり無用",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "発行人: 田中貫行",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "状態: 左下角よごれ",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: カラー; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 青; 赤; 緑; 紫; その他（オレンジ）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "頁数: 60",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "自由記述: 背表紙記さいなし",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "125×180×8",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e4dd66e0-8729-4314-8071-47158f79f52b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "富士見出版社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/e4dd66e0-8729-4314-8071-47158f79f52b",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "こっけい巻物騒動",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "コミック",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/059.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:45+00:00"
+    },
+    "o:id": 61124,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-31T03:40:52+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "uterms:sort": [
+        {
+            "@value": "OI059",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

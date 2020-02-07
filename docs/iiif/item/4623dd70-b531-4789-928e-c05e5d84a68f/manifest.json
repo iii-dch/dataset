@@ -1,0 +1,72 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/4623dd70-b531-4789-928e-c05e5d84a68f/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "description": "プロレスまんが",
+    "label": "横綱レスラー東富士",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "横綱レスラー東富士"
+        },
+        {
+            "label": "Identifier",
+            "value": "4623dd70-b531-4789-928e-c05e5d84a68f"
+        },
+        {
+            "label": "Sort",
+            "value": "OI078"
+        },
+        {
+            "label": "Type",
+            "value": [
+                "コミック",
+                "付録"
+            ]
+        },
+        {
+            "label": "Creator",
+            "value": "前谷惟光"
+        },
+        {
+            "label": "Publisher",
+            "value": "少年画報社"
+        },
+        {
+            "label": "Date",
+            "value": "1955-10-01"
+        },
+        {
+            "label": "Publication Volume",
+            "value": "8"
+        },
+        {
+            "label": "Number",
+            "value": "10"
+        },
+        {
+            "label": "Extent",
+            "value": "182×126×9"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/61064"
+        }
+    ],
+    "seeAlso": "https://iii-dch.github.io/dataset/ld/4623dd70-b531-4789-928e-c05e5d84a68f.json",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4623dd70-b531-4789-928e-c05e5d84a68f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

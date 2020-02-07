@@ -1,0 +1,295 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/5378259d-2457-46fb-920c-2ef563fd6863.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:number": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 290,
+            "property_label": "Number",
+            "type": "literal"
+        }
+    ],
+    "dcndl:price": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcndl:publicationVolume": [
+        {
+            "@value": "8",
+            "is_public": true,
+            "property_id": 292,
+            "property_label": "Publication Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1956-01-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "家中みんなでたのしめる",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "発行人: なし",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "編集人: なし",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "本誌（付録）／掲載誌（単行本）: おもしろブック新年特大号ふろく",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "初版発行年月日: \n",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　自社: 集英社; おもしろブック; その他",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　他社: なし",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "状態: 良",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: カラー; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "料紙色; 材質: 有（うす茶）; 中",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 青; 赤; 紫",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "装丁: 並",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "頁数: 50",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "版型: B6",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "自由記述: ☆はりきり正月; ☆びっくりゲーム; ①数字の工作; ②魔法のコップ; 力くらべで勝つには; ④できたらえらい！！; ⑤早口レース; ⑥ごいしひろい; ☆ゆかいゲーム; ①マッチプロレス; ②マッチ射撃大会; ③動物園のひっこし; ④ひょっとこピンポン; ⑤でんべい食いレース; ⑥五円玉おとし; ⑦お猿のおしり; ⑧片手片足ずもう; ☆みんなでたのしめるゲーム; ①大きなチョウチン小さなチョウチン; ②すき？……きらい？; ③やけどしりとり; ④紙ふきレース; ⑤みかんつり; ⑥作文あそび; ⑦とぼけくらべ; ⑧文字さがし; ⑨目を白黒ゲーム; ⑩アイス・ホッケー; ⑪めくらゲーム; ⑫舌くらべ; ⑬ものしり選手権大会; ⑭加藤清正あそび; ⑮つまみぐいレース; ⑯お茶をどうぞ; ⑰お茶わんまわし; ⑱さいほうレース; ⑲ごちそう競争; ⑳席とりあそび; ㉑タコとイカ; ㉒つなひきあそび; ㉓電話あそび; ㉔さよならゲーム; ㉕かみなりあそび; ☆まわりことば; ☆大笑い大会; 背　正月ゲームブック　おもしろブック新年特大号ふろく",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "180×127×5",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5378259d-2457-46fb-920c-2ef563fd6863",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5378259d-2457-46fb-920c-2ef563fd6863",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "正月ゲームブック",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/134.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:48+00:00"
+    },
+    "o:id": 61199,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-31T03:40:54+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "uterms:sort": [
+        {
+            "@value": "OI134",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

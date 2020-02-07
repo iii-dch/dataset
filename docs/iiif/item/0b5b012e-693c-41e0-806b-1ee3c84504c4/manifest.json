@@ -1,0 +1,152 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/0b5b012e-693c-41e0-806b-1ee3c84504c4/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "（助手辞令）∽3_4_7_2_2",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "（助手辞令）∽3_4_7_2_2"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "//"
+        },
+        {
+            "label": "資料ID",
+            "value": "3_4_7_2_2"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "3"
+        },
+        {
+            "label": "概要-群",
+            "value": "4"
+        },
+        {
+            "label": "概要-体",
+            "value": "7"
+        },
+        {
+            "label": "概要-部",
+            "value": "2"
+        },
+        {
+            "label": "概要-枝",
+            "value": "2"
+        },
+        {
+            "label": "概要-名称",
+            "value": "（助手辞令）"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "228"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "308"
+        },
+        {
+            "label": "概要-物的状態-縦",
+            "value": "228"
+        },
+        {
+            "label": "概要-物的状態-横",
+            "value": "79"
+        },
+        {
+            "label": "概要-物的状態-返",
+            "value": "反"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "180"
+        },
+        {
+            "label": "概要-物的状態-折",
+            "value": "二つ以上他"
+        },
+        {
+            "label": "概要-物的状態-面",
+            "value": "最右"
+        },
+        {
+            "label": "情報入力",
+            "value": "大島"
+        },
+        {
+            "label": "情報分析",
+            "value": "大島"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "自由記述媒体"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "11証書（賞･証書･証明書･履歴書）"
+        },
+        {
+            "label": "内容記述",
+            "value": "坪井正五郎の「理科大学助手ヲ命ジ月給金弐拾五圓給與 帝国大学」と書かれた給与支払い状。"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "調査年月日",
+            "value": "2005/02/16"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/17616"
+        },
+        {
+            "label": "sort",
+            "value": "0003-0004-0007-0002-0002"
+        },
+        {
+            "label": "Identifier",
+            "value": "0b5b012e-693c-41e0-806b-1ee3c84504c4"
+        }
+    ],
+    "seeAlso": "https://iii-dch.github.io/dataset/ld/0b5b012e-693c-41e0-806b-1ee3c84504c4.json",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/0b5b012e-693c-41e0-806b-1ee3c84504c4/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

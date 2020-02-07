@@ -127,34 +127,12 @@
             "value": "983d1e8b-40f9-4d60-b273-14b145fb6a47"
         }
     ],
+    "seeAlso": "https://iii-dch.github.io/dataset/ld/983d1e8b-40f9-4d60-b273-14b145fb6a47.json",
     "sequences": [
         {
             "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/983d1e8b-40f9-4d60-b273-14b145fb6a47/sequence/normal",
             "@type": "sc:Sequence",
-            "canvases": [
-                {
-                    "@id": "/iiif/ixif-message/canvas/c1",
-                    "@type": "sc:Canvas",
-                    "height": 200,
-                    "images": [
-                        {
-                            "@id": "/iiif/ixif-message/imageanno/placeholder",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "on": "/iiif/ixif-message/canvas/c1",
-                            "resource": {
-                                "@id": "/iiif/ixif-message-0/res/placeholder",
-                                "@type": "dctypes:Image",
-                                "height": 200,
-                                "width": 200
-                            }
-                        }
-                    ],
-                    "label": "Placeholder image",
-                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
-                    "width": 200
-                }
-            ],
+            "canvases": [],
             "compatibilityHint": "displayIfContentUnsupported",
             "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
         }
