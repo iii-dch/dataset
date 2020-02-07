@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/145",
+    "@type": "o:Property",
+    "o:comment": "The family name of some person.",
+    "o:id": 145,
+    "o:label": "familyName",
+    "o:local_name": "familyName",
+    "o:term": "foaf:familyName",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

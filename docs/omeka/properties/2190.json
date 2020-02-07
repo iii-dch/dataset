@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2190",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2190,
+    "o:label": "データファイル情報-データファイル目録言語-言語1（L1-007）",
+    "o:local_name": "l1-007",
+    "o:term": "ex:l1-007",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

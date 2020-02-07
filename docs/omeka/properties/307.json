@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/307",
+    "@type": "o:Property",
+    "o:comment": "Alternativeの読み又は翻字形",
+    "o:id": 307,
+    "o:label": "Alternative Transcription",
+    "o:local_name": "alternativeTranscription",
+    "o:term": "dcndl:alternativeTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

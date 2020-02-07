@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2838",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2838,
+    "o:label": "sort",
+    "o:local_name": "sort",
+    "o:term": "ex:sort",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/57830",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/NSKS2_TIFF/NSKS2_0361.tif",
+        "height": 7297,
+        "profile": [
+            "http://iiif.io/api/image/2/level1.json",
+            {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [
+                    "native",
+                    "color",
+                    "gray"
+                ],
+                "supports": [
+                    "regionByPct",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "sizeAboveFull",
+                    "rotationBy90s",
+                    "mirroring",
+                    "gray"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 80,
+                "width": 53
+            },
+            {
+                "height": 160,
+                "width": 107
+            },
+            {
+                "height": 57,
+                "width": 38
+            },
+            {
+                "height": 114,
+                "width": 76
+            },
+            {
+                "height": 228,
+                "width": 152
+            },
+            {
+                "height": 456,
+                "width": 304
+            },
+            {
+                "height": 912,
+                "width": 608
+            },
+            {
+                "height": 1824,
+                "width": 1217
+            },
+            {
+                "height": 3648,
+                "width": 2435
+            }
+        ],
+        "tiles": [
+            {
+                "height": 256,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64,
+                    128,
+                    256,
+                    512
+                ],
+                "width": 256
+            }
+        ],
+        "width": 4870
+    },
+    "dcterms:title": [
+        {
+            "@value": "2",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T06:03:19+00:00"
+    },
+    "o:filename": "d884f4081f4bda3bdab0211696698817efbc4342",
+    "o:id": 57830,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56285",
+        "o:id": 56285
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T06:03:19+00:00"
+    },
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/NSKS2_TIFF/NSKS2_0361.tif/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/d884f4081f4bda3bdab0211696698817efbc4342.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/d884f4081f4bda3bdab0211696698817efbc4342.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/d884f4081f4bda3bdab0211696698817efbc4342.jpg"
+    }
+}

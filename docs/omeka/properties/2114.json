@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2114",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2114,
+    "o:label": "権利関係‐権利者（FILE-103）",
+    "o:local_name": "file-103",
+    "o:term": "ex:file-103",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

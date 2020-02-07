@@ -1,0 +1,50 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3671",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "2面",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T15:13:54+00:00"
+    },
+    "o:filename": "1838/nihonkeorimonoshimpo2_0225.jpg",
+    "o:id": 3671,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/1838",
+        "o:id": 1838
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T15:13:54+00:00"
+    },
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/1838/nihonkeorimonoshimpo2_0225.jpg",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d7aaadc45e0d0cce2b3ae811468b28dd45833aac7a2cbce7037b57b5a3715051",
+    "o:size": null,
+    "o:source": "https://webpark5032.sakura.ne.jp/tmp/NKS/nihonkeorimonoshimpo2_0225.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/1838/nihonkeorimonoshimpo2_0225.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/1838/nihonkeorimonoshimpo2_0225.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/1838/nihonkeorimonoshimpo2_0225.jpg"
+    }
+}

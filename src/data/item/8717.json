@@ -1,0 +1,344 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8717",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "200",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1918",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ffb35d01-b45f-48a9-920c-9eec6c5acfc9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/ffb35d01-b45f-48a9-920c-9eec6c5acfc9",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmu3gmlt6CfnxudzAFGnX4rf",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "元老院　元老院議長アントナン・デュボス、ならびに外務大臣ステファン・ピションの演説∽200",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "告知／声明",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "1色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "元老院　元老院議長アントナン・デュボス、ならびに外務大臣ステファン・ピションの演説",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "995",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "656",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Republique FrancaiseLiberte ・Egalite - FraterniteSENATExtrait du Proces-Verbal de la Seance du Jeudi 7 Novembre 1918DISCOURS de M . Antonin DUBOSTPresident du Senat et de M. Stephen PICHONMinistre des Affaires Etangeres.Hommage aux Allies VictorieuxDISCOURS DE M .LE PRESIDENT DU SENATM. le President.- Mes chers collegues, deux de nos Allies, l'Italie et la Serbie, viennent de conquerir a la pointe de l'epee une partie de leurs frontieres legitimes et naturells. L'Italie s'etait rangee a nos cotes alors que nous representions le Droit plus que la Force. Aujourd'hui, le Droit et la Force reunis lui restituent, apres des siecles de separation, ses terres et ses fils irredents ; la France, encore violee et douloureuse, salue son bonheur et ses victoires d'un cﾅ砥r fraternel. (Applaudissements prolonges.) La Serbie, de l'abime de misere ou elle etait plongee, surgit, en une chevauchee epique, a la gloire et a la liberte. (Nouveaux applaudissements.) Petit peuple, dont la grandeur passe desormais celle des empires qui voulaient l'abattre, c'est du meme cﾅ砥r que nous saluons sa joie et sa resurrection! (Vifs applaudissements). Et, maintenant, pour l'Italie, pour la Serbie, pour tous les Allies, la guerre continue. Elle continuera  jusqu’a ce qu'ils aient obtenu la securite totale dont ils ont besoin, (Tres bien!) les garanties necessares a defense de la liberte et de la civilisation! (Applaudissements unanimes et repetes.)Discours De M. Le Ministre Des Affaires Etrangeres M. Stephen Pichon, ministre des Affaires etrangeres. ・Je demande la parole. M. le President. ・La parole est a M. le Ministre des Affaires etrangeres.  M. Stephen Pichon, ministre des Affaires etrangeres. ・Ainsi qu'il l’a fait a la Chambre, le Gouvernement s'associe, au Senat, aux eloquentes paroles qui ont ete prononcees par le president de l'Assemblee. La Serbie rentree dans sa capitale, ayant integralement reconquis son territoire apres des combats ou son armee s'est mise au premier rang des vainqueurs ; (Tres bien et applaudissements). La Grece ・la Grece gouvernee par Venizelos (vifs applaudissements) ・redevenue maitresse des terres qui lui appartiennent, definitivement delivree du joug intolerable et deshonorant de l'Allemagne, ayant inscrit une nouvelle page de gloire dans ses annales par l'admirable participation de ses troupes a la campagne contre l'ennemi qu’elle avait deja vaincu il y a cinq ans ; (Tres bien! tres bien!) L'Italie poursuivant, avec la collaboration fraternelle de ses  compagnons d'armes de Magenta et de Solferino, l'achevement du reve des restaurateurs de son unite detruite et chassant  des terres irredentes l'Autriche defaite et en decomposition ; (Tres bien! et applaudissements.) La Belgique ・la glorieuse Belgique (Vifs applaudissements) ・victime de l'un des crimes les plus ignominieux de l'histoire, (Nouveaux applaudissements) reprenant chaque jour, sous la conduite de son roi, une part du sol qui lui avait ete vole (Tres bien!) et qu'elle retrouve dans un amoncellement de decombres, mais plus libre et avec des habitants plus fiers, plus intrepides et plus jaloux que jamais de leur complete independance : La Turquie ramenee par la force aux traditions de la politique qui avait fait sa grandeur passee et dont l'abandon aux mains de ses dominateurs allemands a cause sa decheance : (Tres bien!) Les nationalites qui turent demembrees au temps ou, pour emprunter le mot de Bismarck, c'est-a-dire de l'un des grands vaincus de cette guerre, (Vifs applaudissements) la force primait le droit, ces nationalites voyant, apres des siecles d'oppression, renaitre leur liberte, leur souverainete et leur antique puissance : La Boheme, la Pologne, la Yougo-Slavie (Tres bien! et applaudissements), prenant place a cote de nous et de nos Allies dans la grande famille des nations libres, dans la ligue des peuples formee pour assurer le salut de la civilisation et pour la preserver a tout jamais des retours de la barbarie : (Tres bien! tres bien!) Les parlementaires allemands en route pour le front de France, ou ils entendront le Chef francais des armees alliees, accompagne du Representant naval de la Grande-Bretagne, leur communiquer les conditions de l'armistice que l'allemagne nous a sollicites de lui accorder : (Tres bien!) Voila les resultats acquis des foudroyantes victoires remportees par les Allies depuis pres de quartre mois sur tous leurs fronts de bataille. (Vifs applaudissements.) Ce n'est pas la paix, ce n'en est que l'aurore, mais c'est une aurore lumineuse qui annonce au monde, pour une heure qui ne saurait etre bien lointaine, apres les sombres jours que nous avons traverses dans le sang et les ruines, des jours de reparation, de justice et de fraternite. (Nouveaux applaudissements.) Honneur a ceux qui les ont prepares, messieurs honneur a nos Allies a qui nous les devrons pour une grande part. Honneur a nos armees de terre et de mer... (Applaudissements prolonges. ・Les membres de la Haute Assemblee se levent et acclament longuement les paroles de M. le Ministre des Affaires etrangeres.) M. de Lamarzelle ・Vive le marechal Foch ! M. Henry Berenger. ・Vivent les poilus ! M. Dominique Delahaye. ・Et vive Clemenceau.(Tres bien ! tres bien !) M. le Ministre des Affaires etrangeres. - ... Honneur a nos armees de terre et de mer qui ont depasse en valeur et en heroisme tout ce que connaissait notre histoire, pourtant si feconde en imperissables souvenirs de gloire militaire, dont la tradition renoue dans une eclatante victoire, reparatrice des deuils et des douleurs de la Patrie, non plus pour d'ephemeres conquetes, mais pour le triomphe eternel du droit et pour le bien commun de l'humanite. (Acclamations prolongees. ・L’Assemblee entiere se leve et salue M. le Ministre des Affaires etrangeres d'applaudissements unanimes.) Le Senat ordonne ensuite l'impression et l'affichage d'un extrait du Proces-Verbal de la Seance contenant les discours de M. Antonin Dubost, President du Senat et de M. Stephen Pichon, Ministre des Affaires Etrangeres.Pour extrait conforme :Le President du Senat,Amtonin DUBOST.（フランス共和国／自由・平等・博愛／／元老院／／1918年11月7日木曜日の議会の議事録からの抜粋／／元老院　元老院議長アントナン・デュボス、ならびに外務大臣ステファン・ピションの演説／／勝利を収めた同盟国に対する敬意、／／議長を始め、同僚のみなさん、われわれの同盟国であるイタリアとセルビアが剣によってかれらの合法かつ自然な国境の一部を回復するに至りました。／　われわれが表していたのは、力ではなく法でありましたが、イタリアはわれわれの側に加わりました。今日、法と力が合わさることで、何世紀にも及ぶ分離の後、失われていた領土と子息が回復されたのです。フランスは、いまだ侵略され、苦境にありますが、同胞の幸福と勝利を称えるものであります。／（長い拍手）／　セルビアは、かの国が陥っていた悲惨の極みから、勇壮な騎士として、名誉と自由をもって復活しました。（改めて拍手）小国の国民であれ、その偉大さはいまや侵略を試みた帝国を上回りましたが、われわれはかれらの喜びと復活を同じ気持ちで称えるものであります！（熱烈な拍手）／　そして、イタリアとセルビア、全ての同盟国にとって、戦争が続いております。この戦争は、必要としている全き安全と（「そうだ」という掛け声）、自由と文明の防衛に必要な保証が手にはいるまで継続されるでしょう。（満場一致の、鳴りやまない拍手）／／外務大臣の演説／／外務大臣、ステファン・ピション：発言をもとめます。／議長：外務大臣は発言をどうぞ。／外務大臣、ステファン・ピション：国民議会が行ったのと同様に、元老院においても政府は国民議会議長の雄弁な発言に連帯を致します。／　首都に帰還したセルビアは、彼らの軍隊が勝者の第一列に加わった戦いの後、全領土を回復しました（「そうだ」という掛け声と共に、拍手）。／　ギリシア、ヴェニゼロスに統治されたギリシアは、自らに属する領土の支配者と改めてなり、ドイツの承伏しがたく、不名誉な軛からこれを最後に解放されました。そして、既に五年前に打ち倒した敵に対する戦闘に軍隊が参加したことにより、みずからの歴史に名誉な一頁を書き加えたのです（「そうだ、そうだ」の掛け声）。／　イタリアは、マジェンタとソルフェリーノの戦闘に友軍として加わることで、破壊された統一の再興の夢の完成を継続し、敗れ去り、壊滅状態にあるオーストリアを失地から追放した（「そうだ」の掛け声と拍手）。／　ベルギー、名誉あるベルギー（盛大な拍手）は、歴史上もっとも卑劣な犯罪の犠牲となりましたが、王の導きのもと、奪われた土地を日々回復し、今は瓦礫の中にありますが、その土地はより自由であり、より誇りを持ち、勇敢で、完全なる独立を熱望する国民とともにあります。／　トルコは、軍事力により、かつてその偉大さをなしていた政治の伝統に立ち返りましたが、ドイツによる支配の手に落ちることがその失墜の原因となったのでした（「そうだ」の掛け声）。／　ビスマルク、つまりこの戦争の敗者の一人の辞を借りれば（盛大な拍手）、力が法に勝っていた時代には引き裂かれていた諸国家は、数世紀にもわたる抑圧の後、自由・主権・かつての力が再生するのを見たのです。／　ボヘミア、ポーランド、ユーゴスラビア（「そうだ」の掛け声と拍手）は、われわれ、およびわれわれの同盟国とともに、自由な国家の系譜、文明の安寧を確かにし、野蛮の回帰から永遠に守るための諸国民の連盟に加わりました（「そうだ、そうだ」の掛け声）。／　フランスとの前線への途上にあるドイツの議員たちは、そこでイギリス海軍の代表者に伴われた、同盟軍のフランス人指導者が、ドイツがわれわれに懇願した休戦の条件を申し渡されることになるでしょう（「そうだ」）。／　以上が、同盟軍が四ヶ月に垂んとする間に全ての前線で勝ち取った電光石火の勝利の結果である（盛大な拍手）。／　それは平和ではなく、曙光でしかありません。しかし、それは遠くない未来に、血と荒廃のなかでわれわれが耐えてきた暗い年月に続いて、復興・正義・博愛の日の訪れを世界に対して告げ報せる曙光なのです（改めて拍手）。／　この準備を行ってきた人々、われわれが多くを負っている同盟軍に誉れあれ。われわれの陸軍・海軍に誉れあれ（鳴りやまない拍手。国民議会の議員は立ち上がり、外務大臣の演説を長く称える）。／　ド・ラマルゼル：フォッシュ将軍、万歳！／　アンリ・ベランジェ：兵士たち、万歳！／　ドミニック・ドラエ：クレマンソー、万歳！（「そうだ、そうだ」の掛け声）／　外務省大臣：軍事的栄光の不滅の記憶に満ちているにもかかわらず、その価値と英雄性において歴史上われわれが知るあらゆるものを上回ったわれわれの陸軍・海軍に誉れあれ。伝統は、祖国の喪失と辛苦を回復する輝かしい勝利において、つかの間の征服ではなく、永遠の法の勝利と人類共通の善のために、続いていくでしょう（鳴りやまない賞賛。全議員が立ち上がり、外務大臣を全会一致の賞賛で迎える）。／／　元老院は、アントナン・デュボスト元老院議長と、ステファン・ピション外務大臣の演説を含んだ議事録の抜粋の印刷・掲示を命じた。／／元老院議長、アントナン・デュボスト）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8717/1332747879135.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:03+00:00"
+    },
+    "o:id": 8717,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29848",
+            "o:id": 29848
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-13T12:20:10+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8717",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/ffb35d01-b45f-48a9-920c-9eec6c5acfc9/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

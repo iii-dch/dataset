@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/339",
+    "@type": "o:Property",
+    "o:comment": "A human-readable name for the subject.",
+    "o:id": 339,
+    "o:label": "label",
+    "o:local_name": "label",
+    "o:term": "rdfs:label",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

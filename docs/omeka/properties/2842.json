@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2842",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the link to TAPAS Project.",
+    "o:id": 2842,
+    "o:label": "Link to TAPAS Project",
+    "o:local_name": "linkToTapas",
+    "o:term": "uterms:linkToTapas",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/21",
+        "o:id": 21
+    }
+}

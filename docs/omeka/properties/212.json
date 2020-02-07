@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/212",
+    "@type": "o:Property",
+    "o:comment": "Custodial History",
+    "o:id": 212,
+    "o:label": "Custodial History",
+    "o:local_name": "custodialHistory",
+    "o:term": "archiveshub:custodialHistory",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

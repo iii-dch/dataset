@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/233",
+    "@type": "o:Property",
+    "o:comment": "The title of a person who is the focus of the concept",
+    "o:id": 233,
+    "o:label": "Title",
+    "o:local_name": "title",
+    "o:term": "archiveshub:title",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

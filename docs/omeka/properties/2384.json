@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2384",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2384,
+    "o:label": "現物資料の展示場所（L6-084）",
+    "o:local_name": "l6-084",
+    "o:term": "ex:l6-084",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

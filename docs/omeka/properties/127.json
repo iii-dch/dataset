@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/127",
+    "@type": "o:Property",
+    "o:comment": "A checksum for the DNA of some thing. Joke.",
+    "o:id": 127,
+    "o:label": "DNA checksum",
+    "o:local_name": "dnaChecksum",
+    "o:term": "foaf:dnaChecksum",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

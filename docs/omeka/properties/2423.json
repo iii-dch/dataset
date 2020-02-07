@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2423",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2423,
+    "o:label": "概要_副題（CUSTOM_00047）",
+    "o:local_name": "custom_00047",
+    "o:term": "ex:custom_00047",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

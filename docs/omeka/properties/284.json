@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/284",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の初号から終号までの巻次及び年月次",
+    "o:id": 284,
+    "o:label": "Volume Range",
+    "o:local_name": "volumeRange",
+    "o:term": "dcndl:volumeRange",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

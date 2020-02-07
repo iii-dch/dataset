@@ -1,0 +1,35 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53467",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "小野秀雄研究資料Ｇ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:24:16+00:00"
+    },
+    "o:id": 53467,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items?item_set_id=53467"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:24:16+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null
+}

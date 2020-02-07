@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2138",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2138,
+    "o:label": "バックアップ責任者（FILE-127）",
+    "o:local_name": "file-127",
+    "o:term": "ex:file-127",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

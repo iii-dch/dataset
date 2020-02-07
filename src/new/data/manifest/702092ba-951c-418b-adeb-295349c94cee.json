@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "我らの町を助け、栄誉の旗を掲げよう∽587",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "我らの町を助け、栄誉の旗を掲げよう∽587"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1918"
+        },
+        {
+            "label": "資料ID",
+            "value": "587"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "我らの町を助け、栄誉の旗を掲げよう"
+        },
+        {
+            "label": "概要-作成",
+            "value": "-"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "684"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "498"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Help our town win this flag.Honor Flag4th Liberty LoanHonor Roll of Subscribers1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1 7 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 69 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100（我らの町を助け、栄誉の旗を掲げようこの旗を掲げよ旗を称えよ　第4回自由公債　栄誉の購入者名簿）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:Edwards &amp; Deutsch Litho. Co., Chicago"
+        },
+        {
+            "label": "内容分類",
+            "value": "募債"
+        },
+        {
+            "label": "制作国",
+            "value": "アメリカ"
+        },
+        {
+            "label": "クライアント",
+            "value": "-"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "描画石版"
+        },
+        {
+            "label": "版式備考",
+            "value": "網伏せ"
+        },
+        {
+            "label": "色数",
+            "value": "2色  "
+        },
+        {
+            "label": "色名",
+            "value": "赤、藍"
+        },
+        {
+            "label": "Identifier",
+            "value": "702092ba-951c-418b-adeb-295349c94cee"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsRYDQ2mCtgTEXnrLenejTm"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/702092ba-951c-418b-adeb-295349c94cee",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/8423",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/702092ba-951c-418b-adeb-295349c94cee/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/8423/1332747989611.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 648
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8423/1332747989611.jpg"
+                    },
+                    "width": 648
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/8423/1332747989611.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

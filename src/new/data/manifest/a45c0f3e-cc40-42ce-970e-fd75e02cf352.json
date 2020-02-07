@@ -1,0 +1,182 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a45c0f3e-cc40-42ce-970e-fd75e02cf352/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "小野秀雄関係資料",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "小野秀雄関係資料"
+        },
+        {
+            "label": "記述レベル",
+            "value": "フォンド"
+        },
+        {
+            "label": "所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "収蔵資料情報-資料収蔵機関内部組織名",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "収蔵資料情報-資料収蔵機関住所-〒",
+            "value": "113-0033"
+        },
+        {
+            "label": "収蔵資料情報-資料収蔵機関住所-住所",
+            "value": "東京都文京区本郷7－3－1"
+        },
+        {
+            "label": "収蔵資料情報-資料収蔵機関住所-URL",
+            "value": "http://www.center.iii.u-tokyo.ac.jp/"
+        },
+        {
+            "label": "出所",
+            "value": "旧小野秀雄邸"
+        },
+        {
+            "label": "作成者",
+            "value": "小野秀雄"
+        },
+        {
+            "label": "名称-日本語名",
+            "value": "小野秀雄関係資料"
+        },
+        {
+            "label": "名称-英文",
+            "value": "Materials related to ONO Hideo"
+        },
+        {
+            "label": "名称-年代",
+            "value": "江戸時代から1970年代"
+        },
+        {
+            "label": "資料群についての要約",
+            "value": "新聞学の祖である小野秀雄が作成・収集した研究資料"
+        },
+        {
+            "label": "保存場所",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター/図書室"
+        },
+        {
+            "label": "資料の選別・処理",
+            "value": "小野秀雄邸において資料を選別の上、東京大学新聞研究所に移管。詳細な選別評価基準については不明。"
+        },
+        {
+            "label": "出所の履歴-タイトル",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降"
+        },
+        {
+            "label": "履歴・組織歴-出所の記事年代-略年表等記事年代1",
+            "value": "1970年代後半"
+        },
+        {
+            "label": "履歴・組織歴-出所の記事年代-略年表等記事1",
+            "value": "小野秀雄邸より旧新聞研究所に移管"
+        },
+        {
+            "label": "履歴・組織歴-出所の記事年代-略年表等記事年代2",
+            "value": "2007年以降"
+        },
+        {
+            "label": "履歴・組織歴-出所の記事年代-略年表等記事2",
+            "value": "図書室/社会情報研究資料センターにて再配置"
+        },
+        {
+            "label": "範囲と内容-概要",
+            "value": "新聞学の祖である小野秀雄が作成・収集した研究資料。主に1860年代（幕末）から1970年代までに成立した資料によって構成される。"
+        },
+        {
+            "label": "編成-概要",
+            "value": "資料群全体は、フォンド、サブフォンド、シリーズ、アイテムの四階層によって構成されている。「小野秀雄関係資料目録（フォンド）」の下位階層は、「小野秀雄研究資料（サブフォンド）」と「小野秀雄コレクション（サブフォンド）」によって構成されている。「小野秀雄研究資料（サブフォンド）」の下位階層は、収蔵されていたロッカーごとに割り当てられたシリーズによって構成されている。各シリーズの下位の階層には、本目録で収録されている複数のアイテムが存在する。"
+        },
+        {
+            "label": "管理情報-利用制限-現物資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-利用制限-デジタル公開データ資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-利用制限-デジタルマスターデータ資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-使用制限-現物資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-使用制限-デジタル公開データ資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-使用制限-デジタルマスターデータ資料利用条件",
+            "value": "「東京大学大学院情報学環附属社会情報資料センター利用規定」及び「東京大学大学院情報学環附属社会情報研究資料センター規則」に従う。"
+        },
+        {
+            "label": "管理情報-望ましい資料引用形式-概要",
+            "value": "所蔵機関名前と資料ＩＤを記載"
+        },
+        {
+            "label": "管理情報-受入に関する情報-概要",
+            "value": "1977(昭和52)年の小野秀雄氏の死去後、小野家より東京大学新聞研究所に移管され、図書室にて保管される。"
+        },
+        {
+            "label": "管理情報-他の検索手段-概要",
+            "value": "社会情報研究資料センター『小野秀雄関係資料目録』"
+        },
+        {
+            "label": "管理情報-関連文献-概要",
+            "value": "『回想　小野秀雄先生夫妻』、『新聞研究五十年』『ニュースの誕生』"
+        },
+        {
+            "label": "Identifier",
+            "value": "a45c0f3e-cc40-42ce-970e-fd75e02cf352"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a45c0f3e-cc40-42ce-970e-fd75e02cf352/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

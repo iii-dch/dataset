@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/241",
+    "@type": "o:Property",
+    "o:comment": "A number of files",
+    "o:id": 241,
+    "o:label": "File",
+    "o:local_name": "file",
+    "o:term": "archiveshub:file",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

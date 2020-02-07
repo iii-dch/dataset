@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2153",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2153,
+    "o:label": "編集者情報-担当範囲（FILE-143）",
+    "o:local_name": "file-143",
+    "o:term": "ex:file-143",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

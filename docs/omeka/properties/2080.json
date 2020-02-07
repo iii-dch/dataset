@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2080",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2080,
+    "o:label": "範囲と内容-概要（L3-028）",
+    "o:local_name": "l3-028",
+    "o:term": "ex:l3-028",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

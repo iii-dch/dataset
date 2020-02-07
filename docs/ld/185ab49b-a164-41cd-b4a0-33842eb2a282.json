@@ -1,0 +1,298 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/185ab49b-a164-41cd-b4a0-33842eb2a282.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "009",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1834",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "185ab49b-a164-41cd-b4a0-33842eb2a282",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/185ab49b-a164-41cd-b4a0-33842eb2a282",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvI0zIPkSmP8AunfxazV0uw",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "出火場所方角付∽009",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\r\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "出火場所方角付",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "天保",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "中村 ",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "頃は天保五申午年二月七日昼八ツ時頃外神田佐久間町／弐丁目より出火して折節西北風はげしく和泉橋近辺松永丁／佐久間丁より飛火ニて柳原土手丁松下丁九軒丁佐野様御屋敷／夫より龍閑丁鎌倉横丁久右衛門丁代地弁慶橋松枝丁冨永丁辺／石原様大沢様市橋下総守様御屋敷尾玉ケ池横瀬駿河守様並ニ／高橋様其外之御屋敷数多紺屋丁新土手より白銀丁三丁目四丁目／大伝馬塩町鉄砲丁小伝馬丁牢御屋敷石出帯刀様其外町家不残／亦一口は豊島丁細川長門守様御屋敷大和丁江川丁元岩井丁亀井丁／橋本丁小伝馬上町附木店馬喰丁壱町目弐丁目此辺平一面に三丁目／四丁目片かわ並ニ馬場御郡代屋敷焼のこる夫より横山丁三丁目角／両国吉川丁片かわのこる同広小路見せ物小屋両国御橋焼のこる橘丁／四丁同朋町村松丁久松丁浜丁矢ノ倉此辺平一面夫より小笠原様並ニ／津軽様船越様牧野様一ツ橋様御屋敷是より飛火ニて新大橋焼落る／浜丁水野壱岐守様牧野遠江守様永井様安藤様此辺之御屋敷数多／御類焼亦一口は本石丁鐘堂並ニ本丁三町目より四丁目大伝馬町通旅／篭丁大丸や呉服店焼る大門通田所丁長谷川丁富沢丁人形丁／辺平一面堺丁葺屋丁両芝居人形座まて不残焼る並芳丁大坂丁／竃河岸かきから町銀座御屋敷甚左衛門丁親父橋焼落る稲荷坂松平／越中守様安藤対馬守様酒井雅楽頭様御中屋敷並ニ奥山様戸田様／本多肥後守様小野様林肥後守様中屋敷松平玄蕃頭様上屋敷戸田近江守様／酒井出雲守様尾州様紀州様御蔵屋鋪焼ル永久橋のこる戸田／采女正様松平和泉守様久世隠岐守様御中屋敷箱崎丁南新堀並ニ／御船手永代橋きわニて焼止ル又一口は伊世丁瀬戸物丁室町壱丁目より三丁目／まで東片かわ焼る越後や呉服店のこる小田原丁安神丁長浜丁本船丁／小船丁あらめ橋焼落る小網丁不残鎧渡牧野長門守様御上屋敷坂本丁／茅場丁薬師堂霊厳島不残焼る埋立地新■蔵のこる松平越前守様／御中屋敷向井将監様御船手屋敷夫より佃島新田島不残焼る亦一口／江戸橋蔵屋敷四日市万丁青物丁海盗橋焼落る通壱丁目白木や／呉服近江店焼のこる同弐丁目より中橋広小路迄東片かわ音羽丁平松丁／佐内丁小松町油丁新右衛門丁榑正丁下槙丁本材木町壱丁目より六七丁／まで中橋さや丁塗師丁ニて焼止る亦一口ハ八丁堀九鬼大隅守様並ニ／松平中務少輔様御屋敷八町堀神田代地北島丁岡崎丁亀島丁／其外不残焼る松平越中守様御上屋敷焼のこる松屋丁本八丁堀五丁目／まで中の橋稲荷橋焼落る向ハ南八丁堀弐丁目松平右近将監様より／伊井様御中屋敷堀田主税様堀田式部様松平内匠様御屋敷迄是より／鉄砲州稲荷社焼る松平阿波守様御中屋敷東湊丁船松丁細川能登守様／松平長門守様御上屋敷同十軒町迄焼る当七日の未ノこくより焼出し／翌朝卯ノこくニてよふよふ焼止ル也凡男女死人有事いまた不知数江戸／町家困窮之者江類焼いたし難渋之義筆紙ニつくしかたしなれ共／此度之大火前代之噺ニもならんかと其あらましを書印ノみ／ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0009",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/77f61c41182d245ada3c355550bb2da8f4d5466b.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:06+00:00"
+    },
+    "o:id": 12952,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/35020",
+            "o:id": 35020
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:32:00+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12952",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/185ab49b-a164-41cd-b4a0-33842eb2a282/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

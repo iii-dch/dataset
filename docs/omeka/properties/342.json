@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/342",
+    "@type": "o:Property",
+    "o:comment": "Further information about the subject resource.",
+    "o:id": 342,
+    "o:label": "seeAlso",
+    "o:local_name": "seeAlso",
+    "o:term": "rdfs:seeAlso",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

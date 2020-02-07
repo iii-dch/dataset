@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/260",
+    "@type": "o:Property",
+    "o:comment": "別タイトル",
+    "o:id": 260,
+    "o:label": "Alternative",
+    "o:local_name": "alternative",
+    "o:term": "dcndl:alternative",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

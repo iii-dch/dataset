@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/277",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源を採取・保存した日",
+    "o:id": 277,
+    "o:label": "Date Captured",
+    "o:local_name": "dateCaptured",
+    "o:term": "dcndl:dateCaptured",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

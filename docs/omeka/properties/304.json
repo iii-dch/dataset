@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/304",
+    "@type": "o:Property",
+    "o:comment": "当該レコードの状態",
+    "o:id": 304,
+    "o:label": "Record Status",
+    "o:local_name": "recordStatus",
+    "o:term": "dcndl:recordStatus",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

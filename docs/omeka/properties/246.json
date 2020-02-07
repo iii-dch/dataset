@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/246",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 246,
+    "o:label": "hasRanges",
+    "o:local_name": "hasRanges",
+    "o:term": "sc:hasRanges",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

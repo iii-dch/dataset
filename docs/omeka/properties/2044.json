@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2044",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2044,
+    "o:label": "スキャナー‐解像度‐倍率（FILE-035）",
+    "o:local_name": "file-035",
+    "o:term": "ex:file-035",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2197",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2197,
+    "o:label": "目録作成者-連絡先情報-タイトル（L2-004）",
+    "o:local_name": "l2-004",
+    "o:term": "ex:l2-004",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

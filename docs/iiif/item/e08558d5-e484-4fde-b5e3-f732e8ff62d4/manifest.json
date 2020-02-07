@@ -1,0 +1,170 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/e08558d5-e484-4fde-b5e3-f732e8ff62d4/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便物受領書∽11_9_69_4",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便物受領書∽11_9_69_4"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "/4/13"
+        },
+        {
+            "label": "資料ID",
+            "value": "11_9_69_4"
+        },
+        {
+            "label": "概要-箱",
+            "value": "11"
+        },
+        {
+            "label": "概要-群",
+            "value": "9"
+        },
+        {
+            "label": "概要-体",
+            "value": "69"
+        },
+        {
+            "label": "概要-部",
+            "value": "4"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便物受領書"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "明治"
+        },
+        {
+            "label": "成立年代-年",
+            "value": "40"
+        },
+        {
+            "label": "成立年代-月",
+            "value": "4"
+        },
+        {
+            "label": "成立年代-日",
+            "value": "13"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "91"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "142"
+        },
+        {
+            "label": "概要-物的状態-縦",
+            "value": "50"
+        },
+        {
+            "label": "概要-物的状態-横",
+            "value": "144"
+        },
+        {
+            "label": "概要-物的状態-返",
+            "value": "反"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "90"
+        },
+        {
+            "label": "概要-物的状態-折",
+            "value": "一つ折り"
+        },
+        {
+            "label": "概要-物的状態-面",
+            "value": "上半面"
+        },
+        {
+            "label": "情報入力",
+            "value": "伊藤"
+        },
+        {
+            "label": "情報分析",
+            "value": "伊藤"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "その他の印刷紙"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "11証書（賞･証書･証明書･履歴書）"
+        },
+        {
+            "label": "内容記述",
+            "value": "小谷部全一郎宛て, 蜂谷勝太郎からの郵便物受領書。"
+        },
+        {
+            "label": "調査年月日",
+            "value": "2005/06/27"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/26232"
+        },
+        {
+            "label": "sort",
+            "value": "0011-0009-0069-0004"
+        },
+        {
+            "label": "Identifier",
+            "value": "e08558d5-e484-4fde-b5e3-f732e8ff62d4"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/e08558d5-e484-4fde-b5e3-f732e8ff62d4/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

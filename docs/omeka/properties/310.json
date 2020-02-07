@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/310",
+    "@type": "o:Property",
+    "o:comment": "シリーズの巻次又は部編番号",
+    "o:id": 310,
+    "o:label": "Series Volume",
+    "o:local_name": "seriesVolume",
+    "o:term": "dcndl:seriesVolume",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

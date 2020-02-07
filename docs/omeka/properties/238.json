@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/238",
+    "@type": "o:Property",
+    "o:comment": "A number of folders",
+    "o:id": 238,
+    "o:label": "Folder",
+    "o:local_name": "folder",
+    "o:term": "archiveshub:folder",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

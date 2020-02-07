@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2095",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2095,
+    "o:label": "評価年月日（FILE-084）",
+    "o:local_name": "file-084",
+    "o:term": "ex:file-084",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

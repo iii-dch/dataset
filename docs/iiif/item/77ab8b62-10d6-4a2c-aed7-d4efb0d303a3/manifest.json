@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "彼らはあなた方のために戦っています∽324",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "彼らはあなた方のために戦っています∽324"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "324"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "彼らはあなた方のために戦っています"
+        },
+        {
+            "label": "概要-作成",
+            "value": "W.G. Sesser"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "1045"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "710"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "They fight for you.Protect them.Help the Red Cross raise $100,000,000 at once.（彼らはあなた方のために戦っています彼らを守ろう赤十字がただちに１億ドルを集めように支援しよう）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:Latham Litho"
+        },
+        {
+            "label": "内容分類",
+            "value": "募金"
+        },
+        {
+            "label": "制作国",
+            "value": "アメリカ"
+        },
+        {
+            "label": "クライアント",
+            "value": "American Red Cross"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "描画石版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "4色  "
+        },
+        {
+            "label": "色名",
+            "value": "赤、墨、オレンジ、濃茶"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsK6Q5k5fpiKMkz%EF%BC%8B5t16m%EF%BC%8Bz"
+        },
+        {
+            "label": "Identifier",
+            "value": "77ab8b62-10d6-4a2c-aed7-d4efb0d303a3"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/12268",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/12268/1332747909610.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 655
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12268/1332747909610.jpg"
+                    },
+                    "width": 655
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/12268/1332747909610.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/193",
+    "@type": "o:Property",
+    "o:comment": "A resource which the agent makes available.",
+    "o:id": 193,
+    "o:label": "Is Publisher Of",
+    "o:local_name": "isPublisherOf",
+    "o:term": "archiveshub:isPublisherOf",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

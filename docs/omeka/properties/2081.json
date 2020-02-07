@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2081",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2081,
+    "o:label": "状況記録写真‐撮影年月日（FILE-070）",
+    "o:local_name": "file-070",
+    "o:term": "ex:file-070",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

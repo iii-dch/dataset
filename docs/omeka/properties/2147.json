@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2147",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2147,
+    "o:label": "編集履歴-編集内容（FILE-137）",
+    "o:local_name": "file-137",
+    "o:term": "ex:file-137",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

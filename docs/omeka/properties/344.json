@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/344",
+    "@type": "o:Property",
+    "o:comment": "A member of the subject resource.",
+    "o:id": 344,
+    "o:label": "member",
+    "o:local_name": "member",
+    "o:term": "rdfs:member",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

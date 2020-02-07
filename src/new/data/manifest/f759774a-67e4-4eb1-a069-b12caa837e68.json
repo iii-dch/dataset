@@ -1,0 +1,162 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/f759774a-67e4-4eb1-a069-b12caa837e68/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "銚子河口ノ一∽3_3_11_2_2",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "銚子河口ノ一∽3_3_11_2_2"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "//"
+        },
+        {
+            "label": "資料ID",
+            "value": "3_3_11_2_2"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "3"
+        },
+        {
+            "label": "概要-群",
+            "value": "3"
+        },
+        {
+            "label": "概要-体",
+            "value": "11"
+        },
+        {
+            "label": "概要-部",
+            "value": "2"
+        },
+        {
+            "label": "概要-枝",
+            "value": "2"
+        },
+        {
+            "label": "概要-名称",
+            "value": "銚子河口ノ一"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "128"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "187"
+        },
+        {
+            "label": "概要-物的状態-返",
+            "value": "同"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "0"
+        },
+        {
+            "label": "概要-物的状態-折",
+            "value": "なし"
+        },
+        {
+            "label": "情報入力",
+            "value": "土田"
+        },
+        {
+            "label": "情報分析",
+            "value": "土田"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "その他の印刷紙"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "98その他の内容"
+        },
+        {
+            "label": "内容記述",
+            "value": "「銚子河口ノ一」と題された写真が印刷されているもの。"
+        },
+        {
+            "label": "言語",
+            "value": "ja,en"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "調査年月日",
+            "value": "2005/02/15"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/17616"
+        },
+        {
+            "label": "sort",
+            "value": "0003-0003-0011-0002-0002"
+        },
+        {
+            "label": "Identifier",
+            "value": "f759774a-67e4-4eb1-a069-b12caa837e68"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/f759774a-67e4-4eb1-a069-b12caa837e68/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

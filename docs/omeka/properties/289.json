@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/289",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する刊行物の通号",
+    "o:id": 289,
+    "o:label": "Issue",
+    "o:local_name": "issue",
+    "o:term": "dcndl:issue",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

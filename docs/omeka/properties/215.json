@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/215",
+    "@type": "o:Property",
+    "o:comment": "Appraisal",
+    "o:id": 215,
+    "o:label": "Appraisal",
+    "o:local_name": "appraisal",
+    "o:term": "archiveshub:appraisal",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

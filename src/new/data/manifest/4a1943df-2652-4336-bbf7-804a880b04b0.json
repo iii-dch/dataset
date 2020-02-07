@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:123 資料No.6",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:123 資料No.6"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:123 資料No.6"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1958年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:円活刀"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "金瓶大黒の娼妓　今紫(読み下し文_括弧なし:金瓶大黒の娼妓今紫／中古名妓の評騒かりし新吉原江戸町一丁目／金瓶大黒の抱へ遊女今紫ハ本名を高橋／お幸と称し始め柳橋にありて半玉の芸妓たりしが元治元年秋十月同楼の抱となり慶応二年五月二代目今紫の突出しにて／仲の町へ出名を静と唱ふ二世今紫根引／の僥倖に遇ふの後三代目今紫となり妹／娼妓おむらに静の名を予へて之を突出し／其翌年また静江を突出し二年間に二人／の突出しをせし事其全盛想ふべきなり／一年吉原近傍洪水の事あるに臨ミ同楼／一二の娼妓と謀り金二百円宛を罹災の／窮民へ施與し東京府庁より木盃一個／白紬一疋宛を賜りたり或時天下に有／名／なる豪商より根引の相談ありしも金／額の差等に由て整はず其挨拶とし／て豪商より金二百円を送りしかど手にだに触れねバ茶屋が仲裁して之を燈篭／入費の寄附と為さしめたり明治五年／遊女解放の令あるや芝白金町にある／実母ゑい方へ戻り一度砂糖商人の妻とな／りしが間なく離縁となり後新冨町に芝／居茶屋を開き屋号を三州屋と呼び／一時盛んなりしが都合ありてこれを廃業したり蓋し本図ハ同楼が遊客の余興に／とて催せし今様を舞の姿にてありき )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社 "
+        },
+        {
+            "label": "Identifier",
+            "value": "4a1943df-2652-4336-bbf7-804a880b04b0"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvrXpMm9YObABqpmSWEPwG7"
+        },
+        {
+            "label": "sort",
+            "value": "0123-0006"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/4a1943df-2652-4336-bbf7-804a880b04b0",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/8316",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/4a1943df-2652-4336-bbf7-804a880b04b0/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/8316/1333099098426.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 949
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8316/1333099098426.jpg"
+                    },
+                    "width": 949
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/8316/1333099098426.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

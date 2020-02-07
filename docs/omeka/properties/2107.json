@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2107",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2107,
+    "o:label": "管理データ責任者（FILE-096）",
+    "o:local_name": "file-096",
+    "o:term": "ex:file-096",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

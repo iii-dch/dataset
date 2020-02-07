@@ -1,0 +1,344 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/5e18e43f-15d3-4600-8b4e-5448151e09e6.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "638",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5e18e43f-15d3-4600-8b4e-5448151e09e6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5e18e43f-15d3-4600-8b4e-5448151e09e6",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmv9EFJxPJEe4YF6RKrisVZ3",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "罠∽638",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "戦意昂揚",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "1色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "罠",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "752",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "590",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Le PiegeFrancais!Sous les coups de nos poilus, LE TRONE DES HOHENZOLLERN CHANCELLE.Le chatiment approche; pour l'eviter, Guillaume le sanglant nous invite a negocier.Le piege etait prevu, nous n'y tomberons pas.L'Allemagne a menti en declarant la guerre; elle ment en proposant la paix. Elle ment quand elle invoque les principes du president Wilson : elle n'a cesse de les fouler aux pieds, elle les denature et s'en sert comme d'une derniere machine de guerre. Elle n'a qu'un but : nous diviser pour gagner du temps, renforcer ses lignes de defense et ramener sur le front de nouveaux combattants.Epouvantee par l'approche de nos soldats, elle n'abandonne ni ses ambitions ni ses haines. Les propositions par lesquelles elle essaye de tenter notre fatigue sont ridicules et insultantes. Le jour meme ou elle parle de conciliation, -apres Reims, Cambrai, Saint-Quentin, - elle brule Douai. Nous voulons fonder une paix durable par le triomphe de la liberte, de la justice et du droit dans le monde. En pareille matiere, l'Allemagne n'a rien a dire. Les Hohenzollern se sont mis hors de l'humanite. On ne traite pas avec des bandits.L'Allemagne s'est rendue complice d'un crime sans precedent. Elle ne peut donner qu'une preuve de son repentir : Une Capitulation Sans Conditions.L'Allemagne a declare elle-meme qu'elle n'etait pas liee par les traites. Sa parole n'a aucune valeur. Ses offres ne sont qu'un piege et ses promesses qu'un chiffon de papier. La France et ses allies demandent des garanties. Ces garanties, nos gouvernements les exigeront et nos soldats sauront les imposer.Ni pourparlers, ni compromis.Pas de PAIX BLANCHE, qui laisserait l'Alsance esclave, nos provinces devastees, nos industries epuisees, nos ouvriers sans travail, tout le monde sans pain.La paix COMPLETE que nous voulons, nous ne l'obtiendrons pas par des marchandages. C'est la victoire COMPLETE qui nous la donnera.Cette victoire, nous la voyons, nous la tenons. Nous ne nous la laisserons pas voler.La Ligue Civique.（罠／／フランス人よ！／　われわれの兵士のもと、ホーエンツォレルン家の覇権は揺らいでいる。／　罰が近づいている。それを避けるべく、ヴィルヘルム2世はわれわれに交渉の席に着くように求めている。／　罠が予測されるが、われわれはそれに陥ることはないだろう。／　ドイツは開戦を宣告することで嘘をつき、平和を提案することで嘘をつく。ドイツはウィルソン大統領の原則を引くときに嘘をつく。ドイツは絶えずこの原則を踏みにじり、それを歪曲し、戦争機械として利用するのである。／　ドイツには一つの目的しかない：つまり、われわれを分断し、時間を稼ぎ、防衛戦を固め、前線にあらたな兵士を供給することである。／　われわれの兵士の接近に恐れをなしながらも、ドイツはその野望も憎悪も放棄することはない。ドイツがわれわれを疲弊させようとする提案は馬鹿げたものであり、馬鹿にしたものである。ランス、カンブレ、サンケンタンの後、和平を口にするまさにその日に、ドゥエに火を放つのである。／　われわれは世界に自由・正義・法の勝利によって持続的な平和を確立することを望んでいる。この点に関して、ドイツは何も言うべき所はない。ホーエンツォレルン家は人類の埒外となった。盗賊どもと取引は出来ない。／　ドイツは、前代未聞の罪の共犯者となった。ドイツに出来るのは、後悔を証明することだけである。／　それには無条件降伏しかない。／　ドイツは、協定に拘束されないと宣言した。その言葉にはいかなる価値もない。ドイツの提案は罠に過ぎず、その約束は紙くずに過ぎない。フランスとその同盟国は保証を要求する。この保証を、われわれの政府が要求し、兵士がそれを課することになるだろう。／　交渉の余地も、妥協の余地もない。／　アルザスを隷属させたままにし、われわれの地方を壊滅状態に、われわれの産業を疲弊状態に、労働者を失業者に、あらゆる人に糧をないままにしておく、虚しい平和などありえない。／　われわれが望む完全な平和は、脅しによっては得られない。それを与えるのは完全な勝利である。／　この勝利をわれわれの視界にあり、手の内にある。それを手放しはしないだろう。／／　市民連盟）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/13262/1332747958175.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:10+00:00"
+    },
+    "o:id": 13262,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30020",
+            "o:id": 30020
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-13T07:08:07+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13262",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5e18e43f-15d3-4600-8b4e-5448151e09e6/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

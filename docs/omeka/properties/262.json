@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/262",
+    "@type": "o:Property",
+    "o:comment": "別シリーズタイトル",
+    "o:id": 262,
+    "o:label": "Series Alternative",
+    "o:local_name": "seriesAlternative",
+    "o:term": "dcndl:seriesAlternative",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

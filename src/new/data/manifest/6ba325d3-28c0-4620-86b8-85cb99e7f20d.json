@@ -1,0 +1,138 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/6ba325d3-28c0-4620-86b8-85cb99e7f20d/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "侃斯達篤　巻十二（外題）,侃斯達篤内科書刊十二巻十三（内題）∽2-6-5",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "侃斯達篤　巻十二（外題）,侃斯達篤内科書刊十二巻十三（内題）∽2-6-5"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "2-6-5"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "概要-箱",
+            "value": "2"
+        },
+        {
+            "label": "概要-群",
+            "value": "6"
+        },
+        {
+            "label": "概要-体",
+            "value": "5"
+        },
+        {
+            "label": "概要-名称",
+            "value": "侃斯達篤　巻十二（外題）,侃斯達篤内科書刊十二巻十三（内題）"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "227"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "158"
+        },
+        {
+            "label": "概要-物的状態-返",
+            "value": "同"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "２７０"
+        },
+        {
+            "label": "概要-物的状態-折",
+            "value": "なし"
+        },
+        {
+            "label": "概要-物的状態-面",
+            "value": "なし"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "印刷刊本"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "05学術研究論文・書籍・講義録"
+        },
+        {
+            "label": "内容記述",
+            "value": "医学書。巻之十二は「痘瘡」、巻之十三は「牛痘」などに関する内容。表紙見返しに「初白楼蔵梓記」「五編」「英蘭堂記」ほか４種印。最初の頁右上に「初白斎蔵書記」印。最終頁の左下に「東京下谷仲□第二号十一号地坪井信良」　。"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "資源状態",
+            "value": "冊子/綴"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/19053"
+        },
+        {
+            "label": "sort",
+            "value": "0002-0006-0005"
+        },
+        {
+            "label": "Identifier",
+            "value": "6ba325d3-28c0-4620-86b8-85cb99e7f20d"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/6ba325d3-28c0-4620-86b8-85cb99e7f20d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

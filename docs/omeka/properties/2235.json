@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2235",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2235,
+    "o:label": "履歴・組織歴-出所の記事年代-略年表等記事2（L3-026）",
+    "o:local_name": "l3-026",
+    "o:term": "ex:l3-026",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

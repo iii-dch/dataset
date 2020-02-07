@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2057",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2057,
+    "o:label": "三次元情報‐付帯データ‐質感データ（FILE-048）",
+    "o:local_name": "file-048",
+    "o:term": "ex:file-048",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

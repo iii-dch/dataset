@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/334",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（本名）",
+    "o:id": 334,
+    "o:label": "Real Name",
+    "o:local_name": "realName",
+    "o:term": "dcndl:realName",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

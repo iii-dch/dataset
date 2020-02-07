@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2204",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2204,
+    "o:label": "目録作成者-公開・発行年-タイトル（L2-011）",
+    "o:local_name": "l2-011",
+    "o:term": "ex:l2-011",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

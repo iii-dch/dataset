@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2358",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2358,
+    "o:label": "索引事項-役職・職業名-タイトル（L6-058）",
+    "o:local_name": "l6-058",
+    "o:term": "ex:l6-058",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

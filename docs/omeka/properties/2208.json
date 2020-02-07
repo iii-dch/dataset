@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2208",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2208,
+    "o:label": "目録作成者-目録発行者-記述・編集担当者名（L2-014）",
+    "o:local_name": "l2-014",
+    "o:term": "ex:l2-014",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

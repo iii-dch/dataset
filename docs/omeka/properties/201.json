@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/201",
+    "@type": "o:Property",
+    "o:comment": "Members",
+    "o:id": 201,
+    "o:label": "Members",
+    "o:local_name": "members",
+    "o:term": "archiveshub:members",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

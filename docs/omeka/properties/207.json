@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/207",
+    "@type": "o:Property",
+    "o:comment": "The start date, represented as a typed literal, of a time interval during which the archival resource was created or accumulated.",
+    "o:id": 207,
+    "o:label": "Date created or accumulated (start)",
+    "o:local_name": "dateCreatedAccumulatedStart",
+    "o:term": "archiveshub:dateCreatedAccumulatedStart",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

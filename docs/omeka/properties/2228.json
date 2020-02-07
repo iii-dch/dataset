@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2228",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2228,
+    "o:label": "履歴・組織歴-概要（L3-020）",
+    "o:local_name": "l3-020",
+    "o:term": "ex:l3-020",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

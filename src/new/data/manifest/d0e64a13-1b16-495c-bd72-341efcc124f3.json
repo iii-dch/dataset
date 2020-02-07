@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "諸國日々新聞集∽項番:208 資料No.254",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "諸國日々新聞集∽項番:208 資料No.254"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:208 資料No.254"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1926年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "諸國日々新聞集"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:茂広/彫師:"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "病母の娘が自殺 08001と同内容(読み下し文_括弧なし:塩町一丁目に／母と娘の二人住させる稼くも／かねる憂の中に母ハ又病の［解読不可］／娘一人の■かんとせバかた／川竹に沈め玉バ母の薬用／むる人も有なれど娘に■／亡父へたいして正分なくさりとて外に／しあんなけれバ食用にも朝夕にもかくてハ詮なきと戌十二月二十七日夜／病苦をしのび三休谷／辺りニて憐むべし身を／川中へ投し死セり／娘ハはらの見へ■■に驚きそ■ここよとさがしもとに／入水と聞てあるにもあられず我身女のかいなくて母養ひ心にき／かせぬのこならず非命に殺せし事皆の我身の罪なりとてともに／入水と三休橋より飛入しに折ふし通るに舟の上におちくれバ舟頭／権兵エ厚くかいほうして命ハつつがなりける／　柳桜記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "石和"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmtrNdpXCx8Ri6OHob0Bwjea"
+        },
+        {
+            "label": "sort",
+            "value": "0208-0254"
+        },
+        {
+            "label": "Identifier",
+            "value": "d0e64a13-1b16-495c-bd72-341efcc124f3"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/d0e64a13-1b16-495c-bd72-341efcc124f3",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/12926",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/d0e64a13-1b16-495c-bd72-341efcc124f3/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/12926/1333099115448.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 973
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12926/1333099115448.jpg"
+                    },
+                    "width": 973
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/12926/1333099115448.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

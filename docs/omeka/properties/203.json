@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/203",
+    "@type": "o:Property",
+    "o:comment": "The ISO 15511 code for the repository.",
+    "o:id": 203,
+    "o:label": "Maintenance Agency Code",
+    "o:local_name": "maintenanceAgencyCode",
+    "o:term": "archiveshub:maintenanceAgencyCode",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

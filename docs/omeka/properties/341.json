@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/341",
+    "@type": "o:Property",
+    "o:comment": "A range of the subject property.",
+    "o:id": 341,
+    "o:label": "range",
+    "o:local_name": "range",
+    "o:term": "rdfs:range",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

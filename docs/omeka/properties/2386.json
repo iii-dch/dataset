@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2386",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2386,
+    "o:label": "資料の差出（L6-086）",
+    "o:local_name": "l6-086",
+    "o:term": "ex:l6-086",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

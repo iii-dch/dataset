@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/346",
+    "@type": "o:Property",
+    "o:comment": "The inverse relationship of ore:aggregates, ore:isAggregatedBy asserts that an Aggregated Resource is aggregated by an Aggregation.",
+    "o:id": 346,
+    "o:label": "Is Aggregated By",
+    "o:local_name": "isAggregatedBy",
+    "o:term": "ore:isAggregatedBy",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/9",
+        "o:id": 9
+    }
+}

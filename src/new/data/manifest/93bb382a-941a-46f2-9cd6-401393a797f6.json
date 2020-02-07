@@ -1,0 +1,135 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞 ∽項番:17 資料No.687",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞 ∽項番:17 資料No.687"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:17 資料No.687"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一惠斎芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "佐賀の乱で敗れた征韓党の遺族の悲哀 (読み下し文_括弧なし:往古より世に称せらるる婦女多しと言へども、貞を守り節に死するハ／又以て少なひ哉。ここに肥前の国某氏の娘ハ、同国の士浅倉氏へ嫁て、／女子一人を挙しも、月に浮雲の譬の如く、夫弾蔵ハ征韓党へ／加りしを、纔に知りてうち驚き、度々の諌めも糠にうつ／釘より胸の苦しさも、官軍国に臨むの後、不日彼党大敗なし、夫も刑に／死すると聞き、今は此世に望み／なき、玉藻の床の吹荒て独り／音に啼く離れ鴛鴦、天にあこ／がれ地にかこち、順逆ふたつの／理を感じ三つにもたらぬ／幼児を、夫が日頃愛玩せし、／匕首をもて刺殺し、其身も／倶にうち重なり自害なせしハ／世の人の善悪なき口をいとふなるべし／墨陀西岸温克竜吟述 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋 "
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○佐賀県士族朝倉弾藏ノ妻ハ同県某ノ女ナリ一女甫メテ三歳弾藏征韓■に輿類シ事敗レテ斬ニ〓（処）ス妻凶音ヲ聞テ號泣血涙潜然タルコト數刻奮然突起シ其ノ夫ノ平常愛スル所ノ〓（ひ）首ヲ執リ先ツ其ノ女兒ヲ刺殺シ刀ヲ反シテ自蓋ス "
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xms8euHX07Q%EF%BC%8BLIgoYjLIl2Wb"
+        },
+        {
+            "label": "sort",
+            "value": "0017-0687"
+        },
+        {
+            "label": "Identifier",
+            "value": "93bb382a-941a-46f2-9cd6-401393a797f6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/93bb382a-941a-46f2-9cd6-401393a797f6",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/14827",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/93bb382a-941a-46f2-9cd6-401393a797f6/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/14827/1333099048843.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 951
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/14827/1333099048843.jpg"
+                    },
+                    "width": 951
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/14827/1333099048843.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

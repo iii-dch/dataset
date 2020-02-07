@@ -1,0 +1,632 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "description": "1面、2面は所蔵なし",
+    "label": "日本毛織物新報 323号 (1922-01-01)",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "日本毛織物新報 323号 (1922-01-01)"
+        },
+        {
+            "label": "資料ID",
+            "value": "NKS2_19220101"
+        },
+        {
+            "label": "出版社",
+            "value": "日本毛織物新報社"
+        },
+        {
+            "label": "出版年月日",
+            "value": "1922-01-01"
+        },
+        {
+            "label": "号数",
+            "value": "323"
+        },
+        {
+            "label": "サイズ",
+            "value": "545×400mm"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "枚数",
+            "value": "18"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/12"
+        },
+        {
+            "label": "Identifier",
+            "value": "1e051ae7-40ae-4f80-a756-6efac49de86d"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvee9Q3yb04d0%EF%BC%8FQVwBWC7fnxq3ZbYukz4O1s6qBUW7iAUAcTI4S7v7LQujAfb4BI8E%3D"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/1e051ae7-40ae-4f80-a756-6efac49de86d",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/1839",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0230.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "3面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0230.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p2",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0231.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "4面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0231.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p3",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0232.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "5面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0232.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p4",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0233.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "6面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0233.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p5",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0234.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "7面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0234.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p6",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0235.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "8面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0235.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p7",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0236.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "9面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0236.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p8",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0237.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "10面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0237.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p9",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0238.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "11面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0238.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p10",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0239.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "12面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0239.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p11",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0240.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "13面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0240.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p12",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0241.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "14面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0241.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p13",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0242.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "15面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0242.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p14",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0243.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "16面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0243.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p15",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0244.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "17面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0244.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p16",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0245.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "18面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0245.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p17",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0246.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "19面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0246.jpg"
+                    },
+                    "width": 4912
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 7360,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/1e051ae7-40ae-4f80-a756-6efac49de86d/canvas/p18",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/1839/nihonkeorimonoshimpo2_0247.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7360,
+                                "width": 4912
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "20面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0247.jpg"
+                    },
+                    "width": 4912
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/1839/nihonkeorimonoshimpo2_0230.jpg",
+    "viewingDirection": "right-to-left"
+}

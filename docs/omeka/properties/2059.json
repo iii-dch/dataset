@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2059",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2059,
+    "o:label": "音声‐デジタル化方法（FILE-050）",
+    "o:local_name": "file-050",
+    "o:term": "ex:file-050",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

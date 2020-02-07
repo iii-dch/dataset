@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2084",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2084,
+    "o:label": "カラー‐作業色空間（FILE-073）",
+    "o:local_name": "file-073",
+    "o:term": "ex:file-073",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

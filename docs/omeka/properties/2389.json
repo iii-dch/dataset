@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2389",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2389,
+    "o:label": "資料受取宛先（L6-089）",
+    "o:local_name": "l6-089",
+    "o:term": "ex:l6-089",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

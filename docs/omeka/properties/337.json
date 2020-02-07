@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/337",
+    "@type": "o:Property",
+    "o:comment": "The subject is a subproperty of a property.",
+    "o:id": 337,
+    "o:label": "subPropertyOf",
+    "o:local_name": "subPropertyOf",
+    "o:term": "rdfs:subPropertyOf",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "カナダの女性たちへ∽570",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "カナダの女性たちへ∽570"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "570"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "カナダの女性たちへ"
+        },
+        {
+            "label": "概要-作成",
+            "value": "L’ Association Civile De Recrutement, Quebee, P. Q."
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "927"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "578"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Aux Femmes Du Canada1. Vous avez lu ce que les Allemands ont fait en Belgique. Avez-vous pense a ce qu’ils feraient s’ils envahissaient notre pays?2. Realisez-vous que la securite de votre foyer et de vos enfants depend du nombre d’hommes que nous enrolerons maintenant?3. Realisez-vous qu’un mot d’encouragement de votre part procurera peut-etre un defenseur de plus a notre pays?4. Quand la guerre sera finie et que quelqu’un demandera a votre mari ou a votre fils ce qu’il a fait pendant cette guerre terrible, devra-t-il courber la tete parce que vous ne l’aurez pas laisse partir?N’Encouragerez-Vous Pas Un Homme A s’enroler aujourd’hui?L’Association Civile De Recrutement, Quebec, P. Q.（カナダの女性たちへ／１．あなたは、ドイツ人がベルギーでしたことを読みましたか？もし、ドイツがわれわれの国を侵略すれば、どうなるかを考えましたか？／２．あなたの家庭や子どもたちの安全が、われわれの徴募する兵隊の数にかかっているのをお分かりですか？／３．あなたの激励の言葉が、われわれの国の守護者となることをお分かりですか？／４．戦争が終わり、だれかがあなたのご主人やご子息に、この恐ろしい戦争のあいだに何をしたかと尋ねたとき、あなたが彼らを出発させなかったために、うなだれるしかなくてもよいのですか？／徴募されるように促さないのですか？／徴募協会　ケベック州。／／558第257鉄道大隊／（敷設）中佐マルタン／告知／／　カナダは、即刻、フランスにおいて軍隊の補給を行う鉄道線路建設に有用な人材と士官を提供することを要請された。／　こうして我が国の最良の鉄道敷設者の指揮のもといくつかの大隊が形成されねばならない。／　職工長、土木作業員、掘削作業員、コンクリート作業員、橋架建造者、大工、鍛冶屋、機関士と機関助士などのあらゆる鉄道敷設に有用な人材は、前線にあるわれわれの部隊の援助するために奉仕することが望まれる。フランス系カナダ人はこの種の労働に優れており、甚大な貢献が可能である。／　一人の本職のものがいることで、二人の兵士が戦火にとどまることができるだろう。／　この大隊は直接フランスに派遣される。／　この大隊は戦隊でなく、武器を所持することもない。／／賃金／既婚男性・・・月３３ドル／女性への手当・・・月２０ドル／愛国基金からの援助／独身男性・・・月３３ドル／未亡人（もし当人のみが家計維持者なら）・・・月２０ドル／労働期間は一年、もしくは戦争続行期間。／健康診断は軍役の際と同様のものではなく、基本的な身体検査のみ。／年齢制限：１８歳から４８歳／有用な人材と「勇敢なもの」のみ入隊許可。／最寄りの電信局にて、氏名、年齢、住所、職業を電信のこと（費用は当方負担）。／これは私たちフランス系カナダ人にとって、われわれの州の威厳を顕揚する絶好の機会である。／／それぞれがみずからの義務を果たそうではないか！／問い合わせ：少佐H-J・リヨン／電話番号：4145／ケベック州）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:La Compagnle De Pubullcation &quot;Le Soleil&quot;, Ltee"
+        },
+        {
+            "label": "内容分類",
+            "value": "募兵"
+        },
+        {
+            "label": "制作国",
+            "value": "カナダ"
+        },
+        {
+            "label": "クライアント",
+            "value": "-"
+        },
+        {
+            "label": "版式",
+            "value": "凸版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "凸版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "2色  "
+        },
+        {
+            "label": "色名",
+            "value": "赤、藍"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmtNObp7LrLfB94q51IjL19z"
+        },
+        {
+            "label": "Identifier",
+            "value": "9561b5c1-6362-4ae8-97ee-b89a18202598"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/9561b5c1-6362-4ae8-97ee-b89a18202598",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/19167",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/9561b5c1-6362-4ae8-97ee-b89a18202598/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/19167/1332747923526.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 613
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/19167/1332747923526.jpg"
+                    },
+                    "width": 613
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/19167/1332747923526.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

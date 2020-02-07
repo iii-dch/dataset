@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2188",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2188,
+    "o:label": "目録ファイル関連情報-目録公開情報-目録検索機能公開日（L1-005）",
+    "o:local_name": "l1-005",
+    "o:term": "ex:l1-005",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2148",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2148,
+    "o:label": "技術仕様情報‐製品名（FILE-138）",
+    "o:local_name": "file-138",
+    "o:term": "ex:file-138",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

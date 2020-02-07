@@ -1,0 +1,174 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/7df04b7a-a3bc-42d1-9a30-3fa284cf7914/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "輿論概観　第六五八号∽A-1-106-39",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "輿論概観　第六五八号∽A-1-106-39"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1926/12/30"
+        },
+        {
+            "label": "資料ID",
+            "value": "A-1-106-39"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センターにて再配置。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "A"
+        },
+        {
+            "label": "概要-群",
+            "value": "1"
+        },
+        {
+            "label": "概要-体",
+            "value": "106"
+        },
+        {
+            "label": "概要-部",
+            "value": "39"
+        },
+        {
+            "label": "概要-名称",
+            "value": "輿論概観　第六五八号"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "昭和"
+        },
+        {
+            "label": "成立年代-年",
+            "value": "1"
+        },
+        {
+            "label": "成立年代-月",
+            "value": "12"
+        },
+        {
+            "label": "成立年代-日",
+            "value": "30"
+        },
+        {
+            "label": "概要-作成",
+            "value": "陸軍省新聞班"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "276"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "201"
+        },
+        {
+            "label": "情報入力",
+            "value": "玉井　建也"
+        },
+        {
+            "label": "情報分析",
+            "value": "玉井　建也"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "新聞or雑誌"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "02逐次刊行-雑誌類"
+        },
+        {
+            "label": "抜き取り雑誌記述-雑誌名",
+            "value": "輿論概観"
+        },
+        {
+            "label": "抜き取り雑誌記述-号(No.)",
+            "value": "658号"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "年代範囲",
+            "value": "昭和戦前"
+        },
+        {
+            "label": "過程",
+            "value": "完成・公刊形態"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/17353"
+        },
+        {
+            "label": "sort",
+            "value": "A-0001-0106-0039"
+        },
+        {
+            "label": "Identifier",
+            "value": "7df04b7a-a3bc-42d1-9a30-3fa284cf7914"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/7df04b7a-a3bc-42d1-9a30-3fa284cf7914/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

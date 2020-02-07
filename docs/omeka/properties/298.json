@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/298",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の保有者",
+    "o:id": 298,
+    "o:label": "Holding Agent",
+    "o:local_name": "holdingAgent",
+    "o:term": "dcndl:holdingAgent",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

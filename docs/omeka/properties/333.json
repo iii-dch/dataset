@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/333",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（新称）",
+    "o:id": 333,
+    "o:label": "Later Name",
+    "o:local_name": "laterName",
+    "o:term": "dcndl:laterName",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

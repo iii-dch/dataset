@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/100",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 100,
+    "o:label": "isbn10",
+    "o:local_name": "isbn10",
+    "o:term": "bibo:isbn10",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

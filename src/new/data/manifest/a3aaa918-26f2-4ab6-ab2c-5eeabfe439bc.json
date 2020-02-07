@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "なぜドイツは今、平和を求めているのか∽284",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "なぜドイツは今、平和を求めているのか∽284"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "284"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "なぜドイツは今、平和を求めているのか"
+        },
+        {
+            "label": "概要-作成",
+            "value": "-"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "725"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "1066"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Why Germany wants peace now.Kaiser’s ‘intrigue for peace ’A menace to America and the worldThe Prussian BlotEuropeThe Kaiser’s dream comes true.A vast Pan-Germanic Empire from Berlin to BagdadThe first step in the program of world conquest: The Kaiser is fighting this war to gain an empire of 4,000,000 square miles. The area of Germany when the war began was 208,780 square miles. It now holds 3,600,000 square miles of it. The Prussian dream is to-day nine-tenths true. The organization of the empire is about as follow:--The Masters---Germans - - 73,000,000The Vassals---Magyars - - 21,000,000The Slaves---French and Belgians - 10,500,000Alsace-Lorraine inhabitants - - 1,500,000Poles - - - - 22,000,000Roumanians - - - 8,000,000Americans - - - 2,000,000Danes - - - - 200,000Ruthenians, Czecks, Italians and other miscellaneous races 37,300,000-----------176,000,000The total population of the Pan-Germanic empire is about 176,000,000 people. The population of Germany at the start of the war was 66,615,000. These figures are by President Wilson says:--“Their plan was to throw a broad belt of German military power and political control across the very center Europe and beyond the Mediterranean Sea into the throat of Asia. They have actually carried out the greater part of that amazing scheme.”“The so-called Central Powers are, in fact, one power.”“Serbia is at its mercy.”“Bulgaria has consented to its will and Roumania is overrun.”“The Turkish armies, which Germans trained, are serving Germany.”“From Hamburg to the Persian Gulf the net is spread.”Can America be safe in a world which the Kaiser rules?Only if we bow when he says:“Only one master in the empire and I am that one. I will tolerate no other. I represent monarchy by the grace of God. You must all have one will and that is my will. There is only one law and that is my law. If I order you to shoot down relatives, brothers, yes, oven parents, you must do it.”“Woe and death unto those who oppose my will. Death to the infidel who denies my mission. Let all the enemies of the German nation perish. God demands their destruction.”From Proclamations of the KaiserGermany thinking about “The Next War”Germany says she is not seeking Territorial Aggrandizement.How about this Associated Press Dispatch?“Amsterdam尿ug.19. Gen.Von Liebert in a speech at Rathenow is quoted by the Deutsche Tageszeitung as saying:-- ‘We cannot sign a peace before we have the Flanders Coast, a Colonial empire and maritime bases. Should we not realize that now, we must prepare to work for it after the war in view of the next war.’ G. Liebert’s speech was loudly cheered by his hearers.”Prepared by the Connecticut State Council of Defense.（なぜドイツは今、平和を求めているのかカイゼルは、平和への陰謀を企てているアメリカ、そして世界への脅威である）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:-"
+        },
+        {
+            "label": "内容分類",
+            "value": "戦意昂揚"
+        },
+        {
+            "label": "制作国",
+            "value": "アメリカ"
+        },
+        {
+            "label": "クライアント",
+            "value": "The Coneticut State Council of Defense"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "平版"
+        },
+        {
+            "label": "版式備考",
+            "value": "活版清刷り"
+        },
+        {
+            "label": "色数",
+            "value": "2色  "
+        },
+        {
+            "label": "色名",
+            "value": "赤、墨"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmtghEl6pcJIGoVZQH08E8VV"
+        },
+        {
+            "label": "Identifier",
+            "value": "a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/10034",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 683,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/10034/1332747892299.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 683,
+                                "width": 1000
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/10034/1332747892299.jpg"
+                    },
+                    "width": 1000
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/10034/1332747892299.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

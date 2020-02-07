@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2309",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2309,
+    "o:label": "使用制限-デジタル公開データの使用制限（L6-009）",
+    "o:local_name": "l6-009",
+    "o:term": "ex:l6-009",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

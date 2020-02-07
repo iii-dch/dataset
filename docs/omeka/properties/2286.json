@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2286",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2286,
+    "o:label": "参考文献-関係書籍・文献・論文（L4-023）",
+    "o:local_name": "l4-023",
+    "o:term": "ex:l4-023",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

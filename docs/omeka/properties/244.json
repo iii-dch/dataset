@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/244",
+    "@type": "o:Property",
+    "o:comment": "A number of papers",
+    "o:id": 244,
+    "o:label": "Paper",
+    "o:local_name": "paper",
+    "o:term": "archiveshub:paper",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

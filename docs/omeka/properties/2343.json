@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2343",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2343,
+    "o:label": "関係資料-タイトル（L6-043）",
+    "o:local_name": "l6-043",
+    "o:term": "ex:l6-043",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

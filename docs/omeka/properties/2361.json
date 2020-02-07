@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2361",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2361,
+    "o:label": "索引事項-関係地-地域（L6-061）",
+    "o:local_name": "l6-061",
+    "o:term": "ex:l6-061",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/234",
+    "@type": "o:Property",
+    "o:comment": "Epithet",
+    "o:id": 234,
+    "o:label": "Epithet",
+    "o:local_name": "epithet",
+    "o:term": "archiveshub:epithet",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

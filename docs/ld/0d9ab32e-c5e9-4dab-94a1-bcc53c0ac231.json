@@ -1,0 +1,344 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/0d9ab32e-c5e9-4dab-94a1-bcc53c0ac231.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "622",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0d9ab32e-c5e9-4dab-94a1-bcc53c0ac231",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/0d9ab32e-c5e9-4dab-94a1-bcc53c0ac231",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmt%EF%BC%8B45aGIrCfsY64PrR3G%EF%BC%8FwM",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "なぜ平和は法の勝利にしか基づき得ないのか∽622",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "戦意昂揚",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版／写真製版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "2色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "赤、墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "なぜ平和は法の勝利にしか基づき得ないのか",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "651",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "491",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Pourquoi la Paix ne peut etre Bassee que sur La victoire du DroitL'allemagne ne respecte pas ses engagements.a moins d'y etre contrainte par la Force.Tant qu'elle se Croit la plus Forteelle viole les Conventions1°des Traites Internationaux:Neutralite de la Belgique.Neutralite du Luxembourg.Armistice de Brest-Litowsk.(Transport interdit des troupes du front Russe au front Francais). Traite solennel signe en 1831Confirme en 1839Chiffon de panier en 19142°des Lois de la Guerre:Geneve (1864-1906)Petrograd (1868)La Haye (1899-1907)Mauvais traitements.Emploi initial des gaz asphyxians, des liquides enflammes.Usage des pastilles incendiaires, des virus et des poisons.Premeditation officielle, reconnue dans le ‘Kriegsbrauch’ (Manual d'instruction du Grand Etat-major allemand).3°de droit des Gens:Contrainte {Deportations. Travaux forces. Requisitions abusives.Terreur {Chatiments corporels, meme pour les femmes et les enfants.Humiliation : Salut obligatoire.Les Deportations de Lille (Deus de JONAS).elle commet des Crimes1°Noyades:Torpillages de vaisseaux transportant les passagers non belligerants, meme neutres.Guerre sous-marine sans laisser de traces (Cte von Luxburg).Torpillages de vaisseaux-hopitaux.La plus odieux des crimes.2°Assassinats:Massacres des populations Armeniennes et Syriennes.Condamnations arbitraires.Civils places devant les troupes.Groupe de civils fusilles dans un champ pres de Gerbeviller.(24 aout 1914).3°Destructions:Systematiques des Pays envahis, Monuments, Proprietes particulieres, Arbres fruitiers.Bombardements de villes ouvertes.Arbre fruitier scie par les Allemands en retraite.Les principes des Adversaires de l'Allemagne groupent definitivement les Nations civillisees pour la Defence de Droit.Leur victoire seule assurera a l’Humanite toute entiereLa Justice InternationaleExtraits de la brochure “... et La Lumiere se Fait ...”（なぜ平和は法の勝利にしか基づき得ないのか／ドイツは軍事力によって強制されるのでなければ、平和を尊重しない。／自らが最強であると自認しているために、ドイツは条約を破棄している。／／1.国際条約／ベルギーの中立／ルクセンベルグの中立／ブレスト竏茶潟gフスク／（ロシア前線からフランス前線への軍隊の移動の禁止）／／1831年に厳かに調印され、／1839年に批准され、／1914年に反故にされた。／／2.戦時国際法／ジュネーブ（1864-1906）／ペトログラード（1868）／ハーグ（1899-1907）／／虐待／窒息性ガスや可燃液体の最初の使用／焼夷弾や細菌兵器、有毒物の使用／／「Kriegsbrauch」（ドイツ参謀本部の指導書）で承認されている公式の予謀／／3.人権／拘束／強制収容所への収容、強制労働、徴用の乱発／恐怖政治／女性や子供にまで行われる身体刑／侮辱：強制敬礼／／リールの強制収容／／ドイツは数々の罪を犯している。／／1.溺死／戦闘員ではない中立国の乗員を運んでいる船への魚雷攻撃／／痕跡を残さない水面下での戦争(ルクセンブルグ伯爵) ／／医療艦への魚雷攻撃／／もっともおぞましい罪／／／2.殺人／アルメニア人とシリア人の大量殺戮／自由裁量による有罪判決／軍隊の前に置かれる市民／ジェルベヴィエ付近の戦場における市民の銃殺（1914年8月24日）／／3.破壊／侵略した国、記念碑、私有財産、果樹園の体系的破壊／無防備都市への爆撃／／ドイツ軍の退役軍人による果樹の伐採／／ドイツに敵対する国々の有する原理が、法の防衛のために文明国を決定的に集結させている。これら国々の勝利のみが全人類に国際的な正義を保証するだろう。／パンフレット「そして光あれ」からの抜粋。）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/17786/1332748106935.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:15+00:00"
+    },
+    "o:id": 17786,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30340",
+            "o:id": 30340
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-13T07:09:53+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17786",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/0d9ab32e-c5e9-4dab-94a1-bcc53c0ac231/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

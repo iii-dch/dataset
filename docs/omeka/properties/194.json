@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/194",
+    "@type": "o:Property",
+    "o:comment": "An indicator of the part of an archival collection constituted by an archival resource.",
+    "o:id": 194,
+    "o:label": "Level",
+    "o:local_name": "level",
+    "o:term": "archiveshub:level",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

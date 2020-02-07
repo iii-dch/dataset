@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2372",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2372,
+    "o:label": "抜き取り雑誌記述-号(No.)（L6-072）",
+    "o:local_name": "l6-072",
+    "o:term": "ex:l6-072",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

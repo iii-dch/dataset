@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2330",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2330,
+    "o:label": "物的状態-長さ（L6-030）",
+    "o:local_name": "l6-030",
+    "o:term": "ex:l6-030",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/306",
+    "@type": "o:Property",
+    "o:comment": "Titleの読み又は翻字形",
+    "o:id": 306,
+    "o:label": "Title Transcription",
+    "o:local_name": "titleTranscription",
+    "o:term": "dcndl:titleTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/142",
+    "@type": "o:Property",
+    "o:comment": "The given name of some person.",
+    "o:id": 142,
+    "o:label": "Given name",
+    "o:local_name": "givenname",
+    "o:term": "foaf:givenname",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

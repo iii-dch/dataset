@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2067",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2067,
+    "o:label": "動画‐画素数（FILE-057）",
+    "o:local_name": "file-057",
+    "o:term": "ex:file-057",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

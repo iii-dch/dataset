@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/275",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する版に対し著作責任を持つ実体",
+    "o:id": 275,
+    "o:label": "Edition Creator",
+    "o:local_name": "editionCreator",
+    "o:term": "dcndl:editionCreator",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

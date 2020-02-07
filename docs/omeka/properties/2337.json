@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2337",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2337,
+    "o:label": "物的状態-折（L6-037）",
+    "o:local_name": "l6-037",
+    "o:term": "ex:l6-037",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

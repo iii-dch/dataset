@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2181",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2181,
+    "o:label": "権利関係‐許諾（FILE-171）",
+    "o:local_name": "file-171",
+    "o:term": "ex:file-171",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

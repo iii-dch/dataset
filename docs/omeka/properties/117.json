@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/117",
+    "@type": "o:Property",
+    "o:comment": "The abbreviation of a title.",
+    "o:id": 117,
+    "o:label": "short title",
+    "o:local_name": "shortTitle",
+    "o:term": "bibo:shortTitle",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

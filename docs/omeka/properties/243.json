@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/243",
+    "@type": "o:Property",
+    "o:comment": "A number of pages",
+    "o:id": 243,
+    "o:label": "Page",
+    "o:local_name": "page",
+    "o:term": "archiveshub:page",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

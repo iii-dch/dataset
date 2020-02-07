@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2255",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2255,
+    "o:label": "管理情報-伝来あるいは記録史料の管理歴-タイトル（L3-047）",
+    "o:local_name": "l3-047",
+    "o:term": "ex:l3-047",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

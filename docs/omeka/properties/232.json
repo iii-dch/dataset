@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/232",
+    "@type": "o:Property",
+    "o:comment": "The forename of a person who is the focus of the concept",
+    "o:id": 232,
+    "o:label": "Forename",
+    "o:local_name": "forename",
+    "o:term": "archiveshub:forename",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/263",
+    "@type": "o:Property",
+    "o:comment": "単行書の構成レベルに相当する情報",
+    "o:id": 263,
+    "o:label": "Part Information",
+    "o:local_name": "partInformation",
+    "o:term": "dcndl:partInformation",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

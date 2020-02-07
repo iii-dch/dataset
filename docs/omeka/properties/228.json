@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/228",
+    "@type": "o:Property",
+    "o:comment": "Dates",
+    "o:id": 228,
+    "o:label": "Dates",
+    "o:local_name": "dates",
+    "o:term": "archiveshub:dates",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

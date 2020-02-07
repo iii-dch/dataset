@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/235",
+    "@type": "o:Property",
+    "o:comment": "A number of archival boxes",
+    "o:id": 235,
+    "o:label": "Archival Box",
+    "o:local_name": "archbox",
+    "o:term": "archiveshub:archbox",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

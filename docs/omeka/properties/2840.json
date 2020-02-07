@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2840",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the property of UT OPAC.",
+    "o:id": 2840,
+    "o:label": "文庫区分",
+    "o:local_name": "bunko",
+    "o:term": "uterms:bunko",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/21",
+        "o:id": 21
+    }
+}

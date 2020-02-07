@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/208",
+    "@type": "o:Property",
+    "o:comment": "The end date, represented as a typed literal, of a time interval during which the archival resource was created or accumulated.",
+    "o:id": 208,
+    "o:label": "Date created or accumulated (end)",
+    "o:local_name": "dateCreatedAccumulatedEnd",
+    "o:term": "archiveshub:dateCreatedAccumulatedEnd",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

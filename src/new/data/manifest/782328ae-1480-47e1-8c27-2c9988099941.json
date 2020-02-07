@@ -1,0 +1,174 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/782328ae-1480-47e1-8c27-2c9988099941/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "満州支那全土明細地図∽A-1-142",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "満州支那全土明細地図∽A-1-142"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1938/10/15"
+        },
+        {
+            "label": "資料ID",
+            "value": "A-1-142"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降図書室/社会情報研究資料センターにて再配置。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "A"
+        },
+        {
+            "label": "概要-群",
+            "value": "1"
+        },
+        {
+            "label": "概要-体",
+            "value": "142"
+        },
+        {
+            "label": "概要-名称",
+            "value": "満州支那全土明細地図"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "昭和"
+        },
+        {
+            "label": "成立年代-年",
+            "value": "13"
+        },
+        {
+            "label": "成立年代-月",
+            "value": "10"
+        },
+        {
+            "label": "成立年代-日",
+            "value": "15"
+        },
+        {
+            "label": "概要-作成",
+            "value": "アトラス社"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "390"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "544"
+        },
+        {
+            "label": "情報入力",
+            "value": "玉井　建也"
+        },
+        {
+            "label": "情報分析",
+            "value": "玉井　建也"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "地図"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "索引事項-関係地-地域",
+            "value": "139.76501129999997,35.6870872"
+        },
+        {
+            "label": "内容記述",
+            "value": "「漢口附近」と「支那全図」が両面に印刷されている。読売新聞第二万二千百六十八号附録。"
+        },
+        {
+            "label": "出版者",
+            "value": "読売新聞編集局"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "年代範囲",
+            "value": "昭和戦前"
+        },
+        {
+            "label": "過程",
+            "value": "完成・公刊形態"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/17353"
+        },
+        {
+            "label": "sort",
+            "value": "A-0001-0142"
+        },
+        {
+            "label": "Identifier",
+            "value": "782328ae-1480-47e1-8c27-2c9988099941"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/782328ae-1480-47e1-8c27-2c9988099941/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

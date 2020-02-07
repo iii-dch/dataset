@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2103",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2103,
+    "o:label": "評価結果-ノイズ（FILE-092）",
+    "o:local_name": "file-092",
+    "o:term": "ex:file-092",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

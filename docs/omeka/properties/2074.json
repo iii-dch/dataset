@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2074",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2074,
+    "o:label": "設置環境‐角度（FILE-064）",
+    "o:local_name": "file-064",
+    "o:term": "ex:file-064",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2354",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2354,
+    "o:label": "索引事項-組織団体名-タイトル（L6-054）",
+    "o:local_name": "l6-054",
+    "o:term": "ex:l6-054",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

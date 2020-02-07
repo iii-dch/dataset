@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞∽項番:114 資料No.683",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞∽項番:114 資料No.683"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:114 資料No.683"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1964年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年 /彫師:彫工銀 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "商売を巡り奥さん同士のイザコザ。腹いせに夫を暴行。 (読み下し文_括弧なし:如何に意気地を張るハ女の道とて張／にも足らぬを引張りし話を此に記さん／に本所松倉町の小島定吉ハ昨年より／して瘡毒にて稼も碌々出来ざるより／女房せんに云付て浅草材木町の河岸／に出張り引張りの開店より存外流／行なすものから同じ所に稼する吉田町／弥助が妻はると互に客の引ぱりだこ／にて物争ひと成たりしがその場ハ漸く事／すミしが又の稼に出たる夜俄に雨のふり／出たれバ夫定吉嘸や女房が困であろと／瘡持身にて傘をもち跛引き引き迎に／来るを待設けたる弥助兄弟躍り出／て散に打擲し重疵を負せて逃去／しが軈て引れて調べられしと )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "元記事原文",
+            "value": "内藤新宿にて娼妓（じやうろ）同志（どし）己（をのれ）か客を他（ひと）に取られたるを口惜し（くちおし）さの余り未の飾（かざ）り第一たる島田髷（しまだまげ）を根元よりふつつり切りて投げ付たる浅間（あさま）しさを読売（よみうり）新聞に戒（いまし）めありしか意気地（いきち）をはるハ此道の癖（くせ）と見ゆれど張るにも足らぬ夜鷹（よたか）同志の客争ひを聞たる侭に此に記す所ハ本所松倉町二丁目の百十五番地建具（たてぐ）職小島定吉昨七月十一月中より瘡毒（さうどく）にて相悩（なや）み捗々敷（はかはかしき）家業（かぎやう）もも出来さるより今日（けう）の暮（くら）しも立兼て二十三載なる妻せんと納得（なつとく）づくにて浅草材木町河岸へ元手入らずの下々商売に出せしにまだ素人（しろうと）の卸（をろし）し立存外流行（はや）れバ気込（きごみ）よく当月二十六夜いつもの通り出掛（でかけ）たるが爰（ここ）に同商売にて本場（ほんば）と称（しょう）する本所吉田町鳶（とび）人足弥助（やすけ）が妻はるも此所に嫁居て則ち定得意（じやうとくい）の客を取られたとか取たとかが初りにて互（たがい）にベチャクチャしやべりしが終りに口論に成りけれハ女と女の角衝合（つのつきあひ）を牛と称する木村兼吉中に入り双方取づ押（とりをさ）へ翌（よく）二十七一旦事済（すみ）に成りけれハ二十八夜せんハ例の通り何心なく定見世を張り居たるに折節颯（おりふしさつ）と降り来る俄（にわ）か雨に夫定吉ハ嘸おせんが困るだろふと瘡持（かさも）つ身にて傘（かさ）を持ちちんば曳々（ひくひく）迎ひに来たる其時しも物陰より顕（あらわ）れ出たるはるが亭主の弥助の弟用事があるからあちらへ来（こ）いと行なり引捕へると斉（ひと）しく弥助も続（つづい）て躍（おど）り出手に携（たずさ）へし角棒（かくばふ）振り上げ続け様の滅多打（めつたうち）に定吉ハ不意を撃れ顔から頭へ掛け重庇（おもきず）負ひ又右の中指深く噛切（かみき）られ地に倒（たほ）るると弥助ハ影を隠したりけれハせんハ泣々夫をいたわり人力車に載せ帰宅して巡査に届け検視（けんし）を受け昨今専ら治療最中なりといふ "
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvCAkU7Kr00ru1qVit4N3%EF%BC%8Bb"
+        },
+        {
+            "label": "sort",
+            "value": "0114-0683"
+        },
+        {
+            "label": "Identifier",
+            "value": "8487341a-a3a0-4f77-85ad-7668a63c7a15"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/8487341a-a3a0-4f77-85ad-7668a63c7a15",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/11757",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/8487341a-a3a0-4f77-85ad-7668a63c7a15/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/11757/1333099095184.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 970
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11757/1333099095184.jpg"
+                    },
+                    "width": 970
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/11757/1333099095184.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/285",
+    "@type": "o:Property",
+    "o:comment": "博士論文の学位分野名",
+    "o:id": 285,
+    "o:label": "Degree Name",
+    "o:local_name": "degreeName",
+    "o:term": "dcndl:degreeName",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

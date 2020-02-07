@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2112",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2112,
+    "o:label": "データタイプ‐容量（FILE-101）",
+    "o:local_name": "file-101",
+    "o:term": "ex:file-101",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

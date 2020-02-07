@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/198",
+    "@type": "o:Property",
+    "o:comment": "A narrative or chronology that places archival materials in context by providing information about their creator(s).",
+    "o:id": 198,
+    "o:label": "Has Biographical History",
+    "o:local_name": "hasBiographicalHistory",
+    "o:term": "archiveshub:hasBiographicalHistory",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

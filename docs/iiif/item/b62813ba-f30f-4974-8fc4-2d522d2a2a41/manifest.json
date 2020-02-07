@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/b62813ba-f30f-4974-8fc4-2d522d2a2a41/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "あなたは助けられる∽173",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "あなたは助けられる∽173"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "173"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "あなたは助けられる"
+        },
+        {
+            "label": "概要-作成",
+            "value": "W.T. Benda (Wladyslaw Theodore Benda)"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "766"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "504"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "You can help.American Red Cross（あなたは助けられるアメリカ赤十字）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:Alco-Grabure. Inc. N.Y."
+        },
+        {
+            "label": "内容分類",
+            "value": "戦時協力"
+        },
+        {
+            "label": "制作国",
+            "value": "アメリカ"
+        },
+        {
+            "label": "クライアント",
+            "value": "American Red Cross"
+        },
+        {
+            "label": "版式",
+            "value": "凸版凹版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "グラビア"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "2色  "
+        },
+        {
+            "label": "色名",
+            "value": "赤、濃茶"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsm%EF%BC%8BgUqfsvXKALuXuBqXeUs"
+        },
+        {
+            "label": "Identifier",
+            "value": "b62813ba-f30f-4974-8fc4-2d522d2a2a41"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/b62813ba-f30f-4974-8fc4-2d522d2a2a41/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/b62813ba-f30f-4974-8fc4-2d522d2a2a41",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/20499",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/b62813ba-f30f-4974-8fc4-2d522d2a2a41/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/b62813ba-f30f-4974-8fc4-2d522d2a2a41/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/b62813ba-f30f-4974-8fc4-2d522d2a2a41/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/b62813ba-f30f-4974-8fc4-2d522d2a2a41/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/20499/1332748076329.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 634
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20499/1332748076329.jpg"
+                    },
+                    "width": 634
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/20499/1332748076329.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2385",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2385,
+    "o:label": "展示・掲載履歴（L6-085）",
+    "o:local_name": "l6-085",
+    "o:term": "ex:l6-085",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

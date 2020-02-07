@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2040",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2040,
+    "o:label": "スキャナー‐入力設定‐UCRのかけ方（FILE-031）",
+    "o:local_name": "file-031",
+    "o:term": "ex:file-031",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

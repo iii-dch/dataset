@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/249",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 249,
+    "o:label": "hasCollections",
+    "o:local_name": "hasCollections",
+    "o:term": "sc:hasCollections",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

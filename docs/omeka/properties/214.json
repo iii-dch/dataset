@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/214",
+    "@type": "o:Property",
+    "o:comment": "Scope and Content",
+    "o:id": 214,
+    "o:label": "Scope and Content",
+    "o:local_name": "scopecontent",
+    "o:term": "archiveshub:scopecontent",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

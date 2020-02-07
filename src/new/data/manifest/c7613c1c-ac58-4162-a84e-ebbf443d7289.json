@@ -1,0 +1,395 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "КРОКОДИЛ №11 АПРЕЛЬ（クラカジール　4月　11号）∽C-1-1-30",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "КРОКОДИЛ №11 АПРЕЛЬ（クラカジール　4月　11号）∽C-1-1-30"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1937/4/"
+        },
+        {
+            "label": "資料ID",
+            "value": "C-1-1-30"
+        },
+        {
+            "label": "枚数",
+            "value": "9"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "C"
+        },
+        {
+            "label": "概要-群",
+            "value": "1"
+        },
+        {
+            "label": "概要-体",
+            "value": "1"
+        },
+        {
+            "label": "概要-部",
+            "value": "30"
+        },
+        {
+            "label": "概要-名称",
+            "value": "КРОКОДИЛ №11 АПРЕЛЬ（クラカジール　4月　11号）"
+        },
+        {
+            "label": "成立年代-月",
+            "value": "4"
+        },
+        {
+            "label": "概要-物的状態-資料アイテムの量",
+            "value": "1"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "345"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "262"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルのマスターデータとの連携",
+            "value": "JPEG/TIF"
+        },
+        {
+            "label": "情報入力",
+            "value": "福重　旨乃"
+        },
+        {
+            "label": "情報分析",
+            "value": "福重　旨乃"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "新聞or雑誌"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "02逐次刊行-雑誌類"
+        },
+        {
+            "label": "索引事項-関係地-地域名",
+            "value": "ロシア"
+        },
+        {
+            "label": "内容記述",
+            "value": "ロシア語の漫画雑誌"
+        },
+        {
+            "label": "抜き取り雑誌記述-雑誌名",
+            "value": "КРОКОДИЛ　（クラカジール)"
+        },
+        {
+            "label": "抜き取り雑誌記述-号(No.)",
+            "value": "4月　11号"
+        },
+        {
+            "label": "言語",
+            "value": "ru"
+        },
+        {
+            "label": "過程",
+            "value": "完成・公刊形態"
+        },
+        {
+            "label": "資源状態",
+            "value": "冊子/綴"
+        },
+        {
+            "label": "備考",
+            "value": "「ソ聨漫画雑誌八　壁新聞写真」と書かれた包紙に入っていた\n『КРОКОДИЛ』（クロコジール，クラカジール（鰐）は旧ソ連時代に公的に発行されていた風刺雑誌\n表紙墨塗り箇所あり"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/22956"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvC%EF%BC%8F4CyptUfJfSQ80QQ78df"
+        },
+        {
+            "label": "sort",
+            "value": "C-0001-0001-0030"
+        },
+        {
+            "label": "Identifier",
+            "value": "c7613c1c-ac58-4162-a84e-ebbf443d7289"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/c7613c1c-ac58-4162-a84e-ebbf443d7289",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/26062",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838654390.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 901
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838654390.jpg"
+                    },
+                    "width": 901
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p2",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838655250.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838655250.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p3",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838655910.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838655910.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p4",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838656500.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838656500.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p5",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838657167.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838657167.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p6",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838657837.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838657837.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p7",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838658402.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838658402.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1020,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p8",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838658968.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1020,
+                                "width": 1359
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838658968.jpg"
+                    },
+                    "width": 1359
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/c7613c1c-ac58-4162-a84e-ebbf443d7289/canvas/p9",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/26062/1332838659681.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 901
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838659681.jpg"
+                    },
+                    "width": 901
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/26062/1332838654390.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

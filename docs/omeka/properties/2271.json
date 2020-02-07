@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2271",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2271,
+    "o:label": "使用制限-デジタル公開データ資料使用制限（L4-007）",
+    "o:local_name": "l4-007",
+    "o:term": "ex:l4-007",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

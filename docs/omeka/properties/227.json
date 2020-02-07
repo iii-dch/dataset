@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/227",
+    "@type": "o:Property",
+    "o:comment": "Name",
+    "o:id": 227,
+    "o:label": "Name",
+    "o:local_name": "name",
+    "o:term": "archiveshub:name",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

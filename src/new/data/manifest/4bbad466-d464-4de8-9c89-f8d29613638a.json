@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞∽項番:99 資料No.447",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞∽項番:99 資料No.447"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:99 資料No.447"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1977年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年/彫師:彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "美濃国で男の３つ子が生まれる(読み下し文_括弧なし:ころも葉月の最中なる美濃／の国多勢大野村の農夫／大橋才治が妻とくハ二十才を／踰た六つなるか二人りが中に／儲けたる三人の男児を出産／せり母子つつがなく豆やかに／月宮に授かる玉兎数もそろふて／初栗の熟柿のいろも美ハし／く妹背かハらぬ菊もみぢ／てふよ花よとおやこころ／栄盛る御代の子だからや／黄金五ひらたまはりしは／実に難有き事ならずや　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　二周奥子誌 )"
+        },
+        {
+            "label": "出版者",
+            "value": "錦昇堂"
+        },
+        {
+            "label": "元記事原文",
+            "value": "岐阜県下美濃国多芸郡大野村農大橋才冶妻とく二十六年四ヶ月本年八月十五日男子三人出産し母子共恙なき旨届出たる処貧窮者にて滋養行届かさるに付則ち養育料として金五円給与致されし由　 "
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmuvYFivYq7eON8SzmGIekJZ"
+        },
+        {
+            "label": "sort",
+            "value": "0099-0447"
+        },
+        {
+            "label": "Identifier",
+            "value": "4bbad466-d464-4de8-9c89-f8d29613638a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/4bbad466-d464-4de8-9c89-f8d29613638a",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/20031",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/4bbad466-d464-4de8-9c89-f8d29613638a/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/20031/1333099088108.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 945
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20031/1333099088108.jpg"
+                    },
+                    "width": 945
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/20031/1333099088108.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

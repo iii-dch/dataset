@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/348",
+    "@type": "o:Property",
+    "o:comment": "The inverse relationship of ore:describes, in this case the object of the relationship is the Resource Map and the subject is the Aggregation which it describes.",
+    "o:id": 348,
+    "o:label": "Is Described By",
+    "o:local_name": "isDescribedBy",
+    "o:term": "ore:isDescribedBy",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/9",
+        "o:id": 9
+    }
+}

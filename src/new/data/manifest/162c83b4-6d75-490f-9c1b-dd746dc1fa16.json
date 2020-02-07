@@ -1,0 +1,150 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/162c83b4-6d75-490f-9c1b-dd746dc1fa16/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "（曲玉に関しての原稿）∽5_4_22_13",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "（曲玉に関しての原稿）∽5_4_22_13"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1891/1/"
+        },
+        {
+            "label": "資料ID",
+            "value": "5_4_22_13"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管"
+        },
+        {
+            "label": "概要-箱",
+            "value": "5"
+        },
+        {
+            "label": "概要-群",
+            "value": "4"
+        },
+        {
+            "label": "概要-体",
+            "value": "22"
+        },
+        {
+            "label": "概要-部",
+            "value": "13"
+        },
+        {
+            "label": "概要-名称",
+            "value": "（曲玉に関しての原稿）"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "93"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "244"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "270"
+        },
+        {
+            "label": "情報入力",
+            "value": "研谷"
+        },
+        {
+            "label": "情報分析",
+            "value": "土田"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "自由記述媒体"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "08文芸一般"
+        },
+        {
+            "label": "内容記述",
+            "value": "外国の各種の原稿について記述されている。"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "調査年月日",
+            "value": "2004/07/21"
+        },
+        {
+            "label": "Identifier",
+            "value": "162c83b4-6d75-490f-9c1b-dd746dc1fa16"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/17096"
+        },
+        {
+            "label": "sort",
+            "value": "0005-0004-0022-0013"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/162c83b4-6d75-490f-9c1b-dd746dc1fa16/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

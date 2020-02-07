@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2213",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2213,
+    "o:label": "収蔵資料情報-資料収蔵機関住所-住所（L3-005）",
+    "o:local_name": "l3-005",
+    "o:term": "ex:l3-005",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

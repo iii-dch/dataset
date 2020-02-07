@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/270",
+    "@type": "o:Property",
+    "o:comment": "Creatorの別名又は異なる形",
+    "o:id": 270,
+    "o:label": "Creator Alternative",
+    "o:local_name": "creatorAlternative",
+    "o:term": "dcndl:creatorAlternative",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

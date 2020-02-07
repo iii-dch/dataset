@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/279",
+    "@type": "o:Property",
+    "o:comment": "資料種別",
+    "o:id": 279,
+    "o:label": "Material Type",
+    "o:local_name": "materialType",
+    "o:term": "dcndl:materialType",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2376",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2376,
+    "o:label": "技法（L6-076）",
+    "o:local_name": "l6-076",
+    "o:term": "ex:l6-076",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

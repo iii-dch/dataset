@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/327",
+    "@type": "o:Property",
+    "o:comment": "Subjectの読み又は翻字形",
+    "o:id": 327,
+    "o:label": "Subject Transcription",
+    "o:local_name": "subjectTranscription",
+    "o:term": "dcndl:subjectTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

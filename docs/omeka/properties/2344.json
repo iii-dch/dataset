@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2344",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2344,
+    "o:label": "関係資料-所蔵資料（L6-044）",
+    "o:local_name": "l6-044",
+    "o:term": "ex:l6-044",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

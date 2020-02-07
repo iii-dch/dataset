@@ -1,0 +1,139 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "江戸下谷辺大火（仮）∽047",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "江戸下谷辺大火（仮）∽047"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1856"
+        },
+        {
+            "label": "資料ID",
+            "value": "047"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "頃ハ安政三辰年二月十四日夜西北風はけしく／八ツ時すきより下谷広徳寺前おたふく横丁より／出火致し御はた本小やしき焼る大御番御組／やしき焼る辻番やしき丁焼る立花様残ス／焼る表御門ハ少々残る加藤遠江守様少々／焼る此所会津様藤堂様中川様榊原様／大関様御火消留ル此辺御はた本小屋しき／焼る加藤様御中屋しき焼る佐竹様御■向／残ス焼る北長家と西長家ハ残る柳沢様焼る／小笠原頼母様ニて留る此所本所組深川組ニて／消留ル松平下総守様御下屋しき焼る小笠原／左京太夫様御中屋しき焼る松浦壱岐守様／焼る表御門残る此所一番二番組ニて消口取此所／ニて留り明十五日五ツ時よふよふ火しづまり人々／あんとのおもいおなしニける／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "江戸下谷辺大火（仮）"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "安政"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中 "
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/11723"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmuTOQR3MyD%EF%BC%8BBzWJ%EF%BC%8Bliz4PXY"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0047"
+        },
+        {
+            "label": "Identifier",
+            "value": "913ddcff-b30d-4db9-bf50-5addb53d8f69"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/913ddcff-b30d-4db9-bf50-5addb53d8f69",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/14492",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/913ddcff-b30d-4db9-bf50-5addb53d8f69/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/14492/1332321320939.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "width": 1285
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/14492/1332321320939.jpg"
+                    },
+                    "width": 1285
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/14492/1332321320939.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

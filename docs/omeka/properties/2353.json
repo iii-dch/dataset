@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2353",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2353,
+    "o:label": "形態・形式情報-表現形式・スタイル（L6-053）",
+    "o:local_name": "l6-053",
+    "o:term": "ex:l6-053",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

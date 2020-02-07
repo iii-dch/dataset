@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/229",
+    "@type": "o:Property",
+    "o:comment": "Location",
+    "o:id": 229,
+    "o:label": "Location",
+    "o:local_name": "location",
+    "o:term": "archiveshub:location",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

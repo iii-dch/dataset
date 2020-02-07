@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2029",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2029,
+    "o:label": "入力設定‐ノイズリダクション（FILE-020）",
+    "o:local_name": "file-020",
+    "o:term": "ex:file-020",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

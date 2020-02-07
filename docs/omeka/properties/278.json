@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/278",
+    "@type": "o:Property",
+    "o:comment": "原文の言語",
+    "o:id": 278,
+    "o:label": "Original Language",
+    "o:local_name": "originalLanguage",
+    "o:term": "dcndl:originalLanguage",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

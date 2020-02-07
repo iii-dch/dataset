@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/299",
+    "@type": "o:Property",
+    "o:comment": "請求記号",
+    "o:id": 299,
+    "o:label": "Call Number",
+    "o:local_name": "callNumber",
+    "o:term": "dcndl:callNumber",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

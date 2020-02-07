@@ -1,0 +1,247 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61175",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:price": [
+        {
+            "@value": "150",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1954-10-25",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "内容小見出（附録）／収録話名: （収録話名）松竹梅…春風亭柳枝; 花見酒…三遊亭円生; 天災…春風亭柳橋; 蒟蒻問答…柳家小せん; しわい屋…三升家小勝; 垂乳根…柳家三語桜; 法華長屋…三遊亭円右; 碁どろ…柳屋小さん; 寝床…柳屋小せん; 一目上り…春風亭柳女子; 厩火事…三遊亭小円朝; 牛褒め…春風亭柳枝; のめる…春風亭柳朝; 粗忽の使者…三升家小勝; けんつく床…三遊亭小円朝; 小言幸兵衛…柳家小さん; 狸の釜…五明桜玉輔; 転天気…橘家円蔵; 川柳漫画; 小咄; P.308→微笑天国　笑いの代価; （作画）; 池部鈞; 太田雅光; 佐治たかし; 宍戸左行; 清水対岳坊; 志村つね平; 代田収一; 谷脇泰文; 細木原青起; 前谷惟光; 松田青風; 水島爾保布",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "編集人: 大日本雄弁会　講談社",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "刷版: 3",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "初版発行年月日: 10912",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　自社: 講談社の八大雑誌; こどもクラブ; 幼年クラブ; 少年クラブ; 少女クラブ; 婦人倶楽部; キング; 講談倶楽部; 群像; その他、伝記シリーズ",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "状態: 背表紙部、はく離してしまっている",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 有; カラー",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: カラー; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "料紙色; 材質: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 黒; 青; 緑; その他（茶; オレンジ）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "装丁: 並",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "頁数: 308",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "備考: 噺家を模した落書きあり",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "自由記述: （収録話名）松竹梅…春風亭柳枝; 花見酒…三遊亭円生; 天災…春風亭柳橋; 蒟蒻問答…柳家小せん; しわい屋…三升家小勝; 垂乳根…柳家三語桜; 法華長屋…三遊亭円右; 碁どろ…柳屋小さん; 寝床…柳屋小せん; 一目上り…春風亭柳女子; 厩火事…三遊亭小円朝; 牛褒め…春風亭柳枝; のめる…春風亭柳朝; 粗忽の使者…三升家小勝; けんつく床…三遊亭小円朝; 小言幸兵衛…柳家小さん; 狸の釜…五明桜玉輔; 転天気…橘家円蔵; 川柳漫画; 小咄; P.308→微笑天国　笑いの代価; （作画）; 池部鈞; 太田雅光; 佐治たかし; 宍戸左行; 清水対岳坊; 志村つね平; 代田収一; 谷脇泰文; 細木原青起; 前谷惟光; 松田青風; 水島爾保布",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "182×130×25",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e999e292-d63c-45bf-8b93-1cb3a03d785b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "大日本雄弁会　講談社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/e999e292-d63c-45bf-8b93-1cb3a03d785b",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "落語全集　松の巻",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/110.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:47+00:00"
+    },
+    "o:id": 61175,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-31T03:40:54+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "uterms:sort": [
+        {
+            "@value": "OI110",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

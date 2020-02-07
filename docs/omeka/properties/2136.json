@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2136",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2136,
+    "o:label": "バックアップメディア‐タイプ（FILE-125）",
+    "o:local_name": "file-125",
+    "o:term": "ex:file-125",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

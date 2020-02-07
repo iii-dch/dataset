@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/189",
+    "@type": "o:Property",
+    "o:comment": "A resource which the agent manages.",
+    "o:id": 189,
+    "o:label": "Administers",
+    "o:local_name": "administers",
+    "o:term": "archiveshub:administers",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

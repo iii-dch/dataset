@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2097",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2097,
+    "o:label": "評価環境（FILE-086）",
+    "o:local_name": "file-086",
+    "o:term": "ex:file-086",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/301",
+    "@type": "o:Property",
+    "o:comment": "所蔵する逐次刊行物の巻次・年月次",
+    "o:id": 301,
+    "o:label": "Holding Issues",
+    "o:local_name": "holdingIssues",
+    "o:term": "dcndl:holdingIssues",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2352",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2352,
+    "o:label": "形態・形式情報-資源タイプ（L6-052）",
+    "o:local_name": "l6-052",
+    "o:term": "ex:l6-052",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

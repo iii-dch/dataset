@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2093",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2093,
+    "o:label": "文字コード（FILE-082）",
+    "o:local_name": "file-082",
+    "o:term": "ex:file-082",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

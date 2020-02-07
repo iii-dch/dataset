@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/330",
+    "@type": "o:Property",
+    "o:comment": "dcndl:bibRecordCategoryの下位区分にあたる情報",
+    "o:id": 330,
+    "o:label": "Bibliographic Record Sub Category",
+    "o:local_name": "bibRecordSubCategory",
+    "o:term": "dcndl:bibRecordSubCategory",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

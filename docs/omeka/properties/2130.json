@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2130",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2130,
+    "o:label": "管理手法（FILE-119）",
+    "o:local_name": "file-119",
+    "o:term": "ex:file-119",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

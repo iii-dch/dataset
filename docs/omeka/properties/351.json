@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/351",
+    "@type": "o:Property",
+    "o:comment": "Proxy objects must link to the Aggregation in which the resource being proxied is aggregated. The ore:proxyIn relationship is used for this purpose. The subject of the relationship is a Proxy object, and the object of the relationship is the Aggregation.",
+    "o:id": 351,
+    "o:label": "Proxy In",
+    "o:local_name": "proxyIn",
+    "o:term": "ore:proxyIn",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/9",
+        "o:id": 9
+    }
+}

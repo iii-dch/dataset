@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/305",
+    "@type": "o:Property",
+    "o:comment": "出版者の所在に関する情報",
+    "o:id": 305,
+    "o:label": "Location",
+    "o:local_name": "location",
+    "o:term": "dcndl:location",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

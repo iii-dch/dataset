@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2043",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2043,
+    "o:label": "スキャナー‐入力設定‐コントラスト（FILE-034）",
+    "o:local_name": "file-034",
+    "o:term": "ex:file-034",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

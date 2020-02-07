@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/338",
+    "@type": "o:Property",
+    "o:comment": "A description of the subject resource.",
+    "o:id": 338,
+    "o:label": "comment",
+    "o:local_name": "comment",
+    "o:term": "rdfs:comment",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

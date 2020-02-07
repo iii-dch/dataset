@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/157",
+    "@type": "o:Property",
+    "o:comment": "A derived thumbnail image.",
+    "o:id": 157,
+    "o:label": "thumbnail",
+    "o:local_name": "thumbnail",
+    "o:term": "foaf:thumbnail",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

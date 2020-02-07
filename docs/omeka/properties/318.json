@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/318",
+    "@type": "o:Property",
+    "o:comment": "Alternative Volume Titleの読み又は翻字形",
+    "o:id": 318,
+    "o:label": "Alternative Volume Title Transcription",
+    "o:local_name": "alternativeVolumeTitleTranscription",
+    "o:term": "dcndl:alternativeVolumeTitleTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

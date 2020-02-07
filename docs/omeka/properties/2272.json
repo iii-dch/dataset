@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2272",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2272,
+    "o:label": "使用制限-デジタルマスターデータ資料使用制限（L4-008）",
+    "o:local_name": "l4-008",
+    "o:term": "ex:l4-008",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

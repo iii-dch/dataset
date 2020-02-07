@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/95",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 95,
+    "o:label": "eissn",
+    "o:local_name": "eissn",
+    "o:term": "bibo:eissn",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

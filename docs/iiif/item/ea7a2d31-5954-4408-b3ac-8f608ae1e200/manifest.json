@@ -1,0 +1,135 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/ea7a2d31-5954-4408-b3ac-8f608ae1e200/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:3 資料No.40",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:3 資料No.40"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:3 資料No.40"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾,彫師:片田彫長"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "外国人、九代目団十郎の弁慶に感動。(読み下し文_括弧なし:九代目団十郎の技芸に／長じ看客を／して感せしむ／るハ今に始めぬ／事ながら既に歌舞妓／十八番と聞えし勧進帳ハ実夫白猿老が／工夫に因て成り西川扇蔵杵屋六翁等之を／補助し始めて木挽町河原崎座に於て興行せし／以降八世三升も之を勤め今の三升も勤る事再度なり既に／明治五壬申の年春市村座に於て之を興行為せし時一洋人之を／見物為し三升が技芸に長ずること且弁慶が忠臣富樫が義気／あるを感服し事終つて後三升が部屋に／来り洋人しきりに賞美し足下／弁慶お上手写真頂戴とありけるにぞ／やがて鏡台の引出しより／写真を出して与へければ／洋人謝礼の意なりけん／巻烟草数本を与へて／去りたり又栄誉と／いふべきのみ／弄月亭綾彦記　有人 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "頃日或外国人守田坐の戯場を／見物なし勧進帳の場に至りて／頻りに感服の体なりしが事果／るの後権之助の部屋に来り「あ／なたお上手弁慶宜しい写真求／めますありません一枚頂戴」と／請ふるにぞ権之助鏡■の引出／しより写真一枚を出して投じ／けれバ洋人巻烟草を出して其報ひをせり文明の人ハ能物に感じ情を／察知すと今外国人弁慶の忠／なる富樫の義あるとの事情／に感じ且権之助の其業に秀／たるを賞して其部屋へ至り／しものならん寔に此演劇を／こそ過日御説諭の趣旨に適当すと云へり "
+        },
+        {
+            "label": "Identifier",
+            "value": "ea7a2d31-5954-4408-b3ac-8f608ae1e200"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsl4vZiz3HTZRgUQhoU%EF%BC%8Fo6U"
+        },
+        {
+            "label": "sort",
+            "value": "0003-0040"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/ea7a2d31-5954-4408-b3ac-8f608ae1e200/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/ea7a2d31-5954-4408-b3ac-8f608ae1e200",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/8614",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/ea7a2d31-5954-4408-b3ac-8f608ae1e200/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/ea7a2d31-5954-4408-b3ac-8f608ae1e200/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/ea7a2d31-5954-4408-b3ac-8f608ae1e200/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/ea7a2d31-5954-4408-b3ac-8f608ae1e200/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/8614/1333099040873.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 951
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8614/1333099040873.jpg"
+                    },
+                    "width": 951
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/8614/1333099040873.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2347",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2347,
+    "o:label": "デジタルデータ関連-デジタルのマスターデータとの連携（L6-047）",
+    "o:local_name": "l6-047",
+    "o:term": "ex:l6-047",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

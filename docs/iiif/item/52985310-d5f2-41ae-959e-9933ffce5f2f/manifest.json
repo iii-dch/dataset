@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/52985310-d5f2-41ae-959e-9933ffce5f2f/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "カナダの豚肉市場拡大のチャンス∽549",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "カナダの豚肉市場拡大のチャンス∽549"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "549"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "カナダの豚肉市場拡大のチャンス"
+        },
+        {
+            "label": "概要-作成",
+            "value": "E. Henderson"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "618"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "463"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Canada’s Pork OpportunityCanada sells only130,304,947 lbs.“We’re glad to have it, Canada, but we need ten times more.”Britais buys 1,261,082,032 lbs.Canada Food Board S.O.S.（カナダの豚肉市場拡大のチャンス”われわれは豚肉を頂けて嬉しい、ですがカナダさん、われわれはもう10倍必要なのです”）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:Howell Lith. Hamilton."
+        },
+        {
+            "label": "内容分類",
+            "value": "節約／増産（食糧・物資）"
+        },
+        {
+            "label": "制作国",
+            "value": "カナダ"
+        },
+        {
+            "label": "クライアント",
+            "value": "Canada Food Bord"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "描画石版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "6色  "
+        },
+        {
+            "label": "色名",
+            "value": "黄、赤、藍、薄藍、墨、オークル"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmt72r12kl%EF%BC%8FC898%EF%BC%8BxUDf5dZR"
+        },
+        {
+            "label": "Identifier",
+            "value": "52985310-d5f2-41ae-959e-9933ffce5f2f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/52985310-d5f2-41ae-959e-9933ffce5f2f/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/52985310-d5f2-41ae-959e-9933ffce5f2f",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/11223",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/52985310-d5f2-41ae-959e-9933ffce5f2f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/52985310-d5f2-41ae-959e-9933ffce5f2f/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/52985310-d5f2-41ae-959e-9933ffce5f2f/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/52985310-d5f2-41ae-959e-9933ffce5f2f/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/11223/1332748096346.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 664
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11223/1332748096346.jpg"
+                    },
+                    "width": 664
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/11223/1332748096346.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2026",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2026,
+    "o:label": "入力機器‐メーカー（FILE-017）",
+    "o:local_name": "file-017",
+    "o:term": "ex:file-017",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

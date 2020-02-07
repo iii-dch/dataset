@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2341",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2341,
+    "o:label": "物理的形態の所在・保存場所（L6-041）",
+    "o:local_name": "l6-041",
+    "o:term": "ex:l6-041",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

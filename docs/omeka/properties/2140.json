@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2140",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2140,
+    "o:label": "メタデータ化担当者（FILE-129）",
+    "o:local_name": "file-129",
+    "o:term": "ex:file-129",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

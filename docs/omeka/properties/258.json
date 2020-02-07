@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/258",
+    "@type": "o:Property",
+    "o:comment": "References the sc:ViewingDirection that defines the direction that the resource should be viewed in",
+    "o:id": 258,
+    "o:label": "viewingDirection",
+    "o:local_name": "viewingDirection",
+    "o:term": "sc:viewingDirection",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

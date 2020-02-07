@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2178",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2178,
+    "o:label": "利用者制限-利用範囲（FILE-168）",
+    "o:local_name": "file-168",
+    "o:term": "ex:file-168",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

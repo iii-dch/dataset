@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/273",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の当該する巻又は部編に対し著作責任を持つ実体",
+    "o:id": 273,
+    "o:label": "Volume Creator",
+    "o:local_name": "volumeCreator",
+    "o:term": "dcndl:volumeCreator",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

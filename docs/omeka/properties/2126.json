@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2126",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2126,
+    "o:label": "ストレージメディア‐製品名（FILE-115）",
+    "o:local_name": "file-115",
+    "o:term": "ex:file-115",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/224",
+    "@type": "o:Property",
+    "o:comment": "Bibliography",
+    "o:id": 224,
+    "o:label": "Bibliography",
+    "o:local_name": "bibliography",
+    "o:term": "archiveshub:bibliography",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

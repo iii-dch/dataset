@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2144",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2144,
+    "o:label": "関連データ-関連するデータの関係タイプ（FILE-134）",
+    "o:local_name": "file-134",
+    "o:term": "ex:file-134",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

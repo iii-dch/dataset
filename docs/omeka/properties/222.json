@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/222",
+    "@type": "o:Property",
+    "o:comment": "Alternate Forms Available",
+    "o:id": 222,
+    "o:label": "Alternate Forms Available",
+    "o:local_name": "alternateFormsAvailable",
+    "o:term": "archiveshub:alternateFormsAvailable",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

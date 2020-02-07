@@ -1,0 +1,344 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/4815912b-612f-44f0-b3e2-bcd356657616.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "625",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4815912b-612f-44f0-b3e2-bcd356657616",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/4815912b-612f-44f0-b3e2-bcd356657616",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsq6JPR%EF%BC%8FlEyKFCfY9Uehtbc",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "祖国のために［子息を]亡くした父母の協会∽625",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "告知／声明",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "1色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "藍",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "祖国のために［子息を]亡くした父母の協会",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "790",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "575",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Union des Peres et des Meres dont les enfants sont morts pour la PatrieA Tous Les Francais A l'heure ou l'Allemagne vaincue entend sonner le glas de la justice et ou la France victorieuse voit se lever l'aube de gloire, payee de tant de sang et de ruines, les morts, comme les vivants, tressaillent de fierte. Ils veulent qu'apres la victoire la paix garantisse a jamais nos frontieres de l'Est contre le retour de la barbarie. La PAIX JUSTE, selon la formule du grand President WILSON, est celle qui donnera SECURITE, REPARATIONS et CHATIMENT. Les Morts rappellent, pour l'obtenir, ce que la Patrie doit a leur sacrifice et a l'heroisme de leurs freres d'armes de terre et de mer.Ils rappellent aussi ce qu'elle doit a “l'UNION SACREE”, aussi necessaire au moment de la Resurrection triomphale qu'elle l'a ete au moment du danger. La France, malgre ses blessures, sera plus grande et plus riche que jamais, si ses enfants, restent unis comme ils l'etaient sur les champs de bataille, travaillent d'un meme cﾅ砥r a son relevement, afin que tous aient leur part de sa richesse comme de sa gloire. Aujourd'hui la gratitude nationale unanime acclame les sublimes soldats et marins de l'Entente et leurs chefs, les morts et les vivants, qui, dans l'epreuve comme dans la Victoire, ont grandi l'Histoire de l'Humanite. Elle demande que le Pays acquitte toute sa dette envers les combattants et ceux que la Mort de leurs Fils a laisses sans soutien. Mais, demain, le travail de restauration commencera. Il faut que, dans un elan commun de concorde et de justice sociales eteignant les defiances et les querelles sterilisantes, les mains se serrent pour accomplir les grandes taches de la Paix. “L'Union des Peres et des Meres meurtris” voudrait, apres l'epreuve sanglante, contribuer a donner a la France le bienfait consolateur d'une entente fraternelle entre les Francais victorieux.L'UNION.Siege de L'Union : 10, Rue Laffitte, ParisUnion des Arts Graphiques, 41, Rue Richer, Paris-Tel,. Gut. 57-31（祖国のために［子息を]亡くした父母の協会／／　すべてのフランス人へ、／／　敗れ去ったドイツが正義という弔鐘を耳にし、勝ち誇るフランスが血と破壊を代償とした栄光の日が昇るのを目にするとき、生者同様に死者も誇りに打ち震える。／　勝利に続いて、平和によって永遠に東部の国境が野蛮の回帰に対して守られることを望んでいる。／　ウィルソン大統領の辞によれば、正義の平和は、安全・復興・罰を与えるものである。／　死者は、祖国がそれを得るために、かれらの犠牲と陸軍・海軍の英雄精神に負っているものを思い出させる。／　死者はまた、祖国が、危機のときと同じく、復興のときにも必要な「神聖同盟」に負っているものを思い出させる。／　フランスは、その被害にもかかわらず、もしその子供たちが、すべての人が富と名誉に与るべく、戦場にあったときと同じく結束し、復興のために心を合わせて働くならば、かつてないほど偉大で、豊かなものとなるだろう。／　今日、国家の一同の感謝の念は、試練にあっても勝利にあっても、人類の歴史に寄与した、協商国の陸海軍の尊い兵士たち、指揮者、生者、死者を称える。／　この感謝の念はまた、国家が兵士や、子息の死が寄る辺なきものとした人々に対する負債を解消することを求める。／　明日には、復興が始まるだろう。／　力を殺ぐ不信や争いを収める社会の融和と正義の発露において、平和という偉大な責務を達成するために連帯することが必要である。／　「子息を亡くした父母連盟」は、流血を見た試練の後、勝ち誇るフランス人たちの間の友好関係という慰謝する恩恵を与えることに寄与することを望むのである。／／　連盟／　連盟本部：パリ、ラフィット通り10. ／　グラフィックアート連盟、パリ、リシェ通り41.）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/13123/1332747962950.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:08+00:00"
+    },
+    "o:id": 13123,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30030",
+            "o:id": 30030
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-13T07:08:04+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13123",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/4815912b-612f-44f0-b3e2-bcd356657616/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

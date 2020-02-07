@@ -1,0 +1,142 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/3262c7bf-bf02-4eb2-a73f-629ddec2a728/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "（和装本の秩）∽2-4-4-1",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "（和装本の秩）∽2-4-4-1"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "2-4-4-1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "概要-箱",
+            "value": "2"
+        },
+        {
+            "label": "概要-群",
+            "value": "4"
+        },
+        {
+            "label": "概要-体",
+            "value": "4"
+        },
+        {
+            "label": "概要-部",
+            "value": "1"
+        },
+        {
+            "label": "概要-名称",
+            "value": "（和装本の秩）"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "238"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "169"
+        },
+        {
+            "label": "概要-物的状態-高さ",
+            "value": "37"
+        },
+        {
+            "label": "概要-物的状態-返",
+            "value": "同"
+        },
+        {
+            "label": "概要-物的状態-角度",
+            "value": "90"
+        },
+        {
+            "label": "概要-物的状態-折",
+            "value": "なし"
+        },
+        {
+            "label": "情報入力",
+            "value": "吉田 正高"
+        },
+        {
+            "label": "情報分析",
+            "value": "吉田 正高"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "箱"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "99包紙・仕切りなど"
+        },
+        {
+            "label": "資源状態",
+            "value": "その他"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/19053"
+        },
+        {
+            "label": "sort",
+            "value": "0002-0004-0004-0001"
+        },
+        {
+            "label": "Identifier",
+            "value": "3262c7bf-bf02-4eb2-a73f-629ddec2a728"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/3262c7bf-bf02-4eb2-a73f-629ddec2a728/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

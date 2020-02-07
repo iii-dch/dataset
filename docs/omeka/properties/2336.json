@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2336",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2336,
+    "o:label": "物的状態-角度（L6-036）",
+    "o:local_name": "l6-036",
+    "o:term": "ex:l6-036",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

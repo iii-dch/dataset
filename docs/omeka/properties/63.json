@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/63",
+    "@type": "o:Property",
+    "o:comment": "The thesis degree.",
+    "o:id": 63,
+    "o:label": "degree",
+    "o:local_name": "degree",
+    "o:term": "bibo:degree",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/218",
+    "@type": "o:Property",
+    "o:comment": "Use Restrictions",
+    "o:id": 218,
+    "o:label": "Use Restrictions",
+    "o:local_name": "useRestrictions",
+    "o:term": "archiveshub:useRestrictions",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,608 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/f1bc6277-c46e-49f9-babe-18b373ece5fc.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "4-3-40",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "65",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f1bc6277-c46e-49f9-babe-18b373ece5fc",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/f1bc6277-c46e-49f9-babe-18b373ece5fc",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmuT79HMC8R5O0IBW6BjYXwq",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "人類学講義　第七回　∽4-3-40",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00029": [
+        {
+            "@value": "冊子体",
+            "is_public": true,
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00031": [
+        {
+            "@value": "封筒番号 638",
+            "is_public": true,
+            "property_id": 2422,
+            "property_label": "備考（CUSTOM_00031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-013": [
+        {
+            "@value": "4",
+            "is_public": true,
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "3",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "40",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "人類学講義　第七回　",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "理学博士　坪井正五郎先生　述",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "252",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "170",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済み",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-057": [
+        {
+            "@value": "坪井正五郎",
+            "is_public": true,
+            "property_id": 2357,
+            "property_label": "索引事項-人名（L6-057）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "人類学に関する講義の口述筆記。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja　",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "著作権の保護期間満了",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0003-0040",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26184/1332392546571.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:16+00:00"
+    },
+    "o:id": 26184,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53480",
+            "o:id": 53480
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29593",
+            "o:id": 29593
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29594",
+            "o:id": 29594
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29595",
+            "o:id": 29595
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29596",
+            "o:id": 29596
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29597",
+            "o:id": 29597
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29598",
+            "o:id": 29598
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29599",
+            "o:id": 29599
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29600",
+            "o:id": 29600
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29601",
+            "o:id": 29601
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29602",
+            "o:id": 29602
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29603",
+            "o:id": 29603
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29604",
+            "o:id": 29604
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29605",
+            "o:id": 29605
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29606",
+            "o:id": 29606
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29607",
+            "o:id": 29607
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29608",
+            "o:id": 29608
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29609",
+            "o:id": 29609
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29610",
+            "o:id": 29610
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29611",
+            "o:id": 29611
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29612",
+            "o:id": 29612
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29613",
+            "o:id": 29613
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29614",
+            "o:id": 29614
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29615",
+            "o:id": 29615
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29616",
+            "o:id": 29616
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29617",
+            "o:id": 29617
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29618",
+            "o:id": 29618
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29619",
+            "o:id": 29619
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29620",
+            "o:id": 29620
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29621",
+            "o:id": 29621
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29622",
+            "o:id": 29622
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29623",
+            "o:id": 29623
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29624",
+            "o:id": 29624
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29625",
+            "o:id": 29625
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29626",
+            "o:id": 29626
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29627",
+            "o:id": 29627
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29628",
+            "o:id": 29628
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29629",
+            "o:id": 29629
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29630",
+            "o:id": 29630
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29631",
+            "o:id": 29631
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29632",
+            "o:id": 29632
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29633",
+            "o:id": 29633
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29634",
+            "o:id": 29634
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29635",
+            "o:id": 29635
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29636",
+            "o:id": 29636
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29637",
+            "o:id": 29637
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29638",
+            "o:id": 29638
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29639",
+            "o:id": 29639
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29640",
+            "o:id": 29640
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29641",
+            "o:id": 29641
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29642",
+            "o:id": 29642
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29643",
+            "o:id": 29643
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29644",
+            "o:id": 29644
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29645",
+            "o:id": 29645
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29646",
+            "o:id": 29646
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29647",
+            "o:id": 29647
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29648",
+            "o:id": 29648
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29649",
+            "o:id": 29649
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29650",
+            "o:id": 29650
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29651",
+            "o:id": 29651
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29652",
+            "o:id": 29652
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29653",
+            "o:id": 29653
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29654",
+            "o:id": 29654
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29655",
+            "o:id": 29655
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29656",
+            "o:id": 29656
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29657",
+            "o:id": 29657
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-28T04:24:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26184",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/f1bc6277-c46e-49f9-babe-18b373ece5fc/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

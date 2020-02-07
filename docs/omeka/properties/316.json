@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/316",
+    "@type": "o:Property",
+    "o:comment": "Volumeの読み又は翻字形",
+    "o:id": 316,
+    "o:label": "Volume Transcription",
+    "o:local_name": "volumeTranscription",
+    "o:term": "dcndl:volumeTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

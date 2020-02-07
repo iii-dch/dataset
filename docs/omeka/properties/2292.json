@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2292",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2292,
+    "o:label": "保存場所（L5-006）",
+    "o:local_name": "l5-006",
+    "o:term": "ex:l5-006",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

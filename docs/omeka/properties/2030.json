@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2030",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2030,
+    "o:label": "デジタルカメラ‐入力付属機器（FILE-021）",
+    "o:local_name": "file-021",
+    "o:term": "ex:file-021",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

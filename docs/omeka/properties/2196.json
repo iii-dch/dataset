@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2196",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2196,
+    "o:label": "目録発行者（L2-003）",
+    "o:local_name": "l2-003",
+    "o:term": "ex:l2-003",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

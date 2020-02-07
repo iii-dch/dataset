@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/220",
+    "@type": "o:Property",
+    "o:comment": "Other Finding Aids",
+    "o:id": 220,
+    "o:label": "Other Finding Aids",
+    "o:local_name": "otherFindingAids",
+    "o:term": "archiveshub:otherFindingAids",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

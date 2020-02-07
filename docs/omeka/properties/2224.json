@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2224",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2224,
+    "o:label": "物的状態-物的状態記述（L3-016）",
+    "o:local_name": "l3-016",
+    "o:term": "ex:l3-016",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

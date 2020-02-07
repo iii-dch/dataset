@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/323",
+    "@type": "o:Property",
+    "o:comment": "Volume Creatorの読み又は翻字形",
+    "o:id": 323,
+    "o:label": "Volume Creator Transcription",
+    "o:local_name": "volumeCreatorTranscription",
+    "o:term": "dcndl:volumeCreatorTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/225",
+    "@type": "o:Property",
+    "o:comment": "Note",
+    "o:id": 225,
+    "o:label": "Note",
+    "o:local_name": "note",
+    "o:term": "archiveshub:note",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/276",
+    "@type": "o:Property",
+    "o:comment": "出版地・頒布地",
+    "o:id": 276,
+    "o:label": "Publication Place",
+    "o:local_name": "publicationPlace",
+    "o:term": "dcndl:publicationPlace",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

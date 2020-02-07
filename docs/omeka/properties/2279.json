@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2279",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2279,
+    "o:label": "物的情報-数量（L4-015）",
+    "o:local_name": "l4-015",
+    "o:term": "ex:l4-015",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

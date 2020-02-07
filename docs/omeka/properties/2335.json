@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2335",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2335,
+    "o:label": "物的状態-返（L6-035）",
+    "o:local_name": "l6-035",
+    "o:term": "ex:l6-035",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

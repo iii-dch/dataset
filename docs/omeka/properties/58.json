@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/58",
+    "@type": "o:Property",
+    "o:comment": "An ordered list of authors. Normally, this list is seen as a priority list that order authors by importance.",
+    "o:id": 58,
+    "o:label": "list of authors",
+    "o:local_name": "authorList",
+    "o:term": "bibo:authorList",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

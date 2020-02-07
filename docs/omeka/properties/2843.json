@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2843",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the URI of IIIF Manifest.",
+    "o:id": 2843,
+    "o:label": "Manifest Uri",
+    "o:local_name": "manifestUri",
+    "o:term": "uterms:manifestUri",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/21",
+        "o:id": 21
+    }
+}

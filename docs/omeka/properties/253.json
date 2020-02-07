@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/253",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 253,
+    "o:label": "hasCanvases",
+    "o:local_name": "hasCanvases",
+    "o:term": "sc:hasCanvases",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

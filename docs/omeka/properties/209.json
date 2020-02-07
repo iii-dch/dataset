@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/209",
+    "@type": "o:Property",
+    "o:comment": "The date of birth of the person.",
+    "o:id": 209,
+    "o:label": "Date of Birth",
+    "o:local_name": "dateBirth",
+    "o:term": "archiveshub:dateBirth",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2046",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2046,
+    "o:label": "スキャナー‐出力設定（FILE-037）",
+    "o:local_name": "file-037",
+    "o:term": "ex:file-037",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

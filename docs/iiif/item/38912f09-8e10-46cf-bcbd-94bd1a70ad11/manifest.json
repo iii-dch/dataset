@@ -1,0 +1,154 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/38912f09-8e10-46cf-bcbd-94bd1a70ad11/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "「三十年間の私の記者生活」の記事がはいっていた封筒∽I_4_50_10",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "「三十年間の私の記者生活」の記事がはいっていた封筒∽I_4_50_10"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "//"
+        },
+        {
+            "label": "資料ID",
+            "value": "I_4_50_10"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-箱",
+            "value": "I"
+        },
+        {
+            "label": "概要-群",
+            "value": "4"
+        },
+        {
+            "label": "概要-体",
+            "value": "50"
+        },
+        {
+            "label": "概要-部",
+            "value": "10"
+        },
+        {
+            "label": "概要-名称",
+            "value": "「三十年間の私の記者生活」の記事がはいっていた封筒"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "420"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "280"
+        },
+        {
+            "label": "情報入力",
+            "value": "福  博充"
+        },
+        {
+            "label": "情報分析",
+            "value": "福  博充"
+        },
+        {
+            "label": "形態・形式情報-資源タイプ",
+            "value": "封筒or袋"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "MITA PHOTO ART CO.,LTDのもの。表に青で「菊池幽芳追憶記　小野秀雄所有」と書いてある"
+        },
+        {
+            "label": "出版者",
+            "value": "大阪毎日新聞社／東京日日新聞社"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "過程",
+            "value": "その他の過程"
+        },
+        {
+            "label": "資源状態",
+            "value": "単紙/単体"
+        },
+        {
+            "label": "備考",
+            "value": "M2階でG４の付箋あり。やや破損が激しい。I-4-50-1からI-4-50-9まではこの封筒にはいっていたもの"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/8177"
+        },
+        {
+            "label": "sort",
+            "value": "I-0004-0050-0010"
+        },
+        {
+            "label": "Identifier",
+            "value": "38912f09-8e10-46cf-bcbd-94bd1a70ad11"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/38912f09-8e10-46cf-bcbd-94bd1a70ad11/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

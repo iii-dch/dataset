@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/134",
+    "@type": "o:Property",
+    "o:comment": "A Skype ID",
+    "o:id": 134,
+    "o:label": "Skype ID",
+    "o:local_name": "skypeID",
+    "o:term": "foaf:skypeID",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

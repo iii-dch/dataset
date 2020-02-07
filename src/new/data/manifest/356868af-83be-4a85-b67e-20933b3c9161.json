@@ -1,0 +1,90 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/356868af-83be-4a85-b67e-20933b3c9161/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "description": "内容小見出（附録）／収録話名: 坊やがいない; 狼の会議; 悪だくみ; 赤い花; モウグリの怒り; 人間の部落; すてきな短剣; 古城の宝",
+    "label": "低学年向の名作漫画　ジャングル・ブック",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "低学年向の名作漫画　ジャングル・ブック"
+        },
+        {
+            "label": "Identifier",
+            "value": "356868af-83be-4a85-b67e-20933b3c9161"
+        },
+        {
+            "label": "Sort",
+            "value": "OI008"
+        },
+        {
+            "label": "Type",
+            "value": [
+                "コミック",
+                "単行本"
+            ]
+        },
+        {
+            "label": "Creator",
+            "value": "伊藤隆夫"
+        },
+        {
+            "label": "Publisher",
+            "value": "東京漫画出版社"
+        },
+        {
+            "label": "Date",
+            "value": "1953-12-20"
+        },
+        {
+            "label": "Price",
+            "value": "130"
+        },
+        {
+            "label": "Extent",
+            "value": "185×140×220"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/61064"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/356868af-83be-4a85-b67e-20933b3c9161/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": 200,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": 200,
+                                "width": 200
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.5.9",
+                    "width": 200
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

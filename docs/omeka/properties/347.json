@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/347",
+    "@type": "o:Property",
+    "o:comment": "This relationship asserts that the subject (a Resource Map) describes the object (an Aggregation).",
+    "o:id": 347,
+    "o:label": "Describes",
+    "o:local_name": "describes",
+    "o:term": "ore:describes",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/9",
+        "o:id": 9
+    }
+}

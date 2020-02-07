@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/236",
+    "@type": "o:Property",
+    "o:comment": "A number of metres",
+    "o:id": 236,
+    "o:label": "Metre",
+    "o:local_name": "metre",
+    "o:term": "archiveshub:metre",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

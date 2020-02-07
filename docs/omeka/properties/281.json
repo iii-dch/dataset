@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/281",
+    "@type": "o:Property",
+    "o:comment": "原資料の識別子",
+    "o:id": 281,
+    "o:label": "Source Identifier",
+    "o:local_name": "sourceIdentifier",
+    "o:term": "dcndl:sourceIdentifier",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

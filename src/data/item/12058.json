@@ -1,0 +1,344 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12058",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "596",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6ea0da16-280f-42ea-8377-4477173e2026",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/6ea0da16-280f-42ea-8377-4477173e2026",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsgQbGLjLkX1UgUtt7Re6OH",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "覚えておこう∽596",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "戦意昂揚",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "イタリア",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "Istituto Geografico De Agostini・Novara",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "平版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "描画石版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "5色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "黄、赤、藍、墨、緑",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "覚えておこう",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "784",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "510",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "RICORDIAMOSERBIA1914: luglio 23-28L'Austria-Ungheria, senza consultare l'alleata Italia, presenta alla Serbia un brutale &quot;ultimatum&quot;- che non ha l'uguale nei tempi civili - e le dichiara la guerra.1914: luglio 27La Serbia accoglie i nove decimi dell'&quot;ultimatum&quot; austro-ungarico e domanda l'arbitrato sui pochi punti controversi.RUSSIA1914: luglio 31La Germania sostiene l'Austria-Ungheria nella politica aggressiva di guerra e presenta un &quot;ultimatum&quot; alla Russia.1914: luglio 31La Russia, dopo di avere in vano proposta la mediazione, si prepara a difendere la Serbia contro la sfacciata prepotenza dell'Austria-Ungheria.FRANCIA1914: agosto 1-3La Germania dichiara la guerra alla Russia; ripudia le proposte di mediazione italiane, inglesi e francesi, e dichiara la guerra alla Francia.1914: luglio 31-agosto 2La Francia sostiene l'alleata Russia e rende noto all'Inghilterra che rispettera la neutralita del Belgio.BELGIO1914: agosto 1-2La Germania invade il Lussemburgo &quot;neutrale&quot; e intima al Belgio &quot;neutrale&quot; di lasciar passare truppe sul territorio belga per colpire alle spalle la Francia.1914: agosto 2Il Belgio si oppone alla violazione armata della propria neutralita da parte delle truppe tedesche, e domanda aiuto all'Inghilterra e alla Francia.INGHILTERRA1914: agosto 4La Germania respinge tutte le richieste inglesi per il rispetto assoluto della-neutralita belga.1914: agosto 4-5L'Inghilterra, riusciti vani i suoi reiterati appelli al rispetto assoluto della neutralita del Belgio, dichiara la guerra alla Germania violatrice.INDIA INGLESE1914 agostoLa Turchia si unisce alle Potenze centrali, dichiara la &quot;Guerra Santa&quot; e rinnove i massacri dei Cristiani nell'Armenia.1914: agostoIndia intera, dai suoi Principi ai popoli tutti, abbraccia la causa generosa dell'Inghilterra e manda un primo esercito in Europa.CANADA1914: agostoLa Germania fomenta disordini nel Messico contro gli Stati Uniti con la conniveza de' propri agenti diplomatici e consolari.1914: settembreIl Canada prepara e manda in Europa un primo esercito in aiuto delle forze inglesi combattenti in Francia per la difesa del diritto delle genti.AUSTRALIA1914: settembreL'esercito tedesco compie oltraggi scandalosi nel Belgio e in Francia contro il clero cattolico, le donne ed i bambini.1914: settembreL'Australia segue lo spontaneo esempio edificante dell'India e del Canada e manda un primo esercito in Europa per sostenere la leale causa degl'inglesi.NOVA ZELANDA1914: settembreLa Germania bombarda dal mare precchie citta indifese unccidendo donne e bambini.1914: settembreLa Nuova Zelanda invia un primo esercito in Europa in sostegno dei buoni diritti democratici dell'Inghilterra e degli Alleati.UN. AFRICA MERID.1914 ottobre 28La Germania tenta di provocare una rivoluzione nei possedimenti inglesi dell'Africa meridionale.1914:settembre-1915: maggioIl generale boero Botha sventa gl'igniminiosi intrighi tedeschi e conquista la colonia tedesca dell'Africa del sud-ovesto.GIAPPONE1915: maggio 7La Germania affonda il transatlantico &quot;Lusitania&quot; e periscono 1134 passeggeri civili inermi, alcuni di paesi neutrali.1914: novembre 7Il Giappone, leale alleato dell'Inghilterra, annienta le difese belliche di Kiao-ciou, la &quot;Perla delle colonie tedesche&quot;.MONTENEGRO1915: ottobre-dicembreL'esercito Austro-Ungarico si copre d'ignominiose gesta d'atrocita in Serbia.1914: agosto 6Il Montenegro si unisce alle Potenze degli Alleati dell'Intesa.ITALIA1915: epoche varie ed anni seguentiLa Germania affonda &quot;navi-ospedale&quot; poste sotto la salvaguardia della &quot;Croce-Rossa&quot;.1915: maggio 23L'Italia, convinta della brutalita aggressiva della guerra che la Germania e l'Autria-Ungheria scatenarono, si unisce all'Intesa e ai suoi Alleati.PORTOGALLO1915: settembre 15La Bulgaria si unisce alle Potenze centrali.1916: marzo 10Il Portogallo prende attiva parte alle operazioni terrestri contro la Germania.ROMANIA1915: autunno ed epoche varie in seguitoLa Germania rinnova gli orrori della schiavitu, deportando dai territori invasi nel Belgio e nella Francia i non combattente per usarne a suo beneplacito.1916: agosto 27La Romania si unisce alle Potenze dell'Intesa contro gl'Imperi Centrali.STATI UNITI1916: maggio 4La Germania manca ancora una volta alla parola data agli Stati Uniti di rispettare la vita dei neutri sul mare.1917: aprile 5Gli Stati Uniti, indignati dalle brutalita tedesche e da tutti gl'intrighi sleali contro i neutri, dichiarano la guerra alla Germania.BRASILE1917: primavera-estateLe Repubbliche americane di Cuba, Guatemala, Hondulas, Panama, Bolivia, Brasile ed Urguay dichiarano la guerra alla Germania.1917: primavera-estateLa Repubblica africana di Liberia, la repubblica asiatica della Cina e il regno asiatico del Siam si uniscono agli Alleati contro la Germania.Perche tutte le cinque parti del mondo sono contro la Germania?Perche la Germania la provocato e straziato il mondo.Perche la Germania nel luglio 1914 non ha voluto mantenere la pace con una Conferenza delle Nazioni?Perche la Germania voleva con la  prepotenza trascinare nella schiavitu tutte le Nazioni.Perche la Germania ricorre per vincere, ai delitti piu atroci e alle frodi piu basse?Perche la Germania ha paura della Giustizia.Uomini tutti! Se volete la vera Pace, che duri, strappate alla Germania le sue armi assassine!（覚えておこうなぜ世界の5つの地域すべてが、ドイツに反対しているのか？ドイツが世界を挑発し、苦しめたからである。なぜ1914年にドイツは諸国民会議との平和を維持しようとしなかったのか？ドイツは力ずくですべての諸国民を隷属させようとしていたからだ。なぜドイツは、勝つために　もっとも残忍な犯罪ともっとも低劣な欺瞞にうったえたのか？ドイツは正義を恐れているからだ。すべての人々よ！真の平和がつづくことを願うならば、ドイツから人殺しの武器をはぎ取ろう！）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12058/1332748115533.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:53+00:00"
+    },
+    "o:id": 12058,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30359",
+            "o:id": 30359
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-13T13:53:17+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12058",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/6ea0da16-280f-42ea-8377-4477173e2026/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

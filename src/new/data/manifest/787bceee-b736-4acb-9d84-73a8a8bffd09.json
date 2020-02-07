@@ -1,0 +1,131 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "見立町鑑大地しん（仮） ∽123",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "見立町鑑大地しん（仮） ∽123"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "123"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "見立町鑑／大地しん行司　火事ノ出たこくげんハ　四ッ谷／ミなミなのじくヲ　するが町勧進元　三ヶ所へ御小屋ハ橘町／銭ハいづくも内藤新宿 ｛東の方｝所しきハ　残らづ高なハ／をきテいる　人の目ハ赤づ／あちこちへ　火事ハとび沢町／早桶の　替りハ田原町／をスくい米が　おルだろふト云神田｛略｝｛西の方｝世界の人ハ　みなみな根津／お職の　手間ハ揚や町／八百万の　神々ハ出雲町／渡世の　休ハ三すじ町／職人の　はんでうハ大工町／町々通ハ　凸凹の久保町｛略｝　　 "
+        },
+        {
+            "label": "概要-名称",
+            "value": "見立町鑑大地しん（仮） "
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "富沢"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/11723"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmsixuZKIDgPPLIJxyONwqUA"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0123"
+        },
+        {
+            "label": "Identifier",
+            "value": "787bceee-b736-4acb-9d84-73a8a8bffd09"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/787bceee-b736-4acb-9d84-73a8a8bffd09",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/12818",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/787bceee-b736-4acb-9d84-73a8a8bffd09/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/12818/1332321367858.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 955
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12818/1332321367858.jpg"
+                    },
+                    "width": 955
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/12818/1332321367858.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

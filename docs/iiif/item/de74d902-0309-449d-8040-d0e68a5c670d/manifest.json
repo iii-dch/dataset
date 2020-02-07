@@ -1,0 +1,197 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/de74d902-0309-449d-8040-d0e68a5c670d/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "新聞之日本 3304号 (1931-05-04)",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "新聞之日本 3304号 (1931-05-04)"
+        },
+        {
+            "label": "資料ID",
+            "value": "SN7_19310504"
+        },
+        {
+            "label": "出版社",
+            "value": "新聞之日本社"
+        },
+        {
+            "label": "出版年月日",
+            "value": "1931-05-04"
+        },
+        {
+            "label": "号数",
+            "value": "3304"
+        },
+        {
+            "label": "サイズ",
+            "value": "385×270mm"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "枚数",
+            "value": "4"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/3"
+        },
+        {
+            "label": "Identifier",
+            "value": "de74d902-0309-449d-8040-d0e68a5c670d"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvffmTQLzJ39VI5WsrtURHE%EF%BC%8B4WEGuNQCwK5EPMzcYLg646Z2ZUkaTNoZXoVlO7nXoc%3D"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/de74d902-0309-449d-8040-d0e68a5c670d",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/2425",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/2425/shimbunnonihon7_0012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 2002
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "1面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/2425/shimbunnonihon7_0012.jpg"
+                    },
+                    "width": 2002
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p2",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/2425/shimbunnonihon7_0013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 2002
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "2面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/2425/shimbunnonihon7_0013.jpg"
+                    },
+                    "width": 2002
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p3",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/2425/shimbunnonihon7_0014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 2002
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "3面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/2425/shimbunnonihon7_0014.jpg"
+                    },
+                    "width": 2002
+                },
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/de74d902-0309-449d-8040-d0e68a5c670d/canvas/p4",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/2425/shimbunnonihon7_0015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 2002
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "4面",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/2425/shimbunnonihon7_0015.jpg"
+                    },
+                    "width": 2002
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/2425/shimbunnonihon7_0012.jpg",
+    "viewingDirection": "right-to-left"
+}

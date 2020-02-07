@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2183",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2183,
+    "o:label": "評価結果-鮮鋭度（FILE-173）",
+    "o:local_name": "file-173",
+    "o:term": "ex:file-173",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

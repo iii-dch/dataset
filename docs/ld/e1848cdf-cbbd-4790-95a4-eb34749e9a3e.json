@@ -1,0 +1,262 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/e1848cdf-cbbd-4790-95a4-eb34749e9a3e.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:80 資料No.1009",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e1848cdf-cbbd-4790-95a4-eb34749e9a3e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/e1848cdf-cbbd-4790-95a4-eb34749e9a3e",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvS2I%EF%BC%8F6elqs%EF%BC%8FZITq7LijJ84",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:80 資料No.1009",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "斯■（か■■）なお咄しハ吟香も甚だ■或で五座りますが併し如（い）／何（か）にも奇談だからとて態々お知らせ下されました故ざッ／と記します上総の国市原郡矢田村に平田留次郎と云ふ者／あり年ハ四十を過（すぎ）たれども陰痿（いんい）の症（しやう）にて陽物が役に立（たた）ざ／るゆゑ大に心を苦しめ何（なに）とぞ全快して女房を持（も）たねバ男（おと）／子（こ）と生れた甲斐（かひ）がないと常々心配して居りましたが本年／一月初旬のころ二日市場と云ふ処にて六部に出逢ひ風と／思ひ付きてお前がたハ諸国を広く歩（ある）きなさる人だから色／々の事も御存じだろうが陰茎の勃起（たた）ないのが癒（おほ）る妙方ハ／有りませんかと尋ねたるに彼の六部が夫（それ）ハ死だ女を淫れ／バ急（きッ）とお役に立（たつ）やうに成ること受け合ひで御座りますと／教へけるにぞ留次郎ハ大に喜こび何（どう）ぞ其法を行なひたい／物と思ひつつ月日を過しけるが四月二十三日のころ鶴／舞村の杉山金蔵かたへ行て泊リ居たる内に田尾村の般若／寺憂と云ふ所へ蕨取（わらびと）りに往きける途中にて風と二三人打／ち寄り咄し居るを聞けバ村内の何がしが娘ハ僅か十七に／て一昨日死（しん）だとの事なり留次郎ハ是を聞て暗（ひそか）に喜こび十／七とハ殊に有り難い何でも彼（あ）の六部が■へて呉れた事を／是非とも遣（やッ）て見やうと其女の死骸を埋（うづ）めた処を委しく聞（きき）／糺（ただ）して夫から先ツ酒を一升買ひ来り金蔵と共に引掛（ひッか）けた／勢ひにて其夜の七時ごろ彼の墓場に至り有り合ハせたる／竹の棒にて土を掘り撥■棺の蓋（ふた）を打ち毀（こわ）して女の死骸を／抱出して夫（それ）から跡の咄しハマア何ぶん五免を蒙りませ／う併し留次郎ハ堂か公か存意を遂げた様子なれども女の／死骸を元の通りに埋（う）め直してハ其効能が無いと六部が■／へたとか云ふ事にて其■ふ打ち来（き）て立去りしより遂に縛／せられて本月二日裁判所へ送致せられましたと申ス事だ／が例（ため）し少（すく）なき事なれバ如何に処分せらるるやハ存じませ／ぬが扨々困（こま）ッた人足が跡から跡から幾らも出（で）て来（く）つにハ実／に驚（あき）れ返りました ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1993年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:一恵斎芳幾/彫師:渡辺彫栄",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "陰痿の男、死女を姦す(読み下し文_括弧なし:上総の国市原郡矢田村に平田留次郎といへる奴。年ハ／四拾に余れども。陰痿の症にて陽物の勃起ないのを／嘆きゐたるに。或時六部に出会て不斗此ことを問たれバ。／死たる女を犯すときい立ない病ひが全快ときき。喜ぶ折節／寉舞村の何某とやらの娘にて十七才にて黄泉行しを。一昨日埋葬／したとの話を逐一聞て墓場に至り。埋めし土を堀揆き棺を／毀して引出し。無言の死骸を強奸なし。埋めも／やらず棄おきたるが。明治八年五月二日事／発露て縛せられ。裁判所へと／拘引しハ例し少なき／曲者なり。／転々堂略記 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0080-1009",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20078/1333099079497.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:49+00:00"
+    },
+    "o:id": 20078,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33608",
+            "o:id": 33608
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:32:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/20078",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/e1848cdf-cbbd-4790-95a4-eb34749e9a3e/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

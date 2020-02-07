@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2334",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2334,
+    "o:label": "物的状態-横（L6-034）",
+    "o:local_name": "l6-034",
+    "o:term": "ex:l6-034",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

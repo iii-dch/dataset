@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2839",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the link to the annotated manifest.",
+    "o:id": 2839,
+    "o:label": "Annotated Manifest",
+    "o:local_name": "annotedManifest",
+    "o:term": "uterms:annotedManifest",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/21",
+        "o:id": 21
+    }
+}

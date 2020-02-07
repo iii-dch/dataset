@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "こうなってもいいのかー∽410",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "こうなってもいいのかー∽410"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "410"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "こうなってもいいのかー"
+        },
+        {
+            "label": "概要-作成",
+            "value": "F. Gregory Brown"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "1015"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "628"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "To prevent this - Buy war savings certificates now.（こうなってもいいのかーさあ、戦時貯蓄証券を買おう）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:-"
+        },
+        {
+            "label": "内容分類",
+            "value": "戦時貯蓄/切手"
+        },
+        {
+            "label": "制作国",
+            "value": "イギリス"
+        },
+        {
+            "label": "クライアント",
+            "value": "-"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "描画石版"
+        },
+        {
+            "label": "版式備考",
+            "value": "網伏せ"
+        },
+        {
+            "label": "色数",
+            "value": "8色  "
+        },
+        {
+            "label": "色名",
+            "value": "黄、赤、薄赤、墨、浅葱、濃灰色、ベージュグレー、薄緑"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvQyvsUkr4cMFJvsrvv96mx"
+        },
+        {
+            "label": "Identifier",
+            "value": "2cf9072e-ad9c-4500-838c-02aac567aecb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/2cf9072e-ad9c-4500-838c-02aac567aecb",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/25356",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2cf9072e-ad9c-4500-838c-02aac567aecb/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/25356/1332747838836.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 661
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25356/1332747838836.jpg"
+                    },
+                    "width": 661
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/25356/1332747838836.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

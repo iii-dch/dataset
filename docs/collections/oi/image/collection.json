@@ -1,0 +1,6 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/collections/oi/image/collection.json",
+    "@type": "sc:Collection",
+    "manifests": []
+}

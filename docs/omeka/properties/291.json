@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/291",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の属する刊行物名",
+    "o:id": 291,
+    "o:label": "Publication Name",
+    "o:local_name": "publicationName",
+    "o:term": "dcndl:publicationName",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

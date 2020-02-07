@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/204",
+    "@type": "o:Property",
+    "o:comment": "A literal representation of the content of the document.",
+    "o:id": 204,
+    "o:label": "Body",
+    "o:local_name": "body",
+    "o:term": "archiveshub:body",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

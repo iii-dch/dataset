@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2236",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2236,
+    "o:label": "範囲と内容-タイトル（L3-027）",
+    "o:local_name": "l3-027",
+    "o:term": "ex:l3-027",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

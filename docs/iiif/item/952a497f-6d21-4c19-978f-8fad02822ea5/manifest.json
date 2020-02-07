@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/952a497f-6d21-4c19-978f-8fad02822ea5/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "元老院　元老院議長アントナン・デュボスト、ならびに内閣総理大臣兼陸軍省大臣ジョルジュ・クレマンソーの演説∽650",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "元老院　元老院議長アントナン・デュボスト、ならびに内閣総理大臣兼陸軍省大臣ジョルジュ・クレマンソーの演説∽650"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "1918"
+        },
+        {
+            "label": "資料ID",
+            "value": "650"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "元老院　元老院議長アントナン・デュボスト、ならびに内閣総理大臣兼陸軍省大臣ジョルジュ・クレマンソーの演説"
+        },
+        {
+            "label": "概要-作成",
+            "value": "-"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "997"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "644"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Republique Francaise.Liberte ・Egalite ・FraterniteSenat Extrait du Proces-Verbal de la Seance du Mardi 17 Septembre 1918Discours de M. Antonin Dubost, President du Senat, et de M. Georges Clemenceau, President du Conseil, Ministre de la Guerre. M. le President.- Mes chers collegues, notre premiere pensee, en nous reunissant a nouveau, va vers nos soldats, vers les plus grandssoldats de notre histoire, vers ceux qui commandent et ceux qui obeissent, vers ceux qui sont morts et ceux qui vont mourir encore, et dont la vie heroique et la mort glorieuse restitueront a la patrie sa puissance legitime et sa preeminence  morale. (Applaudissements.) Notre profonde, notre affectueuse reconnaissance va en meme temps vers tous nos allies confondus maintenant dans la communaute des succes comme dans celle des sacrifices. (Tres bien! tres bien!) C'est de la victoire de leurs armes associees que naitra seulement la paix du monde, c'est leur force maitresse seule, qui fixera les statuts de la future concorde internationale.(Vifs applaudissements.) Et nous, mes chers collegues, comment nous rendre dignes de pareils heros ?En travaillant comme ils combattent, avec une foi ardente dans la grandeur et la noblesse des buts poursuivis, avec l'unanimite des pensees et des actes necessaires a leur realisation, avec la fermete d'esprit indispensable pour dejouer les ruses par lesquelles l'Allemagne cherche, des aujourd'hui, a eviter le juste chatiment qu'elle merite. (Applaudissements vifs et repetes)M. Clemenceau, president de conseil, ministre de la guerre. ・Je demande la parole.M. le President. - La parole est a M. le President du Conseil. M. le President du Conseil. - Messieurs, apres les presidents des deux Assemblees, le Gouvernement de la Republique reclame, a son tour, l'honneur d'exprimer, dans la mesure ou les mots peuvent le faire,l'immense gratitude des peuples dignes de ce nom envers les merveilleux soldats de l'Entente, par qui les peuples de la terre vont se trouver enfin liberes des angoisses dans la supreme tourmente des lames de fond de la barbarie. (Applaudissements) Pendant un demi-siecle, pas un jour ne s'est ecoule sans que la France pacifique, en quete de realisations toujours plus hautes, n'eut a subir quelque indigne blessure d'un ennemi qui ne pardonnait pas a notre defaite passagere d'avoir sauve du naufrage la conscience du droit, les revendications imprescriptibles de l'independance dans la liberte. (Nouveaux applaudissements.) Vaincus, mais survivants, d'une vie superieure aux decisions de la force brutale, la terreur du Germain, dans le faste bruyant de ses fausses victoires, etait du redressement historique qui nous etait du. Pas un jour sans une menace de guerre. Pas un jour sans quelque savante brutalite de tyrannie. ≪ Le gantelet de fer ≫,  ≪  la poudre seche ≫ , ≪ l'epee aiguisee ≫ , furent le theme de la paix germanique sous la perpetuelle menace des catastrophes qui devaient etablir, parmi les hommes, l'implacable hegemonie. Nous avons vecu ces heures affreusement lentes parmi les pires outrages et les avances, plus humiliantes encore, d'une hasse hypocrise nous proposant l'acceptation du joug volontaire qui, seul, devait nous soustraire au cataclysme universel. Nous avons tout subi, dans l'attente silencieuse du jour inevitable qui nous etait du. (Tres bien! tres bien!) Et le moment vint ou, faute d'avoir pu nous reduire par la terreur, le pretendu maitre du monde, croyant l'heure venue des supremes defaillances, prit la resolution d'en finir avec la tranquille fierte des peuples qui osaient refuser de servir. Ce fut l'enorme meprise de son troupeau a l'impuissance des revoltes de noblesse chez les peuples qui avaient, jusque la, sauve leur droit a la vie independante. (Vive approbation.) Et sans cause avouable, sans l'apparence d'un pretexte, sans s'arreter meme aux invraisemblances des monsonges l'agresseur traditionnel des antiques ruees se jeta sur notre territoire pour reprendre le cours des grandes depredations. Sans une parole vaine, nos soldats partirent pour le sacrifice total que demandait le salut du foyer . Ce qu'ils furent, ce qu'ils sont, ce qu'ils feront, l'Histoire le dira. Nous le savons, nous, nous le savions d'avance ; c'est depuis hier, seulement que l'Allemagne effaree commence a comprendre quels hommes se sont dresses devant elle et a quels coups du sort sa folie de meurtre et de devastation l'a condamnee. (Tres bien! tres bien!) Imbecilement, elle avait cru que la victoire amnistierait tout en des hosannas de feu et de sang. Nous campagnes devastees, nos villes, nos villages effondres par la mine et par l'incendie, par les pillages methodiques, les sevices raffines jusque sur les modestes vergers du paysan francais, toutes les violences du passe revivant pour les hideuses joies de la brute avinee, hommes, femmes, enfants emmenes en esclavage, voila ce que le monde a vu, voila ce qu’il n’oubliera pas. (Vifs applamdissements.) Eh bien! non, il n'y aurait pas eu de victoire pour amnistier tant de crimes, pour faire oublier plus d'horreurs que les peuplades primitives n'en avaient pu accumuler. Et puis la victoire annoncee n'est pas venue et le plus terrible compte de peuple a peuple s'est ouvert. Il sera paye. (Applaudissements repetes.) Car apres quatre ans d'une gloire ingrate, voici qu'un renversement de fortune inattendu ・non pour nous ・amene, apres le grand reniement germanique de la civilisation universelle, le grand recul des armees du kaiser devant les peuples de conscience affranchie. Oui, le jour annonce depuis plus d'un siecle par notre hymne national est vraiment arrive ; les fils sont en train d'achever l'ﾅ砥vre immense commencee par les peres. La France n'est plus seule a justifier les armes, suivant la parole de notre grand penseur. C'est tous les peuples freres, dans une communion du droit humain comme il ne s'en vit jamais, qui vont achever la supreme victoire de la plus haute humanite. (Applaudissements.) Qui donc pourrait rever d'avoir vecu, meme dans le sang et les larmes, une plus belle histoire de l'homme pour une plus belle destinee? Civils et soldats, gouvernement et assemblees de l'Entente, tous furent au devoir. Ils y resteront jusqu'au devoir accompli. Tous dignes de la victoire parce qu'ils sauront l'honorer. Et cependant, dans cette enceinte ou siegent les accompli. Tous dignes de la Republique, nous nous manquerions a nous-memes si nous pouvions oublier que l'hommage supreme de la plus pure gloire va a nos combattants, a ces magnifiques poilus qui verront confirmer par l'histoire les lettres de noblesse qu'ils se sont eux-memes donees. Heros au stoicisme souriant qui, a cette heure meme, ne nous demandent rien que le droit d'achever l'ﾅ砥vre grandiose qui les sacre pour l'immortalite! (Nouveaux applaudissements.) Que veulent-ils? Que voulons-nous nous-memes ? Combattre, combattre victorieusement encore et toujours jusqu'a l'heure ou l'ennemi comprendra qu'il n'y a plus de transaction possible entre le crime et le droit. (Applaudissements.) Nous serions indignes du grand destin qui nous est echu si nous pouvions sacrifier quelque peuple petit ou grand aux appetits, aux rages de domination implacable qui se cachent encore sous les derniers mensonges de la barbaries. (Approbation.) J'entends dire que la paix ne peut etre amenee par une decision militaire. Ce n'est pas ce que disait l'Allemand quand il a dechaine dans la paix de l'Europe les horreurs de la guerre. Ce n'est pas ce qu'il annoncait hier encore quand ses orateurs, ses chefs se partageaient les peuples comme betail enchaine, annocant chez nous et realisant en Russie les demembrements qui devaient faire l'impuissance du monde sous la loi du fer. La decision militaire, l'Allemagne l'a voulue et nous a condamnes a la poursuivre. Nos morts ont donne leur sang au temoignage de l'acceptation du plus grand defi aux lois de l'homme civilise. Qu'il en soit donne comme l'Allemagne a voulu, comme l'Allemagne a fait. Nous ne chercherons que la paix et nous voulons la faire juste., solide, pour que ceux a venir soient sauves des abominations du passe. (Tres bien ! tres bien !) Allez a la victoire sans tache ! Tonte la France, toute l'humanite pensante sont avec vous. (Applaudissements vifs et prolonges. ・Les senateurs se levent et acclament M. le President du Conseil au moment ou il descend de la tribune.) Le Senat ordonne ensuite l'impression et l'affichage d'un extrait du Proces-Verbal de la Seance contenant les discours de M. Antonin Dubost, President du Senat et de M. Georges Clemenceau, President du Conseil.Pour extrait conforme : le President du Senat, Antonin Dubost.（フランス共和国／自由―平等―博愛／／元老院／1918年3月17日火曜日の議会の議事録からの抄録／／元老院議長アントナン・デュボスト、ならびに内閣総理大臣兼陸軍省大臣ジョルジュ・クレマンソーの演説／／議長：みなさん、こうしてまたわれわれが集まることで、われわれの思いがまず向かうのは、兵士たち、歴史上最も偉大な兵士たち、指揮するもの、それに従うもの、戦地に斃れ、死に行くものたち、その英雄的生と名誉ある死が祖国に正統な力と精神的優越を回復させるものたちに対してである。（拍手）われわれのこころからの、親愛なる感謝の念はまた、現在成功と同時に犠牲を共にする同盟国へと向けられる。（「そうだ！そうだ！」）世界の平和が生まれるのは、連合軍の勝利からのみであり、未来の国際的合意の地位を定めるのはその力のみである。（盛大な拍手）。／　みなさん、われわれは、いかにすればそのような英雄たちに相応しくなれるだろうか？それは、われわれの追求する目的の偉大さと高貴さを熱く信じ、その実現のために心と行動を合わせ、ドイツがかれらに相応しい罰を避けるべく行使する狡知の裏をかくために必要不可欠の決意を持ち、兵士たちが戦うが如くに、活動することによってである。（盛大かつ繰り返される拍手）／／クレマンソー、首相兼戦争省大臣―発言を求めます。／議長―首相は、発言をどうぞ。／首相：みなさん、両院の議長に続いて、共和国政府は、この世の諸国民が津波のように打ち寄せる野蛮の中の不安から解放されることに資する、同盟国の素晴らしい兵士たちに対する、諸国民の大きな感謝を、言葉のかぎりに表明する名誉を頂きたい。（拍手）／半世紀にわたり、平和なフランスが、より偉大な実現を目指しながらも、敵国からの被害を被ることのない日は一日としてなかった。敵国はわれわれの一時の敗北に、法の意識と自由における独立の永遠の要求を遭難してしまうことから救出するのを許さなかった。（あらたな拍手）／野蛮な力による決定に勝る生によって打ち倒されながれも、生き延びたドイツの恐怖は、偽の勝利の派手な誇示において、本来はわれわれのものであった歴史的復興によるものであった。／一日として戦争の脅威のない日はなかった。一日として独裁の野蛮のない日はなかった。「鉄の籠手」「乾いた火薬」「研がれた剣」が人びとのうちに容赦ない覇権を打ち立てた大破壊の永遠の脅威の下にある、ドイツの平和の主題をなした。／われわれはこのおそるべく緩慢な時を、最悪の屈辱と、さらに恥辱にまみれた最低の偽善のなかで生き抜いた。かれらは、大規模の混乱から唯一免れ術として、軛を進んで受け入れるように要求してきたのである。／われわれは、来るべき日を静かに待ちながら、これに堪えたのである。（「そうだ！そうだ！」）／そして、恐怖によってわれわれを壊滅出来なかったために、世界の主と自称するものが、決定的な敗北が訪れたのを悟り、従順を拒んだ諸国民の静かな誇りに別れを告げることを決断する時が来た。これまで独立した生の権利を守ってきた諸国民には高貴な反抗が不能だとかれらは全く見誤ったのである。（盛大な拍手）／ 　明らかにできる大儀も、見かけの言い分も、あり得ない嘘に時間をかけることもなく、この時代遅れの群衆からなる略奪者たちはわれわれの領土に襲いかかり、大規模な略奪を再開した。無駄な言葉を発することなく、われわれの兵士たちは、祖国の安泰に必要な全面的犠牲のために旅立った。かつてのかれらの姿、現在のかれらの姿、そして未来においてかれらがなすことは、歴史が語るだろう。しかし、われわれは知っているし、前もって知っていたのだ、つまり、ついに、恐れをなしたドイツがかれらの前に立ち上がったのがいかなる男たちであったのか、そしてドイツの殺戮と破壊の狂気がかれらをいかなる運命に決したかを理解し始めたのである。（「そうだ！そうだ！」）／愚かにも、ドイツは勝利が火と血の賛歌の中での許しをえられると信じていたのである。地雷や火災、体系的な強奪、農民の慎ましい農園にまで至る略奪によって破壊された地方、壊滅された街や村、陶酔した野蛮のおぞましい享楽のためになされた過去のあらゆる暴力、奴隷にされた男女や子供たち、これらが世界が目にしたことであり、決して忘れることのないことである。（盛大な拍手）／いや、しかし、このような罪を許し、未開の民でさえも経験しなかったであろうような恐怖を忘れさせるための勝利などはあり得なかったのである。そして、予告された勝利は未だ来たらず、恐るべき決着が開始されたのである。それは報われるだろう。（繰り返される拍手）／ というのも4年にもおよぶ不毛な栄誉に続いて、われわれにとってではない、思いがけない運命の逆転が、ドイツによる世界文明の否定の後、解放された意識を持った諸国民を前にしてドイツ軍は大退却をすることになったのである。そう、われわれの国家が半世紀にもわたって告げ知らせていた日が真に到来したのだ。父親たちが始めた仕事を息子たちが完成しようとしているのだ。偉大な思想家の言葉によれば、フランスだけが、軍隊を正当化出来るのではない。最も偉大な人類の至上の勝利を完成するのは、かつて経験したことのない人権をともにする全ての兄弟としての国民である。（拍手）。／だれが、血と涙の中で、これ以上に美しい運命のための、これ以上に美しい歴史を経験することを夢見たであろうか？／文民も兵士も、同盟政府も議会もすべてが義務を持っていた。その義務が達成されるまでその義務は守られるだろう。それを遵守するかぎり、勝利に値するのである。／しかし、それはそれらの成果が宿る砦の中においてである。共和国の名に値するわれわれは、一点の曇りなき栄光の最高の名誉が戦士たち、歴史によってかれら自身が成し遂げたことの高貴さが確立されることになる兵士たちに向けられることを忘れるならば、それは間違い以外の何ものでもない。微笑みをたたえた禁欲の英雄は、この時にさえも、不死の名誉のために犠牲になることになる偉大な事業を完成させる権利以外に何も要求しない。（あらたな拍手）／かれらは何を望むのだろうか？そして、われわれ自身は何を望むのだろうか？戦うこと、勝利を持って戦うこと、敵が罪と法の間で取引はあり得ないのだと理解される時まで戦うことである。（拍手）野蛮の側の最後の嘘の下にかくれた、容赦ない支配の欲望や怒りに、小国であれ大国であれ、その国民を犠牲にするなれば、われわれに与えられた偉大な運命に相応しくなくなるだろう。（拍手）／平和は軍事的決定によってはもたらせ得ないと耳にする。それはドイツが、ヨーロッパの平和に戦争の恐怖を放ったときに、言ったことではない。かつて、かれらの弁論家や指導者が、諸国民を繋がれた家畜の如く分け合い、鉄の法の下での世界の無能なものとする解体をわれわれの下で予告し、ロシアではそれを実現したときに、ドイツが告げ知らせたことではない。／軍事的決定を、ドイツは望み、われわれにもそうさせるべくした。われわれの死者たちは、文明人の法に対する最も大きな挑戦を受けることを証明するためにかれらの血を流したのである。それはドイツが望み、ドイツがなしたように、行われた。われわれは平和を求めるだけであり、来るべきものたちが、過去の忌まわしさから救われるために、それを正当かつ確固としたものとすることのみである。（「そうだ！そうだ！」）汚れなき勝利へ進め！全フランス、全人類があなた方とともにある。（盛大かつ長い拍手―首相が演壇から降りる際、元老院議員は起ちあがり、称える。）／元老院は続いて、元老院議長アントナン・デュボストとジョルジュ・クレマンソー首相の演説を含む、議事録の妙録の印刷と掲示を命じた。／／原本に相違なきことを証明する：元老院議長アントナン・デュボスト）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:-"
+        },
+        {
+            "label": "内容分類",
+            "value": "告知／声明"
+        },
+        {
+            "label": "制作国",
+            "value": "フランス"
+        },
+        {
+            "label": "クライアント",
+            "value": "-"
+        },
+        {
+            "label": "版式",
+            "value": "凸版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "活版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "1色  "
+        },
+        {
+            "label": "色名",
+            "value": "墨"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvajjDFYLj8C7GA%EF%BC%8FUSc9jmL"
+        },
+        {
+            "label": "Identifier",
+            "value": "952a497f-6d21-4c19-978f-8fad02822ea5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/952a497f-6d21-4c19-978f-8fad02822ea5/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/952a497f-6d21-4c19-978f-8fad02822ea5",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/9711",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/952a497f-6d21-4c19-978f-8fad02822ea5/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/952a497f-6d21-4c19-978f-8fad02822ea5/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/952a497f-6d21-4c19-978f-8fad02822ea5/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/952a497f-6d21-4c19-978f-8fad02822ea5/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/9711/1332747957755.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 619
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9711/1332747957755.jpg"
+                    },
+                    "width": 619
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/9711/1332747957755.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

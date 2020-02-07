@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "君の場所に飛び込め∽506",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "君の場所に飛び込め∽506"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "506"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "君の場所に飛び込め"
+        },
+        {
+            "label": "概要-作成",
+            "value": "-"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "892"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "616"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "Jump into your place in the Sportsman’s Company　Of the Irish Canadian Overseas Battalion Rangers Under Lt, Col, H. J. Trihey.Overseas Irish Canadian Rangers199Quis SeparabitHeadquaters:91 Stanley St.Montreal.（君の場所に飛び込め運動選手の部隊へアイルランド系カナダ人海外派遣レンジャー部隊H. J. Trihey中佐指揮本部住所：91 Stanley St. モントリオール）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:Montreal Litho. Co. Limited"
+        },
+        {
+            "label": "内容分類",
+            "value": "募兵"
+        },
+        {
+            "label": "制作国",
+            "value": "カナダ"
+        },
+        {
+            "label": "クライアント",
+            "value": "-"
+        },
+        {
+            "label": "版式",
+            "value": "平版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "描画石版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "2色  "
+        },
+        {
+            "label": "色名",
+            "value": "墨、緑"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvOuGgiCT5aC9pU2nqghdPs"
+        },
+        {
+            "label": "Identifier",
+            "value": "dc0fb6d1-278d-4201-b14e-591dac1726a8"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/dc0fb6d1-278d-4201-b14e-591dac1726a8",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/10869",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/dc0fb6d1-278d-4201-b14e-591dac1726a8/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/10869/1332747946731.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 657
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/10869/1332747946731.jpg"
+                    },
+                    "width": 657
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/10869/1332747946731.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

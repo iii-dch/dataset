@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2356",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2356,
+    "o:label": "索引事項-人名-タイトル（L6-056）",
+    "o:local_name": "l6-056",
+    "o:term": "ex:l6-056",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

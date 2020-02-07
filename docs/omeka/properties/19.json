@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/19",
+    "@type": "o:Property",
+    "o:comment": "A summary of the resource.",
+    "o:id": 19,
+    "o:label": "Abstract",
+    "o:local_name": "abstract",
+    "o:term": "dcterms:abstract",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

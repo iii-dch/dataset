@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/221",
+    "@type": "o:Property",
+    "o:comment": "Location of Originals",
+    "o:id": 221,
+    "o:label": "Location of Originals",
+    "o:local_name": "locationOfOriginals",
+    "o:term": "archiveshub:locationOfOriginals",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

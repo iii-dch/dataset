@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2293",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2293,
+    "o:label": "履歴・組織歴-タイトル（L5-007）",
+    "o:local_name": "l5-007",
+    "o:term": "ex:l5-007",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

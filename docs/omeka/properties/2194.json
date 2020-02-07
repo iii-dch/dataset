@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2194",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2194,
+    "o:label": "資料群の年代範囲（L2-001）",
+    "o:local_name": "l2-001",
+    "o:term": "ex:l2-001",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

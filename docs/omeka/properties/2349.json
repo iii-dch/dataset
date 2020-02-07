@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2349",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2349,
+    "o:label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+    "o:local_name": "l6-049",
+    "o:term": "ex:l6-049",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

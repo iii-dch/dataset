@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2166",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2166,
+    "o:label": "リリース場所‐公開方法（FILE-156）",
+    "o:local_name": "file-156",
+    "o:term": "ex:file-156",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

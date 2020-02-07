@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2329",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2329,
+    "o:label": "物的状態-管理状態（L6-029）",
+    "o:local_name": "l6-029",
+    "o:term": "ex:l6-029",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

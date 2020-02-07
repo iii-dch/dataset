@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/267",
+    "@type": "o:Property",
+    "o:comment": "別タイトル部編番号",
+    "o:id": 267,
+    "o:label": "Alternative Volume",
+    "o:local_name": "alternativeVolume",
+    "o:term": "dcndl:alternativeVolume",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

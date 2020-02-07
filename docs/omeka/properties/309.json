@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/309",
+    "@type": "o:Property",
+    "o:comment": "Series Alternativeの読み又は翻字形",
+    "o:id": 309,
+    "o:label": "Series Alternative Transcription",
+    "o:local_name": "seriesAlternativeTranscription",
+    "o:term": "dcndl:seriesAlternativeTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2265",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2265,
+    "o:label": "利用制限-タイトル（L4-001）",
+    "o:local_name": "l4-001",
+    "o:term": "ex:l4-001",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

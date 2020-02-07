@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2172",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2172,
+    "o:label": "電子署名情報（FILE-162）",
+    "o:local_name": "file-162",
+    "o:term": "ex:file-162",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

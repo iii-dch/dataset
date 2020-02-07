@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2270",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2270,
+    "o:label": "使用制限-現物資料使用制限（L4-006）",
+    "o:local_name": "l4-006",
+    "o:term": "ex:l4-006",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

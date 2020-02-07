@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2020",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2020,
+    "o:label": "ソース情報 ‐計測対象（FILE-011）",
+    "o:local_name": "file-011",
+    "o:term": "ex:file-011",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2278",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2278,
+    "o:label": "作成者（L4-014）",
+    "o:local_name": "l4-014",
+    "o:term": "ex:l4-014",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

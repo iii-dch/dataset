@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/191",
+    "@type": "o:Property",
+    "o:comment": "A resource to which the agent provides access.",
+    "o:id": 191,
+    "o:label": "Provides Access To",
+    "o:local_name": "providesAccessTo",
+    "o:term": "archiveshub:providesAccessTo",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

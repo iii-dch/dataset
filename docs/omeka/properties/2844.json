@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2844",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the link to the rich text format.",
+    "o:id": 2844,
+    "o:label": "Text with Rich Text Format",
+    "o:local_name": "rtf",
+    "o:term": "uterms:rtf",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/21",
+        "o:id": 21
+    }
+}

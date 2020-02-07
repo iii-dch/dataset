@@ -1,0 +1,41 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29731",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T07:10:27+00:00"
+    },
+    "o:filename": "25972/1332392708676.jpg",
+    "o:id": 29731,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25972",
+        "o:id": 25972
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T07:10:27+00:00"
+    },
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/25972/1332392708676.jpg",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "b8670c51511f55a7bed6e47a8894ff53a54ee699d8af1f4c5951af945017af85",
+    "o:size": null,
+    "o:source": "http://webpark5032.sakura.ne.jp/images/large/1332392708676.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/25972/1332392708676.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/25972/1332392708676.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/25972/1332392708676.jpg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2131",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2131,
+    "o:label": "点検記録‐内容（FILE-120）",
+    "o:local_name": "file-120",
+    "o:term": "ex:file-120",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

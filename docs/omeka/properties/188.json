@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/188",
+    "@type": "o:Property",
+    "o:comment": "An archival finding aid of which the EAD document is an encoding.",
+    "o:id": 188,
+    "o:label": "Encoding Of",
+    "o:local_name": "encodingOf",
+    "o:term": "archiveshub:encodingOf",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

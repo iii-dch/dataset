@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/296",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の二次的・副次的な入手可能性",
+    "o:id": 296,
+    "o:label": "Availability",
+    "o:local_name": "availability",
+    "o:term": "dcndl:availability",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

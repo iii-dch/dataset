@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/294",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源をデジタル化した実体",
+    "o:id": 294,
+    "o:label": "Digitized Publisher",
+    "o:local_name": "digitizedPublisher",
+    "o:term": "dcndl:digitizedPublisher",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

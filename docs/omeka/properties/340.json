@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/340",
+    "@type": "o:Property",
+    "o:comment": "A domain of the subject property.",
+    "o:id": 340,
+    "o:label": "domain",
+    "o:local_name": "domain",
+    "o:term": "rdfs:domain",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

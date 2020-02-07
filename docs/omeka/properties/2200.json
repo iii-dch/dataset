@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2200",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2200,
+    "o:label": "目録作成者-連絡先情報-〒（L2-007）",
+    "o:local_name": "l2-007",
+    "o:term": "ex:l2-007",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

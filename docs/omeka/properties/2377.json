@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2377",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2377,
+    "o:label": "言語（L6-077）",
+    "o:local_name": "l6-077",
+    "o:term": "ex:l6-077",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

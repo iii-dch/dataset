@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2065",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2065,
+    "o:label": "動画‐フレームレート（FILE-055）",
+    "o:local_name": "file-055",
+    "o:term": "ex:file-055",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

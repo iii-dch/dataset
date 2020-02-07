@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/282",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の刊行頻度",
+    "o:id": 282,
+    "o:label": "Publication Periodicity",
+    "o:local_name": "publicationPeriodicity",
+    "o:term": "dcndl:publicationPeriodicity",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

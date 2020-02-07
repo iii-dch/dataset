@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/231",
+    "@type": "o:Property",
+    "o:comment": "The surname of a person who is the focus of the concept",
+    "o:id": 231,
+    "o:label": "Surname",
+    "o:local_name": "surname",
+    "o:term": "archiveshub:surname",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

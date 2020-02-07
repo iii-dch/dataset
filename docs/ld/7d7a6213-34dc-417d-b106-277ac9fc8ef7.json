@@ -1,0 +1,289 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://iii-dch.github.io/dataset/ld/7d7a6213-34dc-417d-b106-277ac9fc8ef7.json",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:46 資料No.876",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7d7a6213-34dc-417d-b106-277ac9fc8ef7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/7d7a6213-34dc-417d-b106-277ac9fc8ef7",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmvBiB3S4JIwJItWDyiGpmJM",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:46 資料No.876",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "奇々怪々実に人の意想の外に出る事前号香港新聞の類／に非ざる者あり武州比企郡宮鼻村の農某氏の家に怪異の／事あり衣服調度より器具の類に至るまで何事もなきに風／と火のつきて焼け焦げる事たびたびなるゆゑ一家の者怪し／ミて初の程ハ何者の所為なるやと心をつけ見れども更に／かの踪跡を得ず後々ハ箪笥の中に蔵れ置ける衣類や懐嚢／中の金札までも焦げる事断間（たえま）なく尤も不思議（ふしぎ）と云うべき／ハ嬰児を乳養（さと）に預（あづ）け置（おき）しに其家の衣服ハ何事もなきに嬰／児の着類のミ焼（や）け焦（こ）げるにぞ家内の者近隣の人も始て狐／狸の祟（たた）りを為すなりと悟（さと）り神仏に祈念（きねん）し符呪を貼（はり）か抔せ／しも些（すこし）の験（しるし）も無く只少し間の遠く成りし而己なり斯（かく）の如／くにして半年余りも遇けるが一夜その家の妻熟眠中に忽／ち喝と云う声を発しけるゆゑ人々馳せ寄りて見るに胸腹／のあたり幾所も傷（きづ）つけたり刃物を以て斬（き）りたる者とも見／えねど余程の深疵なれバ医者を招（まね）きて縫（ぬ）ハせけるに其後／また娘の陰門にも傷（きづ）つけたり斯（か）く種々の奇怪やむ事なき／ゆゑ或る人の■（■■）■に任（まか）せ一の洋犬（ドーク）を求（もと）めて蓄（か）い置（おき）けるに／■■すこしハ弛ミたれど尚おりおり奇異の事ありとぞ又／同州秩父郡横瀬村の農鉢山権左右衛門が宅にて或る夜檠燈（あんどん）／を■上へ釣り■しを怪異の初めとして其の翌日ハ七十貫程／の重ミある石を座■へ投げ入れたり夫レより大小の石を／宅内に投げ込みなど種々の奇怪昼夜やむ時なし剣術家に／て飯塚某なる者あり之レを聞き何条さる道理やあらん必／定故こそあらめ行て試ミんと某家に至り主人に対面して／寒暖を述べ終り長刀を膝元へ引き着けて坐し居たるにグ／ウーンと云う響と共に大石の百貫ばかりなるが飛び来り／飯塚が頭上を掠（かす）りてドウと落ち台所に在りし大釜を打破／れり飯塚ハ喝（アッ）ト云うより刀を引提げ逃げ出し怖（ふる）い怖い帰／りしとぞ其後二十日ばかりして物怪ハ止ミけれど此家ハ／忽まち火災起りて残らず灰燼と成りぬ又一怪話あり上州／連取（つなとり）村の農多賀谷（たがや）源兵衛が家にて絲孔の無き針（はり）の数千本／降（ふ）りたる事あり此等ハ彼の跡形も無く消え失する幽霊の／類に非らず皆いづれも其心現在せりと予が友大宮氏の談／なり方今世上博物の君子究理の大家多し願くバ童蒙の為／に教示を賜えと記者代請す",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:恵斎芳幾,彫師:彫春",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "秩父でおきたポルダーガイスト現象に剣豪も退散 (読み下し文_括弧なし:絵巻物の百鬼夜行ハ筆頭の怪にして■本の／重ひ葛篭ハ欲の化たるなるベしいつの頃乃／御布告にや野夫と変化ハ函根から先の住居／と世俗一統承知の上で境界が定まり往古ハなんでも／鬼の業と極ておき、少し開た中古ハ狐狸の外ハ一切化べからずと規則が定り。今ハ／中々幼童さへ。モゝンガアとおどしても。其手ハ食ハぬ開化の聖代。野良頭が散髪に／化たが初発で電信蒸気。練化造りと追々開け悉皆有用人智の化もの／無用の怪異厳禁の中にどうした間違歟地名ハ武州秩父在横瀬／村の農民鉢山権右衛門と言ふ者の居宅ヘ何者とも知れず／毎夜礫と打込むのミか飛だ茶釜が野鑵迄天井裏ヘ／引揚し怪事に人々驚しを其近傍の剣客者／飯塚某是を聞見顕さんと／立越て主人に対話の／折柄に一つの大石／飛来り頭上を／かすりて後背なる／大釜徴鹿に打砕／けバさすかの飯塚仰天なしほうほう／其場を逃帰りしが怪事ますます止ざり／ける是ハ開化を怪化と見誤りし狐狸の手段／なるべし／墨陀西岸／温堂／龍吟 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "機関による制作・発行・発表より50年以上経過",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0046-0876",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18549/1333099062985.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:27+00:00"
+    },
+    "o:id": 18549,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33577",
+            "o:id": 33577
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:32:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:thumbnail": null,
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/18549",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:attributionLabel": [
+        {
+            "@value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+            "is_public": true,
+            "property_id": 250,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ],
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/7d7a6213-34dc-417d-b106-277ac9fc8ef7/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

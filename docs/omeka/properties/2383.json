@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2383",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2383,
+    "o:label": "現物資料の展示・閲覧条件（L6-083）",
+    "o:local_name": "l6-083",
+    "o:term": "ex:l6-083",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

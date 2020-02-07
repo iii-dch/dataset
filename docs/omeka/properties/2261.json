@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2261",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2261,
+    "o:label": "管理情報-関連資料-タイトル（L3-053）",
+    "o:local_name": "l3-053",
+    "o:term": "ex:l3-053",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

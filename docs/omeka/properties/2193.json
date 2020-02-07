@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2193",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2193,
+    "o:label": "データファイル更新情報-データファイル検索改変内容（L1-010）",
+    "o:local_name": "l1-010",
+    "o:term": "ex:l1-010",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

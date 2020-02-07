@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2076",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2076,
+    "o:label": "撮影環境‐その他（FILE-066）",
+    "o:local_name": "file-066",
+    "o:term": "ex:file-066",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

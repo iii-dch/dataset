@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2052",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2052,
+    "o:label": "三次元情報‐入力環境（FILE-043）",
+    "o:local_name": "file-043",
+    "o:term": "ex:file-043",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

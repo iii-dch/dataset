@@ -1,0 +1,125 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58956",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS3_TIFF/SKS3_0254-1.tif",
+        "height": 4870,
+        "profile": [
+            "http://iiif.io/api/image/2/level1.json",
+            {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [
+                    "native",
+                    "color",
+                    "gray"
+                ],
+                "supports": [
+                    "regionByPct",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "sizeAboveFull",
+                    "rotationBy90s",
+                    "mirroring",
+                    "gray"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 53,
+                "width": 80
+            },
+            {
+                "height": 107,
+                "width": 160
+            },
+            {
+                "height": 38,
+                "width": 57
+            },
+            {
+                "height": 76,
+                "width": 114
+            },
+            {
+                "height": 152,
+                "width": 228
+            },
+            {
+                "height": 304,
+                "width": 456
+            },
+            {
+                "height": 608,
+                "width": 912
+            },
+            {
+                "height": 1217,
+                "width": 1824
+            },
+            {
+                "height": 2435,
+                "width": 3648
+            }
+        ],
+        "tiles": [
+            {
+                "height": 256,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64,
+                    128,
+                    256,
+                    512
+                ],
+                "width": 256
+            }
+        ],
+        "width": 7297
+    },
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T09:25:51+00:00"
+    },
+    "o:filename": "514e9da623bc8aac03776b5387171efcab0041cb",
+    "o:id": 58956,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56714",
+        "o:id": 56714
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T09:25:51+00:00"
+    },
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS3_TIFF/SKS3_0254-1.tif/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/514e9da623bc8aac03776b5387171efcab0041cb.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/514e9da623bc8aac03776b5387171efcab0041cb.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/514e9da623bc8aac03776b5387171efcab0041cb.jpg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2010",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2010,
+    "o:label": "ソフト情報‐製品名（FILE-001）",
+    "o:local_name": "file-001",
+    "o:term": "ex:file-001",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

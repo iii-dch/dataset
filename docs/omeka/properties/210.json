@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/210",
+    "@type": "o:Property",
+    "o:comment": "The date of death of the person.",
+    "o:id": 210,
+    "o:label": "Date of Death",
+    "o:local_name": "dateDeath",
+    "o:term": "archiveshub:dateDeath",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

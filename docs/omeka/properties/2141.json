@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2141",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2141,
+    "o:label": "担当範囲（FILE-130）",
+    "o:local_name": "file-130",
+    "o:term": "ex:file-130",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

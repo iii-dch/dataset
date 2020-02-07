@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/272",
+    "@type": "o:Property",
+    "o:comment": "単行書の構成レベルの各著作に著作責任を持つ実体",
+    "o:id": 272,
+    "o:label": "Part Creator",
+    "o:local_name": "partCreator",
+    "o:term": "dcndl:partCreator",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2101",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2101,
+    "o:label": "評価結果-解像度（FILE-090）",
+    "o:local_name": "file-090",
+    "o:term": "ex:file-090",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2036",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2036,
+    "o:label": "スキャナー‐入力設定‐フィルムの貼り方（FILE-027）",
+    "o:local_name": "file-027",
+    "o:term": "ex:file-027",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

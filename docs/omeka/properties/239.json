@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/239",
+    "@type": "o:Property",
+    "o:comment": "A number of envelopes",
+    "o:id": 239,
+    "o:label": "Envelope",
+    "o:local_name": "envelope",
+    "o:term": "archiveshub:envelope",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/295",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源をデジタル化した日付",
+    "o:id": 295,
+    "o:label": "Date Digitized",
+    "o:local_name": "dateDigitized",
+    "o:term": "dcndl:dateDigitized",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2123",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2123,
+    "o:label": "可読環境‐バージョン（FILE-112）",
+    "o:local_name": "file-112",
+    "o:term": "ex:file-112",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

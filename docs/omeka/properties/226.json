@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/226",
+    "@type": "o:Property",
+    "o:comment": "Processing",
+    "o:id": 226,
+    "o:label": "Processing",
+    "o:local_name": "processing",
+    "o:term": "archiveshub:processing",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

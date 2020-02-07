@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2252",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2252,
+    "o:label": "管理情報-望ましい資料引用形式-概要（L3-044）",
+    "o:local_name": "l3-044",
+    "o:term": "ex:l3-044",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

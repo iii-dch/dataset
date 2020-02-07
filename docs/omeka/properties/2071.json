@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2071",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2071,
+    "o:label": "撮影環境‐使用機材‐製品名（FILE-061）",
+    "o:local_name": "file-061",
+    "o:term": "ex:file-061",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2300",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2300,
+    "o:label": "参考文献-関係書籍・文献・論文（L5-014）",
+    "o:local_name": "l5-014",
+    "o:term": "ex:l5-014",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

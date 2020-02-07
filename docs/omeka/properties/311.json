@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/311",
+    "@type": "o:Property",
+    "o:comment": "Series Volumeの読み又は翻字形",
+    "o:id": 311,
+    "o:label": "Series Volume Transcription",
+    "o:local_name": "seriesVolumeTranscription",
+    "o:term": "dcndl:seriesVolumeTranscription",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

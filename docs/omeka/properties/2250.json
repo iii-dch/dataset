@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2250",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2250,
+    "o:label": "管理情報-利用可能な資料形式・媒体の選択肢-概要（L3-042）",
+    "o:local_name": "l3-042",
+    "o:term": "ex:l3-042",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

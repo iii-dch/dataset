@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2087",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2087,
+    "o:label": "カラー‐ソフト情報‐バージョン（FILE-076）",
+    "o:local_name": "file-076",
+    "o:term": "ex:file-076",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

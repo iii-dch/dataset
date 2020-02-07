@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2115",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2115,
+    "o:label": "権利関係‐制限（FILE-104）",
+    "o:local_name": "file-104",
+    "o:term": "ex:file-104",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

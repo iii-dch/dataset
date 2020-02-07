@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2078",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2078,
+    "o:label": "状況記録写真‐ファイル名（FILE-068）",
+    "o:local_name": "file-068",
+    "o:term": "ex:file-068",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

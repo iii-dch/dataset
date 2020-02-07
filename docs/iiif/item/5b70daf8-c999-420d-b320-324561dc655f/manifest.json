@@ -1,0 +1,163 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iii-dch.github.io/dataset/iiif/item/5b70daf8-c999-420d-b320-324561dc655f/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "この少女はアンクル・サムのために戦時労働をしているのです∽222",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "この少女はアンクル・サムのために戦時労働をしているのです∽222"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "作成日",
+            "value": "-  "
+        },
+        {
+            "label": "資料ID",
+            "value": "222"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "この少女はアンクル・サムのために戦時労働をしているのです"
+        },
+        {
+            "label": "概要-作成",
+            "value": "-"
+        },
+        {
+            "label": "概要-物的状態-長さ",
+            "value": "557"
+        },
+        {
+            "label": "概要-物的状態-幅",
+            "value": "353"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "13絵画・版画・ポスター・図案・地図・書画"
+        },
+        {
+            "label": "内容記述",
+            "value": "This girl is doing, war work for Uncle Sam.Will you rent her a room? She would like to live among us. All she asks is a clean, bright room in Newark or its vicinity.Have you a “spare” room that you can rent her? She is one of thousands of men and women who must have rooms and homes in Newark.The Government demands these rooms for its workers. The people must supply them. It is now the patriotic thing to do, to rent rooms.Register a spare room now, withUnited States Homes Registration Service.City Hall, NewarkJohn J. Berry, Chairman.W. J. Morgan, Manager.（この少女はアンクル・サムのために戦時労働をしているのです少女に部屋を貸してあげませんか？ニューアーク市役所、合衆国住宅登録サービス[United States Homes Registration Service]に今すぐ空き部屋を登録しましょう）"
+        },
+        {
+            "label": "寄与者",
+            "value": "印刷所:-"
+        },
+        {
+            "label": "内容分類",
+            "value": "戦時協力"
+        },
+        {
+            "label": "制作国",
+            "value": "アメリカ"
+        },
+        {
+            "label": "クライアント",
+            "value": "U.S. Homes Registration Service"
+        },
+        {
+            "label": "版式",
+            "value": "凸版"
+        },
+        {
+            "label": "版式詳細",
+            "value": "線画凸版／活版"
+        },
+        {
+            "label": "版式備考",
+            "value": "-"
+        },
+        {
+            "label": "色数",
+            "value": "1色  "
+        },
+        {
+            "label": "色名",
+            "value": "セピア"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/29175"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmuOn3O4vgHgg4bp5YiZwDzP"
+        },
+        {
+            "label": "Identifier",
+            "value": "5b70daf8-c999-420d-b320-324561dc655f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/5b70daf8-c999-420d-b320-324561dc655f/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5b70daf8-c999-420d-b320-324561dc655f",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/27887",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5b70daf8-c999-420d-b320-324561dc655f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5b70daf8-c999-420d-b320-324561dc655f/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1000,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5b70daf8-c999-420d-b320-324561dc655f/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/5b70daf8-c999-420d-b320-324561dc655f/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/27887/1332748020164.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1000,
+                                "width": 630
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27887/1332748020164.jpg"
+                    },
+                    "width": 630
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/27887/1332748020164.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

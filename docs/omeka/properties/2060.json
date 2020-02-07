@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2060",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2060,
+    "o:label": "音声‐ビットレート（FILE-051）",
+    "o:local_name": "file-051",
+    "o:term": "ex:file-051",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

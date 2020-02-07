@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/254",
+    "@type": "o:Property",
+    "o:comment": "A link from a Range to a Layer that provides the content resources of that Range",
+    "o:id": 254,
+    "o:label": "hasContentLayer",
+    "o:local_name": "hasContentLayer",
+    "o:term": "sc:hasContentLayer",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

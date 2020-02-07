@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/287",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の作成者が博士号を授与された年月日",
+    "o:id": 287,
+    "o:label": "Date Granted",
+    "o:local_name": "dateGranted",
+    "o:term": "dcndl:dateGranted",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

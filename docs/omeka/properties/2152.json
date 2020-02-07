@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2152",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2152,
+    "o:label": "編集者情報-編集担当者（FILE-142）",
+    "o:local_name": "file-142",
+    "o:term": "ex:file-142",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

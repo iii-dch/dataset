@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2058",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2058,
+    "o:label": "三次元情報‐その他（FILE-049）",
+    "o:local_name": "file-049",
+    "o:term": "ex:file-049",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

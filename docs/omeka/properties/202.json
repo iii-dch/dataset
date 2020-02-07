@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/202",
+    "@type": "o:Property",
+    "o:comment": "The ISO 3166-1 code for the country of the repository.",
+    "o:id": 202,
+    "o:label": "Country Code",
+    "o:local_name": "countryCode",
+    "o:term": "archiveshub:countryCode",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

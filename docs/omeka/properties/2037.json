@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2037",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2037,
+    "o:label": "スキャナー‐入力設定‐濃度（FILE-028）",
+    "o:local_name": "file-028",
+    "o:term": "ex:file-028",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

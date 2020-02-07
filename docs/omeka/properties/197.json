@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/197",
+    "@type": "o:Property",
+    "o:comment": "An archival resource for which the agent is responsible for the creation or accumulation.",
+    "o:id": 197,
+    "o:label": "Is Origination Of",
+    "o:local_name": "isOriginationOf",
+    "o:term": "archiveshub:isOriginationOf",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

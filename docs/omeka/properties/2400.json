@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2400",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2400,
+    "o:label": "資源状態（CUSTOM_00033）",
+    "o:local_name": "custom_00033",
+    "o:term": "ex:custom_00033",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2275",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2275,
+    "o:label": "サブフォンド名称（L4-011）",
+    "o:local_name": "l4-011",
+    "o:term": "ex:l4-011",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

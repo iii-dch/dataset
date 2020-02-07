@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2187",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2187,
+    "o:label": "目録ファイル関連情報-目録公開情報-目録公開者（L1-004）",
+    "o:local_name": "l1-004",
+    "o:term": "ex:l1-004",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

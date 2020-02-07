@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2022",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2022,
+    "o:label": "参考・関連リソース（FILE-013）",
+    "o:local_name": "file-013",
+    "o:term": "ex:file-013",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

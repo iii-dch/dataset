@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:78 資料No.989",
+    "license": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:78 資料No.989"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:78 資料No.989"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1995年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾/彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "大工が私娼に転落した妻を殺害(読み下し文_括弧なし:八丁堀岡崎町の大工／熊五郎が妻おとく／ハ身持のよくない女で／酒をのむやら花を引／やら銭遣ひが荒くて自分／の物だの亭主の品だのと差／別もなく質に置て奢り散らす／ゆえ熊五良も呆れかへり離別したりしに／おとくハ旨い物も喰ひたし酒も飲みたしするから／是から当時はやりのごくらくとか何とかを遣つ／て見やうと思ひついて同町のすし屋の奥ざしき／を借りて居る処へ本月五日九時ごろ／おとくさんおとくさんと外から／呼ぶ者があるゆゑアイと出掛けるを何者とも知／れず鑿を持てかおやからたへ幾処も疵を付けて／直と其場をにげ失たり早速医者を招きて／手当をしたれども深手と見へて終に死去／せしとぞ彼の曲者を探索ありしが遂に元の／夫熊五郎を捕へて吟味せし処私が傷けし／に相違なしと白状に及びしといへり )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋 "
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "https://dch.iii.u-tokyo.ac.jp/api/items/13343"
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XYNaL40r5RQkjKkC%EF%BC%8BtA7o6qAohaihtwlPCRoTXl9xmtMEEW7KFuDYqjj56a%EF%BC%8Fq995"
+        },
+        {
+            "label": "sort",
+            "value": "0078-0989"
+        },
+        {
+            "label": "Identifier",
+            "value": "5d4cfa1d-44e7-4f01-9143-6181ca3386e5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/manifest"
+        }
+    ],
+    "related": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5d4cfa1d-44e7-4f01-9143-6181ca3386e5",
+    "seeAlso": "https://dch.iii.u-tokyo.ac.jp/api/items/10413",
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/files/original/10413/1333099078464.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "width": 955
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/10413/1333099078464.jpg"
+                    },
+                    "width": 955
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://dch.iii.u-tokyo.ac.jp/files/medium/10413/1333099078464.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "http://dch.iii.u-tokyo.ac.jp/"
+}

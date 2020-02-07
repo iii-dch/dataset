@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2277",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 2277,
+    "o:label": "出所（L4-013）",
+    "o:local_name": "l4-013",
+    "o:term": "ex:l4-013",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/20",
+        "o:id": 20
+    }
+}

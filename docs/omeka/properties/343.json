@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/343",
+    "@type": "o:Property",
+    "o:comment": "The defininition of the subject resource.",
+    "o:id": 343,
+    "o:label": "isDefinedBy",
+    "o:local_name": "isDefinedBy",
+    "o:term": "rdfs:isDefinedBy",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

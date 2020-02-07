@@ -1,0 +1,14 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/331",
+    "@type": "o:Property",
+    "o:comment": "書誌レコード作成のステータス",
+    "o:id": 331,
+    "o:label": "Cataloguing Status",
+    "o:local_name": "cataloguingStatus",
+    "o:term": "dcndl:cataloguingStatus",
+    "o:vocabulary": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}
