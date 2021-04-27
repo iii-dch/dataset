@@ -1,0 +1,206 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26308",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:127 資料No.10",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "93494952-edcb-4993-8453-a1c49f207f8f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "近世人物誌やまと新聞付録 ∽項番:127 資料No.10",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1955年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "近世人物誌やまと新聞付録 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:芳年/彫師:彫工円活 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "錦織剛清について(読み下し文_括弧なし:錦織剛清／錦織剛清氏ハ旧中村藩士にして其／旧主誠胤君が疾病の為め監中に憂／苦せらるると言ふを聞き概然之を／救ん事を思ひ立曩には其邸内に侵／入して遂に警察官の聴く所となり／随つてこの事の世に伝播せしも当／時に有つて此義を唱ふる者ハ氏一人／のミ故に旧主をして自由の空気を／吸はしむる事能ハず其後誠胤君ハ／何等の都合ありてか本郷の頓狂院に／移され依然監中にありしを或るとき／氏之に侵入して旧主を伴ひ出し／静岡地方へ趣きしより忽ち世上の／一間題となり為に氏ハ家宅侵入の罪／を以て処刑となりたり氏の目的の当／不当ハ〓001［女へんに占］らく論ぜず旧主を想ふ義気／に於てハ誰か感ぜざる者あらん是ニ於／てか氏の処刑中其家族へ多少の金円／を寄贈して寒を救る者幾百人といふを／知ず彼の新吉原町の如き花柳艶美／の街と雖も氏の義気を欽募し氏ハ／予て画を能くなすを以て本年七月よ／り粧飾せる燈篭の絵を氏に託し／たる向き多かりと歟 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "やまと新聞社",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0127-0010",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:18+00:00"
+    },
+    "o:id": 26308,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33646",
+            "o:id": 33646
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:14:08+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "近世人物誌やまと新聞付録 ∽項番:127 資料No.10",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/26308/1333099100063.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/26308/1333099100063.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/26308/1333099100063.jpg"
+    }
+}

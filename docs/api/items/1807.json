@@ -1,0 +1,186 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/1807",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "NKS2_19210201",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "6",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "292",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1921-02-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "545×400mm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7c8b3f3a-2bba-4ad0-9288-79c347941e48",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "日本毛織物新報社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "日本毛織物新報 292号 (1921-02-01)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-22T00:41:56+00:00"
+    },
+    "o:id": 1807,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35015",
+            "o:id": 35015
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3474",
+            "o:id": 3474
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3475",
+            "o:id": 3475
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3476",
+            "o:id": 3476
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3477",
+            "o:id": 3477
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3478",
+            "o:id": 3478
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/3479",
+            "o:id": 3479
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:21:16+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "日本毛織物新報 292号 (1921-02-01)",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12",
+            "display_title": "日本毛織物新報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 12,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/1807/nihonkeorimonoshimpo2_0030.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/1807/nihonkeorimonoshimpo2_0030.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/1807/nihonkeorimonoshimpo2_0030.jpg"
+    }
+}

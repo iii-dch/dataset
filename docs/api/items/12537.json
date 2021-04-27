@@ -1,0 +1,242 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12537",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:13 資料No.491",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "68c4f1bf-05a0-4cd4-ad3e-d5ae0550e0c3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:13 資料No.491",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "○奸夫母子三名に淫する醜事熊ヶ谷県下入間郡川越町農鈴木宗／七後家ナホと云る者女子二人あり／姉を袖（ソデ）と云妹を蝶（テウ）と云り女三人に／て■■致し居しが同郡川越多賀町／商與四郎の三男瀧次郎なる者右ナ／ホ方へ日々往来（ユキキ）し不図姉袖に通じ／我家の如く出入せしが又母ナホと／姦通し尚一層の權を増し遂に■八／月中旬右瀧次郎婿とせり然れど／も母子■通するの故を以て口舌（クゼツ）常／に■す果ハ母子争論を生する事あ／れども隣保扱ひに困じ敢て問はす／然るに瀧次郎又妹蝶と奸淫す是に／於て母ナホ妬心燃るがごとく姉妹／を罵る姉妹又母を懲し其醜体言語／に絶す然のみならす或時例の口舌／より母を捕（トラ）へ荒縄を以て柱に縛し／其面前に於て瀧次郎姉妹の酌にて／酒宴を■せり近隣爪彈（ツマハシキ）して悪（ニク）まざ／る者なかりしが遂に公聽に達し本／月十五日瀧次郎縛に就（ツキ）入間裁判所／へ送致せられ吟味中入檻せしと尚／淫婦三名の所置等決裁の上後号に／記さん瀧次郎なる者親族相姦し加ふる／に母を縛す二罪相共に発する者／輕きを論ぜすと歟伝承せしが実／に至仁寛典なり然れども斯る奸／夫淫婦ハ開化の魔道後來懲悪の／模範たれバ厳重の御所置あらん／を請ふ然りと雖婿姻の禮粗なる／す以て事の茲に及べり曾て聞佛／国にてハ養子を為なさんとする／者及び養子に成らんとする者ハ／相共に養子を成さんとする者の／住所最寄下等裁判所裁判役の面／前に至り双方承諾するの證書を／記し裁判役ハ又養子となり養子と／成さんとする者に悪名なき哉／否を調査し会議の室に集会し相／当の問糺をなすと如斯せバ瀧次／郎の如き母子相姦する者を以養／子となすを許さんや ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:一恵斎芳幾,彫師:渡辺彫栄 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "母子三婦に姦する畜生男。(読み下し文_括弧なし:頃日専ら刊行るる。福沢氏が学問の進めと題る教論史第八篇の文中に。／夫の多妾を犯せるハ畜類なりと論ぜ／しも。理なるを此は之獣の名に因る熊谷県下に。／孀婦のおなつが長女のお袖。次女のお蝶三人と。輪交／まくら川越の多賀町に住む滝次郎。清き流の名にも／似ず放蕩無頼の悪漢なれバ。三婦に姦する故をもて親子互ひに／睦まじからず。平日に葛藤の絶ざりしが。或時例の口角より母を／柱に縊つけ。其面前に戯れて姉妹も亦愉快とす。／醜体言語に絶たりし人畜生が／挙動の。官に聴へて捕へられ。／入間郡の／裁判所へ／一同送致／たりと／なん／転々堂主人録 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋 ",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "機関による制作・発行・発表より50年以上経過",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0013-0491",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:00+00:00"
+    },
+    "o:id": 12537,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33546",
+            "o:id": 33546
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:34:17+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞∽項番:13 資料No.491",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12537/1333099046664.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12537/1333099046664.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12537/1333099046664.jpg"
+    }
+}

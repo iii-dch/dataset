@@ -1,0 +1,209 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56755",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "SKS3-19330425",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "1629",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1933‐04‐25",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "386×270",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "daba9ce0-8afa-4ea8-a16d-2bbaaec1bcaa",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "新聞興信所",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "新聞興信所報 1629号",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS3_TIFF/SKS3_0418.tif/full/200,200/0/default.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T04:01:57+00:00"
+    },
+    "o:id": 56755,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61212",
+            "o:id": 61212
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/59349",
+            "o:id": 59349
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/59350",
+            "o:id": 59350
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/59351",
+            "o:id": 59351
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/59352",
+            "o:id": 59352
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/59373",
+            "o:id": 59373
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:24:15+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "新聞興信所報 1629号",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/53514",
+            "display_title": "新聞興信所報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 53514,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56755",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:viewingDirection": [
+        {
+            "@id": "http://iiif.io/api/presentation/2#rightToLeftDirection",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "viewingDirection",
+            "type": "uri"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/72e986ad2ad6ce5180fe5d9ed67efd3ac89ed19a.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/72e986ad2ad6ce5180fe5d9ed67efd3ac89ed19a.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/72e986ad2ad6ce5180fe5d9ed67efd3ac89ed19a.jpg"
+    },
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/daba9ce0-8afa-4ea8-a16d-2bbaaec1bcaa/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

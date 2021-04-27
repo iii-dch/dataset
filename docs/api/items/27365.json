@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27365",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "368",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b7547644-8867-4ebb-b5de-f7372986bb58",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "アメリカの意味∽368",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "戦意昂揚",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "アメリカ",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "The National Security League",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版／写真製版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "3色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "赤、藍、墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "アメリカの意味",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "554",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "361",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "The Meaning of AmericaCreedI believe in America because of her Ideals, worked out in institution that are just.She gives everyone the right to rise;To take a part in making equal laws;To hold his neighbor equal to himself;To speak the truth and to resent a lie;To serve no man as master, but by toil to earn.The right to call himself a man.I believe in the world mission of American Ideals. By them, expressed in terms of nations;Right can be made to vanquish Force and Fraud;Justice to reign, sustained by potent law;The weaker states to live as live the strong.I believe in America because she thinks in terms of justice, not of gain, and holds her noble heritage the right of all.Liberty Enlightening the WorldBedloe’s Island, New YorkArmed FreedomDome of Capitol, WashingtonWhen you say “An American,” What do you mean?The word, “American,” has no relation to blood. You may be of pure German blood and yet be a real American. You may be of pure Irish blood and yet be a real American. You my be of Russian, Hebrew, Italian, Polish, French. Belgian or Austrian blood, and yet be as real an American as if your ancestors had come to this country on board the Mayflower, or had fought with Washington to create the Republic, or later, with Lincoln, to save it. There are more than twenty-six million people in the United States today who were born in other countries, or whose parents were foreign-born. Each and every one of these is or may easily become a real American, if he has but the spirit of loyalty to the ideals which have made this nation out of many races.No man, woman, or child who wishes special privileges, is a real American. No man, woman, or child who knowingly denies to another equal rights is a real American: for all Americans must “hold these truths to be self-evident, that all men are created equal; that they are endowed by their Creator with certain unalienable rights; that among there are life, liberty and the pursuit of happiness.”As soon as the American Revolution had saved free government in America, other countries began to feel the effect. France was the first to catch the infection. As the French soldiers, who had fought side by side with the Americans during “the days that tried men’s souls,” sailed back to sunny France and their Bourbons despots, they carried in their hearts the ringing phrase, “All men are creating equal,” and soon the throne of the Bourbons was rocking under the blows for “Liberty, Equality and Fraternity.”England, too, soon felt the effects of a forward movement which the success of the American Revolution revivified. Parliament, under the leadership of William Pitt, the Younger, was soon made once more a really representative assembly, a character which it had lost many years before the American Revolution began. The Reform Bill of 1832 restored free government to England, and this Reform Bill had been made possible by the failure of George III to crush free government in America.From free America, and free France, and free England, the ideals of a government “of the people, by the people and for the people” spread slowly into many lands. It was this march of free government for the peaceful and beneficientconquest of the world for the good of the world, that the gallant French people had in mind when they erected in New York Harbor that wonderful statue of Liberty Enlightening the World. As you look at that statue, or at its picture, always say to yourself:“America means freedom for the world.”And remember also that this freedom depends upon you. America’s power for good must come as a free-will offering from her people; but her strength may become a power for evil, merely by their neglect. The plant of liberty must be tended: but license grows like the tares among the wheat, as the fruit of carelessness. Liberty is the glory of a republic; but license-contempt for law and order and discipline-is its deadly foe. America means freedom for the world, but she hope to see her desire realized only by proving that a republic can be honest and efficient, as well as free. Germany has sacrificed liberty on the altar of union. Let us not sacrifice union upon the altar of license.Why do we fight?Because we have been attacked.Because our peaceful citizens- men and women- have been deliberately murdered on the high seas  in contemptuous disregard of the rights of men and of the rights of nations? Because we believe that if we do not fight our enemy upon the bloody fields of France, our children will have to fight them on the soil of America? We fight for these reasons, of course. Any great, free, powerful and independent nation would be compelled to fight under such provocation. But we have other and more compelling reasons still, reasons which add the touch of glory to the grim fact of war; reasons which forbid us to sheathe the sword until our mission is accomplished, our trust fulfilled. “Those whose lifted eyes have caught the vision of a liberated  world, have said that of the policy of blood and iron there shall be an end, and that equal justice, which is the heart of democracy, shall rule in its stead.” These are the words of  our President, interpreting the heart, not of America alone, but of all peoples who have resolved that reason and justice, not the mailed fist, shall rule the world. We fight to insure justice and peace. We bear arms today that in future the world may enjoy unharmed, those institutions which have made us great and prosperous and happy. We fight to defend a sacred inheritance which free peoples hold in trust for all humanity; and we must continue to fight until its safety is assured.The Fathers of the American Revolution, men of many races, facing a royal despot, declared in effect, that the territory, which had been known as the Thirteen British Colonies in America, must be safe for democracy, and they fought until they had made it safe. Today, in this land, the children of the oppressed of all nations rest happy in that safety, breathing the air of liberty and equality.In December, 1823, James Monroe, in his famous message to Congress, applied that declaration to a wider sphere, announcing, in effect, that the American continents must be safe for democracy; and America has kept that pledge also.And now the time has arrived when the welfare of mankind demands the application of this same principle to a still wider area. President Wilson’s bold statement, “the world must be safe for democracy,” means that our trust cannot be fulfilled until the representative idea is free to develop in every land, unterrified by the menace of an armed and predatory autocracy.A Prayer for the Flag of Freedom.God of the sons of Freedom,God of the sons of war,God in whose praise our swords we raise,For liberty and law,Defend the Flag of Freedom.Its stars and stripes unfurled,Mean death and woe to the tyrant foe,And freedom for the world.Freedom! Freedom! Freedom!Freedom by land and sea,Your flag and mine, by right divine,Is the Flag of Liberty.We strike for the rights of nations, for the small as for the great.We fight for the right, and the God of might Will seal the tyrant’s fate.Marching, each man is marching, With glory in his face, Bearing the gift of Freedom To all the human race.Freedom! Freedom! Freedom! Freedom by land and sea, Your flag and mine, by right divine, Is the flag of Liberty.By Robert McNutt McElroy, Educational DirectorThe National Security League....19 West 44th street, New York City（アメリカの意味われわれが”アメリカ人”と言う時そのとき、なぜわれわれは戦うのか？）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:Allied Printing New York City Trades Council",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:33+00:00"
+    },
+    "o:id": 27365,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30301",
+            "o:id": 30301
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:17:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "アメリカの意味∽368",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/27365/1332748088553.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/27365/1332748088553.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/27365/1332748088553.jpg"
+    }
+}

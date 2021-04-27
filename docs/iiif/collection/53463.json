@@ -1,0 +1,643 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/53463",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "小野秀雄コレクションかわら版",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e072f09-4e95-46aa-9390-9b1c323c7249/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火 ∽085"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66d7ce43-cfd5-454a-a979-a2e9f3ab8977/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽089"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c50745ae-387b-4e1e-bbc4-f77638df6d66/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都焼場方角付∽039"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17ac2134-f797-49fa-9033-f9a3f416c477/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽035"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0aa5d214-3395-4932-aef6-ab7a23f36b02/manifest",
+            "@type": "sc:Manifest",
+            "label": "御江戸方角分量大略之図∽003"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/58ef08f1-9d3c-485f-9398-fc035b439df1/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽091"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6fa7058f-feae-4f7a-b2d4-4cb7d6afee33/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田佐久間町の大火（仮）∽006"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/234f00c5-f738-42ca-a0cc-b7191ebea45c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽090"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/823ba793-b496-4a8e-9233-10b0f9fc350b/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付 ∽048"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a4537b6-fd1a-44e7-ba7b-dfea37d69fb4/manifest",
+            "@type": "sc:Manifest",
+            "label": "ゆらゆら豊問答∽115"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a522465f-f114-4977-a091-ccf6456f31ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽058"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d468afe9-a59a-4f6c-8d64-4d366a8a769a/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角絵図面∽010"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場独案内∽029"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5fbf58e0-c220-4c3e-9e5a-e3fae33dcb7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼原方角付あらましの分 ∽021"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b10130b-db47-4074-afeb-127207acfe77/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽032"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/07e92645-4d5b-417a-a669-c58d63e776cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋辺大火（仮） ∽043"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee884277-6cf1-48e5-b060-53ffe881ffd6/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火（仮）∽018"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39643674-aacd-4b19-91af-5ba7c3e28dac/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山大火場所付∽065"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77a09d12-ee47-4508-b350-00b427db7a8a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田大火（仮）∽077"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a8080fc5-982a-4a62-b081-bbee28856c91/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山権田原辺火事（仮） ∽019"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e428108b-0185-44de-94de-26a307ec0f67/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸通一丁目辺大火（仮）∽040"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/99e91eb2-3d9c-4fb2-aef9-cb0828f5cb9a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽024"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b243ea5-4acb-4697-aa35-95bffda59d6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "火之用心・大阪今昔三度の大火 ∽073"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cef05ebb-d857-47d5-ac9d-1a8edaa87f46/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮）∽008"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/250f8f1c-dffc-432c-8b18-9c62f715e4d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽004"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/manifest",
+            "@type": "sc:Manifest",
+            "label": "防火戯詞（仮）∽109"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0815e909-1174-4a70-8310-0557b9cd00b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付 ∽031"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/510b34d4-3164-4fc8-8358-c81b656bbc0e/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震之用心火乃用心∽113"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc630a2f-50b8-4f9d-acfb-ca649a2e9ad3/manifest",
+            "@type": "sc:Manifest",
+            "label": "岐阜罹災之統計略表 ∽117"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b017da7-a63c-4ec0-bf36-025d1b72701c/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治二年東京大火（仮）∽080"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bab9f60b-e39f-4c5c-85da-c31fbc2a9527/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸人安堵乃為火事場急報∽082"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/manifest",
+            "@type": "sc:Manifest",
+            "label": "三田・田町辺大火（仮）∽100"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f65b6aa3-c4f6-4338-865b-64b37184b34c/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸国へ出ス手紙之文 ∽022"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34d433b2-3f0e-4865-8318-54215a9d7ddf/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震出火細見記 ∽124"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0904d9d6-bcd6-47d7-af7e-a21335b57df6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本橋本舟町火事（仮）∽017"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b253230f-b1a1-459d-b7ad-018bcbcd804f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽106"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/787bceee-b736-4acb-9d84-73a8a8bffd09/manifest",
+            "@type": "sc:Manifest",
+            "label": "見立町鑑大地しん（仮） ∽123"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f607aab-3a3f-43f6-bda7-e2055cac27b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸浅草辺大火（仮）∽045"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/185ab49b-a164-41cd-b4a0-33842eb2a282/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火場所方角付∽009"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dcabc67-b90d-4fab-9d34-fb65b3c5129d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新板改正大平武鑑 ∽120"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eccf717b-5947-40c9-b99d-f73ed07e9a99/manifest",
+            "@type": "sc:Manifest",
+            "label": "安政三年関東の地震（仮）∽116"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec81097f-c7e4-4679-9b9f-730437ce164b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京の火事（仮）∽105"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e85e8f8-4408-446d-a613-d4cdf2704ff6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽026"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d6d9d4c-6015-400a-a376-6155bdb4ff46/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸焼場方角付 ∽059"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af998fcd-6cc8-4a9a-b811-783b75a2cd65/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田佐久間町の大火（仮）∽005"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/549a177d-c8ef-443f-8926-c1ae174a377d/manifest",
+            "@type": "sc:Manifest",
+            "label": "三田・田町辺大火（仮） ∽097"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/913ddcff-b30d-4db9-bf50-5addb53d8f69/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸下谷辺大火（仮）∽047"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/723b8306-8d9e-45de-8a89-3105e4579174/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮） ∽027"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d101338-746e-4ea5-ad75-48d83a8fa442/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火∽050"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d4ca719-4495-4ee9-9a2b-d2f701f71355/manifest",
+            "@type": "sc:Manifest",
+            "label": "歌舞伎引札見立の地震戯詞（仮）∽122"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be4ee94d-6061-48eb-81b0-3c79bafb86e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋大火（仮）∽049"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e50da599-d4e1-4745-82fa-c2f458bcd70f/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火∽015"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95f370ee-3c2a-414d-b46c-8c17536b9f3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽028"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a78425d-f6bd-44fe-a37b-e26cc6e97ac2/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽092"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eaea7199-18a0-4830-80cb-dd2dfebb0e7f/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角一覧∽057"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a7022f2-a335-4def-a47c-12fc1cabc20c/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火場所付 ∽068"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/efb14051-31e3-42b3-89ab-4fb4c3c915d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田大火（仮）∽078"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0772d315-ccc0-4500-a8ca-71f8cb1a664e/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火（仮）∽095"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b9027362-d8cd-4e74-a647-110b99c3b4d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺火事（仮） ∽062"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9cc4709a-6219-425e-92ef-53040bae220c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽025"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d6c45af-9d1e-44ef-9c8e-10133b98c2ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽094"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/beaa7124-bbb0-4556-9d8b-23f77dc8ff37/manifest",
+            "@type": "sc:Manifest",
+            "label": "地口十一種（仮）∽118"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f92a027-0f44-42fc-99cf-375bccee688a/manifest",
+            "@type": "sc:Manifest",
+            "label": "羽後国飽海郡坂田港　火防行列之図∽108"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a6626b1-6543-48fb-8a93-b21bce257ec8/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮） ∽033"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/774c648d-59c7-4f29-b46a-da3dcdef5f7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮）∽038"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火極本しらべ∽054"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/126170cd-3c25-4af4-b5a3-5b08344b1ca2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新板改正大平武鑑 ∽121"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fd97db2-48dd-4276-ae27-6b7eeff59543/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角場所付∽012"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d64935b9-8b41-42d5-9f31-5ca0a2b18c24/manifest",
+            "@type": "sc:Manifest",
+            "label": "ふれ出し風の薬∽112"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b7a3178-382f-41f4-a4e1-08606cf6964c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮） ∽104"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c653e4f2-67c4-45f6-89c6-fbaeb533d945/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪大火 ∽051"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5be0a960-02c3-4f9d-a0b5-132bbe8e473e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸飯倉辺大火（仮）∽069"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c669723e-809f-4086-963e-b51ea1ae208e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸図（仮）∽098"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/manifest",
+            "@type": "sc:Manifest",
+            "label": "吉原類焼の記（仮）∽046"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b7f518a-461c-48eb-8477-410488f66b2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "火之用鎮道しるべ∽034"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18c42b96-3dba-4264-9173-6bc7c59988c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "大江戸焼場方角付∽060"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3efd0f80-2f95-4bd2-933e-279c5bee08a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火∽052"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2096bb06-6908-4bf2-b281-65d76d32ce62/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽101"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae61b35b-66d5-4b3c-b144-e56409faf49a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸馬喰町大火（仮）∽070"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eef22bdf-92c8-4026-ad4b-2274d235ff2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "やけあと道しるべ ∽002"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fffa6ec9-e0e9-4006-ac2f-0caa79dacca4/manifest",
+            "@type": "sc:Manifest",
+            "label": "火事道化（仮）∽111"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/310215e1-400f-4d76-b4bb-1659e14ce8ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山大火場所付∽064"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35b6a2fa-cdae-483c-80d6-6c23f4d70a34/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火之図（仮）∽079"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸四谷辺大火（仮）∽041"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/afe2d01d-b4df-49ad-9724-fde19e86f6e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角の図∽036"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b714629a-1210-4f34-85f3-9498bb506d43/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋辺大火（仮）∽067"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a202ac1a-fd1f-452e-b264-33fc90987a8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽023"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43a5cd6d-8ca2-4520-bb78-3d00324aef2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治五年東京大火（仮）∽081"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/daa80949-a47d-4255-923d-bb0a4e1640ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山権田原辺火事（仮）∽020"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/294404b6-d7f8-4085-b7de-c0fc5ccdba42/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火 ∽084"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bae83495-8df7-4f9b-aa5f-43caa29b3ad2/manifest",
+            "@type": "sc:Manifest",
+            "label": "やけば方角十八手 ∽063"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f344363-f513-48cb-8fb5-4bb78c409e3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火図 ∽053"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16f61829-9f38-4935-a745-fa738146317f/manifest",
+            "@type": "sc:Manifest",
+            "label": "火用道具∽110"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba4f01c3-d9ae-4588-a461-59a5062d919b/manifest",
+            "@type": "sc:Manifest",
+            "label": "るいせう道しるべ　上∽001"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f30af2c-3dbf-4344-91ec-5bbfafa46bfc/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震出火の図（仮）∽114"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03bd4f2c-bbf3-4f14-af5c-adcb442dec16/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽102"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/589b8f2a-f7b2-4444-b2e2-2ea70941f6a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角場所付∽013"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e0ada59-eb11-4147-93a9-3b055df5f1c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火∽055"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火場所方角付∽011"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1834bf2-1bfa-4924-a6b0-e68670f8d721/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽093"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1653dc4b-94a7-4a5f-af46-c43d4d5a16a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角絵図面 ∽014"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12b62ab4-7153-4aec-bace-00275551267c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸小網町辺大火（仮）∽044"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b06c283-a37e-4e9e-a9be-c70253530646/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽087"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ce820b2-8df7-4d6e-a88a-fdb7fc685282/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽103"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角細見記∽076"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e5b80924-249d-4633-a8f7-230c6b8c0e0f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽088"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1d5f968-91ef-4790-b5a5-695330d25e37/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角一覧 ∽056"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7638333f-f336-4856-b7ba-938515bfb5cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸浅草辺大火（仮）∽066"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96e154ef-c492-4413-827d-7de6ad2979d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮） ∽037"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59520d34-5cfe-41d7-9e11-adbc43de7b21/manifest",
+            "@type": "sc:Manifest",
+            "label": "大垣町火災地略図 ∽083"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e5e8880-d39a-4670-b1d8-d156edbb4f3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮） ∽042"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b7a49c6-99fc-40a9-80b9-241412cf9b2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "万歳楽鯰大奇 ∽119"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb0cf274-4ce7-403b-b1d3-d17b2fedfa48/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪大火本しらべ∽071"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77710fb2-75a9-4cb6-9bcb-657a2f37e94d/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸新橋辺大火（仮）∽096"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/364e897d-3ef5-4a56-93dd-c2cf07e6a548/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火∽072"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54447215-7654-4733-a548-f2d972c323ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火 ∽016"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe92e221-03a6-47dd-b4f6-c11859075304/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽086"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8a97de1-34d2-4f5a-befa-7be20f99b1ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮） ∽007"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9c68148-643c-4c5a-9a2d-7417dc57a7ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "せんハ上丁　大火ノ図 ∽099"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ec7e44f-3c99-4382-a06e-70c55f8b3381/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火大功記十段目秡文句∽107"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb6b8c22-de37-47ae-826e-598680d00af3/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺火事（仮）∽061"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6a87bab-cbbd-4c77-a901-420d102f9af1/manifest",
+            "@type": "sc:Manifest",
+            "label": "武州加奈川横浜出火略図 ∽074"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c667b44-381f-44a7-adfa-df1f19d8ea8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火場所細見∽030"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d30f9dd-eeb2-460c-a329-5e69277358e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽075"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "小野秀雄コレクションかわら版"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/item-set/53463",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+        "format": "application/ld+json"
+    }
+}

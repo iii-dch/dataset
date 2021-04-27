@@ -1,0 +1,219 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/1914",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "NKS3_19240711",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "12",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "398",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1924-07-11",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "9、10面に附録として洋服裁断全書",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "545×400mm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d02b3d0b-b87f-41e4-9650-a162e8c5b930",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "日本毛織物新報社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "日本毛織物新報 398号 (1924-07-11)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-22T00:41:58+00:00"
+    },
+    "o:id": 1914,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35015",
+            "o:id": 35015
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4408",
+            "o:id": 4408
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4409",
+            "o:id": 4409
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4410",
+            "o:id": 4410
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4411",
+            "o:id": 4411
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4412",
+            "o:id": 4412
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4413",
+            "o:id": 4413
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4414",
+            "o:id": 4414
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4415",
+            "o:id": 4415
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4416",
+            "o:id": 4416
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4417",
+            "o:id": 4417
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4418",
+            "o:id": 4418
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4419",
+            "o:id": 4419
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "日本毛織物新報 398号 (1924-07-11)",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12",
+            "display_title": "日本毛織物新報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 12,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/1914/nihonkeorimonoshimpo3_0170.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/1914/nihonkeorimonoshimpo3_0170.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/1914/nihonkeorimonoshimpo3_0170.jpg"
+    }
+}

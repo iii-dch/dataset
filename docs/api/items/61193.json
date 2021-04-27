@@ -1,0 +1,238 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61193",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:price": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1953-08-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "内容小見出（附録）／収録話名: 表紙…浜康雅; 目次カット…中山正美; 抽出口絵（密林の王者）…伊勢良夫; 目次別表; 山の怪談; 山小屋の怪; 滝田要吉（え）; 北浜登志夫（え）; ユーモア小説; うなぎのききめ; 鍛冶貫一（え）; 住井すえ（え）; ユーモア野球小説; ヘタの横好き; 斉藤年弘（え）; 福田英一（え）; 海洋冒険物語; 幻の海賊船; 中山正美（え）; 北越未知男（文）; 少女小説; 友なつかしく; 遠藤てるよ（え）; 城節子（文）; ユーモア小説; しかられ日記; 滝田要吉（え）; 浅生英（文）; 時代小説; 三色のすみれ; 亀山ひろし（え）; 稲村久江（文）; ユーモア小説; 先生のネコ; 山本まつ子（え）; 林田文夫（文）; 時代探てい小説; 道なしいなり; 中山正美（え）; 内野富男（文）; 冒険物語; 密林の王者; 亀山ひろし（え）; 口遠建（文）; おもしろまんが集; ・夏休みまんが発明展; ・陽気なカバくん; ・涼しくなる方法; ・ドン・キホーテー; ・まんが林間学校; ・エリちゃんとグミちゃん; （不明）; □□（ママ）まんが訪問; 野球選手の似顔のかき方",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "発行人: 相賀徹夫",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "編集人: 浅野次郎",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "本誌（付録）／掲載誌（単行本）: 小学五年生八月特大号別冊付録",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　自社: 小学館　幼年えほん",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "状態: 良",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: カラー; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "料紙色; 材質: 有（うす茶）; 中質",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 黒; 青; 赤; 紫",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "装丁: 並",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "版型: B5",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "自由記述: 表紙…浜康雅; 目次カット…中山正美; 抽出口絵（密林の王者）…伊勢良夫; 目次別表; 山の怪談; 山小屋の怪; 滝田要吉（え）; 北浜登志夫（え）; ユーモア小説; うなぎのききめ; 鍛冶貫一（え）; 住井すえ（え）; ユーモア野球小説; ヘタの横好き; 斉藤年弘（え）; 福田英一（え）; 海洋冒険物語; 幻の海賊船; 中山正美（え）; 北越未知男（文）; 少女小説; 友なつかしく; 遠藤てるよ（え）; 城節子（文）; ユーモア小説; しかられ日記; 滝田要吉（え）; 浅生英（文）; 時代小説; 三色のすみれ; 亀山ひろし（え）; 稲村久江（文）; ユーモア小説; 先生のネコ; 山本まつ子（え）; 林田文夫（文）; 時代探てい小説; 道なしいなり; 中山正美（え）; 内野富男（文）; 冒険物語; 密林の王者; 亀山ひろし（え）; 口遠建（文）; おもしろまんが集; ・夏休みまんが発明展; ・陽気なカバくん; ・涼しくなる方法; ・ドン・キホーテー; ・まんが林間学校; ・エリちゃんとグミちゃん; （不明）; □□（ママ）まんが訪問; 野球選手の似顔のかき方",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "258×181×7",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5738e848-0fb6-421a-8909-7ff24425e1bb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "株式会社小学館",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "夏休みおもしろ宝典",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/128.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:48+00:00"
+    },
+    "o:id": 61193,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:25:41+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "夏休みおもしろ宝典",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "uterms:sort": [
+        {
+            "@value": "OI128",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

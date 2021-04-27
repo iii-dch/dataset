@@ -1,0 +1,397 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/cj",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "長春実業新聞",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c7e546b-e918-49e1-aa4f-d91282e28793/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 556号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aade6c1a-867f-412e-a684-3c9014336841/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 557号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ac2cb68b-ea37-484a-be64-5bc848252495/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 558号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01e2e681-a9c8-4a89-b1e2-387328614582/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 559号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d17745d-4fbf-4435-9505-a013d4a7e21f/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 560号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/019f6968-2840-44a1-a755-b59308c5b207/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 561号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ad6e9c9-d478-4094-a717-6520c68fe451/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 562号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a11dcd3d-2791-4948-88a6-997cc49b144a/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 563号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ed5c4c3-18f1-4e2d-8e28-73707685b27c/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 564号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6c6e4671-cc6d-4307-8c36-6acbd0588837/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 565号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/81076db9-456e-4b4d-a052-e8648eadfd5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 566号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/440bb00f-3671-4ed0-abbb-08db9ddb7687/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 567号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b85b3eec-2c92-4550-8aad-b84596ea12a0/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 568号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9031c741-1f31-4c79-a075-a7a9da8968bd/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 569号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9759c4d-87c9-44ec-b4dd-8a2327120a27/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 570号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/792f7ee7-0e5e-49b4-971e-22771e189a74/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 571号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b1532db-f40e-4712-81f0-e58ea7530f7f/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 572号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ccdadd30-1b69-4f5c-ba41-f925172c1fd9/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 573号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6b3ec58-e608-4020-ba9b-4fc0ca4fb597/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 574号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/45d30b1a-dfd9-4116-a42a-dcce80d38dca/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 575号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3aa866a0-163c-468a-8793-fb7530faadf5/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 576号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/727084e7-723c-4bab-8825-0cde6d2b4ca1/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 577号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/168df68c-ccff-43e6-94f0-cfeedee58391/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 578号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2629297-b15f-47a6-ae77-b841b192fb88/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 579号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2446839c-c8a8-4da0-9a8b-ef6b72079fb4/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 580号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca447b20-8f78-4627-9e7d-736e7fb1094f/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 581号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cc2cb04-3323-4d83-abd4-5f0a40dd3699/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 582号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af2c1898-7692-46ec-88b7-bd2b784659b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 583号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e122d28d-a4db-49e6-ba98-c117d31a1f3e/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 584号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2096bc74-dfdd-44a9-a0ae-ae78c31e0c8d/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 585号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cbf19783-9e10-4e9b-b348-22055c42b6f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 586号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0688f08-2ff8-42a8-9fbc-c702f74250d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 587号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ac7c4aa5-2be2-4cee-8b89-ff572606fb4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 588号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/862dd682-4806-4244-98ba-5458e2ef4817/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 589号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/acce9c34-c6e0-4029-81d2-f1c415cbfd3b/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 590号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/57b4d0ed-b79c-4441-ae70-07fa78fe0271/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 591号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/faf2ee16-7524-4506-91aa-afdbb904c31e/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 592号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4aa0ba3-5bb4-48ee-86e7-cc80772e5069/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 593号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54f67067-1d57-40c9-bd4e-900f8577f7e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 594号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52e02f59-9202-4aa7-b2b6-f5ba9d0835f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 595号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a350ccf-996c-43f0-8d38-dc8dfe5de055/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 596号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/573a3729-fffe-4d67-8182-708e432bc84c/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 597号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1004a480-57f8-414a-a0c1-0c16db630f04/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 598号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/73f2afd5-1a00-457b-b9f7-29ce63cbaf3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 599号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29e0ab23-e10b-4006-a225-51d78e5cdc20/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 600号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e4bbb461-2841-43be-8251-25a6ca422682/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 601号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e5a7725-b1be-4bb9-9292-34a81484a108/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 602号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/edfdd1c0-e056-435a-a185-51c2c6380338/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 603号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6cd0f5fe-9481-4d1e-9e31-8b602feb1923/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 604号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c04817f6-ca04-42c7-ade6-26350f12de99/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 605号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c7e3a543-6053-426b-b258-68d8cc8a0bf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 606号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03dde51b-1ce9-45e2-9e46-53cab9fa8983/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 607号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/629a5b51-03cb-4580-94b5-296399374cc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 608号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d7fdd830-2c38-4081-b861-2e0e4a484404/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 609号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3157600e-bc7a-446c-9eff-641ef6782499/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 610号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35a49721-4772-4ee0-9e0f-825d300b9230/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 611号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cfea9be-2a9d-46cf-a323-79e7b0a3986d/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 612号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c61535c-f857-46ce-b30c-42db35e6040f/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 614号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9ede454e-93aa-4eb0-99fe-04712ba43a04/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 615号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c913ae8-088a-447f-89c2-3d04b4775892/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 616号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/50113b1e-8a9c-4efd-8e21-497fedcc7533/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 617号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94423f8a-1a3c-43e9-b7b7-f56191802e76/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 618号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/148f73ce-f73f-4239-a1a6-83a1b676852f/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 619号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0654e2a0-871e-4855-ae8b-75a857f7095e/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 620号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a227446-1c21-4720-a1fa-aa498ad46bd5/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 621号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad77ede6-de3e-4c71-8787-2db9f74107e8/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 622号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb47f1c2-79ae-42ab-b154-f22d6913b0b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 623号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f18849b4-bc1a-4b2d-a383-1383f119e8ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 624号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16e89278-e284-4299-91a0-7b6686392c2c/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 626号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64fa5a07-e6e7-4cca-9b91-974804d03dc7/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 627号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e4f261e6-8d93-4188-a6f9-30644a0f55ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 628号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4798df3-eb9e-41d1-8fe1-3a45a75f220d/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 629号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b69bc707-a431-4017-bd21-467d73b220d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 630号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a41e0e19-d55a-40bc-8795-1a8acc64f9d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "長春実業新聞 631号"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "長春実業新聞"
+        },
+        {
+            "label": "Identifier",
+            "value": "cj"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/cj",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61222",
+        "format": "application/ld+json"
+    }
+}

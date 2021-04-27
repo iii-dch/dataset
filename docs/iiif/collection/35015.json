@@ -1,0 +1,1202 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/nks",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "日本毛織物新報",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f15a8111-2435-4e58-8317-f6af8a2344c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2e93d31d-9997-425d-aba9-fb2e938941c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 173号 (1917-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ffdc6ea0-1e21-459e-b5a3-1af30a8a5fd5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 174号 (1917-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6fa15d80-8b1d-468f-b8bf-6a1f9a102199/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 175号 (1917-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c57cd6f-8131-4f86-a7ac-3a57d8de65ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 176号 (1917-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7af1d718-bb49-428b-85f2-840c0720f55f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 177号 (1917-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f99acf3d-985a-4016-b6ca-ec3184b58470/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 178号 (1917-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae903522-21fc-41f0-a19a-6cf249d3a1ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 179号 (1917-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/db5058f6-2684-4b2c-a455-bfed2e2aadc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 180号 (1917-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4b301c7-c682-4839-81db-e21c2edad4a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 181号 (1917-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/236f1e18-a829-4f3a-8584-52fde9d8f4ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 183号 (1917-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4968da76-a5d1-4642-8433-3bc3b36c1f87/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 184号 (1917-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6eb38d4b-5b1b-4024-a643-50719972bd80/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 186号 (1917-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5f3ab53-8684-454c-bc99-80ebeb8e7471/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 187号 (1917-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54f78579-fae5-4b02-a987-479cf02e7f7c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 188号 (1917-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ade1316-63c3-4851-87d1-01a30302fbef/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 189号 (1918-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce6d5fd7-a4ae-4c4a-8cde-90b4d5b50dd1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 190号 (1918-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/86fd9835-c2f8-4967-899a-a7ffaa87651e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 191号 (1918-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95191e38-5614-4097-84da-7e868dad2633/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 192号 (1918-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01679cc0-1264-44d0-9c8c-8e957679909a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 193号 (1918-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/db03c14c-bde6-43c9-84a3-2647543f985f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 194号 (1918-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a1e4253-6a2c-47f0-8a39-d51102033988/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 195号 (1918-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ad21e47-0b2b-446d-9003-d8e758cfe647/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 196号 (1918-03-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a8259db5-12df-4cee-b768-166ddfab2c2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 197号 (1918-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8ee1b432-aa18-4750-914c-77b345a6af77/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 198号 (1918-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0f08f40f-b5f5-4746-96aa-11059fafbdb2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 199号 (1918-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94135666-7607-46d3-bbee-779abbec9184/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 200号 (1918-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0dae565-4a92-4065-8593-ccd07e5ed057/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 201号 (1918-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee3cb21f-8769-46f2-b3f3-36697505ac47/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 202号 (1918-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f7aab056-ad03-4272-84c7-f0d5846761cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 205号 (1918-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e16febc-0b39-44fc-b03c-32e3f4268024/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 203号 (1918-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f1840035-66a7-4a88-84c3-ab392192c16d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 206号 (1918-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18aa6147-4ae8-41bb-b02f-6747efba087e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 207号 (1918-07-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f95ec23-d80b-411f-8865-00d693ef59bc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 208号 (1918-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fead480-6e5b-4790-ba7c-046be5777130/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 209号 (1918-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b5116cb-9c76-406c-a069-0719a070de3d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 210号 (1918-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f0bc99ea-71a6-4994-95a1-d5e07fba8d9e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 211号 (1918-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/266c18f7-4f15-452a-9154-3e2370d28448/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 212号 (1918-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1523880d-13fb-4c71-be12-d449baadcf31/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 213号 (1918-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c08a1a7-92d9-4141-9699-4f669c9935eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 214号 (1918-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3739bb89-28c5-4880-bb78-ade4f4ed315e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 215号 (1918-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/24eafd1d-68c2-4a64-bd12-ff13aacfd890/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 216号 (1918-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4bef7a47-15e2-4b6c-ad88-151c56e8c824/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 239号 (1919-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be18e832-11b8-454c-bc3e-52289a546908/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 240号 (1919-07-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b8c7538a-7e14-4707-8912-5d5f3e7efbf0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 241号 (1919-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1383de9c-5268-43ca-bdae-40fb3b96db7f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 242号 (1919-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e6fec9ab-1bbb-4d34-bc3a-ae7a9821391a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 242号 (1919-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16de5401-5e6e-4df1-be69-cbe7651d1244/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 243号 (1919-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/461d111e-d1b7-43fc-a9e9-e19b5522f1fc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 244号 (1919-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/40a27b80-ad50-41b6-ac5e-bea754d27a4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 246号 (1919-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18f6afd7-8d60-48fc-9b27-e04067ad5717/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 247号 (1919-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5e4925a-ccd5-47d4-863f-bc05c405ba6c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 248号 (1919-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a0160bcf-00d9-4b9b-b3a5-37e8f39971b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 249号 (1919-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6409d3fe-fa79-4e34-aca8-784e7d989a43/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 251号 (1919-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ac662fda-af53-4fba-a516-0c7e9c1d3ff9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 252号 (1919-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03288498-060e-48b4-be35-0a638104ba85/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 253号 (1919-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a3658d9-9882-4753-9319-da9b205fbf44/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 254号 (1919-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43ecc2ee-23a2-4fde-bd03-72e9ffddb967/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 255号 (1919-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4072122f-cd31-440e-8cff-b113aaff3794/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 256号 (1920-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6da10300-d771-448c-b1fb-73dbbdf7e644/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 257号 (1920-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/577af054-cefd-486d-b8b2-f9eb87daa27b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 258号 (1920-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fa86957-cd92-4860-933a-6a2ea5ae1eb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 259号 (1920-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fae33eb-3110-4b87-9e03-4d3329144643/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 260号 (1920-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/76946c72-050d-4100-9ecf-7475981fe832/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 261号 (1920-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be89e30c-096d-45f4-a5ce-7fa7a501f498/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 262号 (1920-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b466630-54bf-49e6-bde9-fd9ac6c453e8/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 263号 (1920-03-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bda2319-5a2d-48dc-961a-7a621e333791/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 264号 (1920-03-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/89810991-9cc9-430c-b75a-ff5d2176e032/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 265号 (1920-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9398dff9-5289-4a4a-9b24-e3cdbbfbd25f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 266号 (1920-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d62ce015-62f3-467a-88ae-864fa6e2f66c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 267号 (1920-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/76770ce0-b050-4780-bbe1-23ae247f98cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 268号 (1920-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b9e3ea6-a003-4157-8dd0-45faa29e1445/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 269号 (1920-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/afa009ac-5e83-4df5-ac54-677fa19dd40f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 270号 (1920-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dea25f72-f176-4588-aee6-40ac2203575d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 271号 (1920-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/136cfa17-d4be-4edd-94d1-81255b07509b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 272号 (1920-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/413c8a63-8b2f-4d9a-875d-98be32015ab8/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 273号 (1920-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdaf1b31-87a7-4c2e-967b-72f1572531cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 274号 (1920-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d30b7794-48d2-466b-8ff6-c9deaaece708/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 275号 (1920-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a0355ead-acc7-472a-b384-50d52767b9e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 276号 (1920-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f28a5a8c-4bf3-48d4-9e70-8d7599d0541f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 277号 (1920-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/007adf2d-9640-49f0-a689-92397300188b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 278号 (1920-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39084002-2465-4323-8946-1ee49741027c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 279号 (1920-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3f40f40f-551b-42ea-856a-b1d5c67dd59a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 280号 (1920-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c83abb3-979e-4130-bce4-10428c7692c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 281号 (1920-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9378f357-25a7-422c-80d1-e42958aba8a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 282号 (1920-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/61d79ef9-8d23-4403-b478-4facbf326da9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 283号 (1920-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/448eea57-5889-4e9f-84b9-0928aded286f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 284号 (1920-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6127a8e-4d0d-4cbc-8c7b-d587295f6c69/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 285号 (1920-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f41fdfe3-0fbb-411b-a54b-bd93457c24a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 286号 (1920-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9aa660f1-4457-445c-9c59-f65368d58f7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 287号 (1920-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25ab62e9-c7d3-4c68-ae2d-736fbf4f3228/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 288号 (1920-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/24a60748-9e60-422a-a295-cc5ed5776aa1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 289号 (1920-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/21217b1c-7704-4d62-bb9a-caa42683bbbb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 290号 (1921-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b02448-b446-48e2-b86e-37ad87af68d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 291号 (1921-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c8b3f3a-2bba-4ad0-9288-79c347941e48/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 292号 (1921-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6c6e44f-27fb-484b-847f-b2795d111ced/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 293号 (1921-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56b5a0d9-cf44-4041-96f6-173745021958/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 294号 (1921-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/585811a8-51f3-4aa7-a62c-9f99475a3a2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 295号 (1921-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/41fb3d8d-bd6f-4516-918a-0b2cd1b45676/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 296号 (1921-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be6ddab5-dbce-45bb-bb27-c36e6c597780/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 297号 (1921-03-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/404b368c-a353-4da1-9cc7-1e49be09777c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 298号 (1921-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd9f6569-2879-4d69-b701-90c9ecbedf7a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 299号 (1921-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01986803-dcf9-4fdf-8f79-1f8cc7150074/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 300号 (1921-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c023988d-c0cc-44e9-a879-aedf52a8e866/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 301号 (1921-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e135816b-ce68-4a52-b89d-4ff3cd1f5fb1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 302号 (1921-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b9fc94b-ebb7-4ce3-94a8-3d04ffbc149d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 303号 (1921-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3e87d086-605b-4f4f-a71d-e3f0e3522ad0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 304号 (1921-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f2f361e-f81d-4465-8d2d-89fd1949e44a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 305号 (1921-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a72bcb38-6e32-498f-9e0d-648de41b8b2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 306号 (1921-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93ef7ede-6d2a-43d0-906f-3006cc38182e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 307号 (1921-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d639ea6-1179-4320-b872-e3a172ab7c98/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 308号 (1921-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a59838f-4267-48ef-8c14-5248e882db38/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 309号 (1921-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2b158a3-fa7c-4334-b3c1-52e797757016/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 310号 (1921-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4615569f-a359-4739-9f37-64842c927db6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 311号 (1921-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d136d9b-8400-4a4d-801b-4c6b65faa5a9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 312号 (1921-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/900b2d76-6140-4da5-a7a8-d0a4bd914d01/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 313号 (1921-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52bbaed4-ae1f-49df-b3ed-d6b6547eff3e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 314号 (1921-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e727c80-a113-4a9a-aa48-9fffa95c739c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 315号 (1921-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e585f935-57dd-4a98-acf5-2fed32e38e73/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 316号 (1921-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bbcbac71-29a0-4f38-b7ce-3d0a6f39142d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 317号 (1921-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa2d27c5-c490-4b94-a41e-23a1edaae28f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 318号 (1921-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b480f0c-df6a-4c6e-ad2d-6f67e5914c43/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 319号 (1921-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/48821b4b-0009-4836-a004-7eec86795f43/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 320号 (1921-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2670761-ede6-48ee-987c-ec7f03edf595/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 321号 (1921-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96f9d9b9-fe4b-4854-9239-a894f20b3222/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 321号 (1921-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fbe89db-1a30-478d-820b-93b55cfbbd23/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 322号 (1921-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e051ae7-40ae-4f80-a756-6efac49de86d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 323号 (1922-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd4065ae-0ed3-4dad-8613-941857481219/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 324号 (1922-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c0cc9ee-65da-484e-a54f-a636d85212cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 325号 (1922-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0414ff77-b459-43d6-9122-fafd701f01e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 326号 (1922-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ae4464d-cae7-4d99-9619-05ee5ca1bde9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 327号 (1922-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38976e57-047b-444e-b207-452b0fe1ff18/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 328号 (1922-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e04374b9-6e59-474b-87bf-d2b5f761065b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 329号 (1922-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/515e21a5-268c-4072-8447-87b0c43de4b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 330号 (1922-03-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dda7e4bd-a7a3-45a1-abb7-a9f6e79b7a3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 331号 (1922-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3c67cef-091e-44ec-9194-37f6e3c50976/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 332号 (1922-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e15a197-3b92-4434-abf3-54474fd5e30d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 333号 (1922-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be711bd3-5fc5-4321-b56b-e4faee28988b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 334号 (1922-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2d56ff3-867f-4607-8871-d0521c0915bd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 335号 (1922-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c5bf9fe9-c156-44b4-a0fc-c3672ed47e82/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 336号 (1922-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/60bf89d5-3321-4a66-aed3-030226406ce1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 337号 (1922-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c2f43d09-3cd7-4ab6-be74-7c79723254d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 338号 (1922-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af1f24cc-8082-4d27-8856-37e78ea41099/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 339号 (1922-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/134e6bcb-c62b-475b-bff9-81bdd82bc4f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 340号 (1922-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a5044c72-dd48-4edc-b1fb-21fd6b8868cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 341号 (1922-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ca76fc9-5121-4723-a9d9-4ec00f4ebddd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 342号 (1922-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d32edea3-7218-4d8a-b546-885143435718/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 343号 (1922-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7e49c7b-d6de-403f-b7bf-9b3e86e197d5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 344号 (1922-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/24deb4ec-9b4f-4d1f-8458-96d4f77ab6ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 345号 (1922-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/62548560-27da-4f25-95b1-f5605f0a57ef/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 346号 (1922-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa024659-baca-4891-9604-b1170fcd490f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 347号 (1922-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3cf78669-b188-49a8-b82c-8130290fd403/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 348号 (1922-09-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8eb6501c-d0a4-4f18-b1ec-15fc919b8e4d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 349号 (1922-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/570b4e11-eab2-42d1-9708-726ac0918f0f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 350号 (1922-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/880e4e6f-f472-4288-b330-0022cc1b2682/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 351号 (1922-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df34581d-22da-4e9a-9866-0ccac7f300b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 352号 (1922-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49eed242-cb0d-47df-9b13-c186cadc59f4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 353号 (1922-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ff8f8335-f7bd-42fc-b09f-a69e984c3fac/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 354号 (1922-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fea001e0-0f01-448c-bb53-99b354f354da/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 355号 (1922-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6c112c12-c6a0-4316-9766-f6e7adac0a3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 356号 (1922-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/13e7cc45-fda9-43db-a09e-5745a7e2f3fd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 357号 (1923-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/731e8009-65dc-4fac-8f4e-54bfdbcb28a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 358号 (1923-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c30a097-3112-47f2-acfb-c7545b95793a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 359号 (1923-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2580ea1d-33ce-4fb1-aaa0-f689daa88d90/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 360号 (1923-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51c2b0a5-0193-485c-b4d3-426b187d1135/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 361号 (1923-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ff2cd42-c41d-4b6c-b680-7dc7f09941b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 362号 (1923-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fa30d48-c8c8-4349-893d-76a10a3445d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 363号 (1923-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f4cff83a-e83e-47a9-bc30-8594cc7392e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 364号 (1923-03-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c85294f-465b-423b-9946-b40f43129c99/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 365号 (1923-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/432b77a7-85c4-4ea9-b98f-9ee7d8569ccc/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 366号 (1923-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09a08b63-5bd0-433a-89c7-3bd7727d1152/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 367号 (1923-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68efbca4-3964-4ce6-9e9d-54479117ac02/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 368号 (1923-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce6dbe6e-6bb0-45da-8f42-4d429e31874d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 369号 (1923-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2fd3b37-89fa-44c6-89c6-ef91af993c6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 370号 (1923-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/048acba4-e089-4115-8bf3-3f82d03ee08e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 371号 (1923-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/07b6f03e-d8a3-4a66-b284-d5522eb71b30/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 372号 (1923-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f190c96e-e4e7-4324-b36f-e491d8072f3b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 381号 (1923-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1537c44-034a-4cf8-a627-2aff7a8d236f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 380号 (1923-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/60b94a7e-bd82-45f1-a634-a9c29b4a7467/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 373号 (1923-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ecdcbd9a-1af8-4ceb-b231-059b56ccedef/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 374号 (1923-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e113bc71-c645-4e14-95f8-88219251f35b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 375号 (1923-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec471241-b078-4a92-b858-b5ed42cdd72c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 376号 (1923-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ff7fd29-f7f5-4bd8-ae80-60f469692e52/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 377号 (1923-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6cb4b5ac-2d3a-49de-9045-a40c6e38d6bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 378号 (1923-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/379cb73d-7332-4794-9e9c-0cc7ea0dda34/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 379号 (1923-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3910de8a-dd50-43a6-a206-0e7c849a9705/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 382号 (1923-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/207d4edb-9cec-4692-a726-4cc69dda37dd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 383号 (1923-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43f18e3a-af26-468a-816f-76f9e04207de/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 384号 (1923-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/46cc6c55-53b7-4b64-bf8b-41c9d2195458/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 385号 (1923-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/155e3853-ff74-419a-afa5-6976ec8cb063/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 386号 (1924-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64cd6f08-0c22-4b27-93ec-c1f9ecd34a6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 387号 (1924-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8f4b53f-d8d6-4d33-9539-fdfdc64c60ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 388号 (1924-02-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4cd85726-beef-4df0-b32a-40223bf621ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 389号 (1924-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/322d24c7-f859-4d70-b042-2d666567910a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 390号 (1924-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6b40ee85-7ee3-404f-82fb-4657abffbdc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 391号 (1924-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9670b207-4f7f-426f-bfd0-085adb5de5e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 392号 (1924-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee9b413e-e755-48fa-8f41-4379119935d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 393号 (1924-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca966152-12e9-494a-86b9-a13874b58d18/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 394号 (1924-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1524aced-f06b-4aa9-8ca4-7fa2f3ce2559/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 395号 (1924-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/426456be-2786-4bc0-95b4-193dc346bd10/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 396号 (1924-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25b21716-cd11-4732-8c49-0a2fff732537/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 397号 (1924-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d02b3d0b-b87f-41e4-9650-a162e8c5b930/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 398号 (1924-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52a91559-709a-4576-91bc-db8a9291bd3d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 399号 (1924-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7b4c109-4342-4039-8b29-4c729f6cb9ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 400号 (1924-08-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/537b0f0c-09a9-4db1-9925-e12b0ce22910/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 401号 (1924-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55cd4198-9633-4d61-b499-83bfd783bc96/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 402号 (1924-09-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d616addf-e4f3-4c72-a2ac-51e1cbc53933/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 403号 (1924-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93ec2d11-4703-4d97-9b29-8f64f37cfcef/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 404号 (1924-10-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/030d1deb-afc3-4ea4-928f-3f3b06322713/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 405号 (1924-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6925ad29-80b5-4909-9af9-7f96e93f1a46/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 406号 (1924-11-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/75fdf38e-4f2e-4428-991b-8da5eaf6317b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 407号 (1924-12-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0de39582-bc34-46f8-bda7-7b7fdc5d26c8/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 408号 (1924-12-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/157dbbdc-78cd-4a4b-ba21-2b4fb6085d30/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 409号 (1925-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/da22bbc7-d21b-4554-9cfa-f489f7ad234b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 410号 (1925-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c35887e4-dbf0-4d02-9b87-cc96a47d6a0a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 411号 (1925-02-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e55d268c-b6ab-470b-99cf-f04494e94885/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 412号 (1925-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d0afb99-11cd-4abe-b304-97d7f0206063/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 413号 (1925-03-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5720c16e-4267-4eb6-bc64-c85afc8a8fd4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 414号 (1925-04-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6dd1af24-3f5d-4116-bcd3-e06748198a64/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 415号 (1925-04-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ed57e1e-6084-4d49-b7e9-b4ad4bfee9d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 416号 (1925-05-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8cffedde-87a4-4bb4-b9cd-64f568070219/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 417号 (1925-05-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3a5125c-58bc-426f-b18b-c8c14ca39fdb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 418号 (1925-06-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fdac1d61-409a-46a4-8244-efcec1ab8d6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 419号 (1925-06-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa11bd72-3a13-456e-be87-e8b248a65253/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 420号 (1925-07-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d69594d-9a73-41fb-922b-da6a5d936d23/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 421号 (1925-07-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c6d0bdf5-8865-40cc-b53e-8bc427639f5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 422号 (1925-08-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ffb136a-c87a-4fe9-9026-e0fc69d039ac/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 423号 (1925-08-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5306b51-9ccb-4943-8079-e9076134a842/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 424号 (1925-09-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52f0bd7d-1f13-4604-bfae-21671438606b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 425号 (1925-09-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3df116e5-da3e-41f4-aa1d-ae5092f3bd67/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 426号 (1925-10-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df24cdda-52da-45d4-a0a0-ba37a9be53fd/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 427号 (1925-10-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/89432586-292e-4738-9c32-7867bfb27628/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 428号 (1925-11-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0473a9c4-8cb9-423e-8ed9-959d1d76daf9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 429号 (1925-11-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/86d40d99-a823-478f-bd4e-8e008ab95074/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 430号 (1925-12-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d6e440b2-4589-450d-8938-c0b069c6f79f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本毛織物新報 431号 (1925-12-15)"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "日本毛織物新報"
+        },
+        {
+            "label": "Identifier",
+            "value": "nks"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/nks",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35015",
+        "format": "application/ld+json"
+    }
+}

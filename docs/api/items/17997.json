@@ -1,0 +1,251 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17997",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "038",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1850",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "774c648d-59c7-4f29-b46a-da3dcdef5f7d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "江戸麹町辺大火（仮）∽038",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "江戸麹町辺大火（仮）",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "嘉永",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "田中 ",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "頃ハ嘉永三／戌年二月五日朝五ツ半時頃／かうじ町五丁目うら町中／ほどより出火して北がハへやけぬけ／岩城升屋ごふく店やける夫より／四丁目三丁目二丁目壱丁目はや／ぶさ丁平川丁壱二三丁目／天神社三軒家小田切様河／内様其外御はた本様二十軒／やける夫より西北風ことごとくはげしく／御火けしやしき明石様御上屋敷東がハ／表長屋残る井伊かもん様細川様大村様／夏目様安芸様ハ残る永田町岡の様焼山王／社のこる町家やける丹羽様内藤様九鬼様京ごく／様其外御はた本やしきのこらすあき様御中屋敷／たんバ様黒田様表御門東長屋のこる高木様伯耆様／内藤のと様やけ夫より虎御門外へ飛火して御用やしき残る／京ごく様御勘定屋敷相良様木下様いなバ様／桜田久保町びぜん丁いづミ丁善右衛門丁やける又一口ハ一柳様／毛利様堀田様あべ様少し焼る土方様加藤様西のくぼ新下谷／町かたかハ青山様御下屋敷にて留ル夫より天徳寺しんぷく寺登宿山／やける青正寺此辺寺院のこらす片桐様松平をき様田村様秋／田様米津様うへむら様平の／様御山内東通りやける柳生様／仙台様御中屋敷芝井町／中ほどにて留ル夫より宇田川丁／神明丁神明社やける三嶋丁／中門前片門前丁橋ぎハまで浜／松丁一二三四丁目海手ハ大久保／様森様少シ残る新網町や／ける金杉一二三四丁目浜通り／残らす因州様御中屋敷／本芝壱丁目浜通りハざ／こバの人之あつまりことごとく／ふせぎ消す是にて夜五／時やうやう火しずまり諸人／あんどの思ひを／なす此よし一刻も／はやく遠国の／諸しんるいへ／つけさせんと／ゑづめんに／書あら／ハす也／●印ハ御上屋敷／ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0038",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:18+00:00"
+    },
+    "o:id": 17997,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29392",
+            "o:id": 29392
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:50:10+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "江戸麹町辺大火（仮）∽038",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/17997/1332321314873.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/17997/1332321314873.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/17997/1332321314873.jpg"
+    }
+}

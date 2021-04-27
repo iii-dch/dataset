@@ -1,0 +1,242 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/20670",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:50 資料No.900",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "72d6f7cc-a669-4da1-ac25-10ba7ed15ecd",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞 ∽項番:50 資料No.900",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "昨日西紺屋町の質店に強賊の押入りたる件を記載せし／が今其確報を得て玄に再記す本月五日夜右質店に於て烈／しく拍子木の音しけれバ交番の巡査火事なりと心得遽し／く走せ付け見るに火事にハあらで賊の押入りしなり是に／於て密かに戸口にひそみ賊の出るを待居たる中に自余の／巡査も之を聞付け追々走せ集りけれバ賊ハ此有様を見／て進退これ極まれりとや思いけん却て静まりかえりて音／もせず斯てハ果じと数名の巡査手配なして家内に踏入り／其所か彼所かとさがすに奥まりし闇室より一賊白刃を打／振り我こそ岩城無宿長吉あんりとほこりげに名乗りて打つ／て出しを数名の巡査テウと応じて遮り戦い聊か手疵を負／う者ありしが遂に一等巡査園木甚吾モジリを以て曳き倒／し起んとするを西条信道心得たりと無手と組ミ付き難な／く之を捕縛為し屯所に拘引して糾問なすに此賊ハ彌左衛／門町水島伊之助方に止宿する鍛冶職加藤勝之助なりと最／初拍子木を鳴らせしハ典舗の老母なり事に臨んで警発の／所行は流石に老人の落ち付き感ずるに余りあり",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:恵斎芳幾,彫師:渡辺彫栄 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "奸智にたけた悪徳医師幸庵 (読み下し文_括弧なし:駕籠の簾ハ嗅杖より太く／薬篭の金鏤物ハ、威議／揚々と輝き、愚俗の眼を驚／かす医ハ稲荷、能人を殺／せとも尾を出さずと、古人三馬子／も論じたり、古き川柳に曰く三枚／で、ばかだばかだと殺なりとハ、世上の／内実を穿ちし洒落、夫等ハついと／昔しの事にて、かく文明の世に至りてハ、／医学ますます盛に開け人の病気ハ／まだなれ、上医ハ国を医と言ふ、名／医多かる其中に所ハ浅草裏門代／地嵐にあらぬ花岡が、奸智にたけて匕先より只口／先の調合に、金ある家の娘をバ、妻に嫁て難癖つけ、離別なしてハ持参の品を、返さぬ事も数度あるよし。爰に近頃一話／あり、浅草橋ハ近傍炭薪／渡世の北川おいちのその長女／ふぢと云へるが弟の／病気の／薬取／に来るを縁に手なづ／けて、妻に嫁へど兼てより心／に工ミしことあれバ、無根事／に柄をすげて、密隠と／罵り打擲はては／弟子なる某に／不義言掛よと難題に竟に我家へ逃帰りしを、花岡是を能／事ぞと裁判庁へ訴出しと歟、不日黒白判然たらん／待乳山麓／温克堂龍吟誌 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "機関による制作・発行・発表より50年以上経過",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0050-0900",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:58+00:00"
+    },
+    "o:id": 20670,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33581",
+            "o:id": 33581
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:57:57+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞 ∽項番:50 資料No.900",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/20670/1333099065145.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/20670/1333099065145.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/20670/1333099065145.jpg"
+    }
+}

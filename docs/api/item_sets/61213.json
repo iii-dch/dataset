@@ -1,0 +1,41 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "第一次世界大戦プロパガンダポスター",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-26T07:51:39+00:00"
+    },
+    "o:id": 61213,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items?item_set_id=61213"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-26T07:51:39+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "第一次世界大戦プロパガンダポスター",
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/8071/1332747910120.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/8071/1332747910120.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/8071/1332747910120.jpg"
+    }
+}

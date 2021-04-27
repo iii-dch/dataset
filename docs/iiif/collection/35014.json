@@ -1,0 +1,427 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/nis",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "日本糸物新報",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/154f63c4-1c0b-4724-b687-ccd0139d22e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43fff0df-1691-4381-8bff-18a7367b9435/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 121号 (1919-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96138f90-1209-4f72-822d-a3425868c3fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 122号 (1919-01-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4bf6791-4070-4316-afa5-a828cf4fa458/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 123号 (1919-02-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d9a4d169-dcb0-46a7-b5dd-9cbb350c6f3b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 124号 (1919-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d45bf777-700a-4668-aae1-3ede0d2b6250/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 125号 (1919-03-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e43791a-1ad4-4ef2-814a-bb2c0f1e0dd7/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 126号 (1919-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4649c147-4209-4d1c-9509-40b2c8a1b7f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 127号 (1919-04-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0fe9c6c-aeca-4ee1-bcfa-7a39dc037889/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 128号 (1919-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/902d8fc3-0443-40ea-99fc-f6274b7a0aba/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 129号 (1919-05-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b8da2c5-43bf-40e2-bedc-4150af44a098/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 130号 (1919-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/862cfef3-6eb9-494e-bc14-e755e7be8407/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 131号 (1919-06-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96402e27-4821-426f-8d05-f13a27a4158c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 132号 (1919-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d3b6f5bd-c05b-46d4-bbfc-44887fa9f705/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 133号 (1919-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/36ca8021-3c2f-4a20-8870-140d71311a9a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 134号 (1919-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11c77246-07d2-40d1-9deb-e3f541626624/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 135号 (1919-08-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ab5c4ec-18a7-4048-88b2-8287b084c432/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 136号 (1919-09-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2164f919-7db3-4952-8ea6-f289a296767a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 137号 (1919-09-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4079a0c0-67d7-4fd0-a9db-040d5ce79f6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 138号 (1919-09-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/962ba2d1-a49f-442c-91e5-9fefb2baf60a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 139号 (1919-10-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/453c7d37-6878-4390-980c-218eac52a4ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 140号 (1919-10-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0709912b-4332-45fb-b24a-fb6eea4d9d8c/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 141号 (1919-10-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e320ef68-f1a3-49dc-9d37-7158114d0e73/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 142号 (1919-11-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/860e5aa9-ec75-4d33-8960-60db030939f9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 143号 (1919-11-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9560bdd-15a8-49fb-9418-7fba2ba7a216/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 144号 (1919-11-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb69e512-e9e1-4794-b968-31f55203771d/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 145号 (1919-12-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3dc700f5-a8d8-4a74-aedf-5f799b698e14/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 146号 (1919-12-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5de952c8-d04c-457a-83e1-ecc2201dec86/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 147号 (1920-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e14cda79-4023-43ae-9600-e10f1587bd90/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 148号 (1920-01-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6644e2b6-8afd-4f5e-bd25-bbdff717ad02/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 149号 (1920-01-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd0a027c-a447-45b4-947f-1e57d387b5b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 150号 (1920-02-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d7f345f-a280-4961-b010-4684f4884d6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 151号 (1920-02-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/372b645c-b01d-4875-bfad-095ffab61766/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 152号 (1920-03-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/365b3f8f-5aca-42e9-98c2-f7338f715ed4/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 153号 (1920-03-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f78e89a-1ad7-4dfd-987c-47648279f8f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 154号 (1920-03-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/247dac2d-4f5d-42fa-bb3e-04706f0b2a10/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 155号 (1920-04-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ad5de52-300d-4555-8d04-ce1a6bb2ae71/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 156号 (1920-04-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/875fe9e9-6bef-4f16-82ae-2da2c4b36c72/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 157号 (1920-04-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c091617-05f0-4352-ae3c-0e8312ac738a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 158号 (1920-05-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/47c0937e-ada0-4a08-ae4f-bcc7370324d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 159号 (1920-05-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4e0a837-70f2-47af-8f99-99882599824f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 160号 (1920-05-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b56d6295-5cd7-4c82-845a-08b696f88913/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 161号 (1920-06-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/219e7851-c23f-4e1c-95e2-e40f6b70fbc0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 162号 (1920-06-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/575a0a3d-5ed2-4df7-b8a5-d0eaf130bdf5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 163号 (1920-06-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/98dcea22-159f-43ed-b541-5ac255333631/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 164号 (1920-07-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e8d3cded-3c1f-4068-ab10-cfecb3007b91/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 165号 (1920-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd669249-5441-477d-84fe-ee0c6fb4c0d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 166号 (1920-08-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c680d7cc-ae20-4881-bd0f-222b635564e0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 167号 (1920-08-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72a9d0a0-7a03-4450-8761-be47fadffff1/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 168号 (1920-09-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6133c386-a71e-43b7-89ec-0113ef0799c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 169号 (1920-09-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17f9238a-03c8-43b8-a3a9-309fd5ae5b50/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 170号 (1920-10-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af0d2245-a03c-479b-82e6-5fee6a325051/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 171号 (1920-10-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f549b67c-dd42-442a-afbb-3f8c52a33fed/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 172号 (1920-10-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34677802-510c-4f2a-84f0-6d8dcf263e76/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 173号 (1920-11-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca7b010c-5e68-4d37-9143-e68b6f4beb97/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 174号 (1920-11-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/576d45ab-de9a-4ddb-b2c8-4c27e93c5837/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 175号 (1920-12-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c62fba6d-b03d-4071-937b-cb89467db340/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 176号 (1920-12-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/db96411c-077e-4ede-b53f-bc47956d7373/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 177号 (1921-01-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc1d72fd-c043-4110-9ced-f308b0ac7056/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 178号 (1921-01-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0ec48d1-fe79-4420-9f24-40612ab1f51f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 179号 (1921-01-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7d7b77a5-766e-48c6-b277-929ecafea2d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 180号 (1921-02-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cec2d3c9-495a-4f01-8108-3d9968836e13/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 181号 (1921-02-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc58cc98-4818-4859-8da6-f548505048d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 182号 (1921-02-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15beb24d-d393-4b9c-82f9-f10c45489f2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 183号 (1921-03-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa92acfa-2271-4f8c-acd0-8eff29695868/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 184号 (1921-03-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e53d8b2a-c02d-459c-b526-1c675733b15a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 185号 (1921-03-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ffb5145f-ce2c-4f46-afa8-b6fc9f9d12f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 186号 (1921-04-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f97f557b-3f5b-4824-b6e7-037e05f790d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 187号 (1921-04-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7db577db-ee69-49be-9df4-267f5c4fc749/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 188号 (1921-05-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/05b589a1-8644-4deb-a0f7-b93fb0de2412/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 189号 (1921-05-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a259d404-e48f-4aab-a42d-8d16b24f1582/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 190号 (1921-05-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3d3c5f51-dfd8-4db2-ad02-fa430206eb9a/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 191号 (1921-06-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de998c94-3473-4896-966d-4d1ce751856e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 192号 (1921-06-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa685a0e-a649-4ee1-a069-788fa1ec8769/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 193号 (1921-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/47b54c8e-8f0f-44d4-8e29-0a77b8e66af0/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 194号 (1921-07-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7f302903-dc59-4fea-a1c5-a01159ae030e/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 195号 (1921-08-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/529f701d-1af9-40ca-91d5-38208b9b8081/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 196号 (1921-08-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c5839fd-1670-40dc-8d06-50c9ab96b0c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 197号 (1921-09-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f402b0a-394b-473f-b001-7ed0a1ef5042/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 198号 (1921-10-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/196bf1ac-6ab5-41a5-afb4-d8801933c8f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本糸物新報 199号 (1921-11-05)"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "日本糸物新報"
+        },
+        {
+            "label": "Identifier",
+            "value": "nis"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/nis",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35014",
+        "format": "application/ld+json"
+    }
+}

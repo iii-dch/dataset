@@ -1,0 +1,215 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15497",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:69 資料No.967",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c37a4f4a-29d9-4c46-8b47-b6a4b3da25b0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:69 資料No.967",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "去ル十九日の夜芝西応寺町米屋仙藏かたへ強盗二人押／入り内一人ハ抜刃を引ッ提げて立ながら速かに燈（あかり）を點（とも）し／て■持の金錢衣類を殘らず差し出すべしと云ひけるに仙／藏の大に恐怖して妻おさとに向ひ火打道具が二階にある／からソレ早くと云ひけれバ妻ハ其意を察し何にしても暗（くらく）／てハ何（どう）する事も出来ませんから只いま燈（あかり）を付けませうと／樓上（にかい）に登（のぼ）りしハ兼て寄留せる海軍省の官員さんへ急を告／げて援兵を乞ハんとの密計なれバ急（いそ）ぎ官員さんの枕頭に／■み其趣を語りけるが夫レハ我等が職掌に非ざれバ我ハ／是より速かに巡査に報ずべしと二階の窓より直に外へ這ひ出たり依ておさとハ二階を下り静かに火を打て行燈に／■（とも）し吃と彼の賊を見るに思ひの外の小男なれバ忽（たちま）ち輕侮（あなづり）／の念（こころ）を生じ■■此奴（こやつ）等がとハ思へども向ハ男で兇器（はもの）を持／ちたれバ■（まさ）か油断も成るまい先ヅ隣家（となり）を叩き起さんと店（みせ）／■（さき）へ駈け出るを賊ハ抜刃を振り揚（あげ）ながら跡より續（つゞい）て追掛／るにおさとハ傍らに有り合ハせたる米俵を取て投付（なげつ）け投付け／（■セ明キ俵な■）暫し争ひし間に左の腕に疵を受たれども／少しも屈せず■（あらそ）ひしが夫（をっと）仙藏ハ妻を討（うた）せじと駈け來りて／賊の後（うしろ）より無手（むづ）と組（くみ）付き夫婦にてとうとう組み伏せ大声／を出して泥棒だ泥棒だ泥棒を組み敷（しい）た誰か早く來て呉れろ／と呼び立るにぞ巡査も來合ハせ／て共に屯所へ引き行けり此泥棒ハ松吉と云ふ者にて今一／人ハおさとが勢に恐れ早く何処へか遁失（う）せたりとぞアヽ／感心だ此米屋のお神さんハ強いねー ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2004年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:一恵斎芳幾/彫師:渡辺彫栄",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "女房が俵を投げ、強盗退散(読み下し文_括弧なし:芝西応／寺町米／屋仙蔵／かたへ強盗／二人押入所持／の金銭差出すべ／しと云ひけるに仙蔵／ハ大に恐怖なし／けるが妻／おさとハ／彼の賊を見るに／思ひの外の小男なれバ忽ち／軽侮有り合ハせたる米俵を取て投付け投付け左の／腕に疵を受たれども屈せずあらそひしが夫仙蔵は妻を討せじと／賊に組付夫婦にてとうとう組伏せ誰か／来てくれと呼び立るにぞ／巡査この声をきゝつけ走り来て屯所へ引き行けり／この賊ハ松吉と云ふ者にて今一人はおさとが／勢ひに恐れにげうせたりとなん )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0069-0967",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:41+00:00"
+    },
+    "o:id": 15497,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33597",
+            "o:id": 33597
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:42:40+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞∽項番:69 資料No.967",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/15497/1333099073427.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/15497/1333099073427.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/15497/1333099073427.jpg"
+    }
+}

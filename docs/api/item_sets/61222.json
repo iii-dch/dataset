@@ -1,0 +1,50 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61222",
+    "@type": "o:ItemSet",
+    "dcterms:identifier": [
+        {
+            "@value": "cj",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "長春実業新聞",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-04-22T23:36:47+00:00"
+    },
+    "o:id": 61222,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items?item_set_id=61222"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-04-26T04:43:06+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "長春実業新聞",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

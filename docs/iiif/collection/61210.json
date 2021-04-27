@@ -1,0 +1,747 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/oi",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "大井第一小学校寄贈資料",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5002d737-d9a3-423b-93a4-742f05872bb8/manifest",
+            "@type": "sc:Manifest",
+            "label": "純金の馬"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b97af89d-5ee8-4723-9691-3d5d5b504184/manifest",
+            "@type": "sc:Manifest",
+            "label": "カンラ・カラ兵衛"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8c08883e-0cf2-4274-8427-048b425f5c9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "すみれさんのマスコット物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/257336be-6fac-4631-8f14-4ab9c7a6aad0/manifest",
+            "@type": "sc:Manifest",
+            "label": "土居風颱"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38dc50c3-00db-4c82-a83a-dd98844d0c09/manifest",
+            "@type": "sc:Manifest",
+            "label": "水戸黄門の代官退治"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0403aa6-11e0-43ce-bde3-00824e7c2a54/manifest",
+            "@type": "sc:Manifest",
+            "label": "織田信長　炎の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2be11762-bd02-41f6-bc34-5f80739a107a/manifest",
+            "@type": "sc:Manifest",
+            "label": "童詩読本"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/356868af-83be-4a85-b67e-20933b3c9161/manifest",
+            "@type": "sc:Manifest",
+            "label": "低学年向の名作漫画　ジャングル・ブック"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fb6c96b-a3c1-450f-910a-e962f46497aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "めぐみちゃん　がくげいかいのまき"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56cf7c9e-8e6f-461e-ae3a-9b837c013fb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "謎の千両刀事件"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f224bd1-61f7-4d44-b557-3cfb00ee403a/manifest",
+            "@type": "sc:Manifest",
+            "label": "わすれなぐさ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e028e0f-e5c3-48bb-8661-0ab55864379d/manifest",
+            "@type": "sc:Manifest",
+            "label": "髑髏魔人①"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a3cbd57-cdd5-4de2-b1ec-c59bc42cd549/manifest",
+            "@type": "sc:Manifest",
+            "label": "天使の翼"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d4c554c-e890-4097-9027-cb2dce163b03/manifest",
+            "@type": "sc:Manifest",
+            "label": "黒谷の魔人; 魔人誕生篇"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2981d76d-96a3-45c4-83c0-659bd73b30da/manifest",
+            "@type": "sc:Manifest",
+            "label": "おはなし宝島"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10dab71d-54b6-4758-a7aa-6ab4d5c9df4a/manifest",
+            "@type": "sc:Manifest",
+            "label": "黒い峡谷"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8e68a24e-27e3-468e-86b1-96566c472fc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "田宮坊太郎"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1632b26e-20c3-43fb-b5eb-3bf83ea614d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "丹下左膳　乾雲坤竜の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2815ed1d-44a5-4959-ad75-20b4ab47b810/manifest",
+            "@type": "sc:Manifest",
+            "label": "レモン・キッド"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e12bb47-fe58-455f-ba32-300fa523d90f/manifest",
+            "@type": "sc:Manifest",
+            "label": "織田信長　比叡山攻撃"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28756e67-9134-4c90-892b-2e6d164302aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "未明童話集"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12c9b3e3-bd9d-4349-976d-72d2a20c1d2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "夕月乙女"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de1a2584-12f8-4bfd-8f2c-d5a2111ed17e/manifest",
+            "@type": "sc:Manifest",
+            "label": "ライト兄弟飛行機発明物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ab575ff-2406-41c3-b08c-6e3029793536/manifest",
+            "@type": "sc:Manifest",
+            "label": "大岡越前守"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb23ce86-5fb1-4d73-9fed-954032264941/manifest",
+            "@type": "sc:Manifest",
+            "label": "ジャングル王子"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25b36183-f413-404b-a3c4-d384a2cf4c5d/manifest",
+            "@type": "sc:Manifest",
+            "label": "島の灯"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09e4fdb3-4593-4d52-9c04-c3152c35e1e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "坊っちゃん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e71dbd3-e1c7-49eb-8a9b-d257ef37a166/manifest",
+            "@type": "sc:Manifest",
+            "label": "からくり小判"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fd63723-09e7-4530-b8f8-3fdb52096be2/manifest",
+            "@type": "sc:Manifest",
+            "label": "世界を滅ぼす男"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22c36ec6-d9ca-4789-a470-fcacdd0c59c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "若草物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8edc0f2a-b4a4-48c1-b206-b5a3d8eab8e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "ぼくらの西洋史"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cc3988c7-f67d-451b-8667-218bc678fc77/manifest",
+            "@type": "sc:Manifest",
+            "label": "仮面魔"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1cfc4784-032f-4f95-889b-cbd4266011e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "山の章太郎　眠る財宝の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5260a3ab-b7d1-404e-b2bf-110587a741ac/manifest",
+            "@type": "sc:Manifest",
+            "label": "ひよどり天兵　黄金悪鬼の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38c8a80d-68fb-42f6-8154-20aabf796bfa/manifest",
+            "@type": "sc:Manifest",
+            "label": "少年ニッポン　忍術対一刀流"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3735f020-ce56-44ad-b07c-3292f75dee2c/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロケット太郎　南極怪人の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e06314a-fcf1-478d-9448-016c4d4e155c/manifest",
+            "@type": "sc:Manifest",
+            "label": "世界名作童話集"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10e0cb1a-4bcf-49c5-8a62-b8ae93a992c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "黒帯くん　謎の殺人名簿篇"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f402d7c-b9da-4716-badd-c9768afa6a01/manifest",
+            "@type": "sc:Manifest",
+            "label": "山びこ学校"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55dcb0bc-722e-4a02-ae67-ca2d303969ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "イガクリくん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fee5ba41-5a1d-4f05-8f50-ae76990b673f/manifest",
+            "@type": "sc:Manifest",
+            "label": "山びこ学校表紙一部分"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c0f9ffb-ddc3-4427-a50b-d5c06e07db1b/manifest",
+            "@type": "sc:Manifest",
+            "label": "表紙の一部（山びこ学校のものらじ）"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2caefa9-ae1c-42be-a6c8-4d88dc40b7cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "幽霊馬車"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f266f4f-2583-44ac-8b74-79f371678d18/manifest",
+            "@type": "sc:Manifest",
+            "label": "美しき港"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3fedfb3e-968a-40ac-842b-2b877bd330f1/manifest",
+            "@type": "sc:Manifest",
+            "label": "はやぶさ頭巾　青面剣士の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fb5c99b-8e9b-4d83-bb70-98c4ea6e3094/manifest",
+            "@type": "sc:Manifest",
+            "label": "賤が岳の名槍"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4c70995-bdce-4fc9-9147-b2a28e2028aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "別冊名作まんが少年少女"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1f3a0e2-556d-4f80-b06d-ad4dfd34d3d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "幕末剣光録　坂本竜馬"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/968273b0-f9ee-4a5d-8f3f-60ec1c981aaa/manifest",
+            "@type": "sc:Manifest",
+            "label": "幾何学基礎論"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/47ce5d1b-5f22-4e6a-a3f7-fee4d4652ef2/manifest",
+            "@type": "sc:Manifest",
+            "label": "アパートちゃん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a837709-828f-4aaa-9932-1a1c95f6e61b/manifest",
+            "@type": "sc:Manifest",
+            "label": "イガグリくん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/46150305-9edf-484b-b4c0-7657f42ed5d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "ドン=キホーテ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3682c65-5178-4b3a-8c2a-2c6c844f360a/manifest",
+            "@type": "sc:Manifest",
+            "label": "思い出の虹"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/06d6677c-3940-4ad0-8119-764ae1779432/manifest",
+            "@type": "sc:Manifest",
+            "label": "織田信長"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e2e5e282-4a65-4b83-b70e-a682d772ab26/manifest",
+            "@type": "sc:Manifest",
+            "label": "大洪水時代"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b56ef67a-03e8-46bc-b7f7-0381b80fa72c/manifest",
+            "@type": "sc:Manifest",
+            "label": "丹下左膳　紅蝙蝠の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb6ead28-91d2-46d8-aab1-1806a13d6d8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "ぼくらの歴史研究"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54c4422d-5003-4215-ac40-6540a317c9b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "イガクリくん　風雲桜島の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e4dd66e0-8729-4314-8071-47158f79f52b/manifest",
+            "@type": "sc:Manifest",
+            "label": "こっけい巻物騒動"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/75314e85-dcb0-4470-b75c-a3156fd6c6f9/manifest",
+            "@type": "sc:Manifest",
+            "label": "ぜんぶ読切り　探偵漫画ブック"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0258cf1-0676-4d9b-b383-8a635ac56e54/manifest",
+            "@type": "sc:Manifest",
+            "label": "直助物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ae378d2-d1ff-4f39-8490-520b3fb559de/manifest",
+            "@type": "sc:Manifest",
+            "label": "復刻版尋常小学国語読本（巻1）"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65b803cc-369e-4f2f-b749-00b3946f059f/manifest",
+            "@type": "sc:Manifest",
+            "label": "探偵王2月号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4974b43b-db80-48bd-b275-2b2a0622f1b1/manifest",
+            "@type": "sc:Manifest",
+            "label": "のんびり小僧の大旅行（グリム童話より）"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/90ead868-49fc-46dd-93c0-2d00821a4ae2/manifest",
+            "@type": "sc:Manifest",
+            "label": "オテナの塔"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a813d65f-6bf2-4d57-9c2f-dc53497cbbdf/manifest",
+            "@type": "sc:Manifest",
+            "label": "はりきり弁慶"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/deb205e3-e473-49fe-b050-5395294a20ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのヒットパレード新しい歌全曲集"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5d192814-4c77-4e2c-be1f-8af662098c13/manifest",
+            "@type": "sc:Manifest",
+            "label": "ファビオラ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66d8586a-32f6-4ccf-9eb1-6c6c587af97f/manifest",
+            "@type": "sc:Manifest",
+            "label": "ピーターパン"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/668e51d6-b50b-4860-95ec-7c4795e63678/manifest",
+            "@type": "sc:Manifest",
+            "label": "イガグリくん　大文字投げの巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/934d0406-bde1-4988-b96e-5ae5ff3b0907/manifest",
+            "@type": "sc:Manifest",
+            "label": "海洋童兒"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c02012b-5a5f-4051-b698-4248ad9b696b/manifest",
+            "@type": "sc:Manifest",
+            "label": "漂白の孤児　下巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/302f4e7d-2972-45bf-86b4-47f4eeab9355/manifest",
+            "@type": "sc:Manifest",
+            "label": "右門捕物帖"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6bde9f4-ba60-4d37-b7ab-d0b6fd9185a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "荒木又右衛門"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/000f3808-d955-4f32-bddf-ec30ecf4fc0c/manifest",
+            "@type": "sc:Manifest",
+            "label": "青色ダイヤの秘密"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7f24b798-8f71-4faa-8ed7-dda865735a16/manifest",
+            "@type": "sc:Manifest",
+            "label": "人食岬の決戦ほか2編"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1efb39c2-17fd-4068-a2c2-2e09d239d6de/manifest",
+            "@type": "sc:Manifest",
+            "label": "空手太郎　へいわタクシー"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4623dd70-b531-4789-928e-c05e5d84a68f/manifest",
+            "@type": "sc:Manifest",
+            "label": "横綱レスラー東富士"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e320d175-6243-4018-b85e-032c39c95865/manifest",
+            "@type": "sc:Manifest",
+            "label": "子供極楽島"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/74ae88ce-53d4-4a4a-9942-7d40cddb97b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "（不明：推定イガクリ君）"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b41c9fac-0d75-4a3b-82d7-ea36f5c4fb66/manifest",
+            "@type": "sc:Manifest",
+            "label": "痛快時代絵物語　真田大助"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/83268d0b-712f-481a-bebf-d482d3d518fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "動物小説　赤毛のリス"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a8a8e76f-81fa-4d9f-a949-c0700d8597f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "熱血柔道漫画　イガクリくん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/349bcdd6-4292-462a-a494-f494499a4ffd/manifest",
+            "@type": "sc:Manifest",
+            "label": "熱血友情柔道絵物語　少年四天王　もえる血潮の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8bfb9d14-34e5-4442-9630-79158c7465ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "柿の木峠の物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17b5776f-b7da-4722-be82-67d620f99292/manifest",
+            "@type": "sc:Manifest",
+            "label": "伴先生"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/178d802c-c334-46b0-a430-85e7a5cc4f99/manifest",
+            "@type": "sc:Manifest",
+            "label": "怪獣男爵"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fa89676-734d-486b-aef0-4bdad37ed265/manifest",
+            "@type": "sc:Manifest",
+            "label": "花物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4436106-d84d-41e2-89c3-217915f9b9af/manifest",
+            "@type": "sc:Manifest",
+            "label": "痛快捕物まんが　右門おてがら帳"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a72f2ce-55e6-4632-adc9-f43d27908d94/manifest",
+            "@type": "sc:Manifest",
+            "label": "The Ice Maiden　氷の処女"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95fecbb7-9878-4829-baa4-6629b1382a86/manifest",
+            "@type": "sc:Manifest",
+            "label": "力士痛快漫画　怪力雷電"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6161a7ee-06f6-48c1-aecb-8dc48b44699f/manifest",
+            "@type": "sc:Manifest",
+            "label": "少女小説　友情の小径"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4259c39e-6d72-40cb-9244-b1aca4acf11c/manifest",
+            "@type": "sc:Manifest",
+            "label": "宮本武蔵"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/529da061-383c-412d-be3c-16b81c3fb451/manifest",
+            "@type": "sc:Manifest",
+            "label": "熱沙の魔王"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc0d856b-1ceb-4207-9750-e1d71a53a57b/manifest",
+            "@type": "sc:Manifest",
+            "label": "神変どくろ岩（いは）"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8594be08-7adc-42a1-82a8-f454a1dc5527/manifest",
+            "@type": "sc:Manifest",
+            "label": "銀星"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/140ed300-c619-47c5-8afd-5855c5a41b74/manifest",
+            "@type": "sc:Manifest",
+            "label": "めぐみちゃん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b21a530-d2f2-4518-be24-6c4c34470791/manifest",
+            "@type": "sc:Manifest",
+            "label": "蟻地獄谷の決闘"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1d630076-9466-41a3-b0a3-2411599947bc/manifest",
+            "@type": "sc:Manifest",
+            "label": "少年王者; おもしろブック"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e4268c5-5822-45ee-8971-0086019bfcef/manifest",
+            "@type": "sc:Manifest",
+            "label": "鉄腕アトム"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ecfa71c8-5e0a-481c-8cfb-21307691af5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "珍傑三勇士"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/02e1fddf-a2f6-415f-9779-68e991ffc4ba/manifest",
+            "@type": "sc:Manifest",
+            "label": "活劇映画ブック"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e065c880-97c3-4f04-a303-2309c5ff2bc2/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本映画　THE NIHONEIGA"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bff887ae-9d02-4057-9433-a26f1ebcb581/manifest",
+            "@type": "sc:Manifest",
+            "label": "ひまわり"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ebe1d7b-2e97-44a0-a889-be82bba778aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "大平洋X點"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ee36e11-130d-43b7-91de-3849da75698e/manifest",
+            "@type": "sc:Manifest",
+            "label": "少年西遊記　ふしぎ玉の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/595db244-85ee-491a-b3bf-afb2c3e6f9c8/manifest",
+            "@type": "sc:Manifest",
+            "label": "照り降り姫"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2dbbba2e-f45f-4c50-9a3e-d34339a86ccb/manifest",
+            "@type": "sc:Manifest",
+            "label": "鰯雲"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/741af864-434f-4b47-9c1b-20168291cdf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "鉄腕アトム（幽霊製造機）; とくべつまんが　新人類フウムーン; 二本立て"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e999e292-d63c-45bf-8b93-1cb3a03d785b/manifest",
+            "@type": "sc:Manifest",
+            "label": "落語全集　松の巻"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d9c72972-fdde-42f9-9bee-c3eb20ec6c34/manifest",
+            "@type": "sc:Manifest",
+            "label": "我が毒舌"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/745deabf-45f3-41ef-8f5a-e3ddc5c8336e/manifest",
+            "@type": "sc:Manifest",
+            "label": "トムソーヤの冒険"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e82c8bb-0da4-445f-9aa2-7b0906be2f33/manifest",
+            "@type": "sc:Manifest",
+            "label": "童話　星の夜のゆめ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e098b64-d10c-423e-b81c-a45845b34cd7/manifest",
+            "@type": "sc:Manifest",
+            "label": "幽霊ホテル　YUTRI HOTERU"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/14d5ecc1-2ea7-409f-a78d-428a982d4e11/manifest",
+            "@type": "sc:Manifest",
+            "label": "若草物語"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a8a2dd88-f874-4a22-b844-b1a11da85b3f/manifest",
+            "@type": "sc:Manifest",
+            "label": "イガグリくんの決闘"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c970f796-40a4-4da7-8d4d-3909e9b84d48/manifest",
+            "@type": "sc:Manifest",
+            "label": "痛快剣道まんが　小天狗小太郎"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9f696ca-f207-4a23-a65e-52f6194daa97/manifest",
+            "@type": "sc:Manifest",
+            "label": "痛快拳闘絵物語　少年　チャンピオン"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/773ff208-5afd-4130-b29d-ecb5fef62829/manifest",
+            "@type": "sc:Manifest",
+            "label": "おもしろブック　少年王者"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/922854f7-e452-46df-94d5-241cd30c7e56/manifest",
+            "@type": "sc:Manifest",
+            "label": "世界名前物語　西遊記"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d838ea52-4abf-473f-8b87-22a695fcc3dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "熱血柔道まんが　イガクリくん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/76ecae4c-2d3f-4329-b0ee-20a0d61baf6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "白蝋仮面"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/58f2408c-7f7b-4a42-93a7-545a2e1fcee5/manifest",
+            "@type": "sc:Manifest",
+            "label": "燈火の歴史"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/32528533-d904-40d6-90b2-5e9a750c03fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "少年王者　第三集　魔神ウーラ篇"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52069897-b3ff-40e7-b027-734eac094ccc/manifest",
+            "@type": "sc:Manifest",
+            "label": "ヴァイオリンの奏法"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e495b2e2-389f-4dce-9762-6da15e028e1c/manifest",
+            "@type": "sc:Manifest",
+            "label": "童謡絵本⑤"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1d341958-2fa1-4d0c-a161-d840d98bbe2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "おもしろブック10月号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5738e848-0fb6-421a-8909-7ff24425e1bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "夏休みおもしろ宝典"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93453e4e-f4fe-4ce6-9a50-696adcf7820c/manifest",
+            "@type": "sc:Manifest",
+            "label": "学習社会科図鑑"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/599dc756-ec14-426b-86a2-a359333a42e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "僕ハ海鷲"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/98ec69ce-7a02-4418-92ba-77a20ba99378/manifest",
+            "@type": "sc:Manifest",
+            "label": "山びこ三太"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/030391e0-0c02-4c2c-a587-319bee906011/manifest",
+            "@type": "sc:Manifest",
+            "label": "楽しい僕らの上野動物園"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2173401e-8d55-4030-9b7b-e32d2852547c/manifest",
+            "@type": "sc:Manifest",
+            "label": "少女名歌曲集"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5378259d-2457-46fb-920c-2ef563fd6863/manifest",
+            "@type": "sc:Manifest",
+            "label": "正月ゲームブック"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0335eec-3892-4bc2-abef-e673d25cb7f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "ところてんちゃん"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cef2ecc-c7ef-414f-b21f-e99e13305702/manifest",
+            "@type": "sc:Manifest",
+            "label": "中学生のための実力測定アチーブテスト解答付"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2516e068-b768-4f6d-9d0a-e80ad6f2fc43/manifest",
+            "@type": "sc:Manifest",
+            "label": "わんぱく若殿　茶々若丸"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b05394f-aa26-4761-9579-32e923ce5652/manifest",
+            "@type": "sc:Manifest",
+            "label": "なかよしブック　きのみ　くさのみ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed105f4f-90f5-44dd-a913-ec27ebfc5ae0/manifest",
+            "@type": "sc:Manifest",
+            "label": "サンデー毎日"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e522fe5-0be0-4686-9bb9-1a0ac85e3d2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "時代けっさく漫画　疾風小四郎"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d8ce3f5-19c2-42d7-9cfa-adb1c6a1cd5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "The Fossil Man　化石人間"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea2c9bd3-c1b7-4ca4-9a4d-69d591d8a6fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "社会科参考　産業交通　日本地図"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d3574ea-4492-4413-a52e-6a363ff70e74/manifest",
+            "@type": "sc:Manifest",
+            "label": "少年プロレス王　鉄腕リキヤ"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a0a744c-fbc8-485b-aebb-52a7d6bacdbd/manifest",
+            "@type": "sc:Manifest",
+            "label": "お江戸のくりちゃん①"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大井第一小学校寄贈資料"
+        },
+        {
+            "label": "Identifier",
+            "value": "oi"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/oi",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+        "format": "application/ld+json"
+    }
+}

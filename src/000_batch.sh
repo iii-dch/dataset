@@ -1,0 +1,7 @@
+python 01_ItemGenerator.py
+python 03_ItemSetsGenerator.py
+python 04_CollectionGeneratorFromItemSets.py
+python 11_PropertiesGenerator.py
+python 13_ResourceTemplatesGenerator.py
+python 14_SitesGenerator.py
+python 21_MediaGenerator.py

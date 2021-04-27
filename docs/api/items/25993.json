@@ -1,0 +1,591 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25993",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "C-2-1-5",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "51",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1860/8/8",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "feb38965-dff3-4386-a721-f2cd68405034",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "弓張月春廼宵栄　七編　八編∽C-2-1-5",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00015": [
+        {
+            "@value": "完成・公刊形態",
+            "is_public": true,
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00016": [
+        {
+            "@value": "冊子/綴",
+            "is_public": true,
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-013": [
+        {
+            "@value": "C",
+            "is_public": true,
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "2",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "5",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "弓張月春廼宵栄　七編　八編",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "嘉永",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "6",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "猛陽",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "18",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-028": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "175",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "117",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-032": [
+        {
+            "@value": "10",
+            "is_public": true,
+            "property_id": 2332,
+            "property_label": "物的状態-高さ（L6-032）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-047": [
+        {
+            "@value": "JPEG/TIF",
+            "is_public": true,
+            "property_id": 2347,
+            "property_label": "デジタルデータ関連-デジタルのマスターデータとの連携（L6-047）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福重　旨乃",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福重　旨乃",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "和装版本\n",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "08文芸一般",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "木版和綴じ本。合巻。多色刷り。\n弓張月春廼宵栄（ゆみはりづきはるのゆうばえ）は⑥『椿説弓張月』を合巻化したもので、おおむね原作の筋を踏襲した作。挿絵の構図・本文の字句ともに原作のものを借用した部分が多く見られる。　http://www.arc.ritsumei.ac.jp/archive01/theater/html/biiti/kikaku/yomihon.htm\n楽亭西馬（らくてい-さいば）1799－1858江戸時代後期の戯作(げさく)者。式亭三馬にまなび,合巻本をかき,5代瀬川菊之丞らの代作をした。文政12年の大火で類焼し,家業は衰退した。安政5年8月14日死去。60歳。別号に夷福亭宮守,福亭録馬。作品に「弓張月春廼宵栄(ゆみはりづきはるのゆうばえ)」など　http://kotobank.jp/word/%E6%A5%BD%E4%BA%AD%E8%A5%BF%E9%A6%AC\n国輝　（初代）（作画期：文政―安政頃）　画姓：歌川　画号：貞重、五蝶亭、新貞亭、独酔舎、一雄斎、一泉斎、一心斎 \n初代国貞の門人。「貞重」落款のものには「子供絵」や「教訓絵」が多く、特に「教訓三界図会(本データーベース30031)」が有名。また、弘化4年3月内藤新宿太宗寺の「閻魔の目」が盗まれた事件を描いた戯画が数枚ある　http://kenkyuu.jpn.univie.ac.at/karikaturen/jp/kunstler.htm",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "錦昇堂　てりふり町　恵比寿屋庄七板",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-078": [
+        {
+            "@value": "江戸時代",
+            "is_public": true,
+            "property_id": 2378,
+            "property_label": "年代範囲（L6-078）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "C-0002-0001-0005",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:13+00:00"
+    },
+    "o:id": 25993,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31161",
+            "o:id": 31161
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31162",
+            "o:id": 31162
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31163",
+            "o:id": 31163
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31164",
+            "o:id": 31164
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31165",
+            "o:id": 31165
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31166",
+            "o:id": 31166
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31167",
+            "o:id": 31167
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31168",
+            "o:id": 31168
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31169",
+            "o:id": 31169
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31170",
+            "o:id": 31170
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31171",
+            "o:id": 31171
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31172",
+            "o:id": 31172
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31173",
+            "o:id": 31173
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31174",
+            "o:id": 31174
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31175",
+            "o:id": 31175
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31176",
+            "o:id": 31176
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31177",
+            "o:id": 31177
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31178",
+            "o:id": 31178
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31179",
+            "o:id": 31179
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31180",
+            "o:id": 31180
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31181",
+            "o:id": 31181
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31182",
+            "o:id": 31182
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31183",
+            "o:id": 31183
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31184",
+            "o:id": 31184
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31185",
+            "o:id": 31185
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31186",
+            "o:id": 31186
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31187",
+            "o:id": 31187
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31188",
+            "o:id": 31188
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31189",
+            "o:id": 31189
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31190",
+            "o:id": 31190
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31191",
+            "o:id": 31191
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31192",
+            "o:id": 31192
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31193",
+            "o:id": 31193
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31194",
+            "o:id": 31194
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31195",
+            "o:id": 31195
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31196",
+            "o:id": 31196
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31197",
+            "o:id": 31197
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31198",
+            "o:id": 31198
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31199",
+            "o:id": 31199
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31200",
+            "o:id": 31200
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31201",
+            "o:id": 31201
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31202",
+            "o:id": 31202
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31203",
+            "o:id": 31203
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31204",
+            "o:id": 31204
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31205",
+            "o:id": 31205
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31206",
+            "o:id": 31206
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31207",
+            "o:id": 31207
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31208",
+            "o:id": 31208
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31209",
+            "o:id": 31209
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31210",
+            "o:id": 31210
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/31211",
+            "o:id": 31211
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:13:09+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "弓張月春廼宵栄　七編　八編∽C-2-1-5",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/22956",
+            "display_title": "小野秀雄研究資料Ｃ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 22956,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/25993/1332838923847.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/25993/1332838923847.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/25993/1332838923847.jpg"
+    }
+}

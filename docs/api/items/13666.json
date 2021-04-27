@@ -1,0 +1,219 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13666",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "120",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9dcabc67-b90d-4fab-9d34-fb65b3c5129d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "新板改正大平武鑑 ∽120",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "新板改正大平武鑑 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "新関",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "｛上段｝新板／改正／大平武官／町平家　本国武蔵／清和火用心性／大食冠釜元之後／胤火用心四郎触／次之嫡男龍越次／郎水張之十三代／玄蕃頭汲為郷之／長男桶次（ヲケツグ）玄蕃頭―／ ―桶増（ヲケマス）入道龍吐斎―／ ―女子番野守之進室／ ―桶盛（ヲケモリ）大炊頭―／　 ―桶置（ヲケヲキ）―／ ―女子引摺竹之丞室／ ―桶数（ヲケカツ）　長門守―／ ―桶重（ヲケンケ）　安芸守―／ ―女子樽野黒太夫室／桶高（オケクカウ）　三十郎丸―／ ｛中段｝上かじなし御門外／粥少将／町平安気守触吉／嘉永五子年　家徳／御内室室町殿詰元郷御娘／進上／家毎ニ／札一枚つつ／十月／一日／御着／拝領／昼夜の／御菓子／四月／一日／御暇／参府御暇之節上使番太郎／二本とも／本ミつき／ 金棒先ニ並／押／駕／御嫡／町平安藤丸／御内室柏子木合図打次之御娘／鉄うるしかけ／本太刀■巻／つるべの／ふろふろ／押／駕／時献上／寒中池田炭／桜炭／粥之一ト鍋／堅餅／盆盛落鳫／干菓子一ト袋／地主代金店々菓子料金一包／纏／｛下に図有り｝ ｛下段｝御苦老／室町誥右エ門／▲通町詰太夫／▲家守五九郎／店野番左エ門／番野助之進／店番増太夫／▲草引太郎左エ門火用心／▲天水桶之進／▲龍野越次郎／▲水野　幟／金棒鉄之進／▲松火林右エ門／割太竹太夫／桶野水右エ門／時廻隼人／火事野内紀／▲日比野厳重郎／番野長門／時廻安芸／御用心／火鉢大炭／御町使／▲自身番太夫／▲金野入ル兵衛／妙政事派　万年山　太平寺／高拾万八百八町余江土一円制之　道法江戸ヨリ四方／八百里余／明暦三酉年正月江戸大火以来百七年目ニ当り明和／九辰年二月十九日目黒行人坂ヨリ大火又三十年其／後文化三寅年三月四日高輪ヨリ大火又二十四年後／文政十二丑年三月廿一日佐久間町ヨリ出火又六年天／保五午年同所ヨリ出火又十三年目弘化三午年本／郷丸山ヨリ大火当時嘉永五子年安氣守触吉以後／代々禁之／中屋敷　○うら路次番丁　○あきゆ定番 ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0120",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:16+00:00"
+    },
+    "o:id": 13666,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:37:25+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "新板改正大平武鑑 ∽120",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

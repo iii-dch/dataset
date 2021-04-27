@@ -1,0 +1,3363 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/61213",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "第一次世界大戦プロパガンダポスター",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7cfd363c-5fa4-4c4a-8fd3-5523f709b901/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべての戦士の後ろには女性労働者∽328"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f354a1a-b033-48ee-8b91-d9ad4a995851/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々は赤十字に属している∽238"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a7f28b4c-8132-453d-bccf-199fdc45c8b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "100万人の1人になってくれませんか∽240"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9999489-a828-454e-a5e6-7ab63dfa1cd3/manifest",
+            "@type": "sc:Manifest",
+            "label": "昨年、ドイツ打倒のために何をなしたのか！∽454"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb040c9a-6973-44c8-804d-a50e75d7326a/manifest",
+            "@type": "sc:Manifest",
+            "label": "陸地でも海でも従事できます∽185"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d4c5fe1-cad2-4073-be84-76bba92e7691/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ、進め！∽423"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f8a9239a-40d7-4467-8e94-ae2d27b15ea4/manifest",
+            "@type": "sc:Manifest",
+            "label": "「父のように、息子のように」∽132"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/14b4e39c-aac1-4566-979c-fba60f086bf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "1日に18時間も働いているのに、休息も、楽しみも与えられないというのか？∽270"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc50f50f-d6f2-479f-a47b-7d56a1d2a4c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロール・コール∽97"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df3846c5-8829-4952-a71f-8d825f46eacc/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利のために、さらなる公債の購入を∽258"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/498e687a-1935-4d38-97e3-24621e0dc2ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士を支えよう∽409"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69727ef2-35ee-48e6-98ef-4ed093792ffd/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダへの信頼∽455"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64013aa9-df69-4679-8cc3-0b7b717f8a74/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ合衆国公債∽28"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b614364f-e3de-4157-a1c4-ef2a449acc23/manifest",
+            "@type": "sc:Manifest",
+            "label": "すぐに購入しましょう∽88"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0b00566-825b-49cd-aa22-fea2a03d7591/manifest",
+            "@type": "sc:Manifest",
+            "label": "高潮∽362"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/89b270ea-9465-4b34-9f10-ad9d8f4f1d96/manifest",
+            "@type": "sc:Manifest",
+            "label": "100ドル、ポケットでは0∽105"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4aa9ca0-4a7f-4a80-8333-0f76ced02e79/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦え、さもなくば公債を買え∽520"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bfbb650c-f65e-4c65-9441-8f84d15e40cf/manifest",
+            "@type": "sc:Manifest",
+            "label": "道を切り開きましょう！！∽64"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/767dcf58-86f0-453c-8104-0d49a2d2ef53/manifest",
+            "@type": "sc:Manifest",
+            "label": "「ヴィミィ・リッジのカナダ人」∽581"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5ac551a5-e8a1-4f2b-b00f-125b1827b789/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ戦時貯蓄切手∽517"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/702092ba-951c-418b-adeb-295349c94cee/manifest",
+            "@type": "sc:Manifest",
+            "label": "我らの町を助け、栄誉の旗を掲げよう∽587"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8226b62a-2658-4c8b-a033-6c40e3fc0c02/manifest",
+            "@type": "sc:Manifest",
+            "label": "インド戦時公債∽613"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38128a7f-4751-4940-a3e2-32a8db093ca3/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはU.C.[米国民]の一員か？∽401"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9010f50a-76f9-48ce-8261-3e030db81497/manifest",
+            "@type": "sc:Manifest",
+            "label": "「私はすべきことを十分に行っただろうか？」∽108"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e71aa88-ad22-4ef3-9964-b5dd88c23761/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦車部隊に加わろう∽183"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e1978a1-8e1f-4643-b0cd-391623d00e23/manifest",
+            "@type": "sc:Manifest",
+            "label": "40573∽308"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec0b4b0c-b4c1-4bc2-bd88-09caba5faf88/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ産穀物∽478"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bcbe65ae-aa4a-46d9-a416-2c42ba78f21b/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの看護士のみなさん∽220"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ffb35d01-b45f-48a9-920c-9eec6c5acfc9/manifest",
+            "@type": "sc:Manifest",
+            "label": "元老院　元老院議長アントナン・デュボス、ならびに外務大臣ステファン・ピションの演説∽200"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/76691a0c-ca40-42e8-8ab8-be9dfd9ba28e/manifest",
+            "@type": "sc:Manifest",
+            "label": "クリスマスのご挨拶を∽335"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/495eaf24-f654-4d53-bf9c-8bb7fea50834/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは、公債をもう買いましたか？∽55"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa1d771d-2948-4c86-98aa-785e503170c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債で彼を家に帰らせてあげましょう∽485"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/967aaa91-9408-4835-ba13-f18ae778688f/manifest",
+            "@type": "sc:Manifest",
+            "label": "アンクル・サムはもうひとかきの石炭を必要としている∽235"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c0ed67c-5346-4e86-9227-1c8baaa64458/manifest",
+            "@type": "sc:Manifest",
+            "label": "安全、収益、容易な売却ー∽505"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a28ee78-709f-4209-8fa3-ceb27dc7a08c/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時国債1918年∽621"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a679ba0-ec10-405f-92c7-d96f319868a0/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはキッチナー将軍の元にいる１人ですか？∽453"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/deda0e0e-cbb3-408c-a073-f5fc304a4dfb/manifest",
+            "@type": "sc:Manifest",
+            "label": "奴らにアメリカを踏ませるな∽3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e83b7cb-5e57-492e-8013-f8a3df31982c/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦地にある兵士の家∽188"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/387cf923-113d-404c-9885-2e14a042773e/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべてのカナダ人を多忙に∽509"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ac0572f-95d2-40c4-9b2e-51dc89cbff0b/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたも義務を果たすことになるのです∽633"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b46c0379-5b49-49a0-ae9f-6193d31f267f/manifest",
+            "@type": "sc:Manifest",
+            "label": "この頃の幸せな男とは、前線にいる兵士のことです∽560"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec70c047-040c-4428-921e-9dee4358777b/manifest",
+            "@type": "sc:Manifest",
+            "label": "A.E.F.から大統領へ：∽68"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f473305b-73aa-43f8-ba78-77bc1b337f33/manifest",
+            "@type": "sc:Manifest",
+            "label": "旗につづけ∽164"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37e95f85-871d-4e60-8aae-4e5b1e9857e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍は人を必要としています∽198"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/57a9927a-aed0-4916-9510-faacecb2bef6/manifest",
+            "@type": "sc:Manifest",
+            "label": "収入の増大を∽459"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec0d37ad-20c8-4e87-8db9-360409b1750b/manifest",
+            "@type": "sc:Manifest",
+            "label": "工業発展のために∽574"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f171cd7-a625-4f67-a1ac-454cee7011e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ大統領からの自由の日宣言∽6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f7e17797-0906-4261-a48c-d2f0f400424c/manifest",
+            "@type": "sc:Manifest",
+            "label": "私たちが滅びることがないように∽40"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65529a22-aef5-49a4-809e-e4a5f264a986/manifest",
+            "@type": "sc:Manifest",
+            "label": "アルジェリア会社∽654"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/07155207-9e40-4225-8b7f-04d67d51dfac/manifest",
+            "@type": "sc:Manifest",
+            "label": "外国人の処遇∽624"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/055ab84e-6c04-44af-a781-0a079b5778f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "子どもは死ぬしかないのでしょうか、母親の嘆願は無駄なのでしょうか？∽588"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/26ba2813-e59d-49d8-b90e-356a410b3d6a/manifest",
+            "@type": "sc:Manifest",
+            "label": "軍管轄区域での航空機着陸時の指令∽653"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/33807/manifest",
+            "@type": "sc:Manifest",
+            "label": "忘れるな∽63"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/495255c0-82c7-446a-8956-e6bd9904e6ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ陸軍には、君が必要だ∽158"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b26618f-f441-416a-8eb2-8c7ead0db672/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍に入隊しよう∽175"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ab1118ec-3112-4e59-b152-085345e00e2e/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの女性たちへ∽564"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb10f582-b044-407d-8099-1cfeb640c8a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "「あなたの玄関に佇む子ども」∽19"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/952a497f-6d21-4c19-978f-8fad02822ea5/manifest",
+            "@type": "sc:Manifest",
+            "label": "元老院　元老院議長アントナン・デュボスト、ならびに内閣総理大臣兼陸軍省大臣ジョルジュ・クレマンソーの演説∽650"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e425446-9469-497b-8955-9313b34a6964/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債　5.5％∽493"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9190f08-53de-42bd-8c99-1f738015920c/manifest",
+            "@type": "sc:Manifest",
+            "label": "私もカナダ愛国基金に出資します∽498"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/040dca04-eabf-4af7-a618-27f708cded32/manifest",
+            "@type": "sc:Manifest",
+            "label": "V[勝利］∽67"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd9dfe7b-62c2-424f-a11b-15289183b4eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "[文字なし]∽"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4013b162-adba-4fdb-9879-4ddacc504659/manifest",
+            "@type": "sc:Manifest",
+            "label": "不必要な建造は中止すべきだ∽306"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b51503db-8be1-41e4-8d47-13f8163a56a9/manifest",
+            "@type": "sc:Manifest",
+            "label": "自動車運転手たちよ、ひと肌脱いでくれ！∽69"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b802478-ede6-448e-9be2-068d54c9741e/manifest",
+            "@type": "sc:Manifest",
+            "label": "「仲間よ！」∽303"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fcf0b523-0cef-4f0c-8994-f762ceae8539/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはU.C.[米国民]の一員か？∽346"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/14d03d30-1c60-483e-a087-0aa953997191/manifest",
+            "@type": "sc:Manifest",
+            "label": "慈悲国民軍∽363"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c6d8297-806d-4647-b34a-058df5285b94/manifest",
+            "@type": "sc:Manifest",
+            "label": "貯蓄と奉仕で兵士の勝利に貢献しよう∽96"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3aaa918-26f2-4ab6-ab2c-5eeabfe439bc/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜドイツは今、平和を求めているのか∽284"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e7b1a4a-a91b-429f-89e5-c32112c303ce/manifest",
+            "@type": "sc:Manifest",
+            "label": "飢えた幼い子供が生きて帰りました∽266"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8e0492fa-96c4-408d-8c18-10e8921b79d0/manifest",
+            "@type": "sc:Manifest",
+            "label": "「パーシングの十字軍」∽16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd333a66-bbff-4e90-94e9-43e9cb1416d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "日が沈む前に∽38"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc390607-222f-4818-a399-091521040c59/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らはこのためにメダルを打ち出した∽511"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59a93de2-e776-4b46-a5ff-69de40b9933a/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは助けられる∽400"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/91f85cc1-5994-43a9-b163-a4ed717bf30e/manifest",
+            "@type": "sc:Manifest",
+            "label": "「我が息子たちの命より、ドルを大切にすべきだろうか？」∽75"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7307c317-da41-42a4-9a28-6cb7619f7a05/manifest",
+            "@type": "sc:Manifest",
+            "label": "海の戦士になろう∽202"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f5ca9e7-e831-4b91-8bb1-ae7d0e5cdec8/manifest",
+            "@type": "sc:Manifest",
+            "label": "君にとって絶好の機会だ∽522"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd7c04b2-ada3-4a1c-a354-f21a6e337a99/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ図書館協会戦時図書館∽285"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ad711a8-8cc9-422d-a2f2-50923ac9c175/manifest",
+            "@type": "sc:Manifest",
+            "label": "ウィルソン大統領は皆さんに伝えます∽372"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3e6a922d-5b56-4ace-ad74-d6da7e76fc76/manifest",
+            "@type": "sc:Manifest",
+            "label": "100％水準を目指しましょう∽488"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0de499a6-f072-49b7-9269-5027fb10291b/manifest",
+            "@type": "sc:Manifest",
+            "label": "教師たちへ：∽334"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/42e60720-f4ca-4049-b22f-4636f5e65582/manifest",
+            "@type": "sc:Manifest",
+            "label": "家庭と祖国のために∽74"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f0e9a75-3e8f-40a5-a6d5-10875ae6e5ee/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたがはじめてアメリカの自由に感動したときのことを思い出そう∽84"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3de4b179-53ed-459e-a2fc-68755b92ed7a/manifest",
+            "@type": "sc:Manifest",
+            "label": "工業発展のために∽472"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d942a3-288e-458d-8f1f-f88fabe17152/manifest",
+            "@type": "sc:Manifest",
+            "label": "これを阻止するために手を貸してください∽89"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64b5b339-e37c-4a71-a7bf-fa8257cd74fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字にご協力を∽519"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f5e77339-d124-4994-9bbb-37cd062895fd/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ第5王立高地連隊∽227"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa03f869-8403-42e3-8019-185e4711a4af/manifest",
+            "@type": "sc:Manifest",
+            "label": "「選択する時がきた。征服するのか、服従するのか」∽21"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d79f1b1f-17ac-485e-9ad7-f730293b7321/manifest",
+            "@type": "sc:Manifest",
+            "label": "これはあなた方の旗です∽541"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c0380943-25ee-49f5-b3af-b56094ad98c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "大地の生産物を節約しよう∽273"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/92b7844e-0cf0-4f4d-be99-70877c1c0b51/manifest",
+            "@type": "sc:Manifest",
+            "label": "服務中の彼を幸せにしましょう∽375"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03c1855f-3103-4268-bb48-7bf049208d46/manifest",
+            "@type": "sc:Manifest",
+            "label": "負傷兵のためにカナダができること∽629"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c376cc56-e53a-4578-97a6-8937f239b1d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのドルで戦争を終わらせよう∽466"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97a06518-982d-4b3d-a25a-94655aacc28d/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの第二次防衛線∽249"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2878493-4d42-4de1-a5c2-46a123c9a7b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "「戦車と共に出発せよ！」∽104"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d7168c5-61aa-493a-8387-2a55834e515f/manifest",
+            "@type": "sc:Manifest",
+            "label": "「オタワの例から学びましょう」∽507"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c0386168-92a8-4e1c-8ce5-0257b506f6cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍は求めている∽438"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38852bbb-560f-434c-b696-46c4e742b4e6/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士たちはすべてを捧げているのだ∽221"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e6e7567-3433-48e8-9822-2c25887288bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "「アメリカはこの対価を支払うべきだろう！」∽99"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b9c2112-d1f9-45c2-addc-8a05e2e46074/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦地にある兵士の家∽316"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd830ed9-e640-4d3c-bc73-ab5ef86143ee/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々には自分たちを護ってくれる軍隊が必要だ∽358"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1634b24-cb73-46bf-b538-a17a983f0a04/manifest",
+            "@type": "sc:Manifest",
+            "label": "義務の至る場所∽565"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc0fb6d1-278d-4201-b14e-591dac1726a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "君の場所に飛び込め∽506"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0f8a91c-41a9-4675-b8e0-cd7de42b95db/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロシアおよびルーマニアにいるフランス人の私有財産の申告　∽649"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108d1af1-2032-45e3-a99e-cb76ce655850/manifest",
+            "@type": "sc:Manifest",
+            "label": "工業発展のために∽470"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d9d65a5-9fac-427a-a031-b607a095c069/manifest",
+            "@type": "sc:Manifest",
+            "label": "ただいま勝利のために仕事中∽427"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/576fff62-3ad7-4478-9da2-a1235cd4e277/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランス人よ、第2回国防公債に申し込みましょう∽635"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/48d4bfc5-c60b-4e9e-8775-509c992841b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "フォー･ミニット・メン[4分間演説の男たち]∽70"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/138d630f-d4fb-4123-914d-53a047f0784c/manifest",
+            "@type": "sc:Manifest",
+            "label": "時給∽7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a54241a-5a44-4eb4-bf58-87f81b0f0135/manifest",
+            "@type": "sc:Manifest",
+            "label": "この工場のすべての者へ∽367"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e369dd0f-c6fc-4150-b11d-20c2c8b93206/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜあなたは牡蠣を食べるべきなのか∽378"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17f17759-a8d7-4571-82a4-85e8b62e0d5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "「さようならメアリー、愛国基金がお前の面倒をみてくれるよ」∽9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e082d30-871a-44fb-979b-5848c48b21ba/manifest",
+            "@type": "sc:Manifest",
+            "label": "どの娘も勝利に一役買っている∽215"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52985310-d5f2-41ae-959e-9933ffce5f2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの豚肉市場拡大のチャンス∽549"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c3f4fd3-435c-48b7-aa28-0335d2a5ed6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "陸上の女性は国家が必要としていることに従事しています∽178"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc597848-4247-4624-a5fd-a8ca5b910539/manifest",
+            "@type": "sc:Manifest",
+            "label": "すぐに購入しましょう∽374"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca34be85-33be-4b19-92ad-df5ea242f321/manifest",
+            "@type": "sc:Manifest",
+            "label": "忠実な言葉だけでは打ち負かすことはできない∽445"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2c249a3-0220-461d-a5cc-44e9c0789db7/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽543"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/78c95723-fc82-41ee-a98b-5215c630b260/manifest",
+            "@type": "sc:Manifest",
+            "label": "犠牲者たちの在るところ∽267"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5480b95-fcb3-47e3-92a8-518d96f1b8ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字切手の購入を∽34"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22e1fcde-9b30-499e-9769-cae2fef05c72/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由のための支払いを負担できるか∽568"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fc881f0-d979-46fe-94ba-f231f74727f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "軍需の戦争∽566"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b73bacf0-66e5-4f36-957f-0f1c02f093d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新たな国民軍の兵士たちよ∽344"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29d5da16-672a-4e92-b176-cb0e57f57dc4/manifest",
+            "@type": "sc:Manifest",
+            "label": "今すぐ石炭の注文を∽380"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6dd3f959-700c-4990-90c3-2e155317fe93/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料の節約を止めないで∽225"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/531a6813-4a1a-4cec-b9a1-b38ce8baeef7/manifest",
+            "@type": "sc:Manifest",
+            "label": "ベルギーを忘れるな∽24"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0a88711-75a8-4c68-bf41-51af970b9481/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍兵のための楽器を必要としています∽236"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/53fc42f4-1a26-435e-8e24-61bdaed2000a/manifest",
+            "@type": "sc:Manifest",
+            "label": "笑顔のままで！∽298"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa033eeb-dd99-4ea8-8138-b6d6997b39a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍がオレゴン州で召集します∽208"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5bee4daf-c04e-40df-8cb1-9d94999d0c79/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦艦に人員を！∽408"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef79e692-5606-4fbf-b285-236526a19cc4/manifest",
+            "@type": "sc:Manifest",
+            "label": "ドイツの植民領土∽586"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11e8849b-d43c-4a06-9fbf-012c7f057635/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべての戦士の後ろには女性労働者∽315"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c7b520b-1205-4fe9-b1ef-1d103836ab6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "イタリアは必要としている∽660"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7f706095-a704-48b0-b4b8-aed2d21e761c/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々のお得意様は、しかし－∽461"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/91bc1308-ba7c-42d4-b78c-61c9c57d17b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "1914-15-16年戦災孤児のための全国大会∽627"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/893bb801-a29b-4f16-a748-a95eba00c7a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは航路を守った∽83"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9698a028-089f-4713-b971-b761f056df12/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍での日々∽302"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d773340d-b000-446d-9ff7-de3feacab6a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "海兵隊に伝えよう！∽314"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a5f85d19-d100-4707-a595-b3a6f7d54613/manifest",
+            "@type": "sc:Manifest",
+            "label": "文庫本のなかの「将星」∽121"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96837d96-d2e6-4bd5-a91f-467b7b525db9/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ人のみなさん！∽365"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ea0da16-280f-42ea-8377-4477173e2026/manifest",
+            "@type": "sc:Manifest",
+            "label": "覚えておこう∽596"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fbe483a3-9899-431e-8447-3ad06dcc1313/manifest",
+            "@type": "sc:Manifest",
+            "label": "我らの兵士たちはみなこう語る：－∽291"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/562cacc2-bab4-4cab-a9c5-b91ded02e531/manifest",
+            "@type": "sc:Manifest",
+            "label": "男性募集∽403"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d3bc275-bfdb-4f50-8e7c-2b114b89f44d/manifest",
+            "@type": "sc:Manifest",
+            "label": "「1914年」（「我々の復活祭」）∽422"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0da4831b-5aea-4418-b539-dafbaca06ef6/manifest",
+            "@type": "sc:Manifest",
+            "label": "アラスの戦いにてドイツ軍退却∽535"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77ab8b62-10d6-4a2c-aed7-d4efb0d303a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らはあなた方のために戦っています∽324"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b281e88-9092-499a-8058-dac42edd46d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "ドルを軍需品に∽120"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5332e357-719a-4d1b-bf49-a9cfe5619621/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのドルをカーキ色に着替えさせて∽333"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5189d6c4-16e9-4804-ab78-06012ba2c836/manifest",
+            "@type": "sc:Manifest",
+            "label": "とうもろこしをもっと食べよう∽234"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f8618e15-a75a-4a60-8956-de8749111b89/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはもう戦時公債を購入しましたか？∽604"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b4b107c-f3be-4df7-9687-8cedc5906671/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人技術者の新兵求む∽557"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe74172f-a909-4985-9921-3e3563e5ad4b/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランスでは、次のことがあなたの自由公債によってまかなわれています∽116"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c1cf473-e5d9-4574-b04a-fd69a75bf7d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "若い女性のみなさん！∽180"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/74e5a922-f1d4-4458-b8ae-3ef1a853ef79/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国防備に参加しよう∽545"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce1a5860-8f87-42ff-9285-25e8457c6e8a/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼が国に戻って、また働けるように∽61"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/623e0254-de80-4882-9506-d02e52cc4fb2/manifest",
+            "@type": "sc:Manifest",
+            "label": "基金を増やしましょう！∽133"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe616dc9-ea1a-4168-9520-c22160a9bc04/manifest",
+            "@type": "sc:Manifest",
+            "label": "物資の輸送を手伝おう∽138"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/67bcea60-330e-451e-9280-7b7c30d2d361/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの女性のみなさん、勝利にむけて働きましょう∽318"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/76746539-94ca-489e-b07e-b5f1a936475a/manifest",
+            "@type": "sc:Manifest",
+            "label": "愛国的になろう∽239"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/27d9c80a-7312-443d-b595-e0d9e837a0c1/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ合衆国大統領の宣言∽5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09b929d9-6ec8-41d3-b340-31dcad584728/manifest",
+            "@type": "sc:Manifest",
+            "label": "週に一斤節約しよう∽313"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e8c77aa0-28c0-4b55-bd7a-2c932d74f0fd/manifest",
+            "@type": "sc:Manifest",
+            "label": "アルジェリア会社∽623"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c81d1592-0869-4a88-be1e-90cfeb89e08a/manifest",
+            "@type": "sc:Manifest",
+            "label": "我が兵士よ∽463"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6c5b10f-54b0-461b-a384-fa8e10528cf4/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債を購入する4つの理由∽92"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4be1fd33-bd6e-4269-98dd-996895ad961d/manifest",
+            "@type": "sc:Manifest",
+            "label": "志願せよ∽157"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b051d0d-9c18-479d-bca2-e7df777828b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "4年間におよぶ戦争∽224"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b43dadf-354b-49cd-8a9f-ce81ddd1622d/manifest",
+            "@type": "sc:Manifest",
+            "label": "A.E.F.から大統領へ：∽32"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeab9757-e0f4-495e-9e2a-fa1f4d785c29/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの戦士たちの家族を保護するために∽394"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1df3a86-3234-43ad-8f99-5712757f8260/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国のために！∽197"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd1acbb5-7269-4fbe-9a07-aa18945b2b13/manifest",
+            "@type": "sc:Manifest",
+            "label": "貯蓄切手を購入しましょう∽44"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8f33b6a-fb62-4cf1-82f7-7ce575151185/manifest",
+            "@type": "sc:Manifest",
+            "label": "100％水準を目指しましょう∽464"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6098bfbb-2535-4c9a-864a-9e93e3beda46/manifest",
+            "@type": "sc:Manifest",
+            "label": "「私はこの偉大な試みにおいて、兵役忌避者でないすべての人々に我々の味方となることを望むであろう」∽149"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4815912b-612f-44f0-b3e2-bcd356657616/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国のために［子息を]亡くした父母の協会∽625"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/790707c7-f594-48ea-836a-7d88606849a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはその人物ですか？∽377"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/26cc1523-52a0-4107-be42-a1170c119f6a/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国皇太子の旗を掲げよう∽474"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0aa59bbf-c2bb-436a-bb14-b0b6ba55302a/manifest",
+            "@type": "sc:Manifest",
+            "label": "安全、利回り、売却の容易さ∽494"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e18e43f-15d3-4600-8b4e-5448151e09e6/manifest",
+            "@type": "sc:Manifest",
+            "label": "罠∽638"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1dfd7d3-5ae6-4fba-ac94-a14a96d3848e/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは100％アメリカ人ですか？∽98"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4a969bc-68ce-41af-b6c4-90c06fc08bfc/manifest",
+            "@type": "sc:Manifest",
+            "label": "銃を持たずに勝利に貢献しよう∽594"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7662839c-946a-4d61-a722-ba80cff562fe/manifest",
+            "@type": "sc:Manifest",
+            "label": "負傷兵の帰国∽514"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5624e08-bafb-4562-a7f5-76ed7ba50074/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人ならこの徴を付けるのを栄誉とすることだろう∽424"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8ae53ecc-f144-460e-aef1-81fa343a52ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの食料公約∽244"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c75edb0d-b66a-45e5-bf64-4fc835e3644d/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦争孤児局∽656"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/222ef6cb-0774-44c5-9362-d8016b37aa30/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の輸出貿易は極めて重要です∽10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1932d2e-51e5-4634-97ee-dd6e9f9e2b5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "これがプロシア主義だ!！∽119"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c741b524-4a58-4457-89ed-43b4b071df6a/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの豚肉市場拡大のチャンス∽152"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a557ec8d-6c39-4e9e-9ec7-586b10ce5337/manifest",
+            "@type": "sc:Manifest",
+            "label": "「我が息子たちの命よりドルを大切にすべきだろうか」∽23"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/071fc4f7-1017-463e-b63b-0df796581f79/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ！∽87"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/782bb59c-0243-4f0e-a716-eb338c629229/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ！∽288"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eab074bd-87b5-4b90-ace1-cd4d36673b00/manifest",
+            "@type": "sc:Manifest",
+            "label": "農業省と食糧統制省∽645"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5676aeae-388d-4a90-b76e-900137fd4a5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "一緒だと勝利できます∽398"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35df4e64-672e-49b2-8f3f-4bebfd77d58a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新兵のための無料法律相談∽280"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc644d18-2a93-469c-99ad-5cfeae7817b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時公債にあなたのお金を投資して支援できますよ∽607"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ee347a7-744d-44b4-9b77-b0dbd2dfd03e/manifest",
+            "@type": "sc:Manifest",
+            "label": "「パーシングの十字軍」∽304"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6cb2b52-4038-4447-9834-1a00dd72754a/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの弱点∽508"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8408371e-7ea9-4601-ba9e-88cb136bb9b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "次は我々の番だ！∽526"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd319293-2d75-43e3-89ff-6cbcb91cf6ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "「ニューヨークに任せて！」∽153"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3d8ba8aa-6862-49db-a49b-c0143f9cecc4/manifest",
+            "@type": "sc:Manifest",
+            "label": "奉仕を∽237"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2bbe2325-e3c3-4beb-8690-de8cf34071d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダで消費されているすべてのドル∽450"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b37841d-f2a1-4913-bc5e-4ccf9641800c/manifest",
+            "@type": "sc:Manifest",
+            "label": "オーストリア-ドイツ人は何を約束しているか？∽186"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/85bbea06-3c48-415c-a424-0ddb07086c22/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロシアでのアメリカの救急車∽416"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e0ed17d-737a-4cfa-be19-ed544b2b0383/manifest",
+            "@type": "sc:Manifest",
+            "label": "軍艦にとって速さとは安全性のことである∽179"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec696711-eec6-4198-9c02-fd0631c281c1/manifest",
+            "@type": "sc:Manifest",
+            "label": "次は我々の番だ！∽437"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69b093f1-c9d9-49b1-9cfe-7af1fab68734/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの牛肉市場拡大のチャンス∽659"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7df2e1b5-892e-4da7-9d29-327ca0d43e19/manifest",
+            "@type": "sc:Manifest",
+            "label": "行きなさい！ これがあなたの任務よ∽418"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0cef624f-eb7e-4e09-a26f-bf6ed44127f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "アンクル・サムは言う：∽300"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c88917f9-c0ae-43b1-99a4-7d6fa2c5709e/manifest",
+            "@type": "sc:Manifest",
+            "label": "家庭と祖国のために∽15"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49c36245-58da-46fd-838c-84316cc87e1e/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人ならこの徴を付けるのを栄誉とすることだろう∽432"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/62fa61cd-7d1e-4fff-ae29-b76d8e8f8f70/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ陸軍航空隊は人を必要としています∽331"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/adce90da-d4d5-4801-8939-b5655779c594/manifest",
+            "@type": "sc:Manifest",
+            "label": "剣は抜かれた∽145"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ddc1005f-ccdb-4f04-835e-48cf9466fefb/manifest",
+            "@type": "sc:Manifest",
+            "label": "セルビアに取り残されている∽77"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/20298307-fbc8-4467-9874-e4139e537547/manifest",
+            "@type": "sc:Manifest",
+            "label": "「女性の力の精神」∽341"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d650b474-9f6d-41c6-8c74-0cf06db9c030/manifest",
+            "@type": "sc:Manifest",
+            "label": "５％国防国債∽628"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/647a5cde-6174-4067-a851-53fd0df07884/manifest",
+            "@type": "sc:Manifest",
+            "label": "裁判所　記録保存所の原本よりの抜粋∽619"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e41d9efd-bd2a-4132-acfd-882f0a9c2105/manifest",
+            "@type": "sc:Manifest",
+            "label": "「船をドイツへ向け勢いよく進め、アメリカの勝利を助けよう」ーシュワッブ∽405"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b07e61d-f3d5-4862-a4fe-daf3c5dd2c5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "参加しよう∽269"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fdbe54f-ab88-4890-a007-dfe05aa07949/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜドイツは平和を望んでいるのか∽348"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bcaf0a51-302a-4b1f-8042-0ee0fe5abefa/manifest",
+            "@type": "sc:Manifest",
+            "label": "君にとって絶好の機会だ∽527"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5bd16214-2d8e-4306-9f3c-5d3de9255363/manifest",
+            "@type": "sc:Manifest",
+            "label": "労働者のみなさん∽319"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f46387e6-9cb3-4b8a-b1ec-a1eed7296508/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国皇太子の旗を掲げよう∽439"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a667f764-c451-4949-a751-9ccdcc0e35f4/manifest",
+            "@type": "sc:Manifest",
+            "label": "この工場のすべての者へ∽226"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e26e47a6-2ef2-4953-ba41-8e9b6ed7ea6a/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍∽583"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5eb1654-1398-4da9-86ad-33e4c0a203ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "お父さん、どうかもう一回お願いね！∽56"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c865d3a-5003-4f0d-bdd8-3f55ec615301/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべてのアメリカ人よ！∽305"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3f6c78df-d5fb-4bed-8a90-33cc0465f7b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "私をもう一度鳴らして∽131"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/449b6647-1703-4fdb-b54d-5f73437f373c/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料は弾薬です∽342"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d67ed6ef-b9ed-47e7-b534-08b23a6abfa1/manifest",
+            "@type": "sc:Manifest",
+            "label": "団結し、我々は奉仕する∽129"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af7cb0cd-c9a8-4fb7-b846-f85200dd39fc/manifest",
+            "@type": "sc:Manifest",
+            "label": "その血を引いている∽12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6217ba14-06a0-4b6e-bb64-211a7d9d9043/manifest",
+            "@type": "sc:Manifest",
+            "label": "ああ！！私が男だったら∽137"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c6d5cb87-8dd8-4cc2-8c11-a18f07c7a27e/manifest",
+            "@type": "sc:Manifest",
+            "label": "笑顔のままで！∽299"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/60effda9-b8d5-413a-b605-0c93a9b6347e/manifest",
+            "@type": "sc:Manifest",
+            "label": "25,000名の学生看護士募集∽419"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5d75b3b1-5968-4f2d-919d-0f4a9d31b39f/manifest",
+            "@type": "sc:Manifest",
+            "label": "パパはあなたのために前線で戦っているの∽81"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bbd63a2d-8d35-467d-ae90-4a11286945c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "愛国的になろう∽248"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7e21327-f9ca-44db-bdd9-586869f34c0e/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利への職務に従事中∽271"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/300b1797-9c19-48a5-b030-3251e11c0c01/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らが滅びることがないように∽373"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ad558e7-8bba-4326-b859-4529df5d88b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "市民よ∽326"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6db088a3-4eb6-4bc1-b4fd-3b26c19f2b79/manifest",
+            "@type": "sc:Manifest",
+            "label": "収入の増大を∽448"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c20b94bb-e187-4024-ada6-3664e2cf2a9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "手の施しようがない－勝利公債なしでは∽579"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb819c9b-94b9-4b47-80a5-90091d4cdbad/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼はあなたの自由を護ります∽558"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6b7a25b8-fcdb-4f20-b2e4-94232f6b067a/manifest",
+            "@type": "sc:Manifest",
+            "label": "シャトー＝ティエリでまた勝利∽142"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/447e2096-d009-480f-8b93-2708a396a4f9/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦いたいのならば！∽211"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fcba957d-638b-491a-a798-b862e17a0c3f/manifest",
+            "@type": "sc:Manifest",
+            "label": "労働者のみなさん∽404"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1f8de7d-99e5-4d84-ad58-24acfd3b8d5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "「弾薬を！」∽36"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/749ac797-e889-4cde-98d7-e5f2af31590d/manifest",
+            "@type": "sc:Manifest",
+            "label": "外務省関係資料"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51253012-2874-493d-bc8f-84a4b7f57600/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々のお得意様は、しかし－∽530"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0eec5e9a-9589-45bb-b44f-668091f1b3d5/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時公債に申し込んで、我が国の産物の販売を促進しよう∽451"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22b8340c-7f7e-49ef-b41b-66818f8248f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "お父さん、どうかもう一回お願いね！∽"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe016a27-99c6-48af-ba11-5a0980deaa42/manifest",
+            "@type": "sc:Manifest",
+            "label": "供給を維持しよう∽125"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c459128-2cea-4cec-aba1-23f672301fd4/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは自らの命を捧げた∽113"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1004d7bc-a3d9-42ec-98b6-b416701e26c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "ベルギーを思い出せ∽547"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2f3eeb6-5bf1-48be-a502-9c6c45167e45/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ！仕事を片付けよう∽477"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2fea045-6367-4c2c-9a52-936e0a717a90/manifest",
+            "@type": "sc:Manifest",
+            "label": "とうもろこしやオート麦、ライ麦をもっと食べよう∽243"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cce1fa40-58a6-4972-8e83-c2a9c4665b7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "人が飢えているのに食料を無駄にするな！∽268"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca564aa7-e47d-4361-b8d4-6b27795e06e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたが先祖から戦闘の精神を受け継いでいるのなら∽531"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9aaa5f88-f6bd-46e4-a0ef-f19db048aa6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "男たちを求む∽205"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3c3516f8-e5ce-4932-badd-83649fa4c247/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの仲間は戦っている∽524"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e51fce07-52c9-4f9c-8e1a-9cb1731607c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロシアでのアメリカの救急車∽297"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3debafc0-a8c0-4f35-bc18-493941987203/manifest",
+            "@type": "sc:Manifest",
+            "label": "世界一偉大な母∽283"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70ee5a52-1254-4d0d-879f-197b82a31e6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "パーシング将軍は言う：∽513"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e09229c1-5c2b-433d-8600-03ff9c389c62/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ！仕事を片付けよう∽479"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d91fdada-7ccf-4e19-82ad-349c4dcf8f01/manifest",
+            "@type": "sc:Manifest",
+            "label": "[No Name]∽329"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a4ddc14e-d1c2-4227-b984-91dfe1b17034/manifest",
+            "@type": "sc:Manifest",
+            "label": "銃を携えて戦争に行くことができないのなら∽371"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/61f94842-6cf7-4775-9f26-2bb1f3c5bf06/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランスへの道∽483"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/babd559d-ca09-4c2c-a911-6a6ee695a37b/manifest",
+            "@type": "sc:Manifest",
+            "label": "再び鳴らしましょう∽30"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/61d3f675-edab-4a0e-b9ad-7e2bd856d82f/manifest",
+            "@type": "sc:Manifest",
+            "label": "楽観主義の危険性∽353"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e233b378-2084-4f22-ad5c-8dde8905cab5/manifest",
+            "@type": "sc:Manifest",
+            "label": "コロンブス騎士団∽52"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ee13ba6-3200-43d8-893f-60bff2bb8153/manifest",
+            "@type": "sc:Manifest",
+            "label": "大統領は言う∽598"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d16efe9-9686-493f-ba38-c7cf21424648/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字のクリスマス・ロール・コールに応えましょう∽382"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df2762e0-b91d-403b-bed3-4dc245b6cb03/manifest",
+            "@type": "sc:Manifest",
+            "label": "ウィルソン大統領の素晴らしいメッセージ∽332"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/82e4d577-e753-47a3-9fd3-9d8a19dc11ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランス負傷兵救援会社∽651"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/987c5fb7-8341-431e-9cdb-564444428cd4/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らを死なせるな　∽345"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9ac0486-2b22-47f3-9bdb-20395dea8c60/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利への道を進みましょう∽49"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b5c703c-9a61-484c-8c26-bb774deb088c/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロシアでのアメリカの救急車∽94"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cde5e3db-76c1-4ce4-9725-eb2c9ce81ac1/manifest",
+            "@type": "sc:Manifest",
+            "label": "「私の家族をまもってくれ」∽429"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3f13079-bc53-429c-a5e9-fe01374d304e/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊は赤い星印のところで任務についています∽192"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/faabd14a-5145-4d6c-8e6a-04ea9f637940/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国の娘たちを支援しよう∽387"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8b469c49-9e5e-4aa4-8b72-1d6a1a10e8be/manifest",
+            "@type": "sc:Manifest",
+            "label": "V[勝利］∽76"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03d54f4c-b1e9-4a31-8d0d-2a46fbb13ecc/manifest",
+            "@type": "sc:Manifest",
+            "label": "募債∽528"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5128e10c-693b-44b4-ad65-c2030c65c15c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新兵のための無料法律相談∽146"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f64ed2c2-d857-432e-b514-f82c94a9fc8c/manifest",
+            "@type": "sc:Manifest",
+            "label": "「船をドイツへ向け勢いよく進め、アメリカの勝利を助けよう」－シュワッブ∽218"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6dc836b-4beb-42a0-a12d-0bcb698a61fe/manifest",
+            "@type": "sc:Manifest",
+            "label": "徴兵されるまで待つな∽201"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/53078fb1-3f72-48c8-a4cc-f0d1013529c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦地へ！∽151"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/26d32c2b-9419-4d2e-8dd1-4a7644dbea5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのお金も働かせよう∽590"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dcabb774-29c9-409a-a1fd-5f7256cb3299/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料が戦争に勝つ∽399"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/355db2f6-5ee4-43d8-b3f0-f556b35fe660/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国のために！∽139"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3de095e-ed59-40ac-8685-a1be19cf28da/manifest",
+            "@type": "sc:Manifest",
+            "label": "利得はどのくらいでしょうか？∽502"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/489a33a1-c133-46a7-ade1-c87d1de8e7b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "第106連隊に参加せよ∽585"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5bc45ee9-2f09-4de6-9255-7c2555083250/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回インド戦時公債∽618"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf80c3b0-9efc-4095-bd88-6f87df079b6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "もう勝利公債を購入しましたか？∽82"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9417980a-e16e-46e7-9ed3-d91c119fb6b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "アンクル・サムはもうひとかきの石炭を必要としている∽295"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dcb0f798-2f53-4661-b2b9-da55579778bd/manifest",
+            "@type": "sc:Manifest",
+            "label": "ニューアークの人々！∽343"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6cca7555-d61d-4c53-86cf-0efe81db5ae2/manifest",
+            "@type": "sc:Manifest",
+            "label": "公債は船を建造する∽110"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2354717-da42-4354-bb3a-a42b1a533fb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "輸出せねばならない∽468"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca219436-fae3-4813-a1ec-54c87e48d432/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字のクリスマス・ロール・コールに応えましたか？∽420"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49c3dc3f-5b5f-45ad-b852-6838516c5157/manifest",
+            "@type": "sc:Manifest",
+            "label": "再び鳴らしましょう∽31"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a9fd9db-29a1-4fbe-a817-b6b321526bc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "銃後の人々、彼らの支援者となろう∽584"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a7620af2-a2fe-4aec-9fec-a9fdf5588ac7/manifest",
+            "@type": "sc:Manifest",
+            "label": "「陸が彼らにとって軽くなるように」∽582"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/966dec8c-b466-4622-9da9-439721eb3a4e/manifest",
+            "@type": "sc:Manifest",
+            "label": "市民よ∽246"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6de5c8a4-d704-4752-a4ab-5ef413cff097/manifest",
+            "@type": "sc:Manifest",
+            "label": "100％水準を目指しましょう∽421"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d9965e7-4a92-4deb-9e07-c98036ef44f9/manifest",
+            "@type": "sc:Manifest",
+            "label": "連合国は私たちを見ている∽48"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fcd38d8-6de4-4c93-9fbe-ff3ea4b6644d/manifest",
+            "@type": "sc:Manifest",
+            "label": "ジャンヌ・ダルクはフランスを救った∽102"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f838f15e-d7a9-4a5f-9bcc-6f42f8250e9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽487"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/867199b8-0c57-4ed1-b663-54ed92de4fb6/manifest",
+            "@type": "sc:Manifest",
+            "label": "パリおよびセーヌ県における食肉の販売および消費の規制に関する条例∽647"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/359b0275-e7d7-40b8-b2c4-02c01dd0ca24/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時キャンプ・コミュニティ・サービスの精神∽390"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f3a81650-2dc0-4d6b-a32e-e2eb416f8452/manifest",
+            "@type": "sc:Manifest",
+            "label": "もちろん！やり遂げるよ∽72"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0cc461fb-39a2-4585-a89b-ae8ec5cbce0b/manifest",
+            "@type": "sc:Manifest",
+            "label": "物資の輸送を手伝おう∽177"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7078a230-2519-43b9-8e13-ed846585d6a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "善良なるフランス国民へ∽612"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2978c21-431e-47a7-9224-29290cbc06a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "再び鐘を鳴らしましょう∽13"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/858af9a2-b60b-4043-959a-0eeffaa2ac80/manifest",
+            "@type": "sc:Manifest",
+            "label": "誰かが命を捧げているとき－あなたは何を捧げますか？∽381"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52d4423f-216b-4ad6-b430-9ed09f84a7b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "旗につづけ∽194"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b4c1aa4-8ff4-4415-bb57-d0bed2259d6c/manifest",
+            "@type": "sc:Manifest",
+            "label": "地球上から自由が消滅しないために∽71"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c147657a-3a7e-426d-be07-a0a4a239334d/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのお金をあなたの政府に貸してください∽172"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6f21442-c1ab-48be-bb49-c647eefdc1f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "みんな急いで！∽154"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/126534cf-ffbe-4ccc-a19a-6d0b8f41700a/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊「海の戦士」∽204"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54051822-4780-4a71-8609-dd2759c784a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "手の施しようがない－勝利公債なしでは∽473"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66e18b5b-4872-40cf-b4a8-f82f027e0169/manifest",
+            "@type": "sc:Manifest",
+            "label": "さようなら、お父様。私はアメリカ国旗のために戦いに行って参ります。∽111"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0553dc7f-f85f-41c2-b7a3-4952f0bb3fda/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのドルで戦争を終わらせよう∽540"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7519fa00-0e5d-4451-a331-94989145f88c/manifest",
+            "@type": "sc:Manifest",
+            "label": "「英雄の地」∽532"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d9ab32e-c5e9-4dab-94a1-bcc53c0ac231/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜ平和は法の勝利にしか基づき得ないのか∽622"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d02c04c7-9e9d-4324-993d-7d398b9ec22d/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由のため、フランス戦線の先頭に∽141"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e38c5cbe-b097-4e37-b288-b28aba55c0ef/manifest",
+            "@type": "sc:Manifest",
+            "label": "「赤十字のもとに友情関係を築くことを勧めます」∽360"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/75bd4245-cc7d-4348-8ef5-339174ec8092/manifest",
+            "@type": "sc:Manifest",
+            "label": "「自分で手に入れて、誇らしげに掲げよう！」∽431"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed607102-d054-4ad8-9bfb-56b6d8f31bb6/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊員になろう！∽440"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79b84163-0b5c-4392-95d4-5937de8008a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの繁栄を維持するために∽575"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c0eabd73-fecd-4209-a930-8addf37f33cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "こちらは親愛なる老婦人です∽286"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1cacf88-e1c5-4ba9-ba52-9bec14be9c09/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダで消費されているすべてのドル∽486"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b51f650d-6de4-4050-968c-a4d966e25cd6/manifest",
+            "@type": "sc:Manifest",
+            "label": "我が息子たちは靴下を必要としています∽262"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f424eb1d-f0bc-4f1e-a95d-fae409dabbef/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのドルをカーキ色に着替えさせて∽359"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e63a8d12-e81b-446c-926a-4e3028215ffb/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランスの戦禍∽247"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a06ad86-6a09-4696-90be-4986af87899f/manifest",
+            "@type": "sc:Manifest",
+            "label": "団結し、我々は奉仕する∽289"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c5403d9-55ec-4ad5-8f49-c306e14bcaaa/manifest",
+            "@type": "sc:Manifest",
+            "label": "女性のみなさん！我がアメリカの息子たちを助け、戦争に勝ちましょう∽29"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/63556f89-13d9-4428-9f63-be76052edeaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "もし工具を扱えるのなら、あなたは必要とされています∽11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01dd2f92-5849-4181-a9fd-3f535ece3eca/manifest",
+            "@type": "sc:Manifest",
+            "label": "W.S.S.［戦時貯蓄切手]のすべて∽65"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb37657a-a5cb-4b8f-b028-baf3e7b58d4b/manifest",
+            "@type": "sc:Manifest",
+            "label": "「戦地」で勝つために、耕そう∽50"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e97593db-d596-4187-bc0c-5a5eded290bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "「最初の3人！」∽80"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a592b68-4ee9-44d9-b0ae-82531391fafb/manifest",
+            "@type": "sc:Manifest",
+            "label": "世界をとても住みよい場所にするために∽480"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a905422-f002-44e9-b6ec-68edc670c64e/manifest",
+            "@type": "sc:Manifest",
+            "label": "ただいま勝利のために仕事中∽223"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/398abe09-f79c-4790-b3da-4bccefa11f1f/manifest",
+            "@type": "sc:Manifest",
+            "label": "「跡形もなく消えてしまった」∽127"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb8d0575-60a1-4964-9c9b-8502a3e7640f/manifest",
+            "@type": "sc:Manifest",
+            "label": "収入の増大を∽496"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29b2e6ae-f5b3-4729-b016-e632d33c7488/manifest",
+            "@type": "sc:Manifest",
+            "label": "「女性の力の精神」∽351"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ddc7a9a1-b424-4873-9223-120984d94ece/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはどうやって激励することが出来るでしょうか∽555"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5bb651d3-3a43-415b-a92a-234e68c2d3b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "求む！アメリカ陸軍に500人のパン職工を∽150"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/118d3472-03f6-47ab-940b-1c9affc21a4e/manifest",
+            "@type": "sc:Manifest",
+            "label": "1918年自由公債∽626"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9732bc46-1c48-4068-a0b7-39ada861dcf4/manifest",
+            "@type": "sc:Manifest",
+            "label": "クレディ・リヨネ∽634"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9fcc7a4-e32d-4ba6-83a9-b2483a791140/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由Ｖ［勝利]公債∽26"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b690c5d-faeb-45ce-9a7b-79bdbf5a5dc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ戦時貯蓄切手∽499"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec410f60-39a2-4da5-b941-68e889185e52/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランス負傷兵救援会社∽655"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7680bf00-0f3a-4781-8b92-2ea9c3ed606a/manifest",
+            "@type": "sc:Manifest",
+            "label": "製糖業者のみなさん、ご協力を！∽430"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa6973cc-6bef-4f30-9fb7-b3d8a01f52b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料は弾薬です∽241"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb77a552-49e3-458b-9f91-d6bc9f20152b/manifest",
+            "@type": "sc:Manifest",
+            "label": "海の戦士になろう∽193"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/171ad6e7-5574-473b-85d2-e12ce2aca5f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは航路を守った∽93"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3c22510b-7a11-4382-b9ca-3fb6f2ac5ae6/manifest",
+            "@type": "sc:Manifest",
+            "label": "「節約する人」になろう∽8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/135ffdb9-fa09-4499-833c-4037334ab09f/manifest",
+            "@type": "sc:Manifest",
+            "label": "海の戦士になろう∽189"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93141f98-d035-466a-877b-0153f1139cdf/manifest",
+            "@type": "sc:Manifest",
+            "label": "乗る方法を習おう∽391"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fbc8e2a-4720-4f4a-9fcc-7d54adf2ccf9/manifest",
+            "@type": "sc:Manifest",
+            "label": "我が地区で栄誉の旗を勝ち取ろう∽561"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e70a0e2f-aed7-45e2-9da5-0f3a5326081e/manifest",
+            "@type": "sc:Manifest",
+            "label": "時間内に修繕しよう∽47"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54c5abf7-82d6-4e47-88c8-f8bdfc4bfe9b/manifest",
+            "@type": "sc:Manifest",
+            "label": "道を切り開きましょう！！∽37"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b4165b5-3232-486a-b202-04dc0f8491d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "パーシング総司令官は言う：∽281"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2110df7d-6172-4b08-917d-b9680b021aee/manifest",
+            "@type": "sc:Manifest",
+            "label": "やつらはこれを戦争とよんでいる！∽1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9291e40a-2236-4ba9-84b6-730526e89586/manifest",
+            "@type": "sc:Manifest",
+            "label": "「彼らはこの場所で血を流し、命を落としました ー」∽124"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/650c9dab-38b3-40bc-b347-c39ee9bd0b5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたをスカウトマスターとして必要としています∽242"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7b46696-bb77-43c8-ba63-d0ba212c12eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "忘れるな！自由の旗が応援しているのだ！∽415"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dce300bb-cf61-457d-9e67-2adc9e2291fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの戦争債権∽312"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd927380-50c5-44aa-818d-4a9b2337dffb/manifest",
+            "@type": "sc:Manifest",
+            "label": "記念日　アルザス・ロレーヌ選出議員による抗議声明∽648"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed38a0b3-b9fa-4745-b0fa-36eb56aef82f/manifest",
+            "@type": "sc:Manifest",
+            "label": "被侵略県との交信∽657"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/401361c3-afd5-478c-8c33-2f749e33397a/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼が国に戻って、また働けるように∽457"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f354fea-f2ea-4120-ae9b-e3288344a151/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料と戦争！∽265"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bbd62927-0a48-4d7f-9566-a3a87e70dc41/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人技術者∽529"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d344f950-64ab-48da-aa6a-32089734c9f1/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊はあなたが必要だ∽182"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9561b5c1-6362-4ae8-97ee-b89a18202598/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの女性たちへ∽570"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fa7e09c-eb03-41c4-986c-55fecb2963c6/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士のための本∽287"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7531f9c4-544a-467c-ba85-16aa5b93afa5/manifest",
+            "@type": "sc:Manifest",
+            "label": "ドイツの侵略意志∽644"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/91b6239b-3642-40d5-8ee2-e77cada05ac4/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ第5王立高地連隊∽534"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93f42966-5c6c-4319-88b1-831d48155291/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの食料公約∽256"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7a80cc7-d8b8-41ef-b848-9be31008e1d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "入隊できないのなら、投資せよ∽4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37d2659a-23d8-44d7-ac42-cb763db11715/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの息子のために∽294"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1db0fd46-34b7-466d-8ee1-a69e9f7d8da5/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダへの信頼∽500"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/78218423-9be6-4514-b512-36bb44864304/manifest",
+            "@type": "sc:Manifest",
+            "label": "「彼を市民生活に復帰させるために、勝利公債に申し込みを」∽441"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/031e7977-5276-4680-afdd-080fc34c0d92/manifest",
+            "@type": "sc:Manifest",
+            "label": "なんとまあ、女の子じゃないか！∽317"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/961ec459-fe9a-43b8-8c7b-9d0ecbc1b943/manifest",
+            "@type": "sc:Manifest",
+            "label": "子供たちのために蓄えているか？∽602"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f40c5f1-bdc1-4c5f-adbe-80fab7b6a75d/manifest",
+            "@type": "sc:Manifest",
+            "label": "民主主義のために彼は世界の安全を保障しているのだ∽187"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18248c21-6fe6-4d63-a201-355693b042cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍に入隊しよう∽156"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79548caa-bced-4e55-b6e5-34434d346a5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債∽495"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09ece265-36c8-4221-8788-e3014fc845b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの息子とわたしの息子∽117"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfef7f53-c389-4187-b896-b2a55c6d5c02/manifest",
+            "@type": "sc:Manifest",
+            "label": "お父さん、庭に来て！∽481"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d403518-e860-441a-adde-5d46a6186c2e/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたが先祖から戦闘の精神を受け継いでいるのなら∽491"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad489ced-f7fc-4595-93cd-f5afb113ccb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料を節約して、恐怖を克服せよ∽14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/52518823-293b-481a-ac91-537c41a47e06/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らの幸せを守ろう∽103"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4dcc7ff-c5b5-4d83-b30f-498032639967/manifest",
+            "@type": "sc:Manifest",
+            "label": "ぼくの学校の庭で自分で育てたんだよ∽402"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ed982e7-30c4-471d-8681-03b8197588ee/manifest",
+            "@type": "sc:Manifest",
+            "label": "警告！∽600"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c276608-4649-4d0f-9014-622d788c359d/manifest",
+            "@type": "sc:Manifest",
+            "label": "この慈悲の手が働き続けられるように∽91"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9516353d-6b0a-4396-b368-540ec650fe5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "女性のみなさん、目を覚ましましょう！祖国があなたを必要としているのです∽278"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a05b9b1-eb17-4c3f-afdf-6d9a23a3c705/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人ならこの徴を付けるのを栄誉とすることだろう∽443"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10a77c3f-e5c7-4448-925e-05f526425505/manifest",
+            "@type": "sc:Manifest",
+            "label": "お父さん、庭に来て！∽446"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3e54fd61-31ed-42c2-a614-3c0b61779a38/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの息子のために∽320"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b9f1f1e8-b318-459a-b24f-55b453951e32/manifest",
+            "@type": "sc:Manifest",
+            "label": "自らに正直であれ∽614"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e81c7fe9-dfa5-497f-9751-c6cf6d159cea/manifest",
+            "@type": "sc:Manifest",
+            "label": "第4回国債∽641"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69f1309f-b160-46e5-a2cc-d458dfab69c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜ肉と小麦パンを食べ控える必要があるのか？∽115"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/464041bc-b96b-4800-a1ab-1482341648f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "「オタワの例から学びましょう」∽576"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7def2392-9b8a-4911-bed5-4d2cb0b536f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの答え∽107"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2332c4a8-95ca-431a-8ef8-2fd1f82ad9b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回インド戦時公債∽610"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fece5fc-6276-4348-8aa5-fd18d2a7267a/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼がやり遂げるまで助けよう∽307"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65608d89-0916-4b0c-95ee-936f0636eae3/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料の節約を止めないで∽263"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f96e8b1f-f43c-4f98-ba8f-e5e2a449f724/manifest",
+            "@type": "sc:Manifest",
+            "label": "慈悲国民軍∽393"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e67ff32c-af19-4347-84ae-24647a679a13/manifest",
+            "@type": "sc:Manifest",
+            "label": "もっと魚を食べよう！∽251"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a90fbbfa-d558-407e-ac7d-b643ef63ee79/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのお金を！∽559"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fe638f0-0c7f-4d8d-ad8e-b5f2b2d4034f/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたには何を与える余裕があるか考えてみてください∽379"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/20a1dcf6-3be0-48bc-9b8e-cd7cd439ea39/manifest",
+            "@type": "sc:Manifest",
+            "label": "半数が奴隷、半数が自由では世界は成立し得ない∽330"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b62813ba-f30f-4974-8fc4-2d522d2a2a41/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは助けられる∽173"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b011c2e-3fe3-4693-a4a1-8ac7bb4d6459/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊「海の戦士」∽163"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a42e0f7-eada-4263-b1cb-fb423fec36eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "将星のもとに団結しよう∽311"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72de98da-5133-4f3e-8ef1-08d5598f2f99/manifest",
+            "@type": "sc:Manifest",
+            "label": "どちらだ？今！∽593"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/633d6306-b0bc-4a7e-9620-2871c0186264/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債∽213"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a34c3d88-9560-420f-934f-6c6f81a2003e/manifest",
+            "@type": "sc:Manifest",
+            "label": "インド戦時公債∽608"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/711297e3-4460-4df5-bc83-98d7a1fe8093/manifest",
+            "@type": "sc:Manifest",
+            "label": "リンカーンは言う∽385"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef15f037-42d8-4c01-abbb-90fea90503a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "目覚めよ、そしてアメリカを守るのだ∽356"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a0d3f27f-d755-4b23-91dd-65c4675a5b12/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字に助けを∽414"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/13b67ecc-4a49-4cd9-82fe-64e38c1e918a/manifest",
+            "@type": "sc:Manifest",
+            "label": "コシチューシコ　プラフスキ∽253"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/90a6855b-6c82-4951-822a-d5b451a2a468/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時公債に申し込んで、我が国の産物の販売を促進しよう∽578"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/524b341b-fb7e-468f-a756-e93e382de2e8/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍で世界を周りましょう∽191"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2dcb1ff-230d-4665-806c-d526d9c077dd/manifest",
+            "@type": "sc:Manifest",
+            "label": "互いに協力して∽112"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fbb0d34-fe53-4113-a7c6-d334e65b77f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの戦士たちの家族を保護するために∽386"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e55c3885-8e6d-492e-94cc-bd72ae23897f/manifest",
+            "@type": "sc:Manifest",
+            "label": "「もっと兵士を送ってくれ」∽537"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c0758561-1958-40d6-9cd7-37d77a1190a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "この徽章をつけた帽子やヘルメットはアメリカ海兵隊員の証です∽203"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cffbb571-0854-482f-94fa-340f95531c77/manifest",
+            "@type": "sc:Manifest",
+            "label": "1914-15-16年戦災孤児のための全国大会∽646"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/20073998-ace4-4e44-9e18-6625748c3009/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍の制服∽101"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28df98d-fffb-4976-99a6-932240c737da/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽489"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a7e65c1-7c06-4853-a5f6-02da73a327f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "最初のアメリカ人に敬意をはらって∽428"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4cf8b56-1c26-42a5-95a0-149494b9745e/manifest",
+            "@type": "sc:Manifest",
+            "label": "地球上から自由が消滅しないために∽53"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a4704fb-c765-48a5-8de1-df306c71d4b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士たちの戦闘に力を貸そう∽25"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa3a4af6-015c-4a32-b79d-672be20a344b/manifest",
+            "@type": "sc:Manifest",
+            "label": "募債∽609"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae4b7460-40a7-41e5-8b18-a6c469367ea4/manifest",
+            "@type": "sc:Manifest",
+            "label": "私もカナダ愛国基金に出資します∽572"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a612d911-aa54-4512-a023-01595f9ca186/manifest",
+            "@type": "sc:Manifest",
+            "label": "輸出せねばならない∽"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/928e8d5b-45e6-418f-80fa-6c8ee00adeee/manifest",
+            "@type": "sc:Manifest",
+            "label": "安全、収益、容易な売却ー∽123"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8e4cdd0b-4a6a-4d24-81d7-accc3f063e34/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの弱点∽523"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb0e7cb2-b54f-47c2-a0a6-bc9395283a0e/manifest",
+            "@type": "sc:Manifest",
+            "label": "イギリスと並んで！∽562"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/940c5a78-58a9-413f-88a9-277b96439dac/manifest",
+            "@type": "sc:Manifest",
+            "label": "「彼らは決して滅びない」∽392"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ddb8567-0e24-4611-9d1f-c24b4d1600f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国陸軍省映画委員会∽433"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5ada6ae9-8ee8-4692-abc0-386ea6762779/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国の旗を守ろう∽207"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18efb846-2b01-4708-b768-5c4b9ffcfdba/manifest",
+            "@type": "sc:Manifest",
+            "label": "君は役立っているか？∽254"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6906e18a-04f1-4b45-8025-47f4557f22ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "市民よ∽465"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a82f8f8-6e8a-4a2e-805f-3e17309452d0/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの精神∽233"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eaa1c047-eb40-4589-bda1-7cb8a963b68a/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国陸軍省認可∽573"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3fa5a144-927b-4ef0-ac44-b722926d3bef/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカはあなたに呼びかけています∽136"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66ea9fcf-185d-42d5-8358-fbd900ec2b0f/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債に申し込んで、彼の一刻も早い帰還を∽181"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a51f252-d53d-414f-93f4-c54a352eaefe/manifest",
+            "@type": "sc:Manifest",
+            "label": "ドイツの攻撃に立ち向かう剣∽605"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad162897-f260-418a-ae33-3793831ee493/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼を支えよう！∽456"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b9f96fc-ca3f-43d9-ba03-139a689b59b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "互いに協力して∽18"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/62d5a5e8-b3f0-4b4a-a6e4-7c91520eb90f/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの子供たち、あなたたちも自分の役割を果たそう∽219"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd72206b-c040-4c65-9e70-f73d4e76b2fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの鶏卵市場拡大のチャンス∽567"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49617ccb-e0d3-4a9a-9d90-6d18057ce3ee/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士たちの戦闘に力を貸そう∽62"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0aaae1c-d110-4fc4-891e-777f7f8cc023/manifest",
+            "@type": "sc:Manifest",
+            "label": "求む！アメリカ陸軍に500人のパン職工を∽148"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aeceaf13-d07e-4352-b465-3cbaca39f7e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの子どもを、独裁と貧困から救いましょう∽95"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b1e8516-a7b9-4c6a-8231-b94ee61d6f2e/manifest",
+            "@type": "sc:Manifest",
+            "label": "遅れるな∽606"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/189addab-4b47-4abf-94e4-626d5f18e45b/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜさらに勝利公債が必要なのか？∽447"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c2782c53-c036-4a6b-96cd-ad06115a1e8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回インド戦時公債∽617"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cc071892-3469-4845-a0af-1af9750f5266/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ近衛歩兵連隊へ入隊しよう∽533"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55ebc6c2-0036-4d86-842d-bed2889d1a1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "フン族[ドイツ兵]の印∽615"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d8f1fb5b-81e2-413c-b8ff-bfea3877c3f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "現地にいる我らの女子を支援しましょう∽144"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdb0782d-d32b-4cdf-ae0c-f41c07c77a1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは我々が戦うことなどできないと思っていた∽370"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa9b243f-60d5-42a6-b0ca-0987dbe86010/manifest",
+            "@type": "sc:Manifest",
+            "label": "エルサレム攻略：トルコ軍から聖なる都市を奪取∽591"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0eda9887-0049-45f9-b909-97ea4e6eb9e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "[文字なし]∽603"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d186f6f-b0f9-4fd5-97c5-91d2462abd5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "安全、利回り、売却の容易さ∽642"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/830b09e2-4e5d-4049-8c34-ced69608d7ce/manifest",
+            "@type": "sc:Manifest",
+            "label": "クリスマスまでに一千万人の新規会員を∽395"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3cafa8fb-b6b9-4aba-90c4-26af070ba20b/manifest",
+            "@type": "sc:Manifest",
+            "label": "クリスマスまでに一千万人の新規会員を∽597"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ac2cb49-f8af-4a62-bdc2-49c333b93e3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "これがプロシア主義だ!！∽109"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71537ae7-4ff7-4f14-a595-946882cc0f72/manifest",
+            "@type": "sc:Manifest",
+            "label": "将校になる最後の機会です∽384"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44837e6b-06e3-4df2-aaa0-041600d2ac02/manifest",
+            "@type": "sc:Manifest",
+            "label": "笑顔のままで！∽425"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e8328a1e-e44a-490d-ac7c-5033207ff85d/manifest",
+            "@type": "sc:Manifest",
+            "label": "与えよ！∽259"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5525f2dd-3417-4966-aecc-42912027f161/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの「身体」を戦闘に投げうつことができなくても∽525"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/02b81177-f2d5-470a-9bd4-b50f8c07f2a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "十分価値があるから！∽482"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fecd31b9-f519-4352-a99d-2b75ed26aff6/manifest",
+            "@type": "sc:Manifest",
+            "label": "「フランスに立木を残すな！」∽161"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0199595b-5967-444b-ac6d-418fc0fd1d6c/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国皇太子の旗を掲げよう∽2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a10622a-f0a8-44f2-9489-1e0bed29c7a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "とうもろこしやオート麦、ライ麦をもっと食べよう∽257"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fae24031-ef14-4e3d-b27a-ac3fc219f0db/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたのために命を捧げます∽412"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a4ac671-1c1e-40f4-a156-c321d1fdcc33/manifest",
+            "@type": "sc:Manifest",
+            "label": "エリンによるアメリカへの訴え∽143"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f1d7f731-83e1-4ce3-bd5e-c8fdb91d0d5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字奉仕の旗を持っていますか？∽252"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af4013b1-835f-4e55-aa69-f805b0aa01aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "どちらだ？今！∽195"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1f709e4-4fa1-4166-9e1f-99fd1835504a/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたがもしドイツ人であったならば∽599"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b6dc644-cde1-4bd6-89f3-f3dcacaf67ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "ニューヨークを救おう∽135"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/57559100-b918-4ece-92e3-ba152918ea63/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の輸送船は沈まなければならないのか？∽396"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3cd03722-57fd-4142-8d72-470dd127e98b/manifest",
+            "@type": "sc:Manifest",
+            "label": "この偉大なる古き鐘がもう一度勝利を宣言するために∽383"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fbc54ac-48cd-4db4-bf7a-ba6eba63137c/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダよ！∽563"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1e27d03-55cd-4f7f-836c-7ba270b4e6e0/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの息子とわたしの息子∽293"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fed88c5b-1dbb-4db2-9c47-1e8a2c576cf4/manifest",
+            "@type": "sc:Manifest",
+            "label": "なんとまあ、女の子じゃないか！∽310"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d9e0ef9-eb3f-41e9-8b7c-a08fe9dbf7dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "祖国を救え！∽162"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2453ad4c-4725-4f84-a521-16ed0cff08ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "「我らに光が訪れますように」∽389"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eaabf280-f51f-4d37-8aa7-c872d7791b1f/manifest",
+            "@type": "sc:Manifest",
+            "label": "第3回国防公債∽658"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/787d03de-769f-4402-8d28-3a1c22c5e036/manifest",
+            "@type": "sc:Manifest",
+            "label": "ロシアでのアメリカの救急車∽282"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e535483-5bac-4a6c-8597-36ac4ffd6136/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜさらに勝利公債が必要なのか？∽442"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/458ac1f9-d1a0-4a14-892a-7fd8c49d6e7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは彼に任せているのです∽274"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/516cec4a-253e-4a74-8489-2e927f021013/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍航空隊は、人材を求めています∽165"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b63222c-a059-44ae-933a-d945808566e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "「英雄の地」∽352"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba0d6c0e-68ed-420a-990c-27b4cb65a89e/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの子どもを、独裁と貧困から救いましょう∽369"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17a469c6-b74e-4626-8c13-209b46a2d225/manifest",
+            "@type": "sc:Manifest",
+            "label": "「1914年」（「我々の復活祭」）∽515"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e6aa653-fd85-4b05-b2c7-64e72e83e360/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランス戦線で赤い三角形[YMCAのマーク]を身につけたい運転手と整備士を求めます∽176"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b398850-6537-439c-a71a-b6a5c3925071/manifest",
+            "@type": "sc:Manifest",
+            "label": "フン族[ドイツ兵]を叩きつぶせ∽366"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0646d838-011f-479a-8655-ce99555a0325/manifest",
+            "@type": "sc:Manifest",
+            "label": "何もこの男たちを止めやしない∽171"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56b70ef7-d63c-4a96-bde9-684089adad93/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは戦時公債を買いましたか、それともまだ？∽661"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cc1d312-d4df-47e9-9df6-86da428e7123/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍は召集している∽166"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1801939-851a-494c-83b4-9ae12f3e8de5/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債のすべて∽41"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cf8e07db-17c0-43d9-bd5b-acd17b1e5f34/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍に入隊しよう∽212"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/db10d14a-90dc-4c5a-a8ae-cc1b51f09869/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ人ならこの徴を付けるのを栄誉とすることだろう∽444"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fca833a-c2cd-444e-a331-edc204bcaac9/manifest",
+            "@type": "sc:Manifest",
+            "label": "森林伐採師と製材工求む∽554"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03be1556-8524-4d1d-bf60-871b479ef753/manifest",
+            "@type": "sc:Manifest",
+            "label": "全従業員への告示∽336"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/069df31a-9695-4759-b4e9-aa65e96f3984/manifest",
+            "@type": "sc:Manifest",
+            "label": "銃を携えて戦争に行くことができないのなら∽66"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/78bb2e5c-9504-46dd-8cbb-9a88ea5bf8d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは例外ではない∽471"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca9c218b-2d40-448f-8daf-40007c786350/manifest",
+            "@type": "sc:Manifest",
+            "label": "第3回国防公債∽652"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dee62f7-1ac8-447e-a01f-537bd922df5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "もし、戦地にいるこの店の少年たちが個人的に頼んできたら∽276"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d688c80a-a43d-4012-b97b-28fc75e5ec5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ、金利4％の自由公債を購入しよう∽475"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c2d129e-8fbd-4924-a335-a46a1ed03666/manifest",
+            "@type": "sc:Manifest",
+            "label": "節約しよう∽260"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e8bcdfce-730f-4bb4-a2de-704e0d557031/manifest",
+            "@type": "sc:Manifest",
+            "label": "教師たちへ：∽397"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15e84cf8-db3d-46d8-ae8d-06ad60104b14/manifest",
+            "@type": "sc:Manifest",
+            "label": "シャトー＝ティエリでまた勝利∽140"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d6f62797-73f1-4d20-a9d1-49e2e3120e19/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ第5王立高地連隊∽556"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/382f2fab-1166-4bc8-87d4-acaea8e07a61/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回国防公債∽632"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ea3a8b3-2beb-44d9-ae2b-ffa11d3ae50c/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦士たちのための仕事∽250"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6aec2dad-fbac-460d-89cf-bd30fe1e1b9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼は賢いので、可能ならば彼は購入するでしょう∽128"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55e97bba-75cf-4986-adf9-1d53aefd9dd8/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダで消費されているすべてのドル∽538"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/757cde2b-72ca-4302-855c-25566fa74565/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは私たちに助けを求めているのです∽51"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd748099-c302-4f3c-a3cc-95182d8c6b0c/manifest",
+            "@type": "sc:Manifest",
+            "label": "後方支援を行おう∽577"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/750e2815-2f9d-486a-9431-74a33a1e6aa7/manifest",
+            "@type": "sc:Manifest",
+            "label": "そちらの端をもって！∽337"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb54bedf-a3b9-4a9a-821c-425b5ad75620/manifest",
+            "@type": "sc:Manifest",
+            "label": "餓えに屈するな∽232"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2badee3d-a657-4e75-a609-fbd9d9ff52d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "ただちに打倒せよ！∽42"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e282576-a034-482a-840d-786a8973cbaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍のために目を提供してくれませんか？∽264"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44534225-8de2-4135-a3bc-cb4b36d90f2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "私のパパは公債を買ってくれたの∽59"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a3357d8-c51c-4a90-bf9b-26489a9e178e/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼がやり遂げるまで助けよう∽217"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/45af2dac-1977-413a-91a5-a79726cf8ef6/manifest",
+            "@type": "sc:Manifest",
+            "label": "手の施しようがない－勝利公債なしでは∽492"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/916cb3fe-09b4-46e7-af34-3c60cc4c5f1b/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべての戦士の後ろには女性労働者∽327"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7160b45b-3f03-4da2-b24c-3cc6589ea976/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料∽350"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b778c317-5c05-403a-bc24-37b2b93b46bc/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼は敵を押し戻している∽571"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/121b71f1-2d53-4b81-962f-e5b80564942a/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債を購入して下さい∽640"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ed92f50-ae11-4542-b804-20e27328db9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "わたしたちのパパは前線で、あなた方のために戦っているんだよ∽46"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bed27e54-8297-4574-a8d4-d02081759852/manifest",
+            "@type": "sc:Manifest",
+            "label": "陸軍航空隊に志願し、アメリカの鷲になれ！∽209"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3e5c6c9-b5f4-495e-a493-1d8516527364/manifest",
+            "@type": "sc:Manifest",
+            "label": "名誉の勲章∽510"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03fc85f8-1a88-4fcc-b02c-045aecfc3f5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時キャンプ・コミュニティ・サービスの精神∽229"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/508608ed-b597-43a1-be6c-938431be3ab3/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊「海の戦士」∽174"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4f6e5c5-741b-4713-8b97-a5c71114fd4b/manifest",
+            "@type": "sc:Manifest",
+            "label": "1918年公債∽631"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1984a66-fe78-435a-86b3-342041c71ca3/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽504"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6fc69369-7ee2-4f20-b009-85e93c7ad6b1/manifest",
+            "@type": "sc:Manifest",
+            "label": "ストーモント、ダンダス、グレンガリーの男性のみなさん∽569"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0f673ce1-d57c-46d8-8e31-951f5516c599/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々は赤十字に属している∽406"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7fc7b58-2f18-41c9-888c-844bd59d94f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債を購入しよう∽85"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1523e84-cb03-42b1-b2e3-412914a718d2/manifest",
+            "@type": "sc:Manifest",
+            "label": "船が近づいてきています∽458"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3da5bf0-7c06-4144-8323-186e40498d73/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべてのアメリカ人よ！∽78"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eae6c9d8-3b93-46c6-a340-b35645fbfcd2/manifest",
+            "@type": "sc:Manifest",
+            "label": "材木切り出し人、運搬人、急募∽553"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0a03b6f-4d48-417d-bbee-9bd5fa8c41e6/manifest",
+            "@type": "sc:Manifest",
+            "label": "製糖業者のみなさん、ご協力を！∽216"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d237bc90-d217-421f-aaa8-8bd4e5099f7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたはシュワッブとともに働いているか？∽290"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5038aa9f-d57e-4240-8de1-cdca90c5fc37/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦いの先頭に∽199"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d456f34a-83c3-4af5-8724-33c4e7cae620/manifest",
+            "@type": "sc:Manifest",
+            "label": "子どもたちのために∽512"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f17982a6-2459-4628-904f-c1089f65b3b1/manifest",
+            "@type": "sc:Manifest",
+            "label": "この教会は支援しています∽339"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee91b2db-ba01-4350-a631-ec8c6465ddb8/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカによる英国への敬意∽90"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9104760b-84e8-4a07-875c-f97495318b51/manifest",
+            "@type": "sc:Manifest",
+            "label": "収入の増大を∽503"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cad521d1-26a1-40bd-89e3-d2057ff090f1/manifest",
+            "@type": "sc:Manifest",
+            "label": "フランスにいる数千人におよぶY.M.C.A.の女性のうちの１人∽325"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cf9072e-ad9c-4500-838c-02aac567aecb/manifest",
+            "@type": "sc:Manifest",
+            "label": "こうなってもいいのかー∽410"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03889426-86d5-4a24-978e-9375ede35da0/manifest",
+            "@type": "sc:Manifest",
+            "label": "「敵地に向かって」∽347"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a5db18b-c8b9-442b-b337-414a2fb8327d/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤十字に助けを∽245"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10d232d9-36e2-4656-8dbb-82c4936b8c62/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊　異国の地に最初に星条旗を掲げる軍隊∽"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7050f7f9-ac46-45db-b39e-e329a7bcc05d/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債を買え∽580"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6931e864-428a-4013-ab22-c2a3d6f112ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "公債を支えてくれるのは∽134"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95b2eb8d-1c66-4a7a-bbcd-a393c494fd9e/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回インド戦時公債∽611"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/19c29256-a5f7-4863-b415-a7c53b35bd42/manifest",
+            "@type": "sc:Manifest",
+            "label": "毒ガスに注意しよう∽279"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d94393d6-96eb-44bc-8e12-1a9ea84019a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "英国人よ、あなた方は必要とされている∽548"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/190a995f-7424-462e-83e8-6fa0f0df40c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦地へ！∽147"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/927c76b4-286d-453c-b870-2dc07433cd45/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ近衛歩兵連隊へ入隊しよう∽521"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34833014-f194-41aa-9ce4-b5a5c93084a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍に入隊しよう∽169"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/212e595d-36f7-4f03-9ccf-36a43b896bb9/manifest",
+            "@type": "sc:Manifest",
+            "label": "インド戦時公債∽616"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e45d6c1a-1af1-43a9-90e5-d12c14c5106b/manifest",
+            "@type": "sc:Manifest",
+            "label": "もちろん！やり遂げるよ∽17"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72fc827f-3c64-4146-a9b4-45064f536bd9/manifest",
+            "@type": "sc:Manifest",
+            "label": "今、ネイソン・ホールが生きていれば、彼は我慢したのでしょうか∽86"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3df2513a-59ae-437b-bfb5-175c3d22df1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債を購入しよう∽45"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9ae1d08f-1e4f-42f8-83d3-a2fb005f4e37/manifest",
+            "@type": "sc:Manifest",
+            "label": "私は自分の任務を4年間遂行しています∽435"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/da362af2-2cda-452e-81b1-b5a5dae2ca32/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の海岸で！∽100"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fc3d1c1-61d9-4bad-b19c-bf35fb7b3987/manifest",
+            "@type": "sc:Manifest",
+            "label": "どちらを選ぶのか？∽39"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93f30f44-0b1a-4a17-98df-02d133c73612/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦地へ∽637"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7bab47d-a8ad-44ef-bcc1-d3ef0bb40455/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカはあなたが与えなければならないすべてのものを与えた∽417"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e2a985a7-9f25-485d-8637-35d03034d779/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利公債で彼を家に帰らせてあげましょう∽476"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/abcd3b65-beef-4fcf-ab41-26e3129747ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "新兵のための無料法律相談∽292"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/451a4d4a-05f8-4fd0-afe2-8d5ee1bbc718/manifest",
+            "@type": "sc:Manifest",
+            "label": "私が戦っているときの代理をつとめませんか∽388"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/044eb4e3-be2f-4f49-9f77-2aa5b09b492c/manifest",
+            "@type": "sc:Manifest",
+            "label": "みんな急いで！∽497"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93563eb9-9b5f-433b-aded-eec5936f58ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダの繁栄を維持するために∽452"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/238ab409-3340-420b-8819-42fdee0dc2d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダ戦時貯蓄切手∽551"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1548711-1ac7-4770-b839-378f454eb526/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ人のみなさん！∽210"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1bf4bc87-655e-454c-870d-a91b3b3ccd36/manifest",
+            "@type": "sc:Manifest",
+            "label": "「彼女の息子! 」∽118"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb3fcb5b-4903-4490-9d17-976a936edd4e/manifest",
+            "@type": "sc:Manifest",
+            "label": "セルビアはあなたの助けを必要としている∽357"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c86d1e4e-abb7-4752-9000-d9dcc3d5f3d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "フン族［ドイツ兵］の視界を奪え！∽126"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1718ecab-2764-4e69-944a-680c707c4e28/manifest",
+            "@type": "sc:Manifest",
+            "label": "自給自足を目指そう∽376"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ab56c01-2285-4f3d-bdd1-88f86eb47494/manifest",
+            "@type": "sc:Manifest",
+            "label": "何もしないで死ぬのではなく、行って購入しよう∽214"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c1c6b0b-9787-4c36-865a-d2932091c260/manifest",
+            "@type": "sc:Manifest",
+            "label": "もう勝利公債を購入しましたか？∽484"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/99866269-fabc-40cb-a3c8-9fab4d0eca88/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたには何を与える余裕があるか考えてみてください∽255"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c941db72-1119-424a-abee-351b08a68aef/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの自由公債で兵士を後方から支援しよう∽43"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be3234cc-d593-420d-980b-dce7ca253b80/manifest",
+            "@type": "sc:Manifest",
+            "label": "本当に必要な人は、大砲の後ろにいる人を支える人です∽"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d06fe3af-2e03-409c-a938-0e29f2c65c8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "白頭鷲に応えよう　∽595"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e8f72846-04e7-4e53-a05c-0df07b6572dd/manifest",
+            "@type": "sc:Manifest",
+            "label": "おい、来てくれよ　∽630"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/768d616a-d880-4411-a903-a50e3b08960d/manifest",
+            "@type": "sc:Manifest",
+            "label": "フレー、フレー！∽426"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/63da7c01-18d1-43a8-af12-b86c19c20554/manifest",
+            "@type": "sc:Manifest",
+            "label": "入隊できないのなら、投資せよ∽73"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ccf2c70b-5fbd-43d8-b1e3-32dfebd4b6c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "航空隊に入ってフランスで戦おう∽167"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08b950a7-ea9e-4e64-8568-41645f40863d/manifest",
+            "@type": "sc:Manifest",
+            "label": "これを阻止するために手を貸してください∽516"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cc4628b1-ca4e-4f3c-bbd9-d2a0de27e26d/manifest",
+            "@type": "sc:Manifest",
+            "label": "すべての戦士の後ろには女性労働者∽340"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c5a6795-173b-4911-b400-744b734be0d0/manifest",
+            "@type": "sc:Manifest",
+            "label": "1805年そして1915年、「イギリスは期待している」∽601"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c22a1bbc-f8c9-4aa3-9c87-ba67046a9238/manifest",
+            "@type": "sc:Manifest",
+            "label": "来たれ、船上の料理人たちよ∽184"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3d5ad196-d73b-4288-9d95-96c65f6bf87c/manifest",
+            "@type": "sc:Manifest",
+            "label": "突き進め！∽449"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e51c415-a478-4aaa-a0b5-a9a6b0e9c76c/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の救済はいつもたらされるのだろうか?∽338"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3fb76d5-d272-49c8-ad16-aee6c179cba2/manifest",
+            "@type": "sc:Manifest",
+            "label": "第257海外鉄道大隊∽552"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce195eb5-7740-4a01-906c-4e20407c94c1/manifest",
+            "@type": "sc:Manifest",
+            "label": "アルザス－ロレーヌ∽407"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f3f3103f-b53f-425f-84bf-13d52823cf61/manifest",
+            "@type": "sc:Manifest",
+            "label": "奴らにアメリカを踏ませるな∽58"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/46b267c8-076f-48bd-8f1f-c83084422216/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたは自分が必要とされるときには行くと言った∽434"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d16762f3-484b-4d7e-aa52-d3cdae167a5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼は自分の義務を果たした∽323"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b6d468e-f133-49e4-9627-81cc39040699/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の輸出貿易は極めて重要です∽462"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d7b87b7-0f66-483d-b889-587c94c2fcfd/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々の祖国に尽くすため∽321"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/347fb250-065c-45e3-9e7f-313950327c15/manifest",
+            "@type": "sc:Manifest",
+            "label": "借りて購入せよ∽231"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ff040441-5d1c-4800-8f4d-8f03b0127040/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ、きみたち！∽539"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa03d4d8-74ad-4baa-b75d-ccae615bbca6/manifest",
+            "@type": "sc:Manifest",
+            "label": "募兵の告知∽272"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/275e3397-2b87-44a8-bf66-3998efb6040e/manifest",
+            "@type": "sc:Manifest",
+            "label": "フォー･ミニットメン[4分間演説の男たち]∽361"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca60d2ff-c171-4718-96a0-17092dd2c477/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍∽159"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2826536c-df56-481a-937a-e66e1447174c/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊「海の戦士」∽170"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a93a6c09-7b0f-41f2-8b93-c0e150c424b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽155"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5340428b-85b9-4720-9d32-9f79de2e4d15/manifest",
+            "@type": "sc:Manifest",
+            "label": "さあ、自由公債を購入しよう∽60"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd1a9217-44fe-443c-8c34-ade553448cda/manifest",
+            "@type": "sc:Manifest",
+            "label": "フン族[ドイツ兵]を阻止せよ！∽54"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59297321-c00b-4adc-94b1-a6cfbe021e93/manifest",
+            "@type": "sc:Manifest",
+            "label": "与えてください、私たちは死んでしまいます∽501"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7547644-8867-4ebb-b5de-f7372986bb58/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカの意味∽368"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/915d5db6-522c-424d-b7e6-d3f8397bd320/manifest",
+            "@type": "sc:Manifest",
+            "label": "戦時公債を購入しましょう∽592"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb1c26c8-074d-457d-b2ec-a90cc009ba12/manifest",
+            "@type": "sc:Manifest",
+            "label": "砂糖の小売り販売価格統制に関する条例∽544"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ab780dc8-f90f-48f7-b18e-be59c21519ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたには何ができますか？∽354"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5839f79c-ae43-4a8f-abb2-cc2cfa98cfec/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは我々が戦うことなどできないと思っていた∽79"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d6367e3-3c3c-4571-bfe7-a30b895e612f/manifest",
+            "@type": "sc:Manifest",
+            "label": "告示∽349"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59d09c88-64cb-4ad1-8bb0-970f202fc226/manifest",
+            "@type": "sc:Manifest",
+            "label": "自由公債を購入しましょう∽114"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4129db41-45ea-4bb7-bafe-99484e8e12ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "マルヌ、イゼール、ソンム、ヴェルダン∽636"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/462082e8-d2d5-46b9-880f-053c33633cb3/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたの場所はこちらです！∽542"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5125380e-f500-4ddf-86fa-543958192ddb/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍に入隊しよう∽160"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0bafbdea-1208-4c54-ba1b-be0eaf865c90/manifest",
+            "@type": "sc:Manifest",
+            "label": "勝利によって∽639"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c307d092-be91-40a1-a454-c17ab00bd673/manifest",
+            "@type": "sc:Manifest",
+            "label": "食べる量を減らして∽275"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9c09c0b-84d8-4265-8c7b-c144c6edd45c/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍は召集している∽643"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2095571-245e-40ec-9db6-a553ba552a6a/manifest",
+            "@type": "sc:Manifest",
+            "label": "みんな急いで∽546"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/36394dbf-dfb5-476a-a70f-a988b4eb6ef4/manifest",
+            "@type": "sc:Manifest",
+            "label": "シャトー＝ティエリでまた勝利∽190"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8b153c13-c29d-455f-85ad-04a8742a1998/manifest",
+            "@type": "sc:Manifest",
+            "label": "7つを1つに∽364"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be189c52-9ad4-4b89-a88a-6821539c987b/manifest",
+            "@type": "sc:Manifest",
+            "label": "兵士たちの戦闘に力を貸そう∽469"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd55f301-b56d-47f3-bfe4-387936efa654/manifest",
+            "@type": "sc:Manifest",
+            "label": "名誉の名簿∽322"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b70daf8-c999-420d-b320-324561dc655f/manifest",
+            "@type": "sc:Manifest",
+            "label": "この少女はアンクル・サムのために戦時労働をしているのです∽222"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/61cd7b4a-6a0c-4e93-b993-2e20847c4af4/manifest",
+            "@type": "sc:Manifest",
+            "label": "第2回インド戦時公債∽589"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4646369a-f510-4b29-832d-f57c6bc5f192/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたがはじめてアメリカの自由に感動したときのことを思い出そう∽20"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2141d691-4586-4da5-a36c-53010736d63d/manifest",
+            "@type": "sc:Manifest",
+            "label": "もしあなたが戦えなくても、資金援助することは出来る∽518"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cee51dea-bf1f-4f7f-8f43-ebb6b1f344f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海兵隊は赤い星印のところで任務についています∽309"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3121423e-79e6-408c-b52e-f640ed8ce5d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "「おとうさん、息子のためですよ！」∽130"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ba75c26-c71c-4347-b45f-654eadb52851/manifest",
+            "@type": "sc:Manifest",
+            "label": "今すぐ石炭の注文を∽355"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35b05bc0-9c85-4965-a2de-3afddb312bdd/manifest",
+            "@type": "sc:Manifest",
+            "label": "「選択する時がきた。征服するのか、服従するのか」∽33"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8ed2f189-19f4-44e4-be1b-837a0c3c086e/manifest",
+            "@type": "sc:Manifest",
+            "label": "わたしたちのパパは前線で、あなた方のために戦っているんだよ∽27"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a5207be-0faf-4fe4-8a22-3205b822418a/manifest",
+            "@type": "sc:Manifest",
+            "label": "アメリカ海軍はあなたを必要としています！∽168"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad380a48-2fde-416b-8a6b-7a9975838527/manifest",
+            "@type": "sc:Manifest",
+            "label": "クリスマスまでに一千万人を∽230"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8c47a3ec-df36-4016-a7b0-a87b7a6f7b1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "節約しよう∽301"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dafe3e1f-d5e8-49c8-b78a-60ee2bd0e10e/manifest",
+            "@type": "sc:Manifest",
+            "label": "食料∽261"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/643b0a4c-4ad7-4b02-98e1-6f18f5d185d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "「戦地」にいる兵士に送る本を求めています∽413"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/78b04b79-b789-4b52-8bd8-c6340fcd3ec7/manifest",
+            "@type": "sc:Manifest",
+            "label": "カナダがあなたの保障です∽490"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9348eab7-148e-42e5-907c-9f51933f25e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "工業発展のために∽536"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a2b2b96-c547-4096-88b7-b5b847b36fae/manifest",
+            "@type": "sc:Manifest",
+            "label": "第3回国防公債∽620"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1eb28969-42ce-4499-b117-2efcb097723f/manifest",
+            "@type": "sc:Manifest",
+            "label": "海兵隊に伝えよう！∽206"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/553f7e5f-2fb2-49c5-afa5-b9fc067bccd3/manifest",
+            "@type": "sc:Manifest",
+            "label": "なぜ肉と小麦パンを食べ控える必要があるのか？∽411"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08903d86-263e-4a19-aa4a-88fc534c6cd6/manifest",
+            "@type": "sc:Manifest",
+            "label": "海軍には、あなたが必要です∽196"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5b247f3-27d6-483e-8437-46a716769444/manifest",
+            "@type": "sc:Manifest",
+            "label": "我々のお得意様は、しかし－∽460"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97617863-9e69-47b2-b7b6-45e8749ce605/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは航路を守った∽57"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/33c46dad-1887-4d9e-bf3a-27b26537d51f/manifest",
+            "@type": "sc:Manifest",
+            "label": "あなたが必要です∽228"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38f6bbf9-988d-4420-8d41-da4fe1b840f1/manifest",
+            "@type": "sc:Manifest",
+            "label": "カーキ色の細い線∽550"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bae39e9e-16ad-4248-b2be-134e0bdf9e4b/manifest",
+            "@type": "sc:Manifest",
+            "label": "100％水準を目指しましょう∽467"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/82123e28-84bb-43d0-a6cb-0c3909defd40/manifest",
+            "@type": "sc:Manifest",
+            "label": "彼らは我々が戦うことなどできないと思っていた∽22"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe3054ed-bfb2-450e-824e-59c7fa97f8d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "栄誉の旗∽122"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84bca5c9-e392-420a-8dba-0d67c4b360b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "もっと魚を食べよう！∽277"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e81f3c9-73af-4840-8bc4-2dffeadfa222/manifest",
+            "@type": "sc:Manifest",
+            "label": "6月28日は、国家戦時貯蓄の日です∽35"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/436b428f-b585-46a6-b8a9-6d21107e149a/manifest",
+            "@type": "sc:Manifest",
+            "label": "第1次世界大戦期プロパガンダポスターコレクション"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/87f20851-a8d6-4ce4-81d1-16c43b0d166b/manifest",
+            "@type": "sc:Manifest",
+            "label": "崇高な犠牲∽106"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29a4bd02-f425-499e-805e-b2bd1f7d4189/manifest",
+            "@type": "sc:Manifest",
+            "label": "ホワイトハウス∽296"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa082c5a-8cc2-47e7-9513-20166286ae2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "[アラスの戦いにてドイツ軍退却]∽436"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "第一次世界大戦プロパガンダポスター"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/item-set/61213",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+        "format": "application/ld+json"
+    }
+}

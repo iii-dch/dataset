@@ -1,0 +1,215 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8227",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:104 資料No.501",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "71e478da-21d9-49ae-b15d-de959a7d9d5f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "郵便報知新聞 ∽項番:104 資料No.501",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "水沢県管下陸前国気仙郡高田村の貧家阿才阿松の姉／妹あり早く父母を喪い年老たる祖母の手に生長せし／が固より細き煙も立兼る暮しなれハ姉妹ハ云合せ同／国宮城郡塩釜町遊女屋田中太兵衛方に身を任せ夜毎／日毎の更る枕に憂き年月を送り在しに去る明治四年／東京の商人白石某商業取開きの為めとて仙台に出張／し居たるに謀る所尽く齟齬（くいちがい）して大損失に至り嚢？■空（からさいふ）／く成りたれハ今ハ此地に足を留め兼ね塩釜町旅亭渡／辺氏に到りて南帰の便船を待在りし其内悪棍兇徒（わるもの）に／唆（そそのか）され賭博（ばくち）の場■臨ミしに脆（もろ）くも一敗（まけ）地に塗して許（あま）／多（た）の負債（かり）の片端に衣物も剥（はが）れて赤條々（まるはだか）塞威に堪兼ね／途方に暮■茫然たる折節才女ハ他用にて此家に来合／せ居たるが一見して其彦道（ばくち）門下の人に非す全く一時／の過失に出たるを察し具問（とりただし）して其■を得たれハ坐（そぞ）ろ／に顧憐（ふびん）の情を発し己れ着る所の衣を脱して之に衣せ／しめたるに兇徒之を知りて是れ阿嬢（あねい）が情客（なじみ）ならん然／らんにハ渠猶債を負えり之を如何するや抔と無法無／対に阿才に迫りて責め立れハ阿才憤（むつ）然として曰く今／我彼の人ハ一見の人と謂うとも汝等必らす信して恕／さざらん汝等囂々（くちやかましく）する勿れ我一法の以て之を解く可／きありと乃ち樓主太兵衛に謀り己の年期を増し数十／金を得て尽く某の宿逋負債を還し船賃を附して南帰／せしむ某死中得活の恩語の謝す可き無く唯垂泣拝手／する而己周一年の後東京南茅場町木村万平なる者諸／州回漕蒸気船を創（はじ）むるに当り某を請て塞風沢港に来／り代理して事を幹せしむ某於此百五十金を田中太兵／衛に投し阿才前日の恩に酬い其身を購い生家に帰る／を得せしむ後ち幾バくも無くして解放の令至り妹阿／松も亦続て家に帰るを得たり此後某猶河山遙々時に／資を其家に遺り其貧を周（すくい）し且業（なりわい）に就かしめたり抑も／始め阿才一見の際既に某の常器（たたとと）に非さるを鑑抜（みぬき）し之／に衣し之に資して終に其志を得せしめしハ所謂隻眼／箕の如くなる者歟然して某の既に其恩を受けて後に／之に酬ゆるの厚き共に天理人道を尽くせりと云ふへし／是れ記せさる可からすと感嘆の余貴社聞紙の端を假／る者ハ同管下同郡今泉町南角住小一郎 ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1973年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "郵便報知新聞 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:大蘇芳年/彫師:彫ヨタ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "気仙沼の芸者・お才の義挙、旅の男の窮状を救う。(読み下し文_括弧なし:陸前国気仙郡高田村の於才於松の／姉妹ハ幼くして両親を失祖母が手許にあれど／其家貧しけれバ両人申合せ共々／塩がまの遊女屋田中方に身を任せ居た／りしが明治四年東京の商白石某しお／がまに逗留中悪漢に誘められ一度博／奕に携ハると忽ち負て幾多の借財と／なりしより悪者共ハこれを赤裸にして／猶罵るものから於才ハ見かね己が年季／を書入金子を才覚して白石が借をかへ／し路用迄与へしかバ白石ハ大によろこび／礼を述て帰京の后再び塩竃に到り／於才を請出して其家へ送り帰せし／とぞ一且恩を受能く忘却せざるハ／称すべきの人々なり／ )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "熊谷庄七 ",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0104-0501",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:48:57+00:00"
+    },
+    "o:id": 8227,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33628",
+            "o:id": 33628
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:23:21+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "郵便報知新聞 ∽項番:104 資料No.501",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/8227/1333099090148.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/8227/1333099090148.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/8227/1333099090148.jpg"
+    }
+}

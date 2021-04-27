@@ -1,0 +1,151 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "test",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "タイトル (Title)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "発行元 (publisher)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/216",
+                "o:id": 216
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "元号 (Japanese era)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/215",
+                "o:id": 215
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "年 (year)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/224",
+                "o:id": 224
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "西暦 (Common Era)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/226",
+                "o:id": 226
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "月 (month)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/217",
+                "o:id": 217
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "日 (day)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/214",
+                "o:id": 214
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "権利 (Rights)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/15",
+                "o:id": 15
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "号数 (number)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/12",
+                "o:id": 12
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "サイズ (size)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/9",
+                "o:id": 9
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "備考1 (note1)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "備考2 (note2)",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/7",
+                "o:id": 7
+            }
+        }
+    ],
+    "o:title_property": null
+}

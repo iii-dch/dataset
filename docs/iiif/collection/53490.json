@@ -1,0 +1,928 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/53490",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "坪井信道・信良関係資料",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f5268da5-292b-45bd-8b7d-1f45117cc54b/manifest",
+            "@type": "sc:Manifest",
+            "label": "製煉発蒙　巻之一～九∽2-6-13-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b735e5f-91f0-4159-a700-57d98845c9d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「吉備団子」のことなど雑書綴）∽6_1_6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43bafb7a-8426-41dc-82ba-739e309d5a5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　四（外題）∽2-7-13"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd0ab8c8-80bc-4f1c-8676-52549791eba5/manifest",
+            "@type": "sc:Manifest",
+            "label": "和歌一括∽6_2_15"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3dccb4d-472b-40bb-a574-23eb1ddabf8d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「丁俊人…」）∽2-10-2-2-2-2-10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71b139c5-6d94-4d18-ba67-de0d8487685b/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「膳■（さんずいに「食」）飯…」）∽2-10-2-2-2-2-18"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2abf0f8f-0171-48bb-be4d-648d4be04158/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書三輯一（外題）,呉魯斯氏外科書三輯巻之一　第一関節諸病及外傷（内題）∽6_2_6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ab32de25-8c37-43aa-b993-28a624f1255c/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「義廉退…」）∽2-10-2-2-2-2-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4e49fe19-f6c8-4b1e-8da1-afc8c3d7f03e/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　自巻之十一　至巻之十二　∽2-7-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1357246-85ff-4b1c-a855-f66913027bbc/manifest",
+            "@type": "sc:Manifest",
+            "label": "（坪井信道「読那波利翁[ナポレオン]伝」自筆書）∽2-10-2-2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d98663de-43d7-41dd-b129-d87ab8998943/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭芳公司　三∽2-2-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72c083b8-9893-4c21-b664-c4b93e4c8909/manifest",
+            "@type": "sc:Manifest",
+            "label": "春川釣魚之図∽2-5-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a0a5232-71b4-46e5-91ff-d80e740077db/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「国郡」など書籍目次か）∽6_1_2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/98c79db3-2f6d-4729-9c10-d9c69d0591e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "(包紙）∽2-10-2-7-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc6e78ff-6d22-48d5-aa0f-8c4da919ab28/manifest",
+            "@type": "sc:Manifest",
+            "label": "（英和辞書）∽2-6-12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12677dc2-86cf-4882-8958-6fe0fbd0546e/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「弊煩刑…」）∽2-10-2-2-2-2-11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/345dceb9-941d-410c-80d1-543fa27f185a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳∽2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a470d3e-9cb6-4887-b849-41efa4001ef7/manifest",
+            "@type": "sc:Manifest",
+            "label": "（封筒）∽2-7-1-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c3c1656-33cc-495d-a83c-793d52d6a831/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　三（外題）∽2-7-12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fc3e997b-5c62-452c-abd7-6d422c6c39a0/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「於農務…」）∽2-10-2-2-2-2-13"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/81d8fad4-ce7e-4671-a25c-17ff298df1e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯六（外題）,呉魯斯氏外科書初輯巻之六　四　膿化及膿瘍　（内題）∽6_2_9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39632ecf-faf6-429a-9f00-57e63b97a311/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　五（外題）∽2-7-14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f901209-19c1-4a57-b480-105d0ba6f0fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "とりの初練書（外題）こし路おふらい仮名文（内題）∽6_1_5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/854fc25f-7196-4d4c-9fa7-46a07369049b/manifest",
+            "@type": "sc:Manifest",
+            "label": "（新薬四百九十品　第百一品至第二百品）∽2-6-15-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/48a4aea7-a69e-4c25-9803-214cda96be4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "講和会談話筆記　第二十六∽2-9-2-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/725a8cdc-4327-4fb4-974f-932952c1104c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭学者の遺跡を訪ねて∽2-4-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/caf23830-37c4-4b02-afed-8e52f29cd913/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　自巻之九　至巻之十（題箋のみ）∽2-3-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eea7c98b-532e-475c-a612-8343a1c6e3bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "ストルムボイシング水政学下巻第四編∽2-6-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79786303-a446-466b-86ca-b8b9b08eb604/manifest",
+            "@type": "sc:Manifest",
+            "label": "新薬四百九十品　第三百一品至第四百品∽2-6-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7adc49ba-e0ec-4b61-bbbf-2d6524a10e7b/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　巻十三　∽2-7-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12489c5c-e3f0-407e-8cc5-130efddc21fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "（坪井信良宣旨など）∽2-5-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/338b5c6d-c81f-4a93-9a0e-2f6220b33490/manifest",
+            "@type": "sc:Manifest",
+            "label": "（坪井信道訳「製煉発蒙」の原本に関する情報メモ）∽2-6-13-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/887961d7-7183-455e-b820-6b1f875416a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "中学校用動物学編　下（外題）∽2-7-24"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1a5aa72-deff-4905-8533-5bf86178bf62/manifest",
+            "@type": "sc:Manifest",
+            "label": "緒方洪庵記念メダル∽2-11-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/04e0ba05-b6db-4ed5-9818-3c0a929d2369/manifest",
+            "@type": "sc:Manifest",
+            "label": "第十回関西府県連合共進会会場案内図∽2-3-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0f3b4b33-0fe5-4f51-8b68-4c46ac295cc9/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　九（外題）∽2-7-18"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/30bf8e34-8107-4c9e-9d59-e4b916293de6/manifest",
+            "@type": "sc:Manifest",
+            "label": "宇田川榛斎先生書（軸端貼紙書）∽2-5-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2597ade4-5281-4cb3-a8d4-1bcd9b2fde28/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭芳公司　二∽2-2-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11891728-fb18-480c-96ef-f1f410de9d86/manifest",
+            "@type": "sc:Manifest",
+            "label": "和歌一括∽6_2_3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35eabee5-d69f-47a1-8437-64e5fce0acda/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳∽2-1-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af305a40-829b-4aa7-995d-55f173e9c85b/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「鍼」など書籍目次か）∽6_2_2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/13d6189b-149c-4556-be3b-b90f267f6470/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「左達承…」）∽2-10-2-2-2-2-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94f6f6e8-ba95-4caf-9c30-87833aacc4b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "（宇田川棒齋肖像画）（電子式複写物）∽2-10-2-8-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc1548ad-6ea0-449c-95cd-388dd6e2185d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（本書購入の由来につきメモ）∽2-4-4-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9aa21fc9-45f5-4988-8b32-a81db4346c1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「房紈扇…」）∽2-10-2-2-2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ace7e27-f1c0-4717-8369-833f17dbaace/manifest",
+            "@type": "sc:Manifest",
+            "label": "和歌一括∽6_2_14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5670eebd-0193-406f-85d5-5ce951fb2fcf/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　十止（外題）∽2-7-19"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3f729ec-f0b2-4c1d-bcdf-9af68bffa2cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "牧者必読獣医全書　綿羊篇　１３（外題）,獣医全書巻之十三（内題）∽2-7-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94cc9925-53d0-4686-ac53-c6615c3934ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "緒方洪庵伝∽2-2-11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f192e3df-fe96-40d7-b743-52db190a0089/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「宇槐園」書）∽2-5-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f9977e8-78c6-49f1-b866-885fbac8b6a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "農圃化学　全∽2-2-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9e6bf89-227f-4b2b-bf57-9d8791434569/manifest",
+            "@type": "sc:Manifest",
+            "label": "（法橋・法眼宣旨（信良）等）∽2-10-2-9-2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdacc5a9-1d00-48f6-9026-4bfd342e9503/manifest",
+            "@type": "sc:Manifest",
+            "label": "（包紙）∽2-10-2-9-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a601b1f1-32b0-46f7-9ade-234fb62134d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉氏外科書初輯十五・十六・十七（外題）,呉魯斯氏外科書初輯巻之十五　五獣屍毒（内題）∽6_2_12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93a9a30f-181f-4c72-ba2e-5d6a6af66086/manifest",
+            "@type": "sc:Manifest",
+            "label": "阿蘭医事週報抄訳　二∽2-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a70625b2-1433-4297-bc33-0c77634d8be9/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「首夏月」など和歌書上げ）∽6_2_16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec5d81a8-b948-4fb6-8cd5-0c5ce4c254df/manifest",
+            "@type": "sc:Manifest",
+            "label": "ツワイスル氏黴毒論　淋疾　一（外題）∽2-7-20"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/74945e81-0005-4cd7-a5ef-85a0780ba6f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳　天地会　下∽2-1-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b814791-6883-41d0-9fb6-30f4c35dd081/manifest",
+            "@type": "sc:Manifest",
+            "label": "防虫剤∽2-10-2-11-"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0571b3f9-a43b-428c-9890-af623150743c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭学事始展記念メダル∽2-11-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8393b847-67eb-4184-907e-d57043b9b0c4/manifest",
+            "@type": "sc:Manifest",
+            "label": "広瀬謙書（軸裏書）∽2-5-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c07363c7-96fc-4e48-8555-b25d1203888c/manifest",
+            "@type": "sc:Manifest",
+            "label": "坪井誠太郎（宛）∽2-6-10-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5da94d37-c942-476c-8a77-04c7cd33501f/manifest",
+            "@type": "sc:Manifest",
+            "label": "防虫剤∽2-12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/797c1796-de96-405e-878d-8813c63da50d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（クリーニング店のビニール袋）∽2-10-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/98e7b879-1d74-4d64-8543-ee2411e46431/manifest",
+            "@type": "sc:Manifest",
+            "label": "謨斯篤病名字引校斯語之部　第一稿（内題）∽2-7-22"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/128b3cc3-5ed1-4ce5-809e-19adb4a1ddaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳∽2-1-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0de5574d-c6e0-4ed0-acb4-4cd5b9d2dd07/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　八（外題）∽2-7-17"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/92413380-2838-460f-bbe0-fb96eb7f71f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「浴執熱…」）∽2-10-2-2-2-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88012361-c456-4684-b79b-8580367bb129/manifest",
+            "@type": "sc:Manifest",
+            "label": "姓名録∽2-10-2-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1344d9f0-693f-4381-bd5a-41d20e5dd92f/manifest",
+            "@type": "sc:Manifest",
+            "label": "(包み紙）∽2-10-2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/609c6550-d313-4d56-ac11-2ea7c5babb02/manifest",
+            "@type": "sc:Manifest",
+            "label": "■■■■"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c64ae362-3e73-4e83-a38b-23a9984ba21c/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治十七年甲申一月改正姓名録∽6_1_8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7f7c5bd-3cb1-4c63-9545-7ae1276b4354/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「江戸到着」など書籍目次か）∽6_2_1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e873985f-6840-484f-9abc-93eafbfbca31/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　巻七～八　∽2-6-14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fc2c8a1-637c-4cf9-8629-a450a26d0e63/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳　天地会　上∽2-1-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/581eb256-a3d8-476c-aea6-2cd9ee97bd7a/manifest",
+            "@type": "sc:Manifest",
+            "label": "うしのよだれ∽2-9-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/36491386-3ba8-4287-b950-4a5e46920889/manifest",
+            "@type": "sc:Manifest",
+            "label": "（包紙）∽2-6-11-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3e3407d1-8ceb-4a9d-9945-b38161d8ab93/manifest",
+            "@type": "sc:Manifest",
+            "label": "長崎銭翁蘭長門蟻斎梅合幅（軸裏書）∽2-5-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/00589c56-bbab-4f20-a90e-c1421228642e/manifest",
+            "@type": "sc:Manifest",
+            "label": "（抜刷送付につき書状）∽2-4-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6879e980-414d-44ba-b2fb-ec03dd9d0711/manifest",
+            "@type": "sc:Manifest",
+            "label": "（薬品の製法および調合書）∽2-7-23"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/acd86510-111c-4f48-a4a6-ec5ec154aae4/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　六（外題）∽2-7-15"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dcaa283-0490-4fae-bee6-6d68882f834c/manifest",
+            "@type": "sc:Manifest",
+            "label": "雑字類編下∽2-6-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/192ed3f7-1124-48a2-865c-9fcdc3114cdf/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸学官英五字細目抄∽6_2_13"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f601e7d5-7a9a-423d-a4b6-cdc479d81a63/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書三輯三∽6_2_4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/453d5a86-20a4-4744-8ec1-0ef1757f5369/manifest",
+            "@type": "sc:Manifest",
+            "label": "坪井誠太郎（宛）∽2-8-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb15a551-b0e4-4b50-a28a-1bf961a249b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「縻都邑…」）∽2-10-2-2-2-2-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/faf3863a-9d13-40b5-a2b3-3ee48db6ac73/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　巻十一∽2-7-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6050bb87-d79a-490d-bf93-8c09f938d5cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談筆記　世界の住民要目∽2-9-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2e00347c-6512-47f7-89d9-05cd6773e794/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「モスノー」ほか防虫剤）∽2-8-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e23ff3af-c5a7-465c-93ce-7130084e7f5d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（外国語辞書）∽2-7-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0f7d448c-13c2-45da-b9c7-c88ab980d782/manifest",
+            "@type": "sc:Manifest",
+            "label": "宇家良我老那巻五第二篇∽6_2_17"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e2fcc53-5eff-4881-988c-c322519330aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「国郡」など書籍目次か）∽6_1_1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b575366b-b485-4ad7-846c-e724c01ee3f0/manifest",
+            "@type": "sc:Manifest",
+            "label": "（ビニール袋）∽2-9-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e23e16cf-0db3-4994-b308-def3937aa7a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "雑哥上・下∽6_2_18"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/98ba786e-9d6a-4ec1-96cb-c9df305cf216/manifest",
+            "@type": "sc:Manifest",
+            "label": "（七）－１６冊うち１１冊∽2-9-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc52fc7c-7aab-4177-80b2-cb473892782c/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談話筆記　第十四∽2-9-2-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9433859e-a7db-4d4d-b55b-700668aef5dd/manifest",
+            "@type": "sc:Manifest",
+            "label": "講筵雑誌　第一号～第二号∽2-3-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c2fe1b87-396f-47a8-a7f1-7a902a54fd9d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「極殆辱…」）∽2-10-2-2-2-2-15"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a4f1f09-2522-4ac5-b0e4-bf270b1d01b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "（獣医読本）∽2-7-11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/229f1867-7d81-4049-818e-ba7134262c3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯五（外題）,呉魯斯氏外科書初輯巻之五　三　慢性■（ひへんに「欣」）衝　（内題）∽6_2_10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e370b2a8-933f-4c13-b560-0b40879ba40f/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談話筆記　第二十五∽2-9-2-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66972fe9-77ea-4431-8397-852a459ac04f/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「瀧辺花」など歌集）∽6_1_4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3c4feb9c-0ae5-4224-8777-cece81b73bde/manifest",
+            "@type": "sc:Manifest",
+            "label": "先哲叢談　自五至六（外題）,先哲叢談巻之五、先哲叢談巻之六∽2-6-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c9f1d37-2c46-485d-8033-05bc033c4c7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「喜」字）∽2-6-11-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d185f08-4b8a-476f-962c-a11e611f98e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談話筆記　第十三∽2-9-2-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/63a46c95-c9c6-48a7-95e7-562fc4031054/manifest",
+            "@type": "sc:Manifest",
+            "label": "坪井信良再訳　内科闡微　完∽2-3-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e93db92f-88e9-4894-b483-95e5015895e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "（「港」など書籍目次か）∽6_1_3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b56b2c88-6cc3-40aa-8f7f-6a78e5c40c17/manifest",
+            "@type": "sc:Manifest",
+            "label": "防虫カビ　モスノー∽2-2-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5fe4507-d808-41cf-a29f-8d0a54602ca5/manifest",
+            "@type": "sc:Manifest",
+            "label": "侃斯達篤　巻之一（外題）,侃斯達篤内科書（内題）∽2-4-4-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cccfe47e-e1f2-4752-87ea-272e7ef9e5dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "（宇田川棒齋肖像画）（電子式複写物）∽2-10-2-8-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9e12abf-fdb1-4348-b6ec-52d3a48267fe/manifest",
+            "@type": "sc:Manifest",
+            "label": "書簡（軸装）∽2-10-2-6-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f34d205c-1b11-4692-a6f2-37a410c9774f/manifest",
+            "@type": "sc:Manifest",
+            "label": "（薬品の製法および効能書）∽2-1-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bdead9ed-19a8-441f-94d8-51ce5b8f1ea2/manifest",
+            "@type": "sc:Manifest",
+            "label": "瓜哇栽稲法（内題）∽2-6-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/616b47c4-95e0-4dff-9a7d-814551cc812f/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「渓伊尹…」）∽2-10-2-2-2-2-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64462d11-9232-42dc-bcd9-c63021a25645/manifest",
+            "@type": "sc:Manifest",
+            "label": "（医学用語の英訳辞書）∽2-1-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dba6990-4409-4555-bf7b-bdc82f4101ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "以太利栽稲法　巻之一（外題）∽2-6-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/06e9b20a-0bab-4a56-b6e7-02b7f771a863/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「幾中庸…」）∽2-10-2-2-2-2-14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c66c6df-6dd0-418a-af16-d8ca67908b2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談話筆記　第十二∽2-9-2-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96f90890-dbf4-460c-98bd-27ebb270ccb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新薬四百九十品　第四百一品至四百九十品∽2-6-16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/82201e56-53d6-450c-951a-97fa0f181b4b/manifest",
+            "@type": "sc:Manifest",
+            "label": "侃斯達篤　巻之三（外題）,侃斯達篤巻之三（内題）∽2-4-4-2-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1d4ab2d-929a-425a-8354-a85b3a078a8b/manifest",
+            "@type": "sc:Manifest",
+            "label": "普法戦紀　巻九∽2-3-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15d6540b-2ce4-4928-8c2c-7c7fad3baabd/manifest",
+            "@type": "sc:Manifest",
+            "label": "冬樹先生遺稿（外題）,冬樹先生遺稿（内題）∽2-7-1-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/978fbf86-5121-4c05-9407-ff27fc44d30b/manifest",
+            "@type": "sc:Manifest",
+            "label": "中外医事新聞　第一号～第四号∽2-3-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f70183f-cc7f-4de3-8489-a8929938e548/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯四（外題）,呉魯斯氏外科書初輯巻之四（内題）∽2-7-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8dce8fef-be4f-440c-99a8-26ea7afb2878/manifest",
+            "@type": "sc:Manifest",
+            "label": "（瓜哇栽稲法）∽2-7-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd9be460-abad-49f8-a773-eb04683d65b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "ツワイスル氏黴毒論　下疳　三（外題）∽2-7-21"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6799dead-d926-4403-8487-8db7fffb5ade/manifest",
+            "@type": "sc:Manifest",
+            "label": "肺労可治論　下∽2-7-10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3dc2c0c9-9fdc-4308-b7a9-cf17bfa0da27/manifest",
+            "@type": "sc:Manifest",
+            "label": "（紙筒）∽2-5-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a80c45f5-32e0-4cbf-940b-47ef8f9b584d/manifest",
+            "@type": "sc:Manifest",
+            "label": "宇田川槐■先生書（軸端貼紙書）∽2-5-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1cf31ca5-6186-4527-b895-bdc620ad0bc7/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書三輯二（外題）,其六腺病性関節■衝（内題）∽6_2_5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/23c06f86-6ffb-4fb3-81cf-b8140c60934c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新薬四百九十品　第百一品至第二百品∽2-6-15-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77b1d270-c534-41e4-89ec-47f868149873/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭芳公司　註解　附録∽2-2-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ba325d3-28c0-4620-86b8-85cb99e7f20d/manifest",
+            "@type": "sc:Manifest",
+            "label": "侃斯達篤　巻十二（外題）,侃斯達篤内科書刊十二巻十三（内題）∽2-6-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8de0f388-689c-4736-92aa-f8e6d6886d7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "防虫カビ　モスノー∽2-3-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55962351-2952-4e27-a31c-5f5aa33bd37a/manifest",
+            "@type": "sc:Manifest",
+            "label": "冬樹先生遺稿（外題）,冬樹先生遺詩（内題）∽2-6-10-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/36e89c3e-c772-414f-84ce-83c1266d36bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「八縣家…」）∽2-10-2-2-2-2-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2099f070-0606-4b9e-8275-0fec6a09cb28/manifest",
+            "@type": "sc:Manifest",
+            "label": "人類学　人類史学史　人類学参考書解題∽2-9-2-10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/deeb3431-c693-43f7-b6f6-03dcd114fa1f/manifest",
+            "@type": "sc:Manifest",
+            "label": "宝納望空深∽2-5-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e666c63-adf3-4d52-86b7-73df2cefd43c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蘭領印度地学局雑誌抄訳∽2-1-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f1e5550e-f5ee-43ae-8d39-830621eca8b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "阿蘭医事週報抄訳　一∽2-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0304b0b-13d4-461e-98d5-7717b8f78f7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（宇田川棒齋肖像画）（電子式複写物）∽2-10-2-8-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8a518f5-1cce-4c38-91d3-886032df4f6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "雑字類編上∽2-6-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3262c7bf-bf02-4eb2-a73f-629ddec2a728/manifest",
+            "@type": "sc:Manifest",
+            "label": "（和装本の秩）∽2-4-4-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d016fffd-7f3c-436a-9655-d8813538b284/manifest",
+            "@type": "sc:Manifest",
+            "label": "Tissues　富士銀行∽2-4-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2d5465c-193a-4ece-968d-a649ebf6ec94/manifest",
+            "@type": "sc:Manifest",
+            "label": "（御成敗式目[部分]）∽2-10-2-1-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f36f929b-9e00-4146-8de6-05d077437d80/manifest",
+            "@type": "sc:Manifest",
+            "label": "防虫カビ　モスノー∽2-4-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94353793-baf5-47fb-b0ec-53bfb030b9d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「翳落葉…」）∽2-10-2-2-2-2-17"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce485c6e-dc3d-45b2-99a8-32ae71504577/manifest",
+            "@type": "sc:Manifest",
+            "label": "栴墩先生詩鈔初篇・二篇・三篇諸家題跋∽6_2_20"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/04f88b66-0864-4ae4-88e8-98f6ffef9bbe/manifest",
+            "@type": "sc:Manifest",
+            "label": "和歌一括∽6_2_19"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69933e60-6136-4d67-957e-5677b302b338/manifest",
+            "@type": "sc:Manifest",
+            "label": "肖像画（電子式複写物）∽2-10-2-8-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/262cc58e-ee32-4181-9bd1-64b09efc6850/manifest",
+            "@type": "sc:Manifest",
+            "label": "(包紙）∽2-10-2-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/026bf3f4-9f90-4907-984b-c0f597c37afb/manifest",
+            "@type": "sc:Manifest",
+            "label": "（ビニール袋）∽2-10-2-1-１"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b039975f-66fe-40bd-aeec-511bdc338d55/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯七（外題）,呉魯斯氏外科書初輯巻之七　四　多量膿瘍則膿毒（内題）∽6_2_11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/47de29fe-23d3-49b4-a0d2-4991a57e88ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "阿蘭商法抄訳　下∽2-2-4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e14f192-539c-42af-b858-4f1a5ff26a03/manifest",
+            "@type": "sc:Manifest",
+            "label": "講話会談話筆記　第二十七∽2-9-2-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6f2af1f-1e77-469a-93ef-9b12d714797a/manifest",
+            "@type": "sc:Manifest",
+            "label": "包紙∽2-10-2-10-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/36d115cc-3c6d-4dfa-9d6d-39acdde88852/manifest",
+            "@type": "sc:Manifest",
+            "label": "（坪井信道元門下生よりの聞き書きを記載した手紙）∽2-7-1-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fda7cf0d-f45b-4560-b2c5-c01471be6406/manifest",
+            "@type": "sc:Manifest",
+            "label": "宇田川棒齋肖像画∽2-10-2-10-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b650f7b-a57e-4e6a-8b92-9229b34af29f/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「預且康…」）∽2-10-2-2-2-2-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8c7d0abc-6745-4d16-b5a0-cbb7e48c9d72/manifest",
+            "@type": "sc:Manifest",
+            "label": "新薬四百九十品　第二百一品至第三百品∽2-6-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4502a66f-8e7b-482c-84e7-7c6ba4f04c97/manifest",
+            "@type": "sc:Manifest",
+            "label": "肺労可治論　上（外題）,肺労可治論（内題）∽2-7-9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d3b535ea-0b88-4fe2-925d-96ca30991a23/manifest",
+            "@type": "sc:Manifest",
+            "label": "医案類語∽2-3-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/693e47bc-e882-45fc-941d-127be5fc6c7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「綵仙霊…」）∽2-10-2-2-2-2-6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b23156a4-1b6c-4b5d-9ace-96a77d98c112/manifest",
+            "@type": "sc:Manifest",
+            "label": "阿蘭商法抄訳　上∽2-1-8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fd48ecd-0e3e-4b0e-9f14-042e0397eccf/manifest",
+            "@type": "sc:Manifest",
+            "label": "侃斯達篤　巻之四（外題）,侃斯達篤巻之四（内題）∽2-4-4-2-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84ad8517-915a-4280-8a8f-2c637f216c07/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「慮逍遥…」）∽2-10-2-2-2-2-16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d74bfb29-b031-4d5c-8ab1-77b66f62c3c8/manifest",
+            "@type": "sc:Manifest",
+            "label": "書簡（軸装）∽2-10-2-6-2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ede40ba-e4dc-465d-bcc8-4be9b6f51a55/manifest",
+            "@type": "sc:Manifest",
+            "label": "（包紙）∽2-10-2-9-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fd02d67-7607-44cf-9d20-493d55107dd1/manifest",
+            "@type": "sc:Manifest",
+            "label": "誠軒先生讀那波列翁傳詩（軸裏書）（印）∽2-10-2-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5244429f-ae58-42ec-8890-b1d86c034434/manifest",
+            "@type": "sc:Manifest",
+            "label": "譯扶氏醫戒之語（拓本）∽2-10-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d35b26a1-6e43-4233-ac93-84a6ced6ebab/manifest",
+            "@type": "sc:Manifest",
+            "label": "侃斯達篤　巻之二（外題）,侃斯達篤巻之二（内題）∽2-4-4-2-3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/485f4cfa-1fdd-4f0b-9111-8368a715e512/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯一（外題）,呉魯斯氏外科書初輯巻之一（内題）∽6_2_7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/164c245d-899e-4e1d-8181-44079a07cd45/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京地学協会編纂　朝鮮全図∽2-3-5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6cd1fe9-6758-4f7c-be02-ebc8fb343cc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "学校光線論∽6_1_7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56cd14bb-7963-448e-9802-11b4f76fbabe/manifest",
+            "@type": "sc:Manifest",
+            "label": "（書「禅主云…」）∽2-10-2-2-2-2-12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/186225fa-cb63-482b-965c-99ed7aea6e2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "獣医読本　七（外題）∽2-7-16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10827fc7-6c31-417e-b04a-5ad477362d35/manifest",
+            "@type": "sc:Manifest",
+            "label": "誠軒先生遺筆（軸裏書）∽2-10-2-7-2-2-1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/673ee44d-1e86-427b-ad6a-ca50e25c6ab5/manifest",
+            "@type": "sc:Manifest",
+            "label": "呉魯斯氏外科書初輯八（外題）,呉魯斯氏外科書初輯巻之八　其二　慢性壊疽（内題）∽6_2_8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d765f7d-703e-40d6-b947-8bf7a8b2aa9d/manifest",
+            "@type": "sc:Manifest",
+            "label": "（瓜哇栽稲法）∽2-7-7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f7f4def-4785-45fa-97a6-a9c6bd8e989b/manifest",
+            "@type": "sc:Manifest",
+            "label": "人類学　∽2-9-2-11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/615f1bf0-4918-4250-a738-fb237775cad1/manifest",
+            "@type": "sc:Manifest",
+            "label": "（ビニール袋）∽2-10-2-7-1"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "坪井信道・信良関係資料"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/item-set/53490",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53490",
+        "format": "application/ld+json"
+    }
+}

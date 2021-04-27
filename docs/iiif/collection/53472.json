@@ -1,0 +1,1438 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/53472",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "小野秀雄コレクション",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b007a2d-1e9c-460c-8e0d-a76fca0fa03c/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:4 資料No.50"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e072f09-4e95-46aa-9390-9b1c323c7249/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火 ∽085"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71e478da-21d9-49ae-b15d-de959a7d9d5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:104 資料No.501"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66d7ce43-cfd5-454a-a979-a2e9f3ab8977/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽089"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a1943df-2652-4336-bbf7-804a880b04b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:123 資料No.6"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c50745ae-387b-4e1e-bbc4-f77638df6d66/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都焼場方角付∽039"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17ac2134-f797-49fa-9033-f9a3f416c477/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽035"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdd9d87a-3b62-4731-bedf-2525f1cb33ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:83 資料No.1027"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7cbcf236-114e-4509-9679-3a7f0925a322/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:47 資料No.877"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea7a2d31-5954-4408-b3ac-8f608ae1e200/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:3 資料No.40"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:31 資料No.822"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0aa5d214-3395-4932-aef6-ab7a23f36b02/manifest",
+            "@type": "sc:Manifest",
+            "label": "御江戸方角分量大略之図∽003"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:49 資料No.892"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/58ef08f1-9d3c-485f-9398-fc035b439df1/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽091"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eee805d4-8d64-4233-8503-db6bee0dd120/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:67 資料No.951"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:132 資料No.15"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/manifest",
+            "@type": "sc:Manifest",
+            "label": "錦画百事新聞∽項番:168 資料No.84"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/113d94b4-14ab-40aa-826e-018510737340/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:101 資料No.463"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:88 資料No.1046"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6fa7058f-feae-4f7a-b2d4-4cb7d6afee33/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田佐久間町の大火（仮）∽006"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea6ce52c-9360-4a27-b96f-3f740d9fa346/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:25 資料No.736"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b603f794-65e6-428b-b7b7-19fe5f6a46b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:105 資料No.508"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/baed9735-716e-4587-b256-7c7e53fcb4ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:92 資料No.1054"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/234f00c5-f738-42ca-a0cc-b7191ebea45c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽090"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/823ba793-b496-4a8e-9233-10b0f9fc350b/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付 ∽048"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bda3292f-8716-4456-9a2f-547becb13684/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:133 資料No.16"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3007332a-9d1e-4c01-9cfc-b15b9ad50c88/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録 ∽項番:130 資料No.13"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a4537b6-fd1a-44e7-ba7b-dfea37d69fb4/manifest",
+            "@type": "sc:Manifest",
+            "label": "ゆらゆら豊問答∽115"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd27c6dd-9e02-48c5-a0e6-b2585e3cf9b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:145 資料No.118"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a522465f-f114-4977-a091-ccf6456f31ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽058"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d2fdfdc-b6a5-4538-8d0c-ead199379244/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞 ∽項番:147 資料No.119"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd133741-9109-4114-abeb-750d782ff2de/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:137 資料No.20"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b724668c-a13e-42d6-8b32-50a918374f41/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:66 資料No.944"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d468afe9-a59a-4f6c-8d64-4d366a8a769a/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角絵図面∽010"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場独案内∽029"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5fbf58e0-c220-4c3e-9e5a-e3fae33dcb7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼原方角付あらましの分 ∽021"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3a892e9-dd44-4c34-876a-7541debcfcca/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:107 資料No.527"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b10130b-db47-4074-afeb-127207acfe77/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽032"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5d4cfa1d-44e7-4f01-9143-6181ca3386e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:78 資料No.989"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0938511c-ab36-48b4-8599-e13bd3262c5d/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:106 資料No.525"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/07e92645-4d5b-417a-a669-c58d63e776cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋辺大火（仮） ∽043"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee884277-6cf1-48e5-b060-53ffe881ffd6/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火（仮）∽018"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39643674-aacd-4b19-91af-5ba7c3e28dac/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山大火場所付∽065"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77a09d12-ee47-4508-b350-00b427db7a8a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田大火（仮）∽077"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce675d49-e226-4a66-9b97-382e5ae3b5dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:113 資料No.650"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/463b19c3-f76d-49a3-b620-df1a19b869ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:43 資料No.865"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f779c767-8eb7-4aab-8ecf-756cd71bdbf8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:190 資料No.24"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59c26b6a-aa96-4d31-bcb7-e39acbdf9853/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦画日々新聞紙∽項番:244 資料No.42"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a8080fc5-982a-4a62-b081-bbee28856c91/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山権田原辺火事（仮） ∽019"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e428108b-0185-44de-94de-26a307ec0f67/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸通一丁目辺大火（仮）∽040"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/99e91eb2-3d9c-4fb2-aef9-cb0828f5cb9a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽024"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b243ea5-4acb-4697-aa35-95bffda59d6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "火之用心・大阪今昔三度の大火 ∽073"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cef05ebb-d857-47d5-ac9d-1a8edaa87f46/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮）∽008"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/250f8f1c-dffc-432c-8b18-9c62f715e4d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽004"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0cc3cdb-8884-4531-959b-4883f46e2317/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:108 資料No.551"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/manifest",
+            "@type": "sc:Manifest",
+            "label": "防火戯詞（仮）∽109"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb4babe4-d8dc-46da-b325-8954e8d66d8a/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:34 資料No.833"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0815e909-1174-4a70-8310-0557b9cd00b7/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付 ∽031"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/510b34d4-3164-4fc8-8358-c81b656bbc0e/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震之用心火乃用心∽113"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:91 資料No.1052"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:98 資料No.425"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8487341a-a3a0-4f77-85ad-7668a63c7a15/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:114 資料No.683"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc630a2f-50b8-4f9d-acfb-ca649a2e9ad3/manifest",
+            "@type": "sc:Manifest",
+            "label": "岐阜罹災之統計略表 ∽117"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e7250e1-2b5c-4276-b240-554e4961ac5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:191 資料No.32"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b017da7-a63c-4ec0-bf36-025d1b72701c/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治二年東京大火（仮）∽080"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bab9f60b-e39f-4c5c-85da-c31fbc2a9527/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸人安堵乃為火事場急報∽082"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:109 資料No.566"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/manifest",
+            "@type": "sc:Manifest",
+            "label": "三田・田町辺大火（仮）∽100"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f65b6aa3-c4f6-4338-865b-64b37184b34c/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸国へ出ス手紙之文 ∽022"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34d433b2-3f0e-4865-8318-54215a9d7ddf/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震出火細見記 ∽124"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68c4f1bf-05a0-4cd4-ad3e-d5ae0550e0c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:13 資料No.491"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0904d9d6-bcd6-47d7-af7e-a21335b57df6/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本橋本舟町火事（仮）∽017"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b253230f-b1a1-459d-b7ad-018bcbcd804f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽106"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7af34c5-03ba-4d88-872e-747d4e644bc6/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:61 資料No.933"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d8a0a9da-2056-4978-bdc7-7346ff5741f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦画日々新聞紙∽項番:240 資料No.29"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0db68ed-a729-486c-862c-d12141ae1836/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:138 資料No.100"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/787bceee-b736-4acb-9d84-73a8a8bffd09/manifest",
+            "@type": "sc:Manifest",
+            "label": "見立町鑑大地しん（仮） ∽123"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9ef849e2-1b6b-4820-b955-1b492ebfde50/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:134 資料No.17"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f607aab-3a3f-43f6-bda7-e2055cac27b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸浅草辺大火（仮）∽045"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0e64a13-1b16-495c-bd72-341efcc124f3/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸國日々新聞集∽項番:208 資料No.254"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/185ab49b-a164-41cd-b4a0-33842eb2a282/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火場所方角付∽009"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9ee495a8-3bbb-4295-8eca-f919bbd8cc10/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:60 資料No.926"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:81 資料No.1015"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5152f20-a61c-4069-8cf5-abc8e1b5b2cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:38 資料No.856"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d24aa528-071a-4c35-aebc-e19a03d517a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:100 資料No.449"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/20d06005-f3b5-4591-82b1-edc846219ea2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:193 資料No.36"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dcabc67-b90d-4fab-9d34-fb65b3c5129d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新板改正大平武鑑 ∽120"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56c366bb-5e30-4f73-85e6-e3091d670e24/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:71 資料No.975"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/218e348a-b5f7-4507-a8a0-c45bb9fc5ff2/manifest",
+            "@type": "sc:Manifest",
+            "label": "絵入新聞∽項番:173 資料No.25a"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1bb5d21e-d1e9-4325-b262-b3919a9b9d8c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:192 資料No.35"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eccf717b-5947-40c9-b99d-f73ed07e9a99/manifest",
+            "@type": "sc:Manifest",
+            "label": "安政三年関東の地震（仮）∽116"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec81097f-c7e4-4679-9b9f-730437ce164b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京の火事（仮）∽105"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ef2ba88-7d77-4ded-aa93-5e969c9c5af9/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:5 資料No.101"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e85e8f8-4408-446d-a613-d4cdf2704ff6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽026"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d6d9d4c-6015-400a-a376-6155bdb4ff46/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸焼場方角付 ∽059"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af998fcd-6cc8-4a9a-b811-783b75a2cd65/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田佐久間町の大火（仮）∽005"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:73 資料No.981"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/549a177d-c8ef-443f-8926-c1ae174a377d/manifest",
+            "@type": "sc:Manifest",
+            "label": "三田・田町辺大火（仮） ∽097"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/573a1be6-07b2-4ba0-af26-875e0b83a84d/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:26 資料No.742"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/913ddcff-b30d-4db9-bf50-5addb53d8f69/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸下谷辺大火（仮）∽047"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/723b8306-8d9e-45de-8a89-3105e4579174/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮） ∽027"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01300330-1247-4cbe-bcb8-bab669502576/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:19 資料No.694"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66ed60f3-2e04-4fa6-a192-8dce6a1323aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "朝野新聞 ∽項番:254 資料No.1371乙"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93bb382a-941a-46f2-9cd6-401393a797f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:17 資料No.687"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d101338-746e-4ea5-ad75-48d83a8fa442/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火∽050"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22f84ea2-44a4-4ab4-8d15-c1648bce80c4/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:59 資料No.923"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7fc7c744-9d93-4388-ad88-4cf9d11e4c34/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:1 資料No.1"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:112 資料No.617"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:30 資料No.813"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d4ca719-4495-4ee9-9a2b-d2f701f71355/manifest",
+            "@type": "sc:Manifest",
+            "label": "歌舞伎引札見立の地震戯詞（仮）∽122"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be4ee94d-6061-48eb-81b0-3c79bafb86e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋大火（仮）∽049"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:102 資料No.481"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/590a51dc-8503-42b4-824e-5216b1043aed/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:131 資料No.14"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:55 資料No.914"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/06cb8d7b-2846-4dc5-af85-038152fdfca3/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:93 資料No.1055"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c37a4f4a-29d9-4c46-8b47-b6a4b3da25b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:69 資料No.967"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b04884c5-e332-4ca4-b703-35c859eb41cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:8 資料No.220"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/902080ee-7446-47b4-8e4a-2dfd5221d853/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:22 資料No.712"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e50da599-d4e1-4745-82fa-c2f458bcd70f/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火∽015"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95f370ee-3c2a-414d-b46c-8c17536b9f3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽028"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/189a6850-5010-445d-9df6-255a447d647c/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:64 資料No.940"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a78425d-f6bd-44fe-a37b-e26cc6e97ac2/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽092"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eaea7199-18a0-4830-80cb-dd2dfebb0e7f/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角一覧∽057"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f2deeba-42cb-4986-8117-1fca5b1756d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:86 資料No.1043"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3aef9023-2e27-4e66-b4be-15a3adf79896/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:230 資料No.32"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/314b9c11-f9ed-4d6a-adf5-8f0e7bb12f5b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:56 資料No.917"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/30f3e28e-a949-45be-a46d-ac86c8368a9e/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:79 資料No.992"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a7022f2-a335-4def-a47c-12fc1cabc20c/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火場所付 ∽068"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35b55357-6ef0-4965-ba71-75b01c313b6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:84 資料No.1036"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/efb14051-31e3-42b3-89ab-4fb4c3c915d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田大火（仮）∽078"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e667a458-38df-439a-8716-b869d542c93d/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京絵入新聞 付録∽項番:261 資料No.3823"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:27 資料No.752"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0772d315-ccc0-4500-a8ca-71f8cb1a664e/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火（仮）∽095"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ace89a8f-4112-46ab-b30f-d6560c677847/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:140 資料No.104"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d5d1a4f-76ba-46b4-8ace-40b60cd5f992/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:37 資料No.851"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b9027362-d8cd-4e74-a647-110b99c3b4d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺火事（仮） ∽062"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9cc4709a-6219-425e-92ef-53040bae220c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽025"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/62ba217e-4da5-4756-9cd4-49d7f9c3b310/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞 ∽項番:144 資料No.117"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b2bb54b-45e3-45d5-9802-c61d75f45f4a/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:16 資料No.656"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d6c45af-9d1e-44ef-9c8e-10133b98c2ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽094"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/831d45a3-06c4-46ce-bb4c-8c036790e900/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:229 資料No.24"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/beaa7124-bbb0-4556-9d8b-23f77dc8ff37/manifest",
+            "@type": "sc:Manifest",
+            "label": "地口十一種（仮）∽118"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f92a027-0f44-42fc-99cf-375bccee688a/manifest",
+            "@type": "sc:Manifest",
+            "label": "羽後国飽海郡坂田港　火防行列之図∽108"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:10 資料No.428"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a6626b1-6543-48fb-8a93-b21bce257ec8/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮） ∽033"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7b4fd10-6091-4480-bdc0-4dc644432e0b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:41 資料No.861"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/774c648d-59c7-4f29-b46a-da3dcdef5f7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮）∽038"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:48 資料No.885"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火極本しらべ∽054"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7d7a6213-34dc-417d-b106-277ac9fc8ef7/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:46 資料No.876"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/126170cd-3c25-4af4-b5a3-5b08344b1ca2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新板改正大平武鑑 ∽121"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2fd97db2-48dd-4276-ae27-6b7eeff59543/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角場所付∽012"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d64935b9-8b41-42d5-9f31-5ca0a2b18c24/manifest",
+            "@type": "sc:Manifest",
+            "label": "ふれ出し風の薬∽112"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:124 資料No.7"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b7a3178-382f-41f4-a4e1-08606cf6964c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮） ∽104"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c653e4f2-67c4-45f6-89c6-fbaeb533d945/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪大火 ∽051"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a76e9a59-3a13-44aa-a57b-4b311007dfda/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:116 資料No.2"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5be0a960-02c3-4f9d-a0b5-132bbe8e473e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸飯倉辺大火（仮）∽069"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c669723e-809f-4086-963e-b51ea1ae208e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸図（仮）∽098"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de051134-7ea9-4c2e-bb6b-8710ea2cd20d/manifest",
+            "@type": "sc:Manifest",
+            "label": "錦画百事新聞∽項番:169 資料No.95"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b11669d6-2a7d-4dff-8f29-05b8de51fc2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:7 資料No.185"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/manifest",
+            "@type": "sc:Manifest",
+            "label": "吉原類焼の記（仮）∽046"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b7f518a-461c-48eb-8477-410488f66b2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "火之用鎮道しるべ∽034"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2cbbb643-8334-4af1-b46f-ef8bb02e93a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:23 資料No.723"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18c42b96-3dba-4264-9173-6bc7c59988c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "大江戸焼場方角付∽060"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3efd0f80-2f95-4bd2-933e-279c5bee08a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火∽052"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2096bb06-6908-4bf2-b281-65d76d32ce62/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽101"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/04092f89-886c-42f5-8c2d-902410711639/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:12 資料No.445"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d167381-8ddb-428d-ba8d-81e80e8d4902/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:141 資料No.109"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae61b35b-66d5-4b3c-b144-e56409faf49a/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸馬喰町大火（仮）∽070"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eef22bdf-92c8-4026-ad4b-2274d235ff2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "やけあと道しるべ ∽002"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fffa6ec9-e0e9-4006-ac2f-0caa79dacca4/manifest",
+            "@type": "sc:Manifest",
+            "label": "火事道化（仮）∽111"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:121 資料No.4"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/570d3dd2-a8bf-4355-9403-4371b875078f/manifest",
+            "@type": "sc:Manifest",
+            "label": "日々新聞∽項番:166 資料No.23"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/283fd5e3-a58b-4ed5-870b-185025228c8a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞図会∽項番:227 資料No.21 a"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f628d8f-2e24-4b00-8594-6df7a1ef78a4/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:74 資料No.982"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4bbad466-d464-4de8-9c89-f8d29613638a/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:99 資料No.447"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1848cdf-cbbd-4790-95a4-eb34749e9a3e/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:80 資料No.1009"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/310215e1-400f-4d76-b4bb-1659e14ce8ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山大火場所付∽064"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35b6a2fa-cdae-483c-80d6-6c23f4d70a34/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火之図（仮）∽079"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/002f7f88-7570-4ebe-90a5-614427b2515f/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞 ∽項番:117 資料No.9"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fbb4eeb-74ef-4a28-9b39-9dd5fc5190db/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:18 資料No.689"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸四谷辺大火（仮）∽041"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:50 資料No.900"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/afe2d01d-b4df-49ad-9724-fde19e86f6e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角の図∽036"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b714629a-1210-4f34-85f3-9498bb506d43/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸日本橋辺大火（仮）∽067"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/594ea95c-ac2c-4130-87a0-b3830d0a11e6/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:136 資料No.19"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9ef0de8-b811-417a-87d0-270db314220c/manifest",
+            "@type": "sc:Manifest",
+            "label": "朝野新聞 ∽項番:255 資料No.1386"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6aaa4214-77bc-49fb-99cc-5f98f11aec1b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:75 資料No.983"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/manifest",
+            "@type": "sc:Manifest",
+            "label": "日々新聞∽項番:167 資料No.28"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a202ac1a-fd1f-452e-b264-33fc90987a8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸本郷辺大火（仮）∽023"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43a5cd6d-8ca2-4520-bb78-3d00324aef2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治五年東京大火（仮）∽081"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8b4a9713-24db-496d-94f2-3a85ef818cf5/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:63 資料No.938"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/daa80949-a47d-4255-923d-bb0a4e1640ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "青山権田原辺火事（仮）∽020"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f321202-dc10-4fc1-b4d4-e1121e99fffe/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:2 資料No.3"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c061ea00-531e-4dc7-aa8b-43c0dc95843a/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:142 資料No.113"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/58241a62-9fd1-47f1-9dea-d1714a85d238/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:52 資料No.911"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce0ab5a7-b4c0-46a7-b513-5d726b98f727/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:72 資料No.978"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4e62bd89-4505-415e-8015-cca27883b75d/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦画日々新聞紙∽項番:245 資料No.55"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:53 資料No.913"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3c479450-817e-4f4d-a29d-dd42d6641a81/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:9 資料No.322"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b786b4b-329d-43ab-9353-3dd5a26bce13/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:33 資料No.832"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/294404b6-d7f8-4085-b7de-c0fc5ccdba42/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火 ∽084"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69653080-9d45-4782-8442-c11de32cd47b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:87 資料No.1045"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/234e8dcc-5147-4764-a74c-586495627701/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸國日々新聞集∽項番:207 資料No.252"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bae83495-8df7-4f9b-aa5f-43caa29b3ad2/manifest",
+            "@type": "sc:Manifest",
+            "label": "やけば方角十八手 ∽063"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f344363-f513-48cb-8fb5-4bb78c409e3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火図 ∽053"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16f61829-9f38-4935-a745-fa738146317f/manifest",
+            "@type": "sc:Manifest",
+            "label": "火用道具∽110"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c41ac8c2-a38c-446a-aaa2-7dbd6322c58e/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:35 資料No.838"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/722c95d4-141a-4c33-a2e2-4114c1e01de0/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:20 資料No.697"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71174c2e-cb08-4ee1-9a03-004cb8e3f8c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:68 資料No.964"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba4f01c3-d9ae-4588-a461-59a5062d919b/manifest",
+            "@type": "sc:Manifest",
+            "label": "るいせう道しるべ　上∽001"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f30af2c-3dbf-4344-91ec-5bbfafa46bfc/manifest",
+            "@type": "sc:Manifest",
+            "label": "地震出火の図（仮）∽114"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03bd4f2c-bbf3-4f14-af5c-adcb442dec16/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽102"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f0079c0d-dde0-4d4c-a425-d19ccf7804fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸國日々新聞集∽項番:210 資料No.276"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:62 資料No.934"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/40ccaa3b-a14d-41d2-9c83-9785febbcaa6/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:82 資料No.1016"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/208a063c-1446-4454-9a4c-1c036bf693f1/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:42 資料No.862"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af810867-d49b-4ed1-b3c5-74c1cdb918ef/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:24 資料No.726"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/57075ad3-4a83-443f-b4a7-1b7dde69fb88/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:90 資料No.1050"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/494fc62c-efec-4ee6-959e-4e782eb31392/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦画日々∽項番:241 資料No.34"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/589b8f2a-f7b2-4444-b2e2-2ea70941f6a6/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角場所付∽013"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e0ada59-eb11-4147-93a9-3b055df5f1c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火∽055"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/632cdf9c-d3b7-472a-ae1d-2fe14375327b/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦絵新聞∽項番:233 資料No.38"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/manifest",
+            "@type": "sc:Manifest",
+            "label": "出火場所方角付∽011"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1834bf2-1bfa-4924-a6b0-e68670f8d721/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽093"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a75924d-e321-4944-81e0-136d6777aece/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:40 資料No.860"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1653dc4b-94a7-4a5f-af46-c43d4d5a16a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "方角絵図面 ∽014"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aa806c5e-d468-4b23-a4eb-bcfd2e497ec7/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦絵新聞∽項番:234 資料No.39"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7553b365-1a60-4f82-838f-e8ec6a73fd1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:94 資料No.1059"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12b62ab4-7153-4aec-bace-00275551267c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸小網町辺大火（仮）∽044"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b06c283-a37e-4e9e-a9be-c70253530646/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽087"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ce820b2-8df7-4d6e-a88a-fdb7fc685282/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸大火（仮）∽103"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/027e27a4-9429-4182-8723-067021fd621c/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:28 資料No.754"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角細見記∽076"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:51 資料No.909"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e5b80924-249d-4633-a8f7-230c6b8c0e0f/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽088"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1d5f968-91ef-4790-b5a5-695330d25e37/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角一覧 ∽056"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:122 資料No.5"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:11 資料No.431"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7638333f-f336-4856-b7ba-938515bfb5cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸浅草辺大火（仮）∽066"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/294c2679-d1c1-42c9-8930-a2e019c37693/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸國日々新聞集∽項番:209 資料No.274"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd3687af-fb5f-4a58-958a-61a56649e9b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:110 資料No.589"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2681272b-57c4-41c0-b328-aa495d738eb8/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録 ∽項番:128 資料No.11"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d11d65ce-ae13-431e-bae8-0d74ef70cef6/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦絵新聞∽項番:232 資料No.37"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:57 資料No.919"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93494952-edcb-4993-8453-a1c49f207f8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録 ∽項番:127 資料No.10"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/96e154ef-c492-4413-827d-7de6ad2979d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸麹町辺大火（仮） ∽037"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59520d34-5cfe-41d7-9e11-adbc43de7b21/manifest",
+            "@type": "sc:Manifest",
+            "label": "大垣町火災地略図 ∽083"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/baa94646-c31c-4578-997f-690680017034/manifest",
+            "@type": "sc:Manifest",
+            "label": "明治八年　大阪錦画新聞∽項番:228 資料No.22"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e5e8880-d39a-4670-b1d8-d156edbb4f3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮） ∽042"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b7a49c6-99fc-40a9-80b9-241412cf9b2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "万歳楽鯰大奇 ∽119"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7bfc658f-a43d-45ce-93e4-871c6daafa78/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:45 資料No.873"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb0cf274-4ce7-403b-b1d3-d17b2fedfa48/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪大火本しらべ∽071"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77710fb2-75a9-4cb6-9bcb-657a2f37e94d/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸新橋辺大火（仮）∽096"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ffafb6c-c242-4a4e-b44a-18c177f21c2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録 ∽項番:129 資料No.12"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a0ad9d70-dfb4-4217-8725-0c0f7ca0991a/manifest",
+            "@type": "sc:Manifest",
+            "label": "読売新聞∽項番:143 資料No.116"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/364e897d-3ef5-4a56-93dd-c2cf07e6a548/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火∽072"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54447215-7654-4733-a548-f2d972c323ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "大坂大火 ∽016"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15f8e424-25c4-4ce4-b98a-274c037def6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "郵便報知新聞∽項番:115 資料No.816"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe92e221-03a6-47dd-b4f6-c11859075304/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火∽086"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8a97de1-34d2-4f5a-befa-7be20f99b1ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺大火（仮） ∽007"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9c68148-643c-4c5a-9a2d-7417dc57a7ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "せんハ上丁　大火ノ図 ∽099"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:15 資料No.592"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:77 資料No.988"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸國日々新聞集∽項番:211 資料No.278"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/139c8a00-a6fa-425d-8b6b-05b6ad479a8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:14 資料No.512"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/348bc16b-973b-4ebb-9f88-146eaa42ecb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:29 資料No.781"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ec7e44f-3c99-4382-a06e-70c55f8b3381/manifest",
+            "@type": "sc:Manifest",
+            "label": "京都大火大功記十段目秡文句∽107"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb6b8c22-de37-47ae-826e-598680d00af3/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸神田辺火事（仮）∽061"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d54c3e41-a36b-4673-a95b-fa6986dd80ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:36 資料No.849"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6a87bab-cbbd-4c77-a901-420d102f9af1/manifest",
+            "@type": "sc:Manifest",
+            "label": "武州加奈川横浜出火略図 ∽074"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd9e701f-1d30-41c2-8238-8b121e9c4630/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:21 資料No.708"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:70 資料No.969"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:6 資料No.111"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:125 資料No.8"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/429e928e-bd6d-457c-977d-d1ad794fe285/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:32 資料No.824"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/154c4add-ddad-49e5-b1ae-72ee30f146c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞 ∽項番:76 資料No.984"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/485a8e39-22c0-460a-9a5e-6ffb187da39f/manifest",
+            "@type": "sc:Manifest",
+            "label": "近世人物誌やまと新聞付録∽項番:135 資料No.18"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d57b9b05-83b6-461c-a4b0-fdec086b6f87/manifest",
+            "@type": "sc:Manifest",
+            "label": "東京日々新聞∽項番:95 資料No.1060"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c667b44-381f-44a7-adfa-df1f19d8ea8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸出火場所細見∽030"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9d30f9dd-eeb2-460c-a329-5e69277358e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "焼場方角付∽075"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e6980dbc-2e90-4c14-be6a-f7d9e25b01bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "大阪錦絵新聞 ∽項番:231 資料No.46"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "小野秀雄コレクション"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/item-set/53472",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+        "format": "application/ld+json"
+    }
+}

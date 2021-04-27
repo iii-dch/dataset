@@ -1,0 +1,206 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12717",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:240 資料No.29",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d8a0a9da-2056-4978-bdc7-7346ff5741f7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大阪錦画日々新聞紙∽項番:240 資料No.29",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "去日北大区警察出張所邏卒井上徳太郎ハ西成第三区上福島村を巡邏する時二人の童児道路に於て戯に一尺計りなる木梃の先を鋭くし地に投けて刺し勝負を決するチンガラを以て互いに争ひ挑み合ひて居けるを視留め説諭せんと傍へ寄行たるに二童驚て各其家に迯帰る跡を慕ひて聞糾すに同村安藤佐七長男米吉八歳二男三木松五歳なりしかハ親佐七へ説諭して最早両児共入学の年頃にも至るに徒らに遊戯に耽り居らするハ不宜風儀にて親たるの任にあらすと云けれハ同人儀ハ長病の上貧窮なれハ入校さするにも諸入費を差出し兼ぬる故無栓方等閑置くと荅へけれハ井上も不便に思ひ直に同村事務所へ罷越佐七の貧窮両児の事情と申談し学校諸入費と用捨致遣し呉度依頼し自身より金一円を差出し両児の筆紙墨を買調へ残り金五十銭を差戻し両児を入校致させたれハ其親の歓喜する推て知るへし抑も此巡卒職外を以てせす能く二児をして善事に納れしめしハ深く人民保護の天意に叶ひて実に感賞すへきなり ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1914年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "大阪錦画日々新聞紙",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:二代貞信 /彫師:ホリ九一",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "邏卒井上徳三郎、貧しい二人の子を自費で小学校に入れる(読み下し文_括弧なし:明治八年四月三十日邏卒井上徳三郎ハ西成三区上福島を巡邏／する時二人の童子木梃の先を鋭くし地に投げて刺し勝負を／決す互に争ひ挑ミたるに近付き示さんとせしに早く二童逃て／其の家に帰るを慕ひけるに同村安藤佐七が倅米吉三木松なる／親へ説諭して最早八才五才の童子入学の年頃なるに／遊戯に耽らしむるハよろしからずと述るに家困究にて／学校入費行届かずとこたへるるを井上不便に／思ひ二児を同村事務／所へ連ゆき自ら金一円／差出し入校の筆墨紙を／与へ後に戸長より五十銭戻り／学に導せしに親の歓喜少からず／巡卒の深志天意に叶ひ人民保護の／有様なりと実に感賞すべきなりと／報知六百五十五号にのせたり／ )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0240-0029",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:02+00:00"
+    },
+    "o:id": 12717,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33687",
+            "o:id": 33687
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:34:53+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大阪錦画日々新聞紙∽項番:240 資料No.29",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12717/1333099122115.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12717/1333099122115.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12717/1333099122115.jpg"
+    }
+}

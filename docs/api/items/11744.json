@@ -1,0 +1,215 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11744",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:98 資料No.425",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9bfe5105-189f-41a7-8640-0a632bd4b476",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "郵便報知新聞 ∽項番:98 資料No.425",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "○去月十七日一大區橋本町一丁目にて一人の娘年頃二十（はたち）はかりにや最麗（こるわ）しく嫋（たほや）かなるか琉球紬（つむぎ）の繻子（■■■）の帯富世風にあた■■らず何許（どこ）やら儼然（きつ）とした姿■常人物（■■■■）ならす見えけるか何用ありてか急（いそ）かしけに僕をもつれす來りしを何許酒店（いつこのさかや）の酔たりけん蹌々（ひょうヽ）として來かヽる者あり忽ち礑（はた）突■（つきあたり）りあたりに人の無りけれハ女ハそと見て心動■胸前（むなぐら）とりて振廻（ふりまは）し喧嘩仕悪（しかけ）にしなたれ寄れハ女ハ■に慄（おのヽ）きて逃れ去るかと見る程の左ハ■■■して取たる腕を捻（つね）ぢかへし白く弱（たよわ）き手を以て荒くれ男の顎（■■）を引しめクッと力を入ると奢（おご）しく件の男ハ■絶（ぬ■■■）せしを左足を揚て丁と蹴（け）る蹴られて何かハたまる■も寄り又一括を入れしかハ男ハ■くるのミ物いへす女ハ直（たヽち）に十三小区の屯所へ其由訴へ出たりとそ此女ハ神田末廣町二十番地宮本常右衛 門か娘にて名を花といひ性質武術を好ミ去年■剣会にも勇名を著せし者といへり ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1978年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "郵便報知新聞 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:大蘇芳年 /彫師:渡辺彫栄 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "宮本花子の怪力に、酔漢目を廻す。(読み下し文_括弧なし:琉球紬に繻子の帯唐人髷も眼／立ねど眼波清しく膚皓く那処やら／儼とした姿容橋本町に来かかりしが／何許の酒店の茶靡漉に酔たりけん／踉蹌として来る男あり出会頭に撞／突り美人に眼の無き酔漢が／溌婦／何すると胸前とつて振廻すを那女子ハ／一笑しその手をとらへて捻返しぐつと／領首牽絞しに忽特地に暈絶せしかバ／早足をあげて丁と蹴るけられて／漢子ハ翻筋計りしバしハ起も得ざ／りしとなり是此女子ハ何ものぞ／撃剣会に名を得たる宮本花子／といふ女とぞ　　　　　　　　　　　亀州漁人記 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "錦昇堂",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0098-0425",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:49+00:00"
+    },
+    "o:id": 11744,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33623",
+            "o:id": 33623
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:32:03+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "郵便報知新聞 ∽項番:98 資料No.425",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/11744/1333099087538.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/11744/1333099087538.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/11744/1333099087538.jpg"
+    }
+}

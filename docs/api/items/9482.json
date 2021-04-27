@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/9482",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "653",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1916",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "26ba2813-e59d-49d8-b90e-356a410b3d6a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "軍管轄区域での航空機着陸時の指令∽653",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "告知／声明",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "線画凸版／活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "4色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "黄、赤、藍、墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "軍管轄区域での航空機着陸時の指令",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "753",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "558",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Republique FrancaiseGrand Quartier General Des Armees FrancaisesService AeronautiqueInstructionsEn cas d'atterrissage d'Aeroplanes sur le territoire de la Zone des ArmeesMarque distinctive.-1°Les aeroplanes allies portent une cocarde tricolore sous les ailes et a chaque extremitie, et des bandes tricolores a la queue.Cocardes FrancaiseCocardes AnglaisesCocardes Belges2°Les aeroplanes allemands ont comme insignes la Croix de Malte sous chaque aile, sur le fuselage et la queue.Croix De Malte Peinte En NoirTout aviateur atterrissant dans la zone des Armees, en dehors des terrains d'atterrissage, doit decliner ses nom et qualites et presenter sa carte d'aviateur militaire aux autorites militaires ou civiles qui se presenteront. Le pilote sera responsable des declarations d'identite des passagers. Atterrissage d'Aeroplanes francais ou allies. - Si l’atterissage a lieu a proximite d'une garnison, le Commandant d'Armes fera assurer le gardiennage de l'appareil. Lorsque l'aviateur atterrit loin d'une garnison, mais a proximite d'une Brigade de Gendarmerie, le Chef de la Brigade assurera, s'il le peut, la garde de l'avion au moyen de son personnel, ou procurera a l'aviateur des hommes de confiance. A defaut de Gendarmerie, le Maire de la commune doit faire assurer le gardiennage de l'avion dans les memes conditions. Atterisssage d'Aeroplanes allemands. - En cas d'atterissage ennemi, le Commandant de la Brigade de Gendarmerie ou le Maire de la commune s'assurent de la personne des aviateurs ennemis et en previennent immediatement le General commandant l'Armee ou la Region.En cas de velleite de remise en marche de l'aeroplane, user de violence pour empecher le depart, en brisant soit la queue de l'aeroplane, soit une roue.L'aeroplane doit etre conserve intact jusqu'a l'arrivee des Autorites Militaires.Au G. Q. G.,le 22 Avril 1916.Pour le General Commandant en Chef.La Major General,PELLE.（軍管轄区域での航空機着陸時の指令／／フランス共和国／フランス軍総司令部／航空局／区別を示す標章について／／１．同盟国の航空機は翼の下部先端に三色の懸章、尾部には三色帯をつけている。／フランス国章／イギリス国章／ベルギー国章／／２．ドイツ軍の航空機は、その目印として翼の下、胴体と尾部にマルタ十字をつけている。／黒色で描かれたマルタ十字／／軍管轄地区に着陸するあらゆる飛行士は、着陸用地の外であっても、その氏名と身分を申告し、空軍の証明書をその場の軍部当局者あるいは文民当局者に提示しなければならない。飛行士は乗客の身分証明書を示す責任を負う。／フランス軍機あるいは同盟国機の着陸。もし着陸が駐屯地周辺であれば、駐屯部隊指揮官が航空機の警備を保証する。駐屯地から離れたところに着陸する時、憲兵隊分所の近くであれば、分所所長が、可能な場合は、部下によって飛行機の警備を保証するか、あるいは信頼できる人物を飛行士に派遣する。憲兵隊兵舎がなければ、市長が同様の条件で飛行機の警備を保証するものとする。／ドイツ軍機の着陸。敵軍機の着陸の場合、憲兵隊分所所長、あるいは市長が敵の飛行士を確認し、直ちに軍総指揮官あるいは管区の指揮官に知らせることとする。／機体の再始動が少しでも判明すれば、武力を行使し、機体の尾部あるいは車輪を破壊し、その出発を妨げることとする。／機体は、軍部当局者の到着するまで、そのままにしておかなければならない。／／1916年、総司令部にて。／総司令官に宛てて。／司令官ペレ）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:16+00:00"
+    },
+    "o:id": 9482,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30021",
+            "o:id": 30021
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:26:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "軍管轄区域での航空機着陸時の指令∽653",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/9482/1332747958669.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/9482/1332747958669.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/9482/1332747958669.jpg"
+    }
+}

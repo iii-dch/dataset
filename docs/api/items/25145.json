@@ -1,0 +1,251 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25145",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "076",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1866",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "794048c6-3f8a-41e1-afba-c31d443a32a8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "焼場方角細見記∽076",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "焼場方角細見記",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "慶応",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "田中",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "ハ慶応二丙寅年十一月九日夜八ツ時頃神田永富丁辺より／出火いたし殊ニ西北風はげしくしてミな川丁へうつり夫より三河／丁三丁めまでやしき少々やけ永井さま御やしきうしろ通り少々／かまくら丁同かし通りのこらず中にとしまや外四五けんのこり／向がしとこミせ少々のこる東ハ松下丁同代地ともしんかハや丁／しらかべ丁しん白かね丁元のりもの丁せき口丁ろうそく丁少々／四けんやしきごとうやしきりうかん丁しんごく丁一たて大工丁／此辺のこらず通りニ出かぢ丁二丁め中ほどより一丁めうし／ろ通り前ハ少々のこる今川ばしあと本こく丁壱十けん店／もんとがしうけをい地本白かね丁本石丁かねふき丁右／がハばかり本丁一丁め左りがハ中程のこり本両がヘ丁／きんざ北さや丁一石ばしをちる本かハや丁するが丁／片かハゑちごや本店のこり両がへだな京だなやける／品川丁同うらがし室丁一二りうがんにくかんばんのこる／通り丁へ出両がハ京ばしまてのこらず西がし丁より／かし通りごふく丁此通りかし北こんや丁までのこらず／中のはしをちる京はしらんかん／やける北へもどりて万丁あを物／丁本ざい木丁かし両か／ハのこらずやなぎ丁／すミ丁まで／此火竹がしにてとまる／それより松やばしをちる／まつや丁同上のうち本八／丁ぼり壱丁めより五丁め迄／のこらず丁御くミやしき／大はんやけをかざき丁／此辺所々の代地のこらず／北じま丁しんぼう小じ／てうちんかけよこ丁代官／やしき少々亀じま丁かし／通りのこらず全六丁ミづ／たに丁同上地与作やしき／たけじま丁北こんや丁／貞ミねやしきかめや／やしきかめざハ丁／南丁ぼり壱三／五代地同二丁め／代地中のはしをちる／永しま丁さいはひ／丁ひびや丁／又元へかへりて／ゑつ中さま／御やしきほそ／川さま少々／しんばばし／やけをちる此火／てつぽうづへうつり南八丁ぼり壱丁めより／五丁め迄両かハのこらず朽木さま井伊さまあわさま／堀田さま土井さまとうとうミさま中川さま御やしきハ／かし通り御長やのこる此辺小やしきやけをく平さま／半やけけんとうばし両小はしをちるてつぽうづいなり／やしろばかりのこる本ミなと丁船まつ丁同二十けん丁ほそ川さま半やけ／松平さがミさま御やしきさむさばしニてとまる御台場表へハ少々やける／此火佃じまへとび石川さまりやうし丁大はんやける翌十日昼六ツ時／過漸火鎮り人々安土の思ひをなす唯火の用心ハかんやうなり／ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0076",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:02+00:00"
+    },
+    "o:id": 25145,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29428",
+            "o:id": 29428
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:10:37+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "焼場方角細見記∽076",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/25145/1332321340741.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/25145/1332321340741.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/25145/1332321340741.jpg"
+    }
+}

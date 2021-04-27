@@ -1,5 +1,5 @@
 .DS_Store
+private
 __pycache__
-src/tools/data
-*.pycdocs/collections/all/metadata/data.json
-.git/objects/pack/pack-1374baa0d4008f915e3e82ec884e1dfb52d3e9d4.pack
+Files
+old

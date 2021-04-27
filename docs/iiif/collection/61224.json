@@ -1,0 +1,202 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/mk",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "蒙古新聞",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d34ae21c-1ec9-4931-a295-034f719e4db6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2464号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/069f1902-a8d9-408f-96bc-128a1b04a37e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2465号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/032f6d21-3c15-4b43-b7b4-b148fb0aa1df/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2466号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb738364-6bf0-42c4-87d5-14421192d1e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2467号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ff35ef4-fb35-456b-bb35-acc8db846bad/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2468号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51e6ae44-120b-4108-b139-e2216c2d3ce6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2469号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1284e413-a7db-4811-8571-bb6cd9b06903/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2470号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4db7a7d8-09b6-46ca-87a8-ce554b235cf2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2471号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba923ac5-c671-47c2-b85b-4e5e2014f16a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2472号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c63c9c9e-1a10-46e9-868a-3be597185561/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2473号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a9753a5-d78a-4cbf-bddb-357d3b8c755e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2486号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/802f2437-660b-4513-ad31-901112aee2d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2487号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/31b05d83-2510-4507-b69c-6caa49d5ae81/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2488号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c6bd3382-492b-4bf4-9d41-f8c7f31768a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2489号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/880e8e27-ecbf-4714-978a-c7294857a98f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2490号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8ea32a2b-d9d3-4c87-9580-fa2b01d030e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2491号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b825ac16-6f35-4677-b06c-e441af4e810c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2492号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/222a9f10-6129-4fd7-bf27-4c8299d25435/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2493号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a6e2cf8-c782-43e4-bf7f-6e83c4736553/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2494号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4ace165-fd86-49c2-afa9-eefa09e1a5d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2495号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8128eead-673c-4f0e-a1f7-77d54d7d768f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2496号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ae74f91-aadd-4a42-97f7-4ad125f0d8e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2497号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/862edc0d-06f0-41bf-ab51-86ca95d09351/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2516号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/524af952-e304-46d7-ac17-3be71933eb2e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2517号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1bc005c1-5490-45a6-a776-011fee5ff4ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2518号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/27b83398-0618-496e-96aa-ffbebec8bddc/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2519号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3bafa86-a121-4628-b78e-5aa31351af09/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2520号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f50a0add-67e3-42cd-b515-a8a610d2c8fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2521号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fbe6709d-e7a5-4041-a5fd-4ac32646a020/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2522号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/27b4c260-aa7f-4006-8f01-48bf783ca2c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2523号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d344850d-4fc8-4d94-b2bc-2c9127eb62a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2524号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/30c5c94b-765a-4b4e-b2ef-ad8d09c7e3e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2525号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09002180-831f-4e0e-b30f-287a1ac15cb6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2526号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb0ad419-6cfb-4eca-a710-198afe2ff91d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2527号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/92aa54b8-f278-4ca1-8a4b-5baf420955c4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙古新聞 2528号"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "蒙古新聞"
+        },
+        {
+            "label": "Identifier",
+            "value": "mk"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/mk",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61224",
+        "format": "application/ld+json"
+    }
+}

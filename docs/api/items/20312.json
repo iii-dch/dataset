@@ -1,0 +1,157 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/20312",
+    "@type": [
+        "o:Item",
+        "ore:Aggregation"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "シリーズ",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ee54f57c-41f8-4b6c-9b7a-6a2c8886c0e3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "坪井正五郎関係資料15の箱",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2287,
+            "property_label": "履歴-所有者（L5-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-003": [
+        {
+            "@value": "坪井正五郎関係資料15の箱",
+            "is_public": true,
+            "property_id": 2289,
+            "property_label": "名称（L5-003）",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-004": [
+        {
+            "@value": "坪井誠太郎 旧宅",
+            "is_public": true,
+            "property_id": 2290,
+            "property_label": "出所（L5-004）",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-005": [
+        {
+            "@value": "主に坪井正五郎",
+            "is_public": true,
+            "property_id": 2291,
+            "property_label": "作成（L5-005）",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-006": [
+        {
+            "@value": "東京大学大学院情報学環・学際情報学府社会情報研究資料センター/図書室",
+            "is_public": true,
+            "property_id": 2292,
+            "property_label": "保存場所（L5-006）",
+            "type": "literal"
+        }
+    ],
+    "ex:l5-010": [
+        {
+            "@value": "坪井正五郎が収集、作成した資料",
+            "is_public": true,
+            "property_id": 2296,
+            "property_label": "範囲と内容-概要（L5-010）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:51:52+00:00"
+    },
+    "o:id": 20312,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:56:41+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/137",
+        "o:id": 137
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/81",
+        "o:id": 81
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "坪井正五郎関係資料15の箱",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16017",
+            "display_title": "坪井正五郎関係資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16017,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

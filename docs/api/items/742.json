@@ -1,0 +1,226 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/742",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "NIS_19190101",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "16",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "121",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1919-01-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "545×400mm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "43fff0df-1691-4381-8bff-18a7367b9435",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "日本糸物新報社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "日本糸物新報 121号 (1919-01-01)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-17T23:48:39+00:00"
+    },
+    "o:id": 742,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35014",
+            "o:id": 35014
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2494",
+            "o:id": 2494
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2495",
+            "o:id": 2495
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2496",
+            "o:id": 2496
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2497",
+            "o:id": 2497
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2498",
+            "o:id": 2498
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2499",
+            "o:id": 2499
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2500",
+            "o:id": 2500
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2501",
+            "o:id": 2501
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2502",
+            "o:id": 2502
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2503",
+            "o:id": 2503
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2504",
+            "o:id": 2504
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2505",
+            "o:id": 2505
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2506",
+            "o:id": 2506
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2507",
+            "o:id": 2507
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2508",
+            "o:id": 2508
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2509",
+            "o:id": 2509
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:21:03+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "日本糸物新報 121号 (1919-01-01)",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/486",
+            "display_title": "日本糸物新報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 486,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/742/nihonitomonoshimpo1_0002.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/742/nihonitomonoshimpo1_0002.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/742/nihonitomonoshimpo1_0002.jpg"
+    }
+}

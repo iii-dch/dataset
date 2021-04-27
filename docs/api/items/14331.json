@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/14331",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "348",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2fdbe54f-ab88-4890-a007-dfe05aa07949",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "なぜドイツは平和を望んでいるのか∽348",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "戦意昂揚",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "アメリカ",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "Publications of the Committee on Public Information",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "2色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "赤、墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "なぜドイツは平和を望んでいるのか",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "C. S. Hammond &amp; Co. N.Y. （地図）",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "776",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "518",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Why Germany wants peace.The Secret of Germany’s Peace OffersThe Central PowersPopulation(in Round Figures)Germany 68,000,000Austria-Hungary 52,000,000Bulgaria 5,500,000Turkey 21,000,000146,500,000The Occupied TerritoryBelgium 6,500,000Northern France 6,000,000Russia 63,000,000Serbia, Montenegro 5,000,000Roumania 6,000,00086,500,000To-day Germany controls 233,000,000 people.That is why she wants peace.Atlantic OceanIrelandGreat BritainDublin WalesScotlandEdinburghLondonBay of BiscayParisFranceBasleSwitzSpainMadridMediterranean SeaLisbonPortItalyRomeChristianiaNorwayDenmarkSwedenCopenhagenStockholmBaltic SeaPetrogradRussian EmpireMoscowUral Mts.Lake Aral Caspian SeaHollandBelgiumGermanyHamburgRv. ElbeR. RhineBerlinBreslanPlagueCracowLembergVernaAustriaTriesteR. DanubeBudapestHungaryBelgradeR. VistulaPolandOddesaRoumaniaBucharestSerbiaMontenegroAlbaniaNishSofiaBulgariaSalonicaGreeceAthensConstantzaBlack SeaConstantinopleTurkish EmpireKoniaCyprusDamascusAleppoMesopotamiaTangierSPTERRhabatMoroccoAlgeria (French)Tunis (French)Tripoli (Italian)EgyptCairoSuez CanalWay HalfaAnglo-EgyptianKhartumSudanEritrea (Italian)AbyssiniaHodeidaAdenF. R. SomalilandB. R. SomalilandGulf of AdenSocotra (British)Italian SomalilandPersiaAfghanistanIndiaAssuanRedo SeaMedinaMeccaArabiaPersian GulfOmanArabian SeaThe Pan-German Plan as Realized by War in Europe and in AsiaMarch 16, 1918“Central Europe” and its Annexes in the Near East (Germany, Austria-Hungary, Bulgaria, Turkey)Territory Occupied or Controlled by Central PowersThe Entente PowersTerritory Occupied by Entente PowersNeutral PowersGermany’s Main Route to the East (Berlin-Bagdad, Berlin-Hodeida, Berlin-Cairo-Cape)Supplementary Routes (Berlin-Trieste, Berlin-Salonica-Athens, Berlin-Constantza-Constantinople)Uncompleted SectorsEvery American ought to know why we entered this war. Every American ought to know why this conflict must continue our aims are achieved. The publications listed below will give you this information.Publications of the Committee on Public Information(Established by Order of the President, April 14, 1917)10 Jackson PlaceWashington, D.C.You may receive free (Except Nos. 2, 3 and 7) any two of these Publications. Ask for those only which you will read:1.（Red White and Blue Series1.）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:25+00:00"
+    },
+    "o:id": 14331,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30411",
+            "o:id": 30411
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:39:21+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "なぜドイツは平和を望んでいるのか∽348",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/14331/1332749815915.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/14331/1332749815915.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/14331/1332749815915.jpg"
+    }
+}

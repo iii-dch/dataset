@@ -1,0 +1,212 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56644",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "SKS2-19321128",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "1520",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "386×270",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "043b5a86-7dbb-4d89-87c9-e263fe3cbd07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "新聞興信所",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "新聞興信所報 1520号",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/SKS2_TIFF/SKS2_0296.tif/full/200,200/0/default.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-13T04:01:51+00:00"
+    },
+    "o:id": 56644,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61212",
+            "o:id": 61212
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58224",
+            "o:id": 58224
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58225",
+            "o:id": 58225
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58226",
+            "o:id": 58226
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58227",
+            "o:id": 58227
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58228",
+            "o:id": 58228
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58229",
+            "o:id": 58229
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58230",
+            "o:id": 58230
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/58231",
+            "o:id": 58231
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:24:00+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "新聞興信所報 1520号",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/53514",
+            "display_title": "新聞興信所報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 53514,
+            "value_resource_name": "items"
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/56644",
+            "is_public": true,
+            "property_id": 342,
+            "property_label": "seeAlso",
+            "type": "uri"
+        }
+    ],
+    "sc:viewingDirection": [
+        {
+            "@id": "http://iiif.io/api/presentation/2#rightToLeftDirection",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "viewingDirection",
+            "type": "uri"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/2a685ebb192128ede1da46778aa429fe15efad32.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/2a685ebb192128ede1da46778aa429fe15efad32.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/2a685ebb192128ede1da46778aa429fe15efad32.jpg"
+    },
+    "uterms:manifestUri": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/043b5a86-7dbb-4d89-87c9-e263fe3cbd07/manifest",
+            "is_public": true,
+            "property_id": 2843,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

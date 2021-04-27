@@ -1,0 +1,75 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/7929",
+    "@type": "o:Media",
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 800,
+                "width": 534
+            },
+            "medium": {
+                "height": 200,
+                "width": 133
+            },
+            "original": {
+                "height": 3000,
+                "width": 2002
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "4面",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-26T23:34:03+00:00"
+    },
+    "o:filename": "2465/shimbunnonihon7_0175.jpg",
+    "o:id": 7929,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/2465",
+        "o:id": 2465
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-26T23:34:03+00:00"
+    },
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/2465/shimbunnonihon7_0175.jpg",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "725d82d1864b7fe9a8b0562754fd82fe14084f7768f375fa6a157a9bfa8e017d",
+    "o:size": null,
+    "o:source": "https://webpark5032.sakura.ne.jp/tmp/SN/shimbunnonihon7_0175.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/2465/shimbunnonihon7_0175.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/2465/shimbunnonihon7_0175.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/2465/shimbunnonihon7_0175.jpg"
+    },
+    "o:title": "4面",
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/2465/shimbunnonihon7_0175.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/2465/shimbunnonihon7_0175.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/2465/shimbunnonihon7_0175.jpg"
+    }
+}

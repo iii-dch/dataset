@@ -1,0 +1,217 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61168",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "dcndl:price": [
+        {
+            "@value": "80",
+            "is_public": true,
+            "property_id": 280,
+            "property_label": "Price",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1952-07-01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "涼風号",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "発行人: 山内達一",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "編集人: 山内達一",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "本誌（付録）／掲載誌（単行本）: 本誌; 7月号",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "広告　他社: 「蟹工船」; 「ここに泉あり」; 「雲ながるる果てに」; 「サイパン最後の日」; 「株式会社・日本科学映画製作所　その他",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙カバー有無; 色: 無",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "表紙色; 紙質: モノクロ; ソフト",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "印刷インク色: 黒; 表紙にロゴ□あり",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "頁数: 82",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "自由記述: 表紙=香川京子; 希望対談・第二回; 五所平之助ー木村荘十二「中国映画界にまなぶ」; 今月の作家訪問　野田高梧・溝口健二; 多喜二の青春　伊藤聖; 映画\"蟹工船\"の原作者についての回想; 映画音楽悲観論　芥川也寸志; 座談会; 思い出すキサマ、オレの気分; \"雲流るる果てに\"の撮影現地でー（出席者）鶴田活二・木村功・高原駿雄・沼田曜一・中尾駿一郎・若山一夫・家城巳代治・直江重安; 活ちゃんと功ちゃんの一騎打（\"雲\"口手記）; 映画ものがたり; \"夜明け前\"; \"冬の旅\"; 作品月評　山内達一; 映画界の動き　S.M.K; ルネ・クレマンの\"禁じられた遊び\"　青山敏夫; アメリカ映画の手帖　瓜生忠夫; 日本映画紹介ー「次郎長と石松」東宝・「青色革命」東宝・景子と雪江　松竹京都; 外国映画紹介ー「恐怖の一夜」サミュエル・ゴールドウィン; 「情炎の女サロメ」コロンビア; 「錨を上げて」M.G.M; 「悪人と美女」M.G.M; 「ジェット機・M7号」トウ・シティズ; \"冬の旅\"ニューフェイス審査のぞ記; スタジオ8（エイト）をたずねてー映画音楽のきこえる場所; 短篇映画・移動映画（コラム「女ひとり大地を行く」; 「村八分」; 「東京メーデーの記録映画; 「京浜労働者」; 「米」; ひろば; 第一グラビア（日本映画）; 「日本の顔ー田中絹代」; 「雲ながるる果てに」; 「獅子の座」; 「慾望」; 「日本の悲劇」; 「花の中の蛇たち」; 第二グラビア（外国映画）; 「人生□桜」; 「太陽は光り輝く」; 「ガラスの城」; 「純愛」; 「オリヴァツイスト」; 「スヌ頭の鷲」; 「大音楽会」; 「ビイヴァ」; 「赤い風車ムーランルージュ」; シナリオ\"蟹工船\"; カット森香男; カメラ河合肇",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "260×180×5",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e065c880-97c3-4f04-a303-2309c5ff2bc2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "世界映画社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "日本映画　THE NIHONEIGA",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/files/thumbnail/oi/103.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "uri"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-15T03:16:47+00:00"
+    },
+    "o:id": 61168,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61210",
+            "o:id": 61210
+        }
+    ],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:25:25+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "日本映画　THE NIHONEIGA",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/61064",
+            "display_title": "大井第一小学校寄贈資料",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 61064,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "uterms:sort": [
+        {
+            "@value": "OI103",
+            "is_public": true,
+            "property_id": 2845,
+            "property_label": "Sort",
+            "type": "literal"
+        }
+    ]
+}

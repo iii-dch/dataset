@@ -1,0 +1,206 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10839",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:244 資料No.42",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "59c26b6a-aa96-4d31-bcb7-e39acbdf9853",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大阪錦画日々新聞紙∽項番:244 資料No.42",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "郵便報知新聞第六百八十五号 ○南品川宿五丁目八十番地蒸気船水夫田中市五郎と云ふ男は昨年二月中女房を置去り家でして跡は鼬の路を切りたる如く何所へ往しや更に音信もせさりし事既に丸一年と四月余りに至りけれは女房は暮し方に困り今日を送り兼て心に染ねと拠なく夫の同職何某に親み漸く凌き居たりし然るに市五郎は去月二十四五日頃不斗近辺へ来り自分留守宅の様子女房が暮し方を委敷承り間夫もある由聞くと均しく立腹し直に己か家に飛入りて女房か首根子を押へて始末を一々糾し問ひ終りて口へ捻藁を頬張らせ有合ふ夏大根の手頃なるを折て牝戸に押込み火筋を焼きて火の如くし手足体の厭ひなく押当押当する程に半死半生になしりかは跡を暗まし逃去たり余の事の非道を恨ミ女房及ひ其母と二分庁の五署へ出訴に及ひしに市五郎は早速召捕られ昨今御吟味中なり ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1912年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "大阪錦画日々新聞紙",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:二代貞信/彫師:ホリ忠治 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "東京で車夫が妻を殺す(読み下し文_括弧なし:東京南品川宿五丁目蒸気船水夫田中市五郎ハ明治七年二月より／女房を置去り家出して丸一年と四カ月あまり幸さきわるき／鼬の経切り暮しに尽て女房ハおつとの同職何某と／心に染まらぬ親しみにようよう凌ぎいたりしに／今年五月の末の頃おつとハ近くへ／廻戻り家の様子を委しく／きき焼つけもせぬ気の石炭／我から炎を倍にして轟ろく／胸の早車張さく筒先内へ入／女房が首筋引おさへそぞ／ろに始末を礼すや／いな口へ捻藁ほうばら／せ火箸をやきてこかして手足五体に押／当てる半死半生火宅の責苦非道を／たどる恋の鬼跡くらませし事を／うらミ／母と女房が廰へ訴へ直に／市五郎ハ召とられ昨今／御吟味中なりと報知六百八十五号／ニ出せり／文花堂誌 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0244-0042",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:36+00:00"
+    },
+    "o:id": 10839,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33689",
+            "o:id": 33689
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:29:49+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大阪錦画日々新聞紙∽項番:244 資料No.42",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/10839/1333099123200.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/10839/1333099123200.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/10839/1333099123200.jpg"
+    }
+}

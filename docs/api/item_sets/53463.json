@@ -1,0 +1,41 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T04:59:46+00:00"
+    },
+    "o:id": 53463,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items?item_set_id=53463"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-18T00:41:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "小野秀雄コレクションかわら版",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

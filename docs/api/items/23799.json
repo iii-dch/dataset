@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/23799",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "652",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1917",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ca9c218b-2d40-448f-8daf-40007c786350",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "第3回国防公債∽652",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "募債",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "1色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "第3回国防公債",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "1094",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "715",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Republique Francaise 3e Emprunt de la Defense Nationale(Loi du 26 octobre 1917. -  Decret du 31 octobre 1917. ・Arrete ministeriel du 1er novembre 1917.)Taux Nominal : 4%. ・Prix d'Emission : 68 fr. 60Revenu Reel : 5.83 %.La souscription publique sera ouverte le 26 Novembre et close le 16 Decembre 1917.Le Prix d'Emission est de68 fr. 60 pour les souscriptions liberees immediatement ou a la repartion69 fr. 20 pour les souscriptions liberees en quatre termesPar 4 Francs de Rente.Les rentes a emettre porteront jouissance du 16 decembre 1917 ; les arrerages sont payables les 16 mars, 16 juin, 16 septembre et 16 decembre de chaque annee. Elles Sont Exemptes d'Impots. Elles ne pourront faire l'objet Ni de Remboursement, Ni de Conversion avant le 1er Janvier 1943. Les souscriptions liberables immediatement ou a la repartition sont recues, a partir de 4 francs de rente, pour tout nombre entier de francs de rente. Les souscriptions liberables en quatre termes sont recues pour tous multiples de 4 francs de rente.Modalites des Souscriptions.Les souscriptions peuvent etre liberees, soit en valeurs, soit en numeraires.I. Souscriptions en Valeures :Elles Sont Irreductibles.Elles doivent etre acquitterees immediatement pour le tout : En bons de la Defense Nationale, Obligations de la Defense Nationale (Decennales ou Quinquennales), Rentes 3 1/2% Amortissables.L’appoint necessaire pour porter la souscripition au minimum de 4 francs de rente ou a un nombre entier de francs de rente doit etre verse aussitot par le souscripteur.II. Souscriptions en Numeraire :Les souscriptions en numeraire Sont Irreductibles jusqu'a Concurrence de 300 Francs de Rente.A.（Souscriptions en Numeraire Inferieures ou Egales a 300 Francs de Rente.Elles doivent etre acquittees immediatement pour le tout, a moins que le souscripteur ne demande a beneficier de la liberation en quatre termes echelonnes de la maniere suivante :Par Francs de Rente. Pour 4 Francs de Rente. 1er Terme : Le jour de la souscription … 3'00. 12'00. 2e Terme :  A la date qui sera fixee par le Ministre pour la repartition … 5 00. 20 00. 3e Terme : Le 10 mars 1918 … 4 30. 17 20.4e Terme : Le 5 mai 1918 … 5 00. 20 00.Total … 17 30. 69 20.Un delai de dix jours est accorde pour le payement des 2e, 3e et 4e termes. Apres ces delais, des interets de retard au taux de 6% l'an seront ajoutes au montant des versements.B.Souscriptions en Numeraire Superieures a 300 Francs de Rente.Elles doivent etre garnties par versement immediat de 3 francs par francs de rente, qui peut etre remplace par un depot de valeurs du Tresor.Le souscripteur peut opter pour le versement en deux termes, ou pour le versement en quatre termes, s'echelonnant de la maniere suivante : Versement en Deux Termes :Par Francs de Rente Attribuee. Pour 4 Francs de Rente Attribuee.Le jour de la souscription (versement de garantie) ……3’ 00. 12’00.A la repartition (versement de liberation) ……14 15. 56 00.Total …… 17 15. 68 60.Versement en Quatre Termes :La liberation en quatre termes de ces souscriptions est soumise aux dispositions indiquees ci-dessus.Un avis insere au Journal officiel fera connaitre la date de la repartition, et s'il y a lieu, les conditions dans lesquelles les souscriptions seront reduites pour la portion superieure a 500 francs de rente. Les excedents de versement seront rembourses aussitot, sous deductions des sommes exigibles a la meme date sur le prix des rentes attribuees.On Peut Souscrire :A Paris et dans le Departement de la Seine :A toutes les Caisses publiques enumerees ci-dessous :Caisse centrale du Tresor public (Pavillon de Flore ) : Recette centrale des Finances de la Seine (16, place Vendume) : Caisse des Depots et Consignations (56, rue de Lille) : Recette municipale caserne Napoleon, (derriere l'Hotel de Ville ) : Caisse des Receveurs-Percepteurs de Paris et des Percepteurs des arroundissements de Sceaux et Saint-Denis : Caisses des Receveurs des Postes et des facteur -  receveurs : des Receveurs de l’Enregistrement et des Conservateurs des hypotheques : des Receveurs principaux et des receveurs particuliers sedentaires des Contributions indirectes : des Receveurs des Douanes.A la Banque de France (rue Crois-Petit-Champs) et a ses succursales et bureaux auxiliaires :Aux guichets des Caisses d'eparge (seulement pour les souscriptions immediatement liberees ).Dans les Autres Departements :A toutes les Caisses publiques enumerees ci-dessous :Caisses des Tresoriers-Payeurs generaux : des Receveurs particuliers des Finances : des Percepteurs : des Receveurs des Postes et des facteurs-receveurs : des Receveurs de l'Enregistrement et des Conservateurs des hypotheques : des Receveurs principaux et des receveurs particuliers sedentaires des Contributions indirectes : des Receveurs des Douanes.Aux succursales et bureaux auxiliaires de la Banque de France.Aux guichets des Caisses d'epargne (seulement pour les souscriptions immediatement liberees ).En Algerie :A toutes les Caisses publiques enumerees ci-dessous :Caisses du Tresorier general et des Payeurs principaux ou particiculiers : des Receveurs des Postes et des facteurs-receveurs : des Receveurs de l'Enregistrement et des Conservateurs des hypotheques : des Receveurs des Contributions diverses : des Caisses d'epargne (seulement pour les souscriptions immediatement liberees ).En Tunisie et au Maroc :A la Caisse des Tresories generaux et des Comptables du Tresor francais.Aux Colonies :A la Caisse des Comptables du Tresor.Aux Armees :Aux bureaux des Preposes-Payeurs.seulement pour les souscriptions entierement liberees.）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:52:42+00:00"
+    },
+    "o:id": 23799,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30014",
+            "o:id": 30014
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:06:46+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "第3回国防公債∽652",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/23799/1332747955537.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/23799/1332747955537.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/23799/1332747955537.jpg"
+    }
+}

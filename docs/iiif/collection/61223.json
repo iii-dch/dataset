@@ -1,0 +1,2037 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/mky",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "蒙疆新聞",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c558894-afde-4a37-9819-29532422e11f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1499号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/90d27b10-7824-4f77-828f-d1098ddea51d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1500号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e70cd41-4c81-42a6-8139-9ec6f24961c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1501号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f8568e9a-e186-4f08-bfdd-ab57095b706c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1502号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f329522-8c43-45a7-b27c-3bf427245972/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1503号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/870b02b8-b471-4544-89d8-e295a5a59c14/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1504号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4103c99b-4f0b-43e9-bef4-702cdfd6a446/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1505号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/741b5820-aa0c-4b59-bdff-0a10514beceb/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1506号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4e9d4b17-45d8-486e-999b-8666c8f7db92/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1507号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/931a9b8f-9083-46b3-b787-7d4a095748e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1508号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ee6a04e-98ad-45a2-8fe9-18bc5ca6e48e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1509号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d521a2c-ba39-4526-8594-8d16f225c0cf/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1510号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd56d43e-fa87-447e-b991-70fe1f94d134/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1511号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2db3cff1-0309-446c-af7b-f6670d134140/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1512号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d183e815-9b3c-4235-9c7b-3ee1ed5e037b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1514号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b72f1c7a-1e59-436b-88b4-d449bc47f758/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1518号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a248cd3-3469-4292-9de5-3d6b9c6f81a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1519号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/526b8777-6aad-4517-aee9-d27c7b749e26/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1521号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7d0b065e-c4e7-4df6-8bc8-7d83873bd7f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1522号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c8fea2d3-954e-452b-8ac2-1c0e7cd7da0e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1523号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71cf6f36-ae98-427c-b46c-6c94c878a94b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1524号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/924f5689-c9af-4e37-b2b3-9186165897a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1525号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/573abf81-21ef-4c7a-bf4f-38be3336bd9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1526号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/06c2212f-078c-42e0-a843-1ec42800f382/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1528号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f4b4aed-aaad-44dc-8c4c-99de53327652/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1556号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9bf1aae-0020-4792-9d84-61dceb206d4a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1557号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/921e99bc-6f4c-4a3b-b6e8-04cc05b4bb2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1558号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7e3c1cc-a894-4fa8-9985-3484d35c4ccd/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1559号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/186bd079-399f-4677-9021-eda26f7ccb6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1560号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/657fe7a1-9645-44ad-bd7c-78c37114eea7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1561号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69c50d78-a842-4641-ace8-9468632ea48b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1562号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/67963a6a-7308-471b-8f80-da9d7d3bbb3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1563号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4ccd6952-3f91-46ad-902c-45c880399586/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1564号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/583e465e-0bd9-45f3-bdf2-0a927c8a7169/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1565号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0734879c-4a44-4762-82d4-6d489572f390/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1566号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6bb6f19a-fecc-4b87-abef-7361a7b718d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1567号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ebd7e1cd-3791-452e-90f2-08b4171903f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1568号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eef5c121-1c4c-4ec8-bc1a-2fcd0015d303/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1569号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6253ac4-13c2-423b-8157-427eb11f0215/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1570号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a84874a0-97ca-4c8c-bcc1-4e40c2311fbe/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1571号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be00e35d-d182-474d-9ba1-4401420b8e49/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1572号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97f3c181-fb36-4ebe-8d50-6fa09deb4db6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1573号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce45c0f6-e3ad-47df-89e3-cddccc65d6c1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1574号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/56db3d39-fb55-400d-9f83-df43625655c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1575号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0cb43ca2-719f-4b00-afff-3dc42803e60d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1576号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d6bbe7b-377c-42d3-aafb-2b99099d69b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1577号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ac108c7d-98c8-41b8-a580-52ae829ad594/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1578号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a27ac62e-3930-469a-b37f-7c564e12022d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1579号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb87fc38-5e5b-44d6-a3b3-fc41f6bb3dc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1580号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9d2b859-b70f-4f94-baeb-c38c39212c7c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1581号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/287829af-6128-4506-ab27-9d5ecaad5c57/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1583号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49f4f181-e4cd-4161-a8ee-fe0953ee8e25/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1584号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4a258e2-067b-4edd-b007-7d591fa4b23e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1585号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/997807c9-1819-46b7-bb59-fc05671bd9c8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1586号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29f0512d-d36a-47e3-a813-54e01d54a251/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1587号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3391be41-0a32-49fd-a88e-40a7f663ebf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1589号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11776ce2-3ebf-488c-be4b-640ee7531df3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1737号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e2117b65-b80f-41be-8785-fcb4e357229c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1738号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c99c8b5-6c79-4aa4-8641-cbece8e219e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1739号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee914cea-39a5-4458-b1ab-b9d1e38ab7ed/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1740号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9844bde7-a373-43c3-8b84-c7f840a731ff/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1743号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1630c39a-ac04-47c0-b550-1faab53c8052/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1744号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa971473-a603-4ad6-9083-317658d211fe/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1745号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88063581-7410-4820-8496-25f94021b201/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1746号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6df0970e-6fb6-47bb-9de7-8f73fbb45afa/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1747号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ffd83183-192b-46a4-b4eb-c5620cdbb2b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1748号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/40cff8d1-caeb-4126-983c-08d769476c81/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1749号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d9e22e06-d1aa-4227-9d3c-b86cbfcdf512/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1750号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3b3332e1-1959-41de-b223-52ec4296bba1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1752号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/daa4c455-976e-4fa0-a221-74e3841fe978/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1753号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37a9cc29-f84b-40d6-b713-33a24dd9ee0d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1754号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/944afe13-6374-4e57-b47e-37d38f85edb2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1755号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb2fb367-d5a2-4c66-bb78-349567e16244/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1757号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b438655-9b67-43cd-9a88-ba8430fd0ac7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1758号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a7a97aa-5ae0-4e6f-8ea0-901e2704f2c5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1759号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b28dc5fc-0f7d-48bb-b7af-08410e9b87ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1761号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38e2ed48-d84a-4481-affb-5d6002d8d14e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1762号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df283ab4-5052-4064-bd3c-7b07869fc987/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1763号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e3bd0974-b202-4bc8-a13f-40cb06b13308/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1764号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d646929c-ff0a-4f7c-a375-5346585656c6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1765号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/680e00d5-a390-4cde-b270-ed145e27fe4a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1766号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34bb5a96-cdb1-4223-979e-cc2a06fdd791/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1767号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/174b3638-725f-4979-b9fb-1a8246ebba33/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1770号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/249245b6-a50a-4857-931d-45a79d69a45f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1771号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c582c2de-1d3c-4e31-ac8a-20cd33f10e5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1772号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/997563a7-2f96-44f8-aede-d6dac3b9712b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1773号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f262900-8c38-4924-85a6-78092e3440db/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1774号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba60c7e6-6a87-42bd-ae51-b99b4d0d4900/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1777号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/81f7f6b0-51d1-4d87-b748-4047bd38520c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1778号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/909d744a-cc0c-4830-bfed-d2a9b070c852/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1779号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8290482d-d9c9-4126-acf9-cb2be65cc321/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1780号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e3d90a9-ade5-4332-9dd2-9bb9102f0dfd/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1781号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9cb57d8-dc6c-47e4-93c8-87bf0d4555bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1783号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12a13a69-8ae3-47f4-b6da-cd30c44d77ac/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1785号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a808306-941e-408e-9ea8-b4b6c0ce6b0c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1786号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3f247b24-f92b-463c-b3ea-e7fe902400a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1787号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3577311-cef1-4be3-849d-c148c1524747/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1788号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a3c2f4d-48e1-4aeb-934e-ab7deb1f1e42/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1792号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/99b455bf-dd8d-4a34-994c-35e3cd27be07/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1793号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1138eb17-22a8-47c2-bec9-439012a4a5a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1796号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3cc3500c-b398-44b5-9f66-95e8fc5274a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1797号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1e4270e-2a35-466d-b24f-a6c3c66b9649/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1799号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9e69a08-7a70-4f49-96e1-af12bcc56bee/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1801号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2754342-72b0-482c-9a2c-f71ae22658cd/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1802号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7971eb4e-d5f7-4630-bf23-cbd3b498425a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1803号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49312c23-d385-44e6-952c-70d73f4fe298/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1804号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2f12927-3206-4cac-8f97-d8e11acd254f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1805号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/32a8aa91-e83e-4264-ba39-64ff87e55a15/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1806号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e777e9f-6f0f-4728-9a73-ac9152c0ac6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1808号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9736aea4-ac1b-4861-aaed-303fe93defa3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1809号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1bdf4c99-0a76-42aa-9ec3-b5f8d0937dc5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1810号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a35920b0-4db3-4d2f-9384-05a9d43b16a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1811号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/24ba9bc5-9509-46aa-9492-aafc9d1a2eda/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1812号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c404008d-8ef2-477c-8c46-9ee131229e11/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1813号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a937007b-a462-4cf4-ab73-a52af9c21691/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1814号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f55fe560-fe1d-4715-83d8-7bbcb9802162/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1815号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6a715d8-ec9b-4941-8daa-164ff7e6d6b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1816号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/60c22416-abac-4c89-b282-c98260b33e3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1817号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16ff0470-6391-47cd-be68-3cad0c911cdd/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1819号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/63562c8d-028a-4e92-9465-70f7f5ae0c3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1820号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f698b916-0f52-4dbb-bdcb-34b7ef6837e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1821号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb24e801-cbb9-4da2-97ac-39bb6f5aad2c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1822号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3047bcc3-d394-40a7-a8e1-708e4c928e46/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1823号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3928241a-8e84-47dd-9889-a3fd89f9e7fe/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1824号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a63d6d9-6730-4c91-966e-852118ba1698/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1825号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f62556d3-bb2f-492a-917b-b70ca393a509/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1826号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/013ce5d4-d064-4aa4-8adf-b7bb9201b598/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1827号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b264494b-d99a-4f23-8c8a-de5d05f89e8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1828号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fa19db7-e54e-4a39-b04d-25373cacbf27/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1860号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/173b72a1-3824-4c2b-a979-472704538bda/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1861号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/740612cf-6c6e-4375-b43b-6c275f35e8ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1862号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea1d0f65-e39d-40b8-9d1a-718aa091a011/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1863号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ba642f2-7684-4b77-bed2-6dcbd6e64a22/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1864号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/948d43ea-867e-47a9-930e-a8ab9bb51d21/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1865号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f3fc014e-568b-42a8-ba18-83ec4475c16b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1866号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7072d328-d80c-4945-aba4-58a8228578f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1867号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6146fc1c-6e53-42e8-bf4f-c519e319657a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1868号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15c93626-9991-4f13-8c11-2ee785dbb3d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1869号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e5f8ba1d-a3c2-4427-99eb-fa7f971dcc9e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1871号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b1c2231-849b-458d-a3da-34459e46dc29/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1872号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/05d5c99c-4d66-48b0-90bb-6b9cf9ebaf18/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1873号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16a1c5e8-b00d-447e-bdb3-a852d5f6bb72/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1874号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ffc88255-59ed-4f53-94a2-d24a76f515d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1875号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f824ee6-ae12-4d05-8d39-047ffa1179c8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1876号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/55f90e0d-4e8a-4874-807e-a571becb386d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1877号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef207d82-41f6-478d-ba86-d4d84497e882/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1878号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc019da2-e996-4610-9efd-803f22dede2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1879号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/664857ee-fdca-42fd-be9e-cd2349c1a03e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1880号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a44fa4d-01f7-4e7d-9264-17759e1e6dc6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1881号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/73464429-3bb9-4149-8aa7-e42bb3734990/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1882号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/92c8df79-ee9a-4a7e-b876-d4409f3d684a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1883号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1521b1c-c988-48c5-bb43-2eb6f8622288/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1884号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2bcc485-f428-4b05-8cc7-7c9bd90c574d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1885号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0aef90c-b4a6-4284-98e5-7fb57c8c0b74/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1886号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3490bb7-1074-4706-8fe0-0a72aa5de49c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1887号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dea1dd98-1690-46a6-86f2-7699c1795404/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1888号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fa1b3cb-eab7-427b-be5d-fd2de4c3fd23/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1890号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2e2e6347-9a3e-4aaa-9325-06d89718ec9c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1891号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/14e309e9-b440-4b04-83e3-a2c8035c4a06/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1892号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ba21f78-f015-4b4a-8b5d-b7937a03171b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1893号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e535f7c0-a6fc-42ac-9926-6eed179fa2fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1894号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/069c6e25-2d40-433c-9d02-df998542d471/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1895号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6a5ce553-63c8-4e15-8663-e564fe953e0b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1896号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9db1c1b5-786d-479c-ba24-2382aaed019d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1897号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97595384-5b56-4773-9d4d-9a4ba57f9311/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1898号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c546b5d9-a85e-4797-be00-10ec189cd53b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1899号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cc959f2a-5639-45a1-83f3-9bac6ba51ee5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1900号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2e087c72-03bb-41c9-9e16-1e0bf9c176b1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1901号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f12596bf-155c-4dda-87dc-4e32ee444b72/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1902号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/afbd6737-fbde-41c6-9c8e-c72e01560811/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1903号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b583cfad-6853-4b2e-9c37-7f0cca1cc935/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1904号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9849a355-09df-4bb9-bad7-577163194b91/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1905号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6bf0e6bb-4c71-4a35-bb93-910d1bc313e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1906号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65f16aa9-34cc-4bd7-9c52-e694319333a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1907号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f851786-0b25-4e6b-8551-2fe3d0a9d227/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1908号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/045b3c0e-d4e3-48a9-ac30-adf742c11993/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1909号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f05bd869-8960-4cf8-a60f-9b080e2b4e03/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1910号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16d9e41d-e964-40ef-9913-6a910e350800/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1911号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5044625c-41b5-43ea-b312-300e4045a63f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1912号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2557637d-8047-4a7f-add0-9b7d2e57c525/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1913号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8b51596f-b910-4ac9-9906-7ac79942341e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1914号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7516fe83-dfbe-4b5a-97f9-04796fe5eab6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1915号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/81bcf6f0-af1e-40f2-bafd-5dfa0c834c22/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1916号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0ae026b-24ce-49a8-b16b-94309e51febe/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1917号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b81e6a61-316b-4673-8e2b-52fd149c373d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1950号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ac480a4a-1719-436b-b691-36ee754cd7bd/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1951号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef2058f0-f805-4da3-afba-c650ce467213/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1953号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1ccd433-ebbb-4230-8bad-f27f678f97fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1954号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8007a766-bd01-471d-a4f0-049a3530bf39/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1955号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b50aeb2c-672f-4018-9a7d-0ed2242abd3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1957号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6a4fbb7-5378-495c-a1ef-53908b3eebf8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1958号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7e3bb8e-3b8d-461e-b890-dbb005587452/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1959号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7702a1de-2712-4259-bb13-d6953d44bb92/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1960号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5adad447-0c67-4bd6-bd64-95ccdaf0f0fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1961号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f483c1a9-1884-4906-a90f-ec28ca23df22/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1962号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c9b6871-3fce-47e0-8533-efc5b1efa219/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1963号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fc790b2e-bf01-4055-bc90-41747a5136de/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1964号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/144457a9-b2e9-482c-b726-2da99203f021/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1965号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c6aa4fe3-5f25-4c81-8ce2-f0f1f91a882c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1966号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/%23NUM%21/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1967号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e3babbb-1f52-40ad-9c6c-721710f2f9a9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1968号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7324c190-e5d4-4750-8c2b-2f0eee408291/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1969号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0be82e39-6c5f-475b-b05a-c71522c3ce9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1970号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/45c3e4e2-1c4f-4f14-bbe8-53382734772c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1971号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b0b2eca-31c2-4800-9635-5c711ae23d2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1972号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6feac828-3329-45d0-96dd-695b21339ce2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1973号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8c9cb905-9a9a-4162-b764-29b9f40bb940/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1975号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e06471f-637a-484e-b580-b62d671a7b68/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1976号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/295cbaee-ef1b-41bf-b026-5431152b7969/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1977号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/280e86f9-d826-4652-b25a-7ca89a9ff506/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1978号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8e2be357-c089-45ac-ac03-691111634d2d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1979号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b7a0f03-58f9-49ba-b4a2-4df38828f02f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1980号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6405b94-b6bf-464b-a73a-16849cc67d3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1981号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d536ce31-650f-4f02-a89c-7a418b612ee7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1982号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7dbfc7aa-c252-420b-8380-7d90bbd17135/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1984号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5fc911f-7877-4dbf-8fd4-54dc6fd07472/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1985号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a78f3aba-4f2c-4b9b-b970-fd727cef3ab7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1986号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c7c1be87-7acc-4b7a-b030-c30835d1cfa2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1987号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e21d0992-f9a3-4df2-a1db-ef79c7491602/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1988号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/105c5e66-1710-451d-adc7-d2576d683462/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1989号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3bc7aa17-adde-4e84-9704-ba800bec04cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1990号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0ca6b8a4-8fb2-4e5c-8d0e-be9a0f1ec71b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1991号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef9007df-7ae9-4e21-990a-03fae068230f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1992号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6181cde-3feb-4a26-8900-751000c369a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1993号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a93cfd27-8a4a-4bce-8149-7397d8b666e8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1994号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1be79850-8c6c-4bf7-9cac-c133b15f5923/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1995号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c38dc77-eefd-428b-a245-6a88200e7f7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1996号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25bfaa9e-5c03-4c82-a6db-928876816697/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1997号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd813212-7cf5-4af2-b53a-7267a8a84240/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1998号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a07439a-0ceb-4afe-8814-499b9cc28070/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 1999号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de3c3007-c1c0-4d43-81cf-c63cf398fd40/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2000号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a0d957e-27b1-4172-91c9-78164f6ca075/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2001号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/752e6b82-00c4-48b4-a0ed-c3abc5ba77e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2002号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c3b8865-24ab-4142-964b-ab99c9918efa/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2003号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e09eda42-c7ab-4c1f-8944-e85e4ff0f431/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2004号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b50eddac-77f3-4e20-8b26-90667aad61ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2005号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/23763a8b-1a17-4d56-ad62-291d99e619ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2007号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c504856-b0dd-410f-86e1-3ec208dbd09e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2008号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6d25370-353a-437b-91e3-625338b0fa0b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2009号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39ef0e95-e884-48db-9327-cfef5fe1db79/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2011号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/281cb6fe-ac4e-4973-9a32-9dfb9f0ce7f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2012号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e71f8b7-8628-4fe1-9733-449736864e21/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2013号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a37f575-d4ae-461a-9ec1-3ea994605b5c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2015号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e33ea1d8-bb33-4333-9501-61f6b7f8301b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2016号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/01c569fa-a3ba-4536-a616-63609a82c43d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2017号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b8556dba-2322-489f-9d5b-ec4d3a9f7fd4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2018号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68210eec-cf97-4de2-bf29-31fd5371c8e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2019号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7cc9b5cf-f821-40ea-aa53-af113625d2bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2020号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1b806a4-0f2e-4fdc-961e-16e02c86bd72/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2021号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee72f89a-03a9-4acf-b976-25afdb2bc889/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2022号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a11c2a0-2329-4a04-a328-6dd7e47e13e9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2023号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9551363-3dbf-4fbb-939f-8d420309270f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2024号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1582f51f-11aa-411c-be03-bb1eabcf6ca5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2025号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794ad6b9-3cbc-4c8d-a170-57f45cf1f295/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2028号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d4cbb42-ef4b-419f-af4f-70ddf9bdd3ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2029号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e5d781d9-a6ce-4130-b3a3-b920052ebeba/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2030号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e221aa06-39c5-435a-85d7-d75a53f484e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2032号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79e8ec88-ab86-4f54-8c24-8c7bf5daa211/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2033号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/91edaaf6-41bc-4dcd-9997-b8e19ff664c4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2034号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd056f2a-bba1-42b2-90df-9ea6f9bfd430/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2035号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2b8cd190-49e1-440b-acda-e81bc33ebbee/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2036号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/921dd53b-bdae-472e-9f15-30cd0da7c097/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2037号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c5189d22-c805-4b9a-8772-1caea224e30e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2038号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3744e29a-8b65-4826-8bd5-f79a5f29c156/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2039号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ada4785-d15c-4030-b628-4883c7128cf8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2040号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa233e0e-ac34-48e1-addb-3e495020501e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2041号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1d04194c-f3db-4d4c-a4bd-cca7400c85c2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2042号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/245fc403-c94e-4361-98f6-dca02ef024f4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2043号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0452e2de-241c-4c41-b26d-80ec7b8ec961/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2044号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aaa196fb-ed4c-4e5c-838e-59668de1d3c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2045号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e41349-9735-42d0-ac94-8a8734772490/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2046号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a58a7124-20c1-4614-9372-957965bd3786/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2047号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6240d03-4356-421f-89bf-84d3b67f774b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2048号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/474d0c6e-a51b-40b4-9584-55706ec996be/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2049号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69fbad28-ce4e-4b1d-9fac-91e3080ea3e7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2050号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7f94a1c3-e2f9-4c78-9984-bbfe5e24750c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2051号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97932c9e-2757-4c94-9223-df44c61020a3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2053号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/238fd798-f844-4c91-b2ce-7d18f2488a5a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2054号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/165bc8af-3732-43c8-a80d-ec39ba1b95d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2055号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/365a9fba-b7b1-4d99-940d-24c4f98d3ee7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2056号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/57d8dede-8fae-45b1-825e-1a377eb970a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2057号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ff7db15-5691-40ee-85f1-0b5dc1ff3e5e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2058号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d91468b9-f7ba-4912-afc4-84aeb382842c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2059号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/73ccc961-19d3-49af-b1db-779699ed6dec/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2060号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b0a010e-0c12-4d81-9ced-d29a97cad119/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2061号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c5d9002-1f52-48df-bd7a-6388527d96e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2063号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bedee2f4-ebed-4f09-873e-40c20dca17b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2064号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e62369c9-204a-4884-bafb-711beacafa1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2065号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ab48988-55c7-4f5d-a529-e7ff5a3fa40d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2066号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ffa4424-640d-46c6-8cfe-d24ed4d95d22/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2067号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3186e108-8841-4c5b-90e8-ac9d279ca7b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2068号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a214dc86-6248-408b-9222-6e647baae2c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2069号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f163224-4e71-4f26-aff8-0c1c9c29b964/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2070号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65e3a66a-09b5-4356-a25c-f55bf90c9995/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2071号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f98330f-8438-4900-a198-6ac98adeac36/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2072号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f24047d-adca-43ba-8144-223028af5ef7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2073号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd12f06d-0e93-4baa-aa49-a39f107fbba9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2074号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1a2a5f4-1b8d-438e-82f8-51c37e72ceb9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2075号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1176f6c-4337-45a4-9138-906822441476/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2076号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/155d0f57-c625-410a-aaf8-2b20546013a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2077号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4514084-5b29-495b-a24a-6efce2e8822e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2078号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ccdb9df5-ce49-4f91-99ea-252994daad94/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2079号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/454b65ac-2aad-4d68-9445-683ebe9ba2b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2080号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd168dbc-77cd-48cb-ac6f-b136f169999d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2081号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b0223dc2-9f12-4f86-8c01-cf42a6178219/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2082号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/043dd467-7533-4040-92f5-18a31013b5de/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2083号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88dd5f50-a5e8-4952-8561-c031eba1255e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2084号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/528cd66a-fdbd-4ed3-b352-38495c270349/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2085号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d1b8cd3-2248-4b14-8f6e-b00f91c0fb16/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2086号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/673046ed-865d-4b25-9e8e-2f94670b6548/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2087号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ed63235-8117-4c61-8683-e601170bb4d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2088号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d86dbd0f-fc16-4feb-87e0-744d03164f47/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2089号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fc891404-ae19-43fd-9d84-2d370da7f7b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2090号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2f1c8c3-be17-4b32-98bb-181586d2225c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2091号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a3e2052-8672-480b-a2e0-d15b047304d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2093号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25aa9751-32fa-47a2-8e4e-23a3e270c9b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2094号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ce1c8688-1acb-4e40-b167-efbd92dbccd5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2095号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f226faf-7d42-4191-9866-e5a0742af0dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2096号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1658b65-e179-4b79-be08-aaa093b2573d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2097号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/942692d9-83af-4908-ba7c-c2cecacf4c02/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2098号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af80bc35-687b-4c8d-959d-fb26d61a6e68/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2099号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a6ec5152-a141-4bb3-9500-3a10bba936ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2100号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/871c74a5-bdb9-4bbf-b140-e6ebd667b4e2/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2101号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/671759d4-f16d-4fb1-8e8f-542b7d820fab/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2102号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/60b6dc4c-020c-4950-8025-394b4696b3a0/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2103号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/77419293-4f80-4370-972d-f439b47169b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2105号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/615ecf11-dfaa-48c2-be71-9331751bc1c4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2106号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/092e0919-ee99-4ea0-a039-75a49470662d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2107号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/43635649-9e7f-4b30-9d6d-802adbcb7f47/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2108号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5fe5c226-81eb-4b34-9ca4-a6999146682f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2109号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a83ba1c4-9769-4166-b79b-2192654dc776/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2110号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/33de7625-863b-40a7-98ec-95793bd21d16/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2111号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a70ac29-e205-4b9d-a094-12733255b4b5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2112号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/02388876-8cce-4a89-98f2-5bef42a87e31/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2113号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2fcf747-6682-423a-b318-1d33edde710b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2114号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca5ac319-c8d9-4908-9353-4682bbfda2d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2115号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f6ae0a7c-65a7-4965-b75e-b8aef908ecda/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2116号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdf7a3a5-59e7-47b8-8b99-8ab92718b4e0/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2117号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bcd6a12a-030a-4b93-9f84-9233fdb72a89/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2118号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/541945fd-531f-4bef-8c15-7b9dd23b2601/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2119号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c4fb37f-295d-45d7-818e-8654afdd0219/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2120号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c96e3653-afb5-4881-9055-8be28d89f822/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2121号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a5a1c7ea-0b9e-47a5-9667-b88fd06f255e/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2122号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7bfabcfa-cc04-4ce7-a4cd-d11ddb8de5e6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2123号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84773711-a9d3-4152-b69a-2b2ab47ac517/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2124号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/87c76475-8f3d-4730-9824-742606e6e9c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2125号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/666b4e58-c134-4e1d-ba8b-8a12e53faa64/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2126号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca66d40d-d73f-44ee-b6e5-026fcd0bc0c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2127号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d297e5b-e05b-43af-b8c9-56b69f567f97/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2128号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1d7a3f93-7de4-41d5-9103-d2ea86c3d9be/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2129号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/acdb0135-74b1-4107-9dd6-5ca441d3a16d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2130号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9f4fc30-3040-4370-b7fa-3952fd8ab91d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2131号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7158a2f2-58b1-4645-b308-30adf250561a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2132号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9805077f-7401-477a-b733-94a1567754c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2134号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3b99952-07c3-4707-ab8f-63880af50d78/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2135号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c7778d62-710e-4c01-bb06-0b4dc01eb09a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2136号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a1e79906-459a-4ff0-a605-3e9e15921be4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2137号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b6db404-2448-4aca-9d0c-19ead3b20b67/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2138号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fa1b8e3a-e96f-4806-a5d7-1b6b67a1abf4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2139号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f77f3f98-6fb3-4f3a-a8b2-b943cbbff4ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2140号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4fcdaaa8-1284-4fad-8a2e-3c41a497c882/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2141号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad3dd5a5-6356-4ab2-a668-800805b87d4d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2142号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9df6b4f0-5838-4cd5-a90a-1e50b7baecb1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2143号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7caceef6-1c14-46ca-ada7-9c5476096f67/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2144号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/86bfbe48-5da1-402b-869f-71390c927105/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2145号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1efc12b-a1c5-4009-b1d0-1a5efbc8d595/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2147号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a28b4ac-6d0b-4642-acd5-adb218bf176c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2148号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3367afe6-5f6b-4436-a7ed-9a66bd85561c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2149号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f05735c-8b40-4dc9-b0ff-ec1c79bb728f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2150号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7030d3e-aeb1-4382-9496-3818009abe38/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2151号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/db344695-8316-4e83-b187-6a703c76ab2a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2152号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88cd373a-adb1-468c-abe2-040921752207/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2153号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c60089b-4041-493a-b7b8-c01d13fe5edc/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2154号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/712e60f7-53a9-4892-a739-84199acba1d7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2156号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/893b46d9-fa4e-4ef0-8069-33638d64d29b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2157号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bf28dd8-c0b9-4d9f-9e68-5c8b4bb14b4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2158号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/272918fa-06f7-4344-9eee-efab8d8236ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2159号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b6490a6-ce40-492c-b55d-98e95ea3dc9b/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2160号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68fb978d-1361-4544-8f74-fca5a4883068/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2162号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9cb16a4-53cb-4148-bc94-44778b24e1c5/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2163号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc0f2168-2ed2-41b2-8925-13da007992f3/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2164号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c0a30b88-b6e0-42bc-87e2-c5378f92bde6/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2165号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/30d4d142-bd33-4dd6-941a-a2e90f0f451f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2166号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd4be41a-adf9-406a-8915-0dd21c7e853f/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2167号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f615de02-9c9e-42d5-ae48-0d6f19d08235/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2168号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/efbf98c9-8791-4ee3-908b-791b91d3f5f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2169号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/121cc4e9-9d31-4c4f-ad81-477563fd47fc/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2170号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ea15e34-587e-4646-9d4b-68c443e58639/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2171号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35c07157-be3d-4b8c-875d-21e09b673076/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2172号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5ab65d7-b0c5-41ea-ace6-67472bca1bd1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2173号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0248cc6d-6527-49e1-bca4-a29da8a97af4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2174号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/158d36ff-85e0-4d16-b6f2-1699369e1500/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2175号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f8b5dad-2a1f-442d-9230-d3ab2538ba26/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2177号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfe1634f-fd69-4e48-a206-10b697fb6109/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2178号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2b1eda5-aa52-46c8-a0b7-f3c707e2c99d/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2180号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a442b072-6db3-4ab5-bbf8-a832d3ce5a77/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2181号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7b1c5053-9fe0-421c-a67f-8abd549a0b63/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2182号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/85f5f298-f2be-46ac-8c04-34a3653c4a35/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2184号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0f9caf4-ead8-4d86-9f2a-c755d602e1e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2185号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/295732f0-3825-4751-b40a-fc5c2f6522e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2188号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3cdb97c-24cc-4755-8659-beec32ed318a/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2189号"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae7de30d-dbce-48a1-92da-79c029835c35/manifest",
+            "@type": "sc:Manifest",
+            "label": "蒙疆新聞 2190号"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "蒙疆新聞"
+        },
+        {
+            "label": "Identifier",
+            "value": "mky"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/mky",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61223",
+        "format": "application/ld+json"
+    }
+}

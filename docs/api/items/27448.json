@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27448",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "349",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8d6367e3-3c3c-4571-bfe7-a30b895e612f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "告示∽349",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "節約／増産（食糧・物資）",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "アメリカ",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "U.S. Food Administration",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "2色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "赤、墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "告示",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "546",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "351",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "(Notice to Hang in Kitchens Working Departments)Notice to steward and assistants; chef and all cooks; baker; pastry cook; head waiter; dining room captains and waiters.Our problem is to feed our Allies this winter by sending them as much food as we can of the most concentrated nutritive value in the least shipping space. These foods are wheat, beef, pork, pork products, lard, and sugar.Our solution is to eat less of these and more of other food of which we have an abundance, and to waste less of all foods. Wheat: Have two wheatless days each week, Monday and Wednesdays. Have one wheatless meal each day.On “wheatless days” and in “wheatless meals” of other days use no crackers, pastry, macaroni, breakfast or other cereal food containing wheat, and use no wheat flour in any form except the small quantity that may be needed for thickening soups or gravies, or for a binder in corn bread and other cereal bread, or for a binder in pies, cakes and pastries. If you bake your own bread use other cereals than wheat. If you buy it, buy only victory or war bread.A portion of bread or rolls should consist of not more than two ounces, and not more than this quantity should be served to anyone at any one meal. Rolls should weigh not more than one ounce each, except that when, corn, oatmeal, or bran bread or rolls is served alone, the portion may consist of not more than four ounces.Serve absolutely no toast as garniture, or under meat.Meat: Have one meatless day each week－Tuesday－and one meatless meal each day.Pork: : Have two porkless day each week－Tuesday and Saturday.Explanation－”Meatless” means without any cattle, hog or sheep products.On other days use mutton and lamb in preference to pork. “Porkless” means without pork, bacon, ham, lard or pork products, fresh or preserved. Use in place of these, chicken, hare, rabbit, goose, fish, lobster, oysters, calms and other sea foods, cheese and egg dishes of all kinds. When serving beef, mutton and pork they should be served in “per person” portions of moderate size. “War portions” at reduced prices may be served.Milk: Use it all. Serve buttermilk. Serve cottage cheese regularly in varying forms; it is especially nutritious. Use skimmed milk in cooking. A great quantity of it goes to waste in the country. Use cheese generally. The children must have the whole milk, therefore, reduce the use of cream.Fats: Serve as few fried dishes as possible so as to save both butter and lard, and in any event use vegetable oils for frying; that is, olive oil, corn oil, cottonseed oil, margarine and vegetable oil compounds, etc. They are equally good. Serve all butter in standard pats for guests and employees. A butter pat margarine promotes economy. Trim all coarse fats from meals before cooking and sell the waste fats to the soap maker, thereby increasing supply of soap and glycerine. We are short of soap fats, as our supplies of tropical oils for soap making are much reduced. Do not waste soap.Sugar: Use less candy and sweetened drinks. Use honey, maple syrup, molasses and dark syrups with hot cakes and waffles in order to save sugar. Use also all classes of fruit preserves, jams, marmalades and jellies. Use brown sugar in cooking. Do not frost or ice cakes.Vegetables: use more vegetables, especially potatoes. Make fruits and vegetables into salads and attractive dishes. Feature vegetable dinners and vegetable salads of all kinds. Encourage the use of cheese with salads. We have a great surplus of vegetables and they can be used by substituting them for staples, so that the staples most needed will be saved.Suppers: In hotels and restaurants of the better class serving supper, kindly be patriotic enough to eliminate meat, pork and pork products from supper menus and substitute sea food, crab meat, poultry of all kinds, game in season and cheese dishes, eggs and dairy products.Banquets: Hotels and restaurants serving banquets will eliminate beef, pork products and substitute sea food, poultry, game and other substitutes made possible by local conditions. The above also supplies to large luncheons or any large gathering at which food is served.General: Use local and seasonal supplies. Do not require abnormal use of the railways to transport products from far afield, now that we need all cars possible for war purposes.All waste food should be saved to feed animals or for reduction to obtain the fats. No food should be burned. The encouragement of Hors d’Oeuvres of vegetable salads, fish, and sea foods at the start of the meal, and of cheese, fruit and coffee at its end, will save greatly in all staples and permit the effective use of many available foods. Reduce the number of courses served with contain the staples that must be saved for export. This means beef, pork products, and wheat.Table d’Hote service, unless very carefully supervised, results in waste in eating and preparation, and should be discouraged in larger hotels and restaurants wherever conditions will permit. In circumstances requiring Table d’Hote meals, articles of food not required for export to our Allies should be served. The American plan hotel or restaurant should require its guests to choose specifically, in writing, from the items offered as in the European plan so as to avoid waste.The cafeteria system is recommended for employees wherever possible, as it facilitates service and eliminates waste.Note - Under various circumstances and with varying conditions advisable modifications of our plan and other opportunities for food saving will suggest themselves to you.The essential is: a sincere and patriotic will to save - and thus serve the country.United States Food Administration（告示執事とその助手／シェフとコック／パン屋／パン職人／ウェイター長／ダイニングルームのキャプテンとウェイター合衆国食糧管理局小麦肉豚肉牛乳脂砂糖野菜夕食晩餐会一般）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:35+00:00"
+    },
+    "o:id": 27448,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30228",
+            "o:id": 30228
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:17:19+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "告示∽349",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/27448/1332748054527.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/27448/1332748054527.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/27448/1332748054527.jpg"
+    }
+}

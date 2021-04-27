@@ -1,0 +1,215 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/23174",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:68 資料No.964",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "71174c2e-cb08-4ee1-9a03-004cb8e3f8c2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞 ∽項番:68 資料No.964",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "相州江ノ島弁才天女の廟ハ往古より七ヶ年ごとに開帳／あること世人の能く知る所なり然しるに当亥年四月一日よ／り五月二十日に至るまで五十日の間臨時大祭を行なハる／ゝよし是に就て此島に住める一新講社中の有名なる旅舘／ゑびす屋ハ此頃新（あら）たに三階の高樓を築造したり其結搆ハ／日本風の立かたにして尤も間取りの注意より諸式みな風／雅を盡（つく）せり此樓上より望めバ三浦鎌倉由井の濱の風景眼／下に集り富士ハ遥かに白く箱根ハ近く翠なり空氣清快に／して健康を補なふべく殊に海味に富（と■）て隹肴乏しからず御／参詣のおかたハお上（あが）り有てお試しなされ頃日この三階の／樓上に掛けんと坂東彦三郎中村芝翫菊五郎佐團次團十郎／半四郎等を始め俳優十余人其外作者留塲などにて名前を／染め付けたる暖簾を拵らへ惠日壽屋へ送らんと專ぱらそ／の用意最中なりと云へり ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2005年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:恵斎芳幾/彫師:渡辺彫栄 ",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "江ノ島弁財天臨時大祭参詣の案内 (読み下し文_括弧なし:相州江の島弁才天女の廟ハ往古より七年ごとに開帳あること世人の能く知る所なり然るに当亥年／四月一日より五月二十日に至るまで五十日の間臨時大祭を行な／ハるるよし是に就て此島に住める一新／講社中有名なる／旅館ゑ／びす屋ハ此頃新たに三階の／高樓を築造したり其結構ハ日／本風の立かたにして尤も間取りの／注意より諸式ミな風雅を尽せり此楼上より望めバ三浦鎌／倉由井の浜の風景眼下／に集り富士は／遥かに白く／箱根ハ／近く翠／なり／空気／清快にし／て健康を補なふべく殊／に海味に富て佳肴乏しから／ず御参詣のお方ハお上り有て御試／しなされ項日この三階の楼上に／掛んと坂東彦三良中村芝翫／菊五郎佐団次団十郎半四郎／等を始め俳優十余人其外作者／留場抔にて名前を染め付け／たる暖簾を拵らへ恵／日寿屋へ送らんと専ぱ／ら其用意最中なりと云へり )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋 ",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0068-0964",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:52:33+00:00"
+    },
+    "o:id": 23174,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33596",
+            "o:id": 33596
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:05:10+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞 ∽項番:68 資料No.964",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/23174/1333099072912.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/23174/1333099072912.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/23174/1333099072912.jpg"
+    }
+}

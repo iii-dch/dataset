@@ -1,0 +1,242 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/14949",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:59 資料No.923",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "22f84ea2-44a4-4ab4-8d15-c1648bce80c4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京日々新聞∽項番:59 資料No.923",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00023": [
+        {
+            "@value": "本州秩父郡三峰村の_†藏と云う者同村の辰次郎が娘お／ゆきと私通して在しが或る休日に村郷（むらざと）の習（なら）ひにて若き／男女寄り集り遊び戯れし折からに一人の若（わかい）者が彼のお雪／の手拭を奪ひ取りしを_†藏が遠目に見付けて妬心（じんすけ）を起し／其方（そかた）とハ最（も）はや愛相（あいそ）づかしなり二人が契（ちぎ）りも是れ限りと／思へヨと云ハれてお雪も然（そん）なら又私も覺悟が有ります此／の後私にどの様な事があろうと決して構（かま）ふて下（くだ）さらぬか／と念を押して答ふるにぞ_†藏がソリャ当り前の事ヨとの／捨言葉（すてことば）に其塲を左右へ別れけるが其後この三峰村へ青梅／より來りて久しく逗留せし木屋何某お雪が貌（かを）の名にハ似／ず雲取（くもと）が峰に焼（や）く炭の烟りに薫（ふすほ）る淺黒き色も村茶の煮花（にばな）／にて空腹（ひも）じい時の粗物を擇まず一ト口喰ひしが緑と成り／野猪（しし）追ひ小屋の忍び寐も度（たび）かさなりて妊娠（みこもる）ほどに成りし／と聞き_†藏ハ憤りに堪へ兼ね或る夜かの木屋某が山■（やまかせぎ）す／る小屋の邊りへ忍び來りて側に有り合ふ丸木おつ取り力／らに任（まか）せて打ちけれバ急所に当りてグウとも云ハず死し／たりけるゆゑ_†藏ハ犯罪に当因り大宮區へ拘引せられ裁判／を經て掛り合ひ一同が該県へ送られ審判の後に絞罪に■／せられたり其後お雪ハ県より■り來りて腹の塊肉（かたまり）ハ産（うみ）ミ／落せし由なりしが其兒ハ如何なりしにや知らず一人の淫／婦より事起こりて二人三人の性命を害す僻地山中の鳩盤茶／すら然り况（ま）して府下の嬌媚（なまめか）しき別品に於てをや宜なるか／な命取（いのちとりの）稱あること御用心御用心 ",
+            "is_public": true,
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "東京日々新聞",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:惠斎芳幾,",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "女をめぐって大喧嘩した農民二人。 (読み下し文_括弧なし:農業休暇に／群集て若き男女／の遊戯るハ郷村の弊習／なる中に淫婦お雪と称なせど／貌ハ名に似ず浅黒き雲取峯に焼炭の烟に薫る体なるも山茶／も出花乃色盛此弁蔵を私通ゐたる／に又青梅より来りたる木屋某と／姦道猪追小屋の密會の胤を奸せし説に／弁蔵ハ一向妬ミ憤り一夜丸太を提携て／山■［てへんに峠のつくり］する木屋某を打殺せしが／發露れ大宮の区へ拘引ツツ／裁判を経て絞罪に処せら／れたるもお雪ゆへ淡く／消にし命ぞ／うたてき？／転々堂略記 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "機関による制作・発行・発表より50年以上経過",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0059-0923",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:34+00:00"
+    },
+    "o:id": 14949,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33588",
+            "o:id": 33588
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:41:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞∽項番:59 資料No.923",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/14949/1333099068842.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/14949/1333099068842.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/14949/1333099068842.jpg"
+    }
+}

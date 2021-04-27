@@ -10,22 +10,26 @@ import yaml
 f = open("settings.yml", "r+")
 settings = yaml.load(f)
 
-dir = "../docs/ld"
+dir = "../docs/api/items"
 if os.path.exists(dir):
     shutil.rmtree(dir)
 os.makedirs(dir, exist_ok=True)
 
-uri_prefix = "https://iii-dch.github.io/dataset/ld"
+uri_prefix = settings["github_pages_url"] + "/items"
 
 def base_generator():
-    api_url = "https://dch.iii.u-tokyo.ac.jp/api"
+    api_url = settings["api_url"]
 
     loop_flg = True
     page = 1
 
+    query = ""
+    if "key_identity" in settings:
+        query += "&key_identity=" + settings["key_identity"] + "&key_credential=" + settings["key_credential"]
+
     while loop_flg:
         url = api_url + "/items?page=" + str(
-            page)
+            page) + query
         print(url)
 
         page += 1
@@ -37,14 +41,19 @@ def base_generator():
         if len(data) > 0:
             for i in range(len(data)):
                 obj = data[i]
-
+                
+                
                 id = str(obj["o:id"])
+                '''
                 if settings["identifier"] in obj:
                     id = obj[settings["identifier"]][0]["@value"]
+                
 
                 uri = uri_prefix + "/" + id + ".json"
 
                 obj["@id"] = uri
+
+                '''
 
                 with open(dir+"/"+id+".json", 'w') as outfile:
                     json.dump(obj, outfile, ensure_ascii=False,

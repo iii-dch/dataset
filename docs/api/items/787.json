@@ -1,0 +1,202 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/787",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "NIS_19200805",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "10",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "166",
+            "is_public": true,
+            "property_id": 266,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1920-08-05",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "545×400mm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "bd669249-5441-477d-84fe-ee0c6fb4c0d9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "日本糸物新報社",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "日本糸物新報 166号 (1920-08-05)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-17T23:48:40+00:00"
+    },
+    "o:id": 787,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35014",
+            "o:id": 35014
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53474",
+            "o:id": 53474
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2704",
+            "o:id": 2704
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2705",
+            "o:id": 2705
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2706",
+            "o:id": 2706
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2707",
+            "o:id": 2707
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2708",
+            "o:id": 2708
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2709",
+            "o:id": 2709
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2710",
+            "o:id": 2710
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2711",
+            "o:id": 2711
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2712",
+            "o:id": 2712
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/2713",
+            "o:id": 2713
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:21:04+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "日本糸物新報 166号 (1920-08-05)",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/486",
+            "display_title": "日本糸物新報",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 486,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/787/nihonitomonoshimpo1_0220.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/787/nihonitomonoshimpo1_0220.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/787/nihonitomonoshimpo1_0220.jpg"
+    }
+}

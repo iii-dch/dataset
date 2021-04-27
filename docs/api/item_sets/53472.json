@@ -1,0 +1,41 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "小野秀雄コレクション",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-14T05:31:40+00:00"
+    },
+    "o:id": 53472,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items?item_set_id=53472"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-18T00:40:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "小野秀雄コレクション",
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/8046/1333099041392.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/8046/1333099041392.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/8046/1333099041392.jpg"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/4406",
+    "@type": "o:Media",
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 800,
+                "width": 534
+            },
+            "medium": {
+                "height": 200,
+                "width": 133
+            },
+            "original": {
+                "height": 7360,
+                "width": 4912
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "11面",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T22:21:21+00:00"
+    },
+    "o:filename": "1913/nihonkeorimonoshimpo3_0168.jpg",
+    "o:id": 4406,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/1913",
+        "o:id": 1913
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T22:21:21+00:00"
+    },
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/1913/nihonkeorimonoshimpo3_0168.jpg",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "90bf751ccf09b2ea1d899c1ccaec807cee07b2cb67c8f88163e163698e983ddc",
+    "o:size": null,
+    "o:source": "https://webpark5032.sakura.ne.jp/tmp/NKS/nihonkeorimonoshimpo3_0168.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/1913/nihonkeorimonoshimpo3_0168.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/1913/nihonkeorimonoshimpo3_0168.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/1913/nihonkeorimonoshimpo3_0168.jpg"
+    },
+    "o:title": "11面",
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/1913/nihonkeorimonoshimpo3_0168.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/1913/nihonkeorimonoshimpo3_0168.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/1913/nihonkeorimonoshimpo3_0168.jpg"
+    }
+}

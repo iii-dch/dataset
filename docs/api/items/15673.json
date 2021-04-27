@@ -1,0 +1,251 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15673",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "015",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1834",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e50da599-d4e1-4745-82fa-c2f458bcd70f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大坂大火∽015",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "大坂大火",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "天保",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "新関",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "天保五午七月十日夜子ノ刻より出火／南西風つよく北東へ焼出し又翌日／十二日卯中刻ニ火しづまる／火元／一 堂島北町＠家数七軒／竈数九十九軒＠／一 永来町＠家数三軒／竈百七十五軒／土蔵一ヶ所＠／一 中一丁目＠家一軒／竈一軒＠／一 うら二丁目＠家八軒／竈七十二軒＠／一 曽根崎一丁目＠家三十軒／竈百八十三軒／土蔵三ヶ所＠／一 同二丁目＠家四十四軒／竈二百十四軒＠／一 堂島一丁目＠家四軒／竈七十五軒＠／一 同船大工町＠家二軒／竈二十四軒＠／一 天満船大工町＠家二十五軒／竈二百八軒＠／一 同下半町＠家三軒／竈百十軒＠／鍋島御蔵やしき崩一軒／一 老松町＠家四十六軒／竈百七十八軒／蔵三ヶ所＠／一 十一丁目＠家十三軒／竈九十九軒＠／一 小島町＠家四十軒／竈百八十五軒／道場一軒＠／一 南小ハた町＠家二十三軒／竈九十七軒／土蔵二ヶ所＠／一 北同町＠家三十二軒／竈二百二十軒／土蔵二ケ所＠／一南富田町＠家二十四軒／竈百三十五軒／土蔵五ケ所／道場一軒＠／一北富田町＠家二十軒／竈二百四十五軒／土蔵二ケ所＠／一 猶村屋敷＠家一軒／竈六十五軒／土蔵一ケ所＠／一 砂原屋敷＠家六十五軒／竈百九十七軒／土蔵一ケ所＠／一 観音寺屋敷＠家六軒／竈二十五軒＠／一 西寺町前＠家一軒／竈二十五軒＠／一 東西寺町二十けん／一 樋之上町＠家一軒／竈一軒＠／一 西たるや町＠家四軒／竈二十一軒／崩三ヶ所＠／一 堀川町＠家十六軒／竈五十四軒／土蔵四ケ所＠／一 源蔵町＠家二十一軒／竈七十四軒＠／一 いせ町＠家三十七軒／竈三百十軒／土蔵十一ケ所＠／＠御預り所堀川堤／家一橋一カ十七＠／一 北森町＠家二十六軒／竈七十六軒／土蔵一ケ所＠／一 在馬町＠家二十七軒／竈六十五軒／土蔵十六ケ所＠／一 越後町　納屋三ヶ所／一 摂津国町＠家四十九軒／竈二百八十三軒／土蔵一ケ所＠／一 わたや町＠家三十軒／竈百七十軒／土蔵一ケ所／＠松平備前守様／御やしき＠／一婦夫町＠家二十三軒／竈八十四軒＠／一 池田町＠家三十軒／竈二百十五軒＠／京極御蔵やしき土蔵一ケ所／一 大鏡寺前＠家七軒／竈三十三軒＠／一 東寺町前　竈一軒／一 曽根崎むら＠家百六軒／竈二千六百三十五軒／土蔵十六ケ所／寺五ケ所／天神一ケ所＠／一 北の村＠家七十二軒／竈四百五十軒／寺四ケ所／社二ケ所＠／一 川さき村＠家五十五軒／竈三百四十軒＠／土岐蔵やしき　土蔵九ヶ所／町数三十九丁　内町続在領三ケ村／家数八百九十八軒／かまど七千五百六十軒／土蔵八十ケ所／穴蔵九ケ所／寺三十ケ所／社＠お初天神目神八幡／堀川戎社北ノ神明＠四ケ所／神主屋敷二ケ所／納屋三十四ケ所／道場二ケ所／蔵屋敷四ケ所／町橋＠寺町ばし／新地樋ノ北橋＠二ケ所／西町御屋敷一軒／南町同八軒／惣〆八千五百八十軒　巳上／ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0015",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:50:44+00:00"
+    },
+    "o:id": 15673,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29370",
+            "o:id": 29370
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:43:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大坂大火∽015",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/15673/1332321299094.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/15673/1332321299094.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/15673/1332321299094.jpg"
+    }
+}

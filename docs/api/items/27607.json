@@ -1,0 +1,301 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27607",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "639",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0bafbdea-1208-4c54-ba1b-be0eaf865c90",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "勝利によって∽639",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00036": [
+        {
+            "@value": "告知／声明",
+            "is_public": true,
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00037": [
+        {
+            "@value": "フランス",
+            "is_public": true,
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00038": [
+        {
+            "@value": "La Ligue Civique",
+            "is_public": true,
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00039": [
+        {
+            "@value": "凸版",
+            "is_public": true,
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00040": [
+        {
+            "@value": "活版",
+            "is_public": true,
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00041": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00042": [
+        {
+            "@value": "1色  ",
+            "is_public": true,
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "墨",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "勝利によって",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "820",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "600",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "L. C. Ligue Civique, 101, Boulevard Raspail Par La VictoireVers La Paix Du Droit Avec Le President WilsonL'armee americaine va peser d'un poids decisif dans la guerre. Il est necessaire que tout Francais sache bien de quelle pensee une telle force est l'executrice. Cette pensee est definie dans les messages et les discours du President Wilson, dont voici les citations textuelles : Le President Wilson eprouve avec le peuple american... “...Une impatience profonde et indignee devant ceux qui desirent la paix par un compromis quelconque.”(Message du 4 decembre 1917.)Il veut “l'etablissement d'un nouvel ordre de choses fonde sur les principes larges et universels du droit et de la justice”.(Message du 11 fevrir 1918.)Le President Wilson proclame au nom du peuple american : “Cette chose intolerable dont les maitres de l'Allemagne nous ont montre la face hideuse, cette double menace d'intrigue et de force que nous voyons maintenant clairement etre la puissance germanique, cette chose sans conscience ni honneur, cette puissance pour laquelle Il Ne Saurait etre De Paix Contractuelle, doit etre abattue et, si elle n'est pas absolument aneantie, au moins doit etre exclue de la societe amicale des nations. ”(Message du 4 decembre 1917).Le President Wilson veut... “...que les dommages soient repares et ensuite qu'on cree des garanties efficaces pour en interdire a jamais le renouvellement.”(Message a la Russie, juin 1917.) Il veut la liberation et la restauration des regions francaises envahies, de la Belgique, de la Roumanie, de la Serbie, du montenegro, ainsi que du territoire russe.(Message du 8 janvier 1918.) Il veut qu'un ‘...Etat polonais independant soit cree.’Le President Wilson veut que... ‘...La paix delivre les peuples d'Autriche-Hongrie, les peuples des Balkans et les peuples de Turquie en Europe et en Asie de l'impudente domination etrangere de cette autocratic militaire et commerciale de la Prusse.’ Il veut que “Le tort fait ' la france par la prusse en 1871. En qui concerne l'alsace-lorraine, ce tort qui a rendu la paix instable pendant pres de cinquante ans, soit redresse, afin que la paix puisse, ' l'avenir, etre assuree dans l'interet universel”. (Message du 4 decembre 1917 et du 8 janvier 1918.)Le President Wilson a declare : L'Allemagne a dit une fois de plus que La Force, La Force Seule, devra decider si la justice et la paix regneront parmi les hommes, si le droit, comme l'Amerique le concoit, ou la predominance, comme l'Allemagne la concoit, reglera les destinees de l'humanite. Il n'y a par consequent pour nous qu'une seule response possible : C'est la force, la force a outrance, sans restriction ni limite, la force, ici justifiee. qui, triomphante, fera du droit la loi du monde et renversera dans la poussiere toute domination egoiste.(Discours de Baltimore, 6 avril 1918)Une fois de plus le president Wilson vient de la repeter : C'est seulement PAR LA VICTOIRE que la paix peut etre assuree et les affaires du monde etablies sur des bases durables de DROIT et de JUSTICE.(Telegramme au President de la Republique.- 16 juin 1918.)LA LIGUE CIVIQUE.（市民連盟、ラスパイーユ大通り101／／勝利によって／／ウィルソン大統領とともに法の勝利にむかって／／　アメリカ軍が戦争において決定的な重きをなすことになるだろう。すべてのフランス人はこの軍事力がいかなる思想を実行するものであるかを知っておく必要がある。この思想はウィルソン大統領の教書と演説において定義されているが、その引用は次の通りである：／／ウィルソン大統領がアメリカ国民とともに「いかなるものであれ妥協による平和を望む者にたいする深く、憤りをもったいらだちを」（1917年12月4日の教書）感じている。／「法と正義の一般的・普遍的原理に基づいた、あらたな秩序の確立を望んでいる」（1918年2月11日の教書）。／／ウィルソン大統領はアメリカ国民の名の下に「ドイツの指導者が、おぞましい側面をわれわれに示した耐え難い事態、現在ドイツの力だと見て取っている陰謀と軍事力の二重の脅威、良心も名誉もないこの事態、契約に基づく平和がありえない力は、打ち倒されねばならない。絶対的に無力化されないとしても、少なくとも諸国家の友好的な共同体からは排除されねばならない」（1917年12月4日の教書）ことを要求する。／／ウィルソン大統領は、「被害が回復され、その再生を永遠に禁ずるために有効な保証が創設されること」（ロシアに対する教書、1917年6月）を望んでいる。侵略されたフランス、ベルギー、ルーマニア、セルビア、モンテネグロ、ロシアの解放と復興を望んでいる（1918年1月8日の教書）。「独立ポーランドが創設されること」を望んでいる。／／ウィルソン大統領は、「平和によって、オーストリア・ハンガリー、バルカン、ヨーロッパとアジアにおけるトルコの諸国民が、プロシアによる軍事的・商業的独裁という外国による恥知らずな支配から解放されること」を望んでいる。彼は「1871年、誤りによって、フランスはプロシアとなった。アルザス・ロレーヌに関していえば、50年近くもの間、平和を不安定なものとしたこの誤りが、平和、未来が普遍的な利益のもと確実なものとなるべく、正されること」を望んでいる（1917年12月4日と1918年1月8日の教書）。／／ウィルソン大統領は、「ドイツは一度ならず、力、力のみが、正義と平和が人々を統べるのか、そしてアメリカが言うような法、それともドイツが考えるような覇権が人類の命運を握るのかを決すると言っている。それゆえ、われわれに可能な答えは一つしかない：勝利によって、法律を世界の法とし、利己的支配を霧消させるのは、軍事力、過度で、制限も限界もない軍事力、正当性が認められた力である。」（ボルチモアでの演説、1918年4月6日）／／　一度ならず、ウィルソン大統領は「平和が確立され、世界の問題が法と正義の持続的な基礎の上に確立されるのは勝利によってのみである」と繰り返した。／／市民連盟）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:Berger-Levrault, Nancy-Paris",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:53:37+00:00"
+    },
+    "o:id": 27607,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30036",
+            "o:id": 30036
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T02:17:59+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "勝利によって∽639",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/27607/1332747965636.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/27607/1332747965636.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/27607/1332747965636.jpg"
+    }
+}

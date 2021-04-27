@@ -1,0 +1,2712 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/collection/sn",
+    "@type": "sc:Collection",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "新聞之日本",
+    "manifests": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/418f47a2-f129-4619-8935-56f497511d80/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a0163fb6-0100-4b9d-bcd3-64d124efd107/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2837号 (1929-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea5af3b1-5294-47db-8983-0444367f6bd0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2838号 (1929-10-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1f46eaf-cf4d-43a2-baef-fc8d548bf592/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2839号 (1929-10-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a52e91a-7b14-4013-b39f-fdfc4c38f3fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2840号 (1929-10-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7efca96-67d7-40bc-8ebe-c9762399398d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2841号 (1929-10-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1796099c-8965-41ae-8d93-a39e1f0bba75/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2842号 (1929-10-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b2052917-c83b-4927-b2fb-f2459e6b1f72/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2843号 (1929-10-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f4f62ab8-c0db-40e6-b623-9af2815b06d9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2844号 (1929-10-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ec919d5-a9d2-4b05-9e63-ecdcd2c2165e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2845号 (1929-10-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d27fdda3-ff03-488a-a06b-a6360efe9eb7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2846号 (1929-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/82b0c7f9-d3e0-47f2-951f-fc6ca2a9859e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2847号 (1929-10-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54851feb-de76-45eb-a53c-93b31abfafc7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2848号 (1929-10-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/826970f1-6825-42f6-811a-098d30517b5b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2849号 (1929-10-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/074e1b1f-2ebd-4f0a-9536-71b6475ac4f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2850号 (1929-10-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/74053cbb-a0e9-4cb2-b64e-e181546e2033/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2851号 (1929-10-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d401e759-e014-4b62-8819-5cc5536cd6af/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2852号 (1929-10-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/232582bc-3013-4fb2-942d-00eac49022b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2853号 (1929-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee5877e4-b067-43aa-a434-7334e71ed372/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2854号 (1929-10-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e4b7c955-a5fb-49ed-a3be-39e6dc07c12a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2855号 (1929-10-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/46d21cc3-cff8-46f0-90d3-1b3b70d9fec4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2856号 (1929-10-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc940864-d69c-41d3-a48c-792b2c6a1dd9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2857号 (1929-10-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bdc84d2a-405c-4bc1-9827-d8ac580d8a3c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2858号 (1929-10-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eb8fff39-650c-47dd-9d4f-488448fa6157/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2859号 (1929-10-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a7ee99cf-55ea-440e-8757-7ae0185b514b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2860号 (1929-10-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34aca5fb-61d6-4fd1-a671-3a5071ab5d71/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2861号 (1929-10-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f00a0163-c2e9-4bdb-9034-cb330bd18bd1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2862号 (1929-10-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/95200a26-20cd-4718-a6e5-607311a00314/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2863号 (1929-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/73000776-3a76-4860-a71f-fe35f3f9313d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2864号 (1929-11-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea671f8b-21a5-43f7-9a32-350d3512ebf0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2865号 (1929-11-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/762640dd-a035-4aa8-a54e-ae688a592483/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2866号 (1929-11-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fc8050f7-9277-4184-b994-bb4267e06512/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2867号 (1929-11-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/132e3fe1-06cd-41d1-9cf5-d45fa85cc459/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2868号 (1929-11-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4e30e01d-b89e-4841-9220-15b8a83c0a58/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2869号 (1929-11-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c690890-6340-4b1e-9e8c-0ecdce5a39e0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2870号 (1929-11-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3045f51-7979-459a-acd4-c695572be13e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2871号 (1929-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aea8808e-d361-4681-88e9-32461a719da6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2872号 (1929-11-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/27cecde8-8d4f-4535-a95d-54b856198d14/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2873号 (1929-11-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6efc7e77-eb90-4bd7-b5f1-e5fef44776ac/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2874号 (1929-11-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/201f2744-41da-4e13-8cc1-2b21b8aa4cc0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2875号 (1929-11-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/492c6ae8-8885-4eb0-9179-759304590c78/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2876号 (1929-11-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ee81700e-6b56-403b-8d22-5d05bda9db5b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2876号 (1929-11-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b5d9b87-be91-4c4c-8e88-b104360bcb2c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2876号 (1929-11-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8fec8b1e-793f-43bb-8cc1-2255f36c7f7c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2877号 (1929-11-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0311d5f1-5dc3-4a3a-8f1f-f955dbfa8261/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2878号 (1929-11-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7181644c-02d4-49c8-b11e-a0b5baa5d13f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2879号 (1929-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/82d0a530-1ae9-4cc8-b587-823039fb74c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2880号 (1929-11-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8c163d0e-5df2-4826-bdc9-1b2b8e09528b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2881号 (1929-11-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1da16fe6-459f-4624-8311-7d6906d109b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2882号 (1929-11-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c02a24da-7441-4dd2-940d-4aa7bf047982/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2883号 (1929-11-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c13b7726-5d19-43a9-baff-bd41aefbf349/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2884号 (1929-11-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d809ec70-7e61-4e9a-94b5-31ec90ad66ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2885号 (1929-11-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68bc2fa9-2ce8-4336-896a-52ed6174e588/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2886号 (1929-11-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a691d18-2da9-4848-abb2-abc2dd4621b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2887号 (1929-12-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/530b9bc4-0a37-49ae-ba18-89be3b4b9d4a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2888号 (1929-12-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/feb6c252-22df-44b1-a01b-99f1b5fadc9b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2889号 (1929-12-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d1199642-85fe-4498-b55e-2972134e2b56/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2890号 (1929-12-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93470f9b-0dd5-4c00-b72e-8966a0c1b047/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2891号 (1929-12-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e40e375d-72b8-47c7-aebc-3cbcba29e880/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2892号 (1929-12-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cd482fe0-16b5-4da6-9d36-cb9f6c5b5ac9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2893号 (1929-12-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f1a2c10c-8183-4cc1-9691-599eb56a75a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2894号 (1929-12-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08a1cb5e-08f0-4505-b373-11f5b820619d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2895号 (1929-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e85fc00b-546d-4b26-b540-0894c70ff601/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2896号 (1929-12-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b940bd1-58b7-4a55-a970-1427a8e244e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2897号 (1929-12-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cdb04a30-976f-482b-8833-e375c6cbb642/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2898号 (1929-12-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a46c31e2-6995-46f7-9065-73a06e312638/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2899号 (1929-12-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0fd98848-3045-4fd8-b92a-26299e7385ba/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2900号 (1929-12-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6031ff54-46f4-44bc-b960-07d68722eb29/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2901号 (1929-12-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3530f9a1-9c7c-477e-adcc-0785732dae4e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2902号 (1929-12-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/250a8b94-406f-4d71-ad25-e0d4f3bec983/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2903号 (1929-12-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eba31754-2d67-4f87-8a1f-68c648751fab/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2904号 (1929-12-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/83724443-fc44-4792-a6de-52efbb90b080/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2905号 (1929-12-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c6ff492c-915d-46f7-b64e-6b9ca757a8b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2906号 (1929-12-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6ba12ed5-a3d3-475b-9faf-34fb7979cdf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2907号 (1929-12-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8ccd543d-60c0-40b6-a986-c2c117e40499/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2908号 (1929-12-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/31a9b234-d1ae-4266-be2a-7862d4e0b7be/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2909号 (1929-12-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10ebb2f6-a246-4648-843c-1cda7763c3eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2910号 (1929-12-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/286b7426-07ea-4651-af12-6b64186c8885/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2933号 (1930-02-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/da1d7ddb-251a-42e5-984a-ae5c77815356/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2911号 (1930-01-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/12891b5a-48fe-4793-85f5-38dc4da591a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2912号 (1930-01-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f041d52b-6e95-4305-a15a-7a2dd43f5e7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2913号 (1930-01-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e70fba4-376e-4916-9fe2-b18c8c8a7a80/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2914号 (1930-01-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea6df55f-dd4d-45cb-aaab-b39b07b4c2cb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2915号 (1930-01-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c875fbcb-1103-4411-9f78-9ff96d12a676/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2916号 (1930-01-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10ce6275-a9ce-404b-bdb6-239b90201923/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2917号 (1930-01-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b12f4390-4bfe-436b-90e8-0d23bddd367b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2918号 (1930-01-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d84ad723-ff24-4d1f-8002-60fd0ac65c60/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2919号 (1930-01-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f01a75f5-573c-4932-8a7c-10a4f982af29/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2920号 (1930-01-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3babe342-781a-4822-844d-73e0b5e358bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2921号 (1930-01-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d00d8d75-7489-4e7e-b977-5571196b41d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2922号 (1930-01-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/42b064f2-a30b-46f0-9dbd-025d2421c583/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2923号 (1930-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/85a29ecd-3606-4dd9-b5b9-1ce2b9ca83a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2924号 (1930-01-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/125c48ad-91fe-4e9f-bc0e-cb472ca84178/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2925号 (1930-01-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4cb112ac-5f6a-434d-a3d4-9f05bac261e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2926号 (1930-01-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/06113e67-09a3-40f1-87e1-2e626495e23b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2927号 (1930-01-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/da5d1dcc-c187-4ffa-bd94-808fc5d9cc99/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2928号 (1930-01-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5f54be4-3c12-43c2-a96d-0bc2ae5dcbe9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2929号 (1930-01-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9a878b3c-bd23-4477-bcf6-2fdd675f98f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2930号 (1930-01-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a80a6b7f-95bf-409c-95d6-e83da8c6ee3d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2931号 (1930-01-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22b51971-00d4-4799-a2ba-39dda938c897/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2932号 (1930-01-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f565a180-78d0-4f7d-b41c-17ac0d56d3bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2934号 (1930-02-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f1e02b0-87cc-4df4-96a0-a1555571c49a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2935号 (1930-02-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/776b3564-9e75-4b7c-a015-90a845fe94d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2936号 (1930-02-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59bb7338-0435-4ab6-a6e5-758e53934de8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2937号 (1930-02-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5118f9e6-8bcc-4b26-951f-edb0c8c7d782/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2938号 (1930-02-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fc19fd58-8ab9-4045-92b5-fc9ec6b25411/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2939号 (1930-02-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8176d05f-3a4d-4775-9af1-365a06f613a1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2940号 (1930-02-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c4b557bb-4465-44ff-b058-d836db95830d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2941号 (1930-02-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6d80d3f0-eefa-4d5c-839e-1dccf4398f8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2942号 (1930-02-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/94eaeeb1-0cd6-48ee-bd8c-5d93724eea77/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2943号 (1930-02-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3485d5a7-b9ae-4731-a37e-036c7b9a0ed2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2944号 (1930-02-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c66619d1-8a35-4f6c-a48b-990f0f6d71b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2945号 (1930-02-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/31481c79-3bc6-47e8-aaaa-cc6569e08a0a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2946号 (1930-02-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f389fd77-7fce-43b4-b1ab-ff11be24f653/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2947号 (1930-02-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d76d8b80-f40c-4479-9e34-8a61944d71a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2948号 (1930-02-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef0a62b0-c909-4240-87ce-e613d5ec9905/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2949号 (1930-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4737a240-4327-4c09-972d-49d853ac98aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2950号 (1930-02-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b8de1a8a-acf2-47c0-a97e-8346c6cc54b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2951号 (1930-02-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e452ffe8-d082-4987-9aba-92c390d28045/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2952号 (1930-02-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4b3aac57-99fb-403d-aa6b-248260eefd1e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2953号 (1930-02-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cf115556-a0e5-4732-b42d-6e19fe441487/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2954号 (1930-02-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/269a65f5-086e-4850-a2f3-d18c3ba9fbaa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2955号 (1930-02-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d4cff237-8fe5-4aff-bdd8-ba943ce923e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2956号 (1930-03-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e12b1199-609f-4327-9444-d3f22ec2e36a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2957号 (1930-03-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b3e85a1c-7fd1-41f8-a37d-69340061cb4d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2958号 (1930-03-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09ace3d3-9a5c-431e-be4b-02c006526521/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2959号 (1930-03-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/048f8be9-5367-4689-996d-cf017dea7558/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2960号 (1930-03-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/10fe6991-95be-410e-85a6-2593db997422/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2961号 (1930-03-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c1bbe998-05a3-4bba-baee-92bcadd1d079/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2962号 (1930-03-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd93832f-4c9e-4663-abbb-8c3bc4c00826/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2963号 (1930-03-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fec8ea9e-2855-4da1-aad3-241530a49d1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2964号 (1930-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a22b78d-3f80-4632-8758-bc5ac1dddaeb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2965号 (1930-03-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f5b0478-f6a1-4803-b907-f39cdf926c85/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2966号 (1930-03-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ea2d716b-63b0-45ca-abba-28d213a79c47/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2967号 (1930-03-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d23d78c1-86a3-4976-a1e3-705657744b84/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2968号 (1930-03-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fcece630-41d4-4985-b4e4-86176d5839ab/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2969号 (1930-03-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44d6f20d-9267-46c5-8131-ceba0804fb3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2970号 (1930-03-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5edec1c8-77c7-4053-ab53-e677a64c278e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2971号 (1930-03-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e6a1193e-ad32-4b62-a680-c691960a4ee7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2972号 (1930-03-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7ce9d60a-ed1b-4161-ba45-30c8dc51d1e3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2973号 (1930-03-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d20a953b-7466-4db5-bd5b-4e5a9854b969/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2974号 (1930-03-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/071c62a4-6aef-41ac-b0fe-3e7e3162f53c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2975号 (1930-03-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/45921d74-9c19-45ae-8f3f-353f009e2885/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2976号 (1930-03-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad9abbaf-044d-4315-ba0d-6aaa9011321b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2977号 (1930-03-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4bfc8a31-63e5-4054-92cf-b55ab6a049de/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2978号 (1930-03-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/25b660c4-9811-4f26-9efb-358723fa884c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2979号 (1930-03-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/588711cb-9a4d-4225-a267-583b3814f4c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2980号 (1930-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1092cb4b-5f42-4277-8a67-dec56f80f655/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2981号 (1930-04-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/23221ba9-78ab-4467-9945-048742861850/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2982号 (1930-04-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d7680b5-cdf3-43e8-b652-2f9430fa6a61/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2983号 (1930-04-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c4585696-3979-4705-ba6c-c6c9d8b78605/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2984号 (1930-04-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a12c38c9-50b8-46dc-ae35-bb0978a1c36f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2985号 (1930-04-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37c900c9-ca98-4ab6-85b6-edb52bfdb881/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2986号 (1930-04-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aee92018-98b5-40cd-b130-6bdba8de5cb1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2987号 (1930-04-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a4b8828-a7e8-47b5-b060-bd1736d93514/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2988号 (1930-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/174a82e9-1339-4049-a3be-8036404296fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2989号 (1930-04-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd2df26e-0bd1-4751-bef6-2f6b170ceefb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2990号 (1930-04-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c666e12-e359-4291-9c5d-fb46a2dbedf3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2991号 (1930-04-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6dc6b9c0-d5bf-4cc7-9200-adaf6d25a4f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2992号 (1930-04-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/afe011ef-b328-42dc-a46b-e71846b24dfa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2993号 (1930-04-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f0608bf-ee4b-419d-b780-0d3353e23802/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2994号 (1930-04-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d6b1f025-1a40-4cf6-9e23-7bbef755cd8d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2995号 (1930-04-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d117e8f-8000-4e85-853c-8ca0b8a38b95/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2996号 (1930-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/172d2568-3764-4ee5-a02b-c9e11618666a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2997号 (1930-04-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d880ef68-0ec9-4abd-af5a-89ec20cc60ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 2999号 (1930-04-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dc65686-aedd-42b7-a522-f1b307916164/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3000号 (1930-04-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/22c9c336-9903-4e83-a139-a33f28387bac/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3001号 (1930-04-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/45ee108d-2d65-4266-8c12-3ba035cb78b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3002号 (1930-04-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df09e644-50b9-4907-b962-52ac43481d42/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3003号 (1930-04-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/02a3a373-2bcb-4900-9b02-c075593b2919/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3004号 (1930-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84f276b2-c367-4f58-9428-90bf97ebafd2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3005号 (1930-05-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2feec8d1-38bd-4c1e-b610-4b22ebeab74b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3006号 (1930-05-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0e4d939a-1f5d-4097-99de-ea11eb7e7742/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3007号 (1930-05-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/30359efa-f033-497b-8e1e-015dfe035697/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3008号 (1930-05-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/adc205a1-a9a2-4de0-b64b-c92000f7f195/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3009号 (1930-05-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/07b9c331-d956-4953-976b-59c0cccdec1d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3010号 (1930-05-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/664aa37c-ea46-43fe-bf86-9d11e96a74ca/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3011号 (1930-05-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/92a89d77-2827-47d2-b1d5-50d3cf01b937/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3012号 (1930-05-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6996a195-e9b6-450f-bcf3-6913150feaf2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3013号 (1930-05-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/985820e3-46ed-4e5b-b502-71db1f9aeca3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3014号 (1930-05-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e7733b4a-6c0b-4486-85b9-1b9d33937a2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3015号 (1930-05-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8dc294f5-af47-4ed3-a742-97a374dea5e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3016号 (1930-05-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/acb65c18-11b4-4ca8-8c30-92e52cec7bbb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3017号 (1930-05-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cb592db4-0393-45b1-bf26-a4150d7156ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3018号 (1930-05-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec253b1e-dbbd-4f8b-9d1b-38b2bcf29de6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3019号 (1930-05-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/54168288-39fc-4641-b791-5e4a4164ec00/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3020号 (1930-05-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2c10f97-c711-4bba-ab6e-bd90856e0fa2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3021号 (1930-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de972d97-a22c-4326-9349-258aa3189936/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3022号 (1930-05-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09ff4e62-127b-45b3-9809-56b3983e766b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3023号 (1930-05-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a282011-68f9-4cb5-b687-d71ad9a323f4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3024号 (1930-05-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/20fa188b-a7e6-422b-a020-6c76cd736cf3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3025号 (1930-05-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/126f7954-3143-4fba-bf73-b48ca430d5e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3026号 (1930-05-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88d8cd2a-f035-41ee-aa3e-5e0f6f09d041/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3027号 (1930-05-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f1d5e952-49e3-48ad-b608-0361af4eb9b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3028号 (1930-05-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93cfe004-c2c1-481e-9a13-ab76034e0746/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3029号 (1930-05-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b663ed22-c5bd-4f57-92cc-aca72ac708fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3030号 (1930-05-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d8626f31-e381-4881-8dd4-cd9f47dd3a84/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3031号 (1930-06-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/839f715a-3f4c-495e-8bbe-26ef49930279/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3032号 (1930-06-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c7473459-a68c-4f46-8ef7-684ea2748cb7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3033号 (1930-06-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f5ba493-c412-4393-9f7a-2df919d91ee6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3034号 (1930-06-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0b5cb81-69fc-4258-a4ed-7d4499e96ede/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3035号 (1930-06-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c9e08b0-5965-4294-a785-24ae5f8172df/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3036号 (1930-06-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2930720a-099f-40fc-9e24-57911f64274d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3037号 (1930-06-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5ff90a56-c238-466a-9829-cf225edb2fa1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3038号 (1930-06-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9559ac22-a7b8-4e5a-8534-0ca2b3cf4954/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3039号 (1930-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6145b23b-d007-4f55-8c4c-5e2bc134a6aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3040号 (1930-06-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9b4c7f4d-dc27-4416-ba94-8088b7e2c7c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3041号 (1930-06-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/80bb331f-2f6d-44ae-a7bd-7c4f023b01a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3042号 (1930-06-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d5812c96-d59b-4154-a237-b10870a74b9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3043号 (1930-06-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/664468dd-8e00-44b9-b5a7-47361029620f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3044号 (1930-06-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ac7934d-4758-4719-a76d-d0d98e40c1be/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3045号 (1930-06-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2e08da2-5a72-42cd-b29b-69250a4e372e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3046号 (1930-06-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f8bae6d-3fb2-45b9-94dd-26e03dd886ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3047号 (1930-06-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a15b5b1-94cb-49e3-9295-0dfb4b73009e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3048号 (1930-06-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/29afd167-a027-4ebd-ab8f-35c817d10d4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3049号 (1930-06-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6e40dde6-f1f1-4e64-a034-569b2b9b21bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3050号 (1930-06-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/710b98b0-dded-4e0f-98d3-f43c70303e2b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3051号 (1930-06-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0b209416-6f11-429d-a136-7f4a261deb90/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3052号 (1930-06-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f64db14f-b17b-4d62-b1e3-ae5fda44a403/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3053号 (1930-06-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17948c78-b626-4cbb-a770-e0fe4bbf29a9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3054号 (1930-06-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/97d9ea84-3ab5-48c2-8514-eb55e997a256/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3053号 (1930-06-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9384395c-f70d-4e2a-974b-96ef7957ac22/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3055号 (1930-06-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11df42e1-c602-4981-92bf-15abd080ffaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3056号 (1930-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3bfc9c1b-5c4f-48af-a258-f5130e47b152/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3057号 (1930-07-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2483c531-19bb-43f7-8ca1-dad5ddd016b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3058号 (1930-07-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c49f0845-6f69-464a-8b48-139013ab76da/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3059号 (1930-07-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/faf3d986-bd4f-4161-97a8-3346c4aa70e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3060号 (1930-07-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8565d07e-bf15-4464-916c-9ced0b347f52/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3061号 (1930-07-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c658c039-46ef-4171-8a12-accd32dd767c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3062号 (1930-07-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66342db2-90da-484b-86b4-fcadf0e5c239/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3063号 (1930-07-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38479573-bca6-427a-82a8-326dc624adde/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3064号 (1930-07-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/73d1d68b-1fda-45ea-943c-a0c969ee09e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3065号 (1930-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ff44981a-6dc1-4ad7-86d8-ea207acdab56/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3066号 (1930-07-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1cffd404-aa0f-4f8b-9303-05c87eca3285/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3067号 (1930-07-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/868ab50a-6f32-4009-8a82-8837ca3d2755/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3068号 (1930-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a49fb53-df1a-466e-be5b-e89df8302307/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3069号 (1930-07-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/09f4eb1c-d3f8-496c-ac07-aa5fa34fe2b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3070号 (1930-07-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aadfbb21-8cdd-46ba-9dc6-03df9ffb9224/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3071号 (1930-07-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3bc4e99-3588-4fe8-8de0-7efdacf3cc1b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3072号 (1930-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d3122ab1-26ba-4c10-b5d1-c2f4fb9a09fb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3073号 (1930-07-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/915ebaad-764b-4b22-a82c-4a0378264ecb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3074号 (1930-07-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79547fe4-ce73-498a-9e65-3e44466b1a24/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3075号 (1930-07-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7c076127-b582-4495-b1e3-14a7b7f0e6a7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3076号 (1930-07-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/830c823b-06b3-4721-8069-5ad1ad2009c5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3077号 (1930-07-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d02eb6fa-2dc5-411f-8814-91c264c5d12b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3079号 (1930-07-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bc37dbec-e735-4d08-90ae-ed6d20cea4a8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3078号 (1930-07-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/deb4ee01-4496-45a8-9c6d-5365448093bb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3080号 (1930-07-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49a69bbe-91b0-4425-86ed-5294b7dd4aff/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3081号 (1930-07-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ae4dd5e1-ce20-4b83-8f7f-e35a2970f14d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3082号 (1930-08-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7735a04-08f5-4d0e-9f54-cd936ede7352/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3083号 (1930-08-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2a683df-e48f-42c3-b287-a3dbb27df305/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3084号 (1930-08-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5ecbf639-a234-4d26-aa85-d90d7876cf62/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3085号 (1930-08-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5196ec8c-e918-4071-927f-ecfe8c3d4115/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3086号 (1930-08-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17e750c6-6a88-4ff5-a878-f73be89685ed/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3087号 (1930-08-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ebbd1a70-7108-49ed-9ae8-4d9980466e7f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3088号 (1930-08-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4911a89-1b21-40dd-ad6c-4d44b375eb06/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3089号 (1930-08-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2a892f60-6857-49b2-80c9-d40f2c5b5ece/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3090号 (1930-08-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3966f5ae-732b-4c03-8429-657ce8025391/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3091号 (1930-08-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a18ca022-52ad-42be-83a6-e7fd615b4822/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3092号 (1930-08-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/603b818f-f46d-45d9-b1b0-69a25b82278d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3093号 (1930-08-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3f164fb3-7ced-4a4e-ae51-36837eef28ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3094号 (1930-08-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/46f915af-fc52-4733-9657-f885271ab3b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3095号 (1930-08-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/50087bff-3931-4f3c-a5b0-2cca526ef184/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3096号 (1930-08-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/310f38de-995b-47b1-af15-d570ab6797f5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3097号 (1930-08-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfa4a55a-c723-46a2-abb4-70fd4997afad/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3098号 (1930-08-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9f332471-cccd-4d3e-abb3-ea270248c1a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3099号 (1930-08-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8d04dde2-3faf-4b73-9a88-3e35ff4ad3b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3100号 (1930-08-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7744d8f2-cc78-4a5a-9153-f1b10d4a27cc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3101号 (1930-08-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/086129ee-f70b-4797-9dd8-cd38739b7df7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3102号 (1930-08-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8dbf980a-682d-4e61-a62c-11e089828af4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3103号 (1930-08-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7152e220-0f5c-4fba-b08b-6787787fb702/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3104号 (1930-08-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/307dc954-b537-4644-8e5d-4668d7862111/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3105号 (1930-08-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d8473ff1-fb34-4ce3-8468-0d8e20006d56/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3106号 (1930-08-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b9059852-3efd-46ad-a9fb-d2266293bf7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3107号 (1930-08-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f7d80ee-0d98-49fc-ab2d-f09c3854598c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3108号 (1930-09-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/184cd8bd-124b-4366-8a1e-a4cbd311f11a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3109号 (1930-09-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2e844d81-d84c-4d81-aed6-67811e01d511/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3110号 (1930-09-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7827fafd-4f8a-4d92-b2e4-63f7793db342/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3111号 (1930-09-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a56d5043-73b4-4c53-af52-85e978d7bab9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3112号 (1930-09-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bca91f74-7b44-4a18-a91b-59ea9765da53/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3113号 (1930-09-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/be1d2634-2193-4239-a8e3-7489a45c79fc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3114号 (1930-09-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f2d1917b-6240-4315-9dd3-28ff814f7361/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3115号 (1930-09-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1791701-5802-42ae-a02f-f7cfd9ab310c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3116号 (1930-09-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/af613748-22e5-4eed-a3fd-accab1f0bdb4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3117号 (1930-09-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/befb431f-bf64-443d-8ace-ed965fe166da/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3118号 (1930-09-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7184c673-3fee-4b2e-8490-b7ce496978c1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3119号 (1930-09-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/16a92c8e-310e-4e52-a6b8-ad5753c786f6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3120号 (1930-09-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3ee4c003-ab4b-4ab3-9516-5a0ea0f37c3a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3121号 (1930-09-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2c7ce5b-3e35-499c-858b-2af8d034a633/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3122号 (1930-09-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a2648c38-8b6d-4840-88e6-78e9da7aa44a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3123号 (1930-09-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1733aaf5-350c-4c3c-94d4-17a981bf1a7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3124号 (1930-09-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9fa34e5-53e5-48e7-a4a1-ce939d279dbd/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3125号 (1930-09-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb3a7b04-45eb-4a88-a97d-5fb2f68fc243/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3126号 (1930-09-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cbac9811-4b68-4be7-8919-e6c169d1a9b5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3127号 (1930-09-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f77706e-28cf-4baa-ae70-bce032085304/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3128号 (1930-09-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c3371196-18be-4de4-aa65-89ab31f8effc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3129号 (1930-09-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1ec22ed5-1649-4d10-858f-5c5c5216f2b9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3130号 (1930-09-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f24ef257-ac65-40ad-b22d-d5c71c63df60/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3131号 (1930-09-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/86fbf0fd-baee-4338-bc77-11fe502daf5f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3132号 (1930-09-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d25049a8-41a4-4a46-a22b-4ed6a846adb0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3133号 (1930-10-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cfad7c5b-face-492a-8593-53142dfffb4c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3134号 (1930-10-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e06cd257-1635-4088-ac1e-9536956e92a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3136号 (1930-10-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d03bd815-68d9-463a-89b5-55291648361c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3137号 (1930-10-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/32990b97-5f2f-42f5-8d59-a62a3f507300/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3138号 (1930-10-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d938ec37-9572-4ca4-b918-9b373e81f175/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3139号 (1930-10-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b4a0cbfc-5b6e-4264-9178-3c4e59cd8186/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3140号 (1930-10-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8b4079cf-250b-4827-8692-ea77963530ac/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3141号 (1930-10-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7745d83d-cab7-4485-9dc2-99be3634d1aa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3142号 (1930-10-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd29163f-a4fb-4db5-b802-d0ce8ecf6ac5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3143号 (1930-10-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/38504d73-8c9d-453b-86d4-1302014ef403/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3144号 (1930-10-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9254143f-8696-422e-af97-66ee8bcad1c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3145号 (1930-10-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3f49e690-6daa-455e-ada7-a5d3a569bcb3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3146号 (1930-10-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4bd68ae6-88cb-43b5-afa3-e0edbec1f8ae/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3147号 (1930-10-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a87a6ce2-d449-40a4-b6b9-b86b383e1ff6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3148号 (1930-10-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5350e0ce-33b0-4e35-828b-767e858bb617/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3149号 (1930-10-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1be4db97-dbea-44b1-85b1-7093282f4084/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3150号 (1930-10-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/17d18dba-397f-479f-b1e0-a1768f8651b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3151号 (1930-10-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e1ba0616-b401-4a0b-a476-747f8f3f0c92/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3152号 (1930-10-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1b52f776-7a14-43a9-8010-231a579b168c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3153号 (1930-10-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fe36ccda-ac0c-4bbb-846f-158b570311ad/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3154号 (1930-10-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5839e39-babc-49b8-a89a-77f7c1851b6e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3155号 (1930-10-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd712780-05fd-4a1b-83cd-05d11fea0af8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3156号 (1930-10-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5d2fd56-a14c-44e7-ba69-b43be25f012c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3157号 (1930-10-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e9709862-6faf-4c7c-92d3-a0550f8369c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3158号 (1930-10-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3e74d094-2fe1-46fd-b147-509d42ccf38a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3159号 (1930-10-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6353cf68-4a20-403c-bc04-375ffb38132b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3160号 (1930-11-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/236fa884-7433-47f7-b731-676d27db0681/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3161号 (1930-11-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68768935-bd46-4bac-aeeb-b9038f576f2e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3162号 (1930-11-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ef1af904-baab-479c-b067-bb67ab1b1a1e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3163号 (1930-11-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1fc7fa50-0053-4955-b364-9dc26cc3e5a9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3164号 (1930-11-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7ec10e9-c854-4ad5-afb7-a3abb12b7781/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3165号 (1930-11-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5f0b4c8f-63fe-4413-b8e5-84465cb90174/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3166号 (1930-11-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ad58a35c-1fd8-4fec-8126-732109cef9d0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3167号 (1930-11-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f4d1006a-258e-4c45-83fe-062a0c84bb38/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3168号 (1930-11-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9228d12d-6ae9-4265-8380-02bc43df97bc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3169号 (1930-11-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3fd9387d-21a2-4f58-9758-5063003d39eb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3170号 (1930-11-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d511dd72-db78-4f1b-942b-d6c50405be58/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3171号 (1930-11-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/187c41fb-5407-4118-bbbe-650b9eaf8dd4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3172号 (1930-11-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1c1df8e7-d4aa-4bb4-a9b4-9cc4e7e206b8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3173号 (1930-11-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79efdf6e-09ae-4b77-957c-d76c8ebf3c90/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3174号 (1930-11-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f7cd11e-d359-49fe-a86b-fb5241c634db/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3175号 (1930-11-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e905261b-8a5d-4ff4-88da-6d6fc68b9eb6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3176号 (1930-11-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/141bce00-569c-4905-88c8-6bc33c1b1a9f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3177号 (1930-11-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/118bf800-3bec-4d36-a1e8-a65f02681b2f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3178号 (1930-11-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b9142cc0-33d5-4509-aa50-f13b2b2354e4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3180号 (1930-11-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c266795-38ae-425a-9fec-6d32878acee5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3181号 (1930-11-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8bd85e28-1ba4-4fd0-b80e-5db51d63f597/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3182号 (1930-11-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d13f911d-9040-45e7-bd50-98046487899e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3183号 (1930-11-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b1515d27-37f1-46ca-9088-a5ebf6390bf1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3185号 (1930-12-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/744eb2e7-e5fd-4498-a2bd-95b7970ba8d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3186号 (1930-12-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d0fdfcb-5b8b-4171-ac82-c5899abbc681/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3188号 (1930-12-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51d09706-7c99-46dc-974e-49c9c69ef757/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3187号 (1930-12-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5e949714-ab71-43e6-821f-6f1c03d038f7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3189号 (1930-12-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3ae92b2-8b4d-4d78-b651-7bd97d649aeb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3190号 (1930-12-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2ebde469-75a0-4734-8143-4c303aaae4f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3191号 (1930-12-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4063ab2c-b117-4e36-9b84-ffea0c714fd9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3192号 (1930-12-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37e0b14c-da80-4ec3-bfaa-cae08ec33043/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3193号 (1930-12-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3a55ae21-a552-40c5-9b61-55198758dc1b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3194号 (1930-12-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/19355940-5a4d-41db-ad0b-4c5c92624fb3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3195号 (1930-12-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/cbc94602-b5dd-4770-9aae-959484652896/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3196号 (1930-12-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4550ccea-5fee-4fd5-9091-34b6a750a39a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3197号 (1930-12-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/69d55697-f8ab-446e-bef9-4b5688a2c4b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3198号 (1930-12-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c29d5aac-b42a-4ea9-87f4-a4d4294b83bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3199号 (1930-12-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb033043-3d2f-4690-8aa3-d4f55317804c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3200号 (1930-12-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf6dcf04-d835-479b-96a9-1cfa819f658c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3201号 (1930-12-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4e1e6484-17f7-4963-9897-2b906c060f36/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3202号 (1930-12-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9098d1ce-a269-4e87-98d1-865caffcaa1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3203号 (1930-12-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0584618-dbbc-4e7e-9c90-ea45aaba691a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3204号 (1930-12-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44c9ac71-ecb7-4931-8483-158213853247/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3205号 (1930-12-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/68906524-e64b-47b9-a88e-b77e963e75ec/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3206号 (1930-12-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/871eeb3c-8fbc-40b0-a642-93a08401b8c0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3207号 (1930-12-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/258c8d12-7045-4a89-82fa-9449d58503b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3208号 (1931-01-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84867f6d-6ff2-4b5d-8713-2351015d7370/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3209号 (1931-01-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f7017c7-93bd-41c8-9454-fcff156c7b43/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3210号 (1931-01-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bfca531d-c1f8-4fe0-9eb4-d29f88955b22/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3211号 (1931-01-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f139a0a-b304-47dc-8093-3be30f95177a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3212号 (1931-01-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bbaf7474-60a0-4ef4-9086-da9bdc2ad7c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3213号 (1931-01-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/913b3c62-ed29-4b8a-8694-49a4a4c6dc70/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3214号 (1931-01-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/90254b59-a815-48ca-b26f-7082478e4593/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3215号 (1931-01-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d5346a0-2c6d-4dff-ae09-3b9b2f7f504c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3216号 (1931-01-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7a8981e8-9ef4-4b60-8949-7790ae229286/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3217号 (1931-01-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/908faf4e-4b55-427d-aecc-9be97d9336be/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3218号 (1931-01-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/48b88a40-ad67-4165-b4b3-31e56b59fe37/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3219号 (1931-01-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/844cb611-3245-4548-8f84-5750204ac081/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3220号 (1931-01-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d641f240-ec68-4608-ac73-8b9ad96e2a1a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3221号 (1931-01-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ba9bd870-f91c-470d-bf91-d6ccf78bc990/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3222号 (1931-01-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51e2ecb6-7216-430f-93f7-9af3810c2563/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3223号 (1931-01-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b41ab90-8122-479b-a2ab-b3652b85b247/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3224号 (1931-01-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72a0bdbd-73dc-4e53-9f11-141844fee81b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3225号 (1931-01-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6f4e6765-8b3b-4267-bb54-77e1fb9ef7fd/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3226号 (1931-01-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5ebff7ff-ba40-4d91-8636-63e31052dea5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3227号 (1931-01-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a72c2f25-97bc-4270-a388-822011c71941/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3228号 (1931-01-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aea4b2d1-94f8-4edb-94f0-e4b5d99440ea/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3229号 (1931-01-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3fbb6266-5ffa-4360-bde6-231444bd3e80/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3230号 (1931-02-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/79a32a8a-2e40-466d-9446-afaeff4f2aac/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3231号 (1931-02-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dc1e838d-20c7-499d-91bd-1d17f4991247/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3232号 (1931-02-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b62f711e-02ff-4c90-b2ae-3ce9505ae3a5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3233号 (1931-02-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c6c81ec-4fc5-4200-bcd4-02aa70d0ba44/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3234号 (1931-02-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d0ee1f55-2812-4eec-af07-b41f48ccc9f8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3235号 (1931-02-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e2e16bcc-7726-4021-b023-57dc0ffdd48c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3236号 (1931-02-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4a2731ce-7491-4634-b331-253e4fff96c3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3236号 (1931-02-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a92e031-8364-43fb-b1f3-bd4ae4ba20d4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3237号 (1931-02-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66477cd0-42c4-4ba9-8a4a-137802159ef0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3238号 (1931-02-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b966c02f-a7a2-4f8a-bede-8838439c4491/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3239号 (1931-02-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b7b461d8-2715-41d7-96b8-ce6cd89090ed/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3240号 (1931-02-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c4ff544-6774-4c55-8a59-9f097a2d206b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3241号 (1931-02-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1578b7c0-326a-4289-ac39-1164afaf7dc7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3242号 (1931-02-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a5e653de-4299-473d-aba4-07bd6d54feaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3243号 (1931-02-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b6810af8-55b7-42aa-aaf7-a16f0440a0d1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3244号 (1931-02-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/158be5b1-d04c-4627-a849-85c4047c920b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3245号 (1931-02-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d378a5a1-941f-4751-83f8-0df5eb0ae761/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3246号 (1931-02-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bdbb2b00-d73d-4b94-94fb-d173919b2c15/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3247号 (1931-02-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bd200d1e-7937-4fbb-8ee5-fd0c127231ef/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3248号 (1931-02-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c0f1e4c-9470-4568-b883-2c539fb1b018/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3249号 (1931-02-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8968dbcd-e6db-4c08-b02e-4ac7589953fa/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3250号 (1931-02-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2570068-1145-4827-a3c0-55dbd4f7ca8c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3251号 (1931-02-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca022846-b300-43cc-a123-c28ec4ec0fb6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3252号 (1931-02-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/aed543c0-2f31-494b-ba89-9358d389a534/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3253号 (1931-03-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8a8be30d-b754-40e5-a51e-efa3ec797178/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3254号 (1931-03-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7fe218ba-294d-424b-8a6c-aea846463c55/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3255号 (1931-03-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a69ed670-2b31-4fd4-bdef-d09d0fe3b368/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3256号 (1931-03-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b5cf6dd0-603c-41cc-a88a-81a884804086/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3257号 (1931-03-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/577a3816-3a1c-4f59-bae6-8d3e80481078/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3258号 (1931-03-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a5d6b03-a72c-4f6f-ab11-02cf785dfb03/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3259号 (1931-03-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49b6f3e0-66aa-4c2f-8105-6067149aec90/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3260号 (1931-03-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/088bb7f5-380b-45a9-85ad-699fb5256da9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3261号 (1931-03-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2c1c1e0f-18b3-4544-a67b-fdd4b9cb6a8e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3262号 (1931-03-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/8f5d152d-5d00-475a-9c33-2ae1e9942514/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3263号 (1931-03-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/34d7399c-af2a-48fd-b8cb-e6a370e1cf19/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3264号 (1931-03-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1f781ade-949f-46f9-9179-6be417aa37f2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3265号 (1931-03-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b92e3e15-1744-4871-8bc6-7cd23de7f35b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3266号 (1931-03-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/03b12037-00cc-4c49-a10d-7cc7402c53b2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3267号 (1931-03-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/788086a0-9516-43a3-9a86-9f0edb5f0538/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3268号 (1931-03-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e0b69dc0-bce9-4b48-b467-b3576f13a1d6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3269号 (1931-03-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/65571adc-723c-46af-b480-1fca385b0557/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3270号 (1931-03-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd92970a-e1c5-41f0-ac24-15495155b2e5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3271号 (1931-03-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/719bf977-579a-4ec6-b360-46651208eec7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3272号 (1931-03-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9eb8d14e-8cbc-482b-9c58-0143c2797287/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3273号 (1931-03-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/85135153-6408-4d21-b60d-845d30927286/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3274号 (1931-03-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4d2aebff-e5c6-499b-aa46-fd12fcbabc0a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3275号 (1931-03-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5220d8e0-9d02-42ab-a772-bc0916ca5abb/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3276号 (1931-03-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4c189e09-7e49-46b4-8042-f4065b0d4d1e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3277号 (1931-03-31)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/23fea97f-2c89-407c-b0ce-87e12e585061/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3278号 (1931-04-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e8bad6e-4283-4398-919b-2608d3f12f7e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3279号 (1931-04-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1e124f38-5aa0-463e-aeec-51d2bd4d22e1/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3280号 (1931-04-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd64627b-d164-477c-bff1-5dbf99daedee/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3281号 (1931-04-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3d3ff8f1-351e-4933-8529-36e231083dbe/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3282号 (1931-04-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b16c8c41-4569-4e46-a284-7521956cffae/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3283号 (1931-04-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f53af224-18a5-4c77-ba06-75b7894584fc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3284号 (1931-04-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eed45e8a-1c23-4d4e-803c-e3cd95c74bc9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3285号 (1931-04-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c1dd43c-8559-48b3-8da0-d3d0f34ce07b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3286号 (1931-04-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9c45b101-f44c-4023-b07a-dc2475a2ccf7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3287号 (1931-04-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/494c1cba-e3a1-4f65-8642-1e44da62bfea/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3288号 (1931-04-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/391f742e-b397-46cd-9ce8-1b178eea9465/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3289号 (1931-04-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11020fbb-ada9-4910-a20c-dd760193702a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3290号 (1931-04-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/419c60ea-6044-4d5c-9689-edf3389a5734/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3291号 (1931-04-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ff4718c7-3aa3-407c-9af7-f8216b353e8f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3292号 (1931-04-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2de5323a-96a3-46cb-9f83-68702f218c11/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3293号 (1931-04-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3272116d-96a7-4dbf-be61-5eff1f82d218/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3294号 (1931-04-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3797f3de-2b78-4957-9e0d-57461b10e6bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3295号 (1931-04-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72561992-1e3c-4646-b829-c00c1d917582/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3296号 (1931-04-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f9633297-d83e-484e-9eca-17949c8fc27b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3297号 (1931-04-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/84c1f2e0-44bc-4b0d-9eca-8cbcfd951252/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3298号 (1931-04-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d33519dc-0197-42f0-970f-3cff8c4c2436/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3299号 (1931-04-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dd7b0354-11c1-40fb-a11b-7a0e19418bcc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3300号 (1931-04-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a46bc91b-f19c-4da9-ab01-5e8e5a704f39/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3301号 (1931-04-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d78ed3a1-fe85-4e5a-843d-b996785eb2c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3302号 (1931-05-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/99127c08-3bdb-4881-a227-94f57edec2c9/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3303号 (1931-05-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/de74d902-0309-449d-8040-d0e68a5c670d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3304号 (1931-05-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0eec1e5e-d6be-4db8-88f8-4542493eb757/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3305号 (1931-05-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a20468b-d229-449f-bc55-9fc203b001dc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3306号 (1931-05-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/569bb15a-dae4-4dc2-b90b-9d8d51c1d9b0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3307号 (1931-05-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ca01482a-e596-44b1-963f-a63a296c6431/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3308号 (1931-05-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e5aff4ad-0a0f-4fc5-bde4-24df033ba1a2/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3309号 (1931-05-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9ed90cd9-3a3e-4d0e-aeff-f23b4cba4aaf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3310号 (1931-05-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/755673bf-8ec7-4770-8f8f-259a1183a18a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3311号 (1931-05-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9e60f0a6-26ef-4369-b923-ef22cf8b7d90/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3312号 (1931-05-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/befa6d18-7433-4bd9-a82e-1054c77d3601/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3313号 (1931-05-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/27e8b2be-bd1b-4bb6-9228-2e19f27c774c/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3314号 (1931-05-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c69b70d-3fab-4602-bac7-dcc3135ed974/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3315号 (1931-05-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/faf3ea79-e9ff-4c65-9d9f-3a512fd10130/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3316号 (1931-05-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b3ebc1-c243-4036-a379-b29047a2f9b3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3317号 (1931-05-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb1a2163-5b06-49ec-9914-6fc937a0a92b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3318号 (1931-05-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0c416e3b-e1f6-49b7-b7d3-5eb6b1c7c06e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3319号 (1931-05-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1a144181-0714-4243-840d-abf3d14b93d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3320号 (1931-05-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/81750be6-3b2f-4199-9233-b2be7d1b0181/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3321号 (1931-05-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f93542aa-355b-4060-bfac-2a6036a493b6/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3322号 (1931-05-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dccc4fa1-1731-4fbf-8398-bd94858d8cb5/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3323号 (1931-05-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/49cb40c4-ba3d-4385-b8e4-de1bac029215/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3324号 (1931-05-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/811fcc4e-3a29-4cad-8fa1-209d0b001907/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3325号 (1931-05-28)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/37516fbf-c8c9-4b29-bf70-8fb068b4dae0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3326号 (1931-05-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fb9debe5-9713-4e31-8b2e-8a856fd05702/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3327号 (1931-05-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a232897f-4d37-41ca-bf84-38fa16c65115/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3328号 (1931-06-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a01036-8ff4-4d63-b7f6-7b636e53eb7d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3329号 (1931-06-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/fd5eb47e-ff2a-4d73-bf97-d0a079deb201/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3330号 (1931-06-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9fcb11d2-40f0-4e22-9888-ee2772c0ed67/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3331号 (1931-06-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf66fe19-bb23-4899-9bc1-902e0533ffff/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3332号 (1931-06-05)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0649688a-8c14-43f6-9eeb-d18b01255577/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3333号 (1931-06-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/386be088-c66c-41fc-aa07-dea96fedc65a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3334号 (1931-06-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a29685ff-7d67-4570-b40a-81b35b76beb4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3335号 (1931-06-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5c337bac-4102-432b-b5ac-5f9693d2e5de/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3336号 (1931-06-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/11883500-e23c-4e69-a2fe-c2fbca2e1033/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3337号 (1931-06-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f26f697d-9b71-4673-88a7-308c1eeee7d8/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3338号 (1931-06-12)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7d4405fd-f705-41b2-8e37-51023beca4b4/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3339号 (1931-06-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/59d9631b-9b96-4452-834f-6760e79dcb6d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3340号 (1931-06-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/35dc101e-2b62-41dd-9f13-92642049482e/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3341号 (1931-06-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3c9919da-90f6-4a34-99a5-3d94eecfe21b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3342号 (1931-06-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15a79f3e-a823-4315-a4c9-bcd8b3adc09b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3343号 (1931-06-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/089cf32e-5849-48d8-ae4f-a44759db8b31/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3344号 (1931-06-19)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0a518b8a-655a-4968-9cae-edc11ae26a3b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3345号 (1931-06-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ec7295d3-cbd7-4cfa-8610-ec03f1f38ec7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3346号 (1931-06-22)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5447544d-cb5a-40b5-8c22-dc1e09abe265/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3347号 (1931-06-23)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/63fb7135-1c15-434b-9e98-b637f5dd05bf/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3348号 (1931-06-24)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/41f1400d-8ee5-4f39-b7ad-a95dd3008355/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3349号 (1931-06-25)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d754ab3c-3749-4764-b44f-106f487d599a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3350号 (1931-06-26)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/18251329-6326-4867-80f3-79e5165e1127/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3351号 (1931-06-27)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6cb122b6-18a4-4893-b064-b4d84717132a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3352号 (1931-06-29)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/86da28de-5193-4a76-8ffc-53cf75f6f8d3/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3353号 (1931-06-30)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5af771b1-54e1-4e3b-9fb1-5535d7d135e0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3354号 (1931-07-01)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0d86f867-ccc2-41ab-96b6-e56cfc54bf82/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3355号 (1931-07-02)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d9f517ec-151d-4e1d-9233-369c769b7ddd/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3356号 (1931-07-03)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6efd5293-95ec-465f-af1f-4cb425e41fcc/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3357号 (1931-07-04)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3d233f4b-8571-41d8-8f8f-725850056437/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3358号 (1931-07-06)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3653e735-2931-4ee1-bd91-787fb1e20495/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3359号 (1931-07-07)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0290c3fd-7556-45e1-875d-ec67b7b59e6b/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3360号 (1931-07-08)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0eb0d830-e1a8-478e-9e60-e33aac1753c7/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3361号 (1931-07-09)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3fc86792-f92b-44ef-9b2d-874e800f5ec0/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3362号 (1931-07-10)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/93da6d7e-570a-489b-b5d2-ffd45ac5d75f/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3363号 (1931-07-11)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1db96690-875d-4101-954b-a8ec0658d31d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3364号 (1931-07-13)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5a902f89-7b09-49c0-8e9e-f4b8f9d39e00/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3365号 (1931-07-14)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3203cddb-9e80-4985-8bad-a9aefb86d124/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3366号 (1931-07-15)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b17f98c-be8f-4d62-884e-105b7254c73a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3367号 (1931-07-16)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d2d1477a-148f-4022-b465-f83f34a2c93a/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3368号 (1931-07-17)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/0f5fc962-7f91-4b90-b495-8ed7799ac7ed/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3369号 (1931-07-18)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c9d64621-e8b2-4fcf-9327-54bf11e7a918/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3370号 (1931-07-20)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6dd66054-50fb-4bd9-9179-cb9ac3a101ef/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3371号 (1931-07-21)"
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/7e76bc29-c0bd-4830-aa21-915b470c615d/manifest",
+            "@type": "sc:Manifest",
+            "label": "新聞之日本 3372号 (1931-07-22)"
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "新聞之日本"
+        },
+        {
+            "label": "Identifier",
+            "value": "sn"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/mdb_6Nz2_M6W3/sn",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35013",
+        "format": "application/ld+json"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11007",
+    "@type": [
+        "o:Item",
+        "archiveshub:ArchivalResource"
+    ],
+    "archiveshub:level": [
+        {
+            "@value": "アイテム",
+            "is_public": true,
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "073",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1863",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9b243ea5-4acb-4697-aa35-95bffda59d6e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "火之用心・大阪今昔三度の大火 ∽073",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "火之用心・大阪今昔三度の大火 ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "文久",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-045": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-049": [
+        {
+            "@value": "東京大学大学院情報学環図書室",
+            "is_public": true,
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "新関",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "03報道・ニュース",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "大阪今昔（むかしよりいままで）三度の大火／心得之為／世に火ハおそろしきものとハ／しりなから足にてふみけす人／多し大に心得ちかいなり／火ハ陽にして木火土金水の／司なり火は実ニ有用の随一／にして勿体なきものなり／たゞ大切にして火ニ礼をいふ／心得にて始末をすれバかゝる／火災をまぬがるべし／よくよく人々の心を合せて／火を用ひ為ふべし火災ハ／ただ火を廉末にするもの／を天よりいましめ為ふなり／よくよく心得為ふべし／むかしより今年ニいたる迄／かゝる大火ハ三ケ度也ゆへに／今三ツを図して出すものなり／文久三癸亥年十一月二十一日夜五ツ時新町橋東詰北ニ入所より／出火いたし候所西風はげしく／して東へ一時に焼行夫より北西風ニ／なり巽へうつる又西南ニ風かわり／丑寅へやけゆく事はげしく夫より／上町へ飛火■て火勢ますますはげしく／せんば上町とも一事ニもへあがり誠に／大坂中火となるやう相見へ候まことに／老若男女のおどろき筆紙につくし／がたし終にハ大坂東のはしまて焼失仕候／見る人大坂市中のそうどふさつし為ふべし／同月二十三日昼四ツ時ニ火鎮り申候／町数　百五十二丁／家数　四千七百余／竈数　二万五千余／土蔵　三百二十余／神仏八十余　死人四十六人／　けが人数しれず／往古より大坂ニてハかゝる大火めづ／らしき事也依て後世咄しの種且ハ／火の元心得のためにもならんやと／一紙に図して諸人の見覧ニそなへ／たてまつる／天保八酉二月十九日朝五ツ時／天満より出火風はげしくして／所ゝへ飛火いたし上町御城辺まて／焼失北せんば長者町大家／処ゝ焼失夫より南え本町まで／やけ然るに火事場にて何物とも／しれず御やしき風俗ニて大坂市中／あれ廻り人ゝの昆雑いわんかたなき／次第■■ゆへ諸国在々へ逃候もの／実に蜘の子をちらすがごとく／にて日本国中ニ其節ハ此大火の／噂サはかりなり／実ニ希代の大火大そうどふ也／町数　百十二丁／家数　三千三百八十九軒／かまど　一万八千五百七十八軒／土蔵　四百十一ケ所／穴蔵　百三十ケ所／寺社　三十六ケ所／死人怪我人数しらず／享保九年辰三月二十一日之ひる／九ツ半時南堀江橋通り弐丁目／金屋妙智といふ人の宅より出火いたし／南風はげしく新町へやけ出終に北野迄／焼抜西ハあミた池迄東ハ木綿はし辺／にて火鎮り西横堀北へ焼新博労町／北がハへ火移り夫より北ハ船場のこらず／焼失又天満へ飛火川崎迄中島／堂島西天満東天満のこらず焼失／二十二日朝北東風ニなり上町へ飛火致／追ゝ北風はげしく上町一面ニ成それより／高津へ移り島内一円それより道頓ほり／芝居へ飛火いたし火先いくつニも相なり／難波新地長町不残焼失す／其節大坂四百八十余町之内四百三十町余／実ニ大坂初マツテの大火ニて親子兄弟／はなれはなれとなり五畿内ハ勿論丹波／丹後伊賀伊勢江州播磨淡州等へ／にけ誠ニ其なんぎいわんかたなし／家数　弐万八千余／かまと　九万八千七百余／土蔵　弐千八百余／死人　凡三万余人／けが人　十二万余／ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0073",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-06-08T06:49:38+00:00"
+    },
+    "o:id": 11007,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29426",
+            "o:id": 29426
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-11-20T01:30:06+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
+    },
+    "o:resource_template": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
+    },
+    "o:site": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "火之用心・大阪今昔三度の大火 ∽073",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/11007/1332321338909.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/11007/1332321338909.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/11007/1332321338909.jpg"
+    }
+}

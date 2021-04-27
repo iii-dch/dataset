@@ -1,0 +1,38 @@
+{
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/132",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 132,
+    "o:label": "フォンド記述",
+    "o:owner": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/4",
+                "o:id": 4
+            }
+        }
+    ],
+    "o:title_property": null
+}
